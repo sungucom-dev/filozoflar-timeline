@@ -1,0 +1,33 @@
+{
+  "subtitle": "Kısa bir tanımlayıcı cümle (opsiyonel)",
+  "intro": "Filozofun genel tanıtımı ve düşünce tarihindeki yeri. Birkaç paragraf olabilir.",
+  "sections": [
+    {
+      "title": "Bölüm Başlığı (örn: Ana Eserleri, Temel Kavramlar)",
+      "body": "Bu bölümün genel açıklama paragrafı (opsiyonel, boş bırakılabilir).",
+      "ordered": false,
+      "items": [
+        { "label": "Kavram ya da eser adı", "text": "Açıklama metni." },
+        { "label": "Kavram ya da eser adı", "text": "Açıklama metni." }
+      ]
+    },
+    {
+      "title": "İkinci Bölüm (opsiyonel)",
+      "body": "",
+      "ordered": false,
+      "items": [
+        { "label": "...", "text": "..." }
+      ]
+    }
+  ],
+  "strengths": [
+    { "title": "Güçlü Yön 1", "text": "Açıklama." },
+    { "title": "Güçlü Yön 2", "text": "Açıklama." },
+    { "title": "Güçlü Yön 3", "text": "Açıklama." }
+  ],
+  "weaknesses": [
+    { "title": "Zayıf Nokta 1", "text": "Açıklama." },
+    { "title": "Zayıf Nokta 2", "text": "Açıklama." },
+    { "title": "Zayıf Nokta 3", "text": "Açıklama." }
+  ]
+}

@@ -1,0 +1,1611 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Filozoflar Zaman Tüneli</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Lato:wght@300;400;700&family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f7f4ee;
+  --bg2: #ede9e0;
+  --surface: #ffffff;
+  --surface2: #f2efe7;
+  --border: #d6cfc0;
+  --border2: #c4bbab;
+  --gold: #8b6914;
+  --gold-light: #c9a84c;
+  --gold-pale: rgba(139,105,20,0.08);
+  --text: #1a1612;
+  --text2: #4a4035;
+  --text3: #7a6f60;
+  --text4: #b0a494;
+  --accent: #2c5282;
+  --red: #8b2e2e;
+  --green: #2e6b3e;
+  --shadow: rgba(80,60,20,0.12);
+  --timeline-h: 400px;
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Lato', sans-serif;
+  min-height: 100vh;
+}
+
+/* ── HEADER ── */
+header {
+  background: var(--surface);
+  border-bottom: 2px solid var(--border);
+  padding: 2rem 2rem 1.5rem;
+  text-align: center;
+  box-shadow: 0 2px 12px var(--shadow);
+}
+.header-ornament {
+  font-family: 'Cinzel', serif;
+  font-size: 0.6rem;
+  letter-spacing: 0.5em;
+  color: var(--text4);
+  text-transform: uppercase;
+  margin-bottom: 0.6rem;
+}
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: 0.02em;
+}
+h1 span { color: var(--gold); }
+.subtitle {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.9rem;
+  color: var(--text3);
+  margin-top: 0.4rem;
+  letter-spacing: 0.05em;
+}
+
+/* ── CONTROLS BAR ── */
+.controls-bar {
+  background: var(--surface2);
+  border-bottom: 1px solid var(--border);
+  padding: 0.8rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+.hint {
+  font-size: 0.75rem;
+  color: var(--text3);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.hint span { display: flex; align-items: center; gap: 0.3rem; }
+.hint svg { width: 14px; height: 14px; opacity: 0.6; }
+.zoom-info {
+  font-family: 'Cinzel', serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  color: var(--text3);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 0.3rem 0.8rem;
+}
+
+/* ── ERA FILTERS ── */
+.era-section {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 0.7rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  overflow-x: auto;
+}
+.era-label {
+  font-family: 'Cinzel', serif;
+  font-size: 0.6rem;
+  letter-spacing: 0.15em;
+  color: var(--text3);
+  text-transform: uppercase;
+  flex-shrink: 0;
+  margin-right: 0.3rem;
+}
+.era-btn {
+  background: transparent;
+  border: 1px solid var(--border2);
+  color: var(--text2);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 0.25rem 0.75rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  flex-shrink: 0;
+  border-radius: 2px;
+}
+.era-btn:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+  background: var(--gold-pale);
+}
+.era-btn.active {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: #fff;
+}
+
+/* ── TIMELINE ── */
+.timeline-outer {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  cursor: grab;
+  user-select: none;
+  background: var(--bg);
+}
+.timeline-outer:active { cursor: grabbing; }
+
+/* Fade edges */
+.fade-l, .fade-r {
+  position: absolute;
+  top: 0; height: 100%; width: 60px;
+  pointer-events: none; z-index: 20;
+}
+.fade-l { left: 0; background: linear-gradient(90deg, var(--bg) 0%, transparent 100%); }
+.fade-r { right: 0; background: linear-gradient(-90deg, var(--bg) 0%, transparent 100%); }
+
+.timeline-canvas {
+  position: relative;
+  height: var(--timeline-h);
+  min-width: 100%;
+  will-change: transform;
+}
+
+/* Axis */
+.axis-line {
+  position: absolute;
+  left: 0; right: 0;
+  top: calc(var(--timeline-h)/2);
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, var(--border2) 3%, var(--border2) 97%, transparent 100%);
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* ── TICK ── */
+.tick {
+  position: absolute;
+  top: 0;
+  height: var(--timeline-h);
+  pointer-events: none;
+  z-index: 1;
+}
+.tick-line {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 8px);
+  width: 1px;
+  height: 16px;
+  background: var(--border2);
+}
+.tick-label {
+  position: absolute;
+  left: 0;
+  top: calc(50% + 12px);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.55rem;
+  color: var(--text3);
+  letter-spacing: 0.05em;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+/* ── NODE ── */
+.node {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  z-index: 10;
+}
+.node:hover .dot-outer { transform: scale(1.5); }
+.node.active .dot-outer { transform: scale(1.8); }
+
+.dot-outer {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  transition: transform 0.2s;
+  position: relative;
+  z-index: 11;
+}
+.dot-outer.imp3 { width: 14px; height: 14px; }
+.dot-inner {
+  width: 60%; height: 60%;
+  border-radius: 50%;
+  background: #fff;
+  opacity: 0.7;
+}
+
+.node-label-wrap {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  pointer-events: none;
+  white-space: nowrap;
+}
+.node-label-wrap.above { bottom: calc(100% + 4px); }
+.node-label-wrap.below { top: calc(100% + 4px); }
+
+.node-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+  line-height: 1.2;
+  background: rgba(247,244,238,0.92);
+  padding: 1px 3px;
+}
+.node.active .node-name { color: var(--gold); }
+.node:hover .node-name { color: var(--accent); }
+
+.node-year-lbl {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.56rem;
+  color: var(--text3);
+  white-space: nowrap;
+  background: rgba(247,244,238,0.85);
+  padding: 0 3px;
+}
+
+/* ── SCROLL BAR ── */
+.scrollbar-wrap {
+  padding: 4px 2rem 2px;
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+}
+.scrollbar-track {
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  position: relative;
+  cursor: pointer;
+}
+.scrollbar-thumb {
+  height: 100%;
+  background: var(--gold-light);
+  border-radius: 2px;
+  position: absolute;
+  top: 0; left: 0;
+  min-width: 24px;
+  cursor: grab;
+}
+
+/* ── PANEL ── */
+.panel-wrap {
+  max-width: 900px;
+  margin: 1.5rem auto 3rem;
+  padding: 0 1.5rem;
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border2);
+  box-shadow: 0 4px 24px var(--shadow);
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(16px);
+  max-height: 0;
+  transition: opacity 0.4s ease, transform 0.4s ease, max-height 0.5s ease;
+  position: relative;
+}
+.panel.open {
+  opacity: 1;
+  transform: translateY(0);
+  max-height: 3000px;
+}
+
+.panel-top {
+  background: var(--surface2);
+  border-bottom: 1px solid var(--border);
+  padding: 1.5rem 2rem 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.panel-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.1;
+}
+.panel-subtitle {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--text3);
+  margin-top: 0.3rem;
+}
+.panel-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+.panel-era-tag {
+  font-family: 'Cinzel', serif;
+  font-size: 0.6rem;
+  letter-spacing: 0.15em;
+  color: var(--surface);
+  padding: 0.3rem 0.7rem;
+  text-transform: uppercase;
+}
+.wiki-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: transparent;
+  border: 1.5px solid var(--accent);
+  color: var(--accent);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 0.35rem 0.9rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s;
+  border-radius: 2px;
+}
+.wiki-btn:hover {
+  background: var(--accent);
+  color: #fff;
+}
+.wiki-btn svg { width: 13px; height: 13px; flex-shrink: 0; }
+
+.panel-close {
+  position: absolute;
+  top: 1rem; right: 1rem;
+  background: transparent;
+  border: none;
+  font-size: 1.3rem;
+  color: var(--text3);
+  cursor: pointer;
+  transition: color 0.2s;
+  line-height: 1;
+  z-index: 5;
+}
+.panel-close:hover { color: var(--red); }
+
+.panel-body {
+  padding: 1.8rem 2rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 1rem;
+  line-height: 1.9;
+  color: var(--text);
+}
+.panel-body p { margin-bottom: 1rem; }
+.panel-body h3 {
+  font-family: 'Cinzel', serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.2em;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin: 1.8rem 0 0.7rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+}
+.panel-body ul, .panel-body ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+.panel-body li { margin-bottom: 0.45rem; }
+.panel-body strong { color: var(--text); font-weight: 700; }
+.panel-body em { color: var(--text2); }
+.panel-body blockquote {
+  border-left: 3px solid var(--gold-light);
+  padding: 0.6rem 1.2rem;
+  margin: 1rem 0;
+  background: var(--gold-pale);
+  font-style: italic;
+  color: var(--text2);
+}
+
+.sw-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+@media(max-width: 600px) { .sw-grid { grid-template-columns: 1fr; } }
+
+.sw-box {
+  border: 1px solid var(--border);
+  padding: 1.2rem;
+  background: var(--bg);
+}
+.sw-box h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.sw-box.strength h4 { color: var(--green); border-color: rgba(46,107,62,0.3); }
+.sw-box.weakness h4 { color: var(--red); border-color: rgba(139,46,46,0.3); }
+
+.content-loading {
+  text-align:center;
+  padding: 2rem;
+  color: var(--text3);
+  font-style: italic;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+}
+.content-loading::after {
+  content: '';
+  display: inline-block;
+  width: 16px; height: 16px;
+  border: 2px solid var(--border2);
+  border-top-color: var(--gold);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.no-content {
+  text-align: center;
+  padding: 2.5rem;
+  color: var(--text3);
+  font-style: italic;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+}
+
+/* Legendary / mythical node special style */
+.node.legendary .dot-outer {
+  border: 2px dashed currentColor !important;
+  background: transparent !important;
+}
+.node.legendary .dot-inner {
+  background: currentColor;
+  opacity: 0.8;
+}
+.node.legendary .node-name {
+  font-style: italic;
+  opacity: 0.85;
+}
+
+/* ── Year-group hover: CSS-only fan, zero flicker ── */
+/* Non-solo groups: fan nodes to fanned position on wrapper hover */
+.yr-group:not(.solo):hover .yr-node {
+  transform: translate(-50%, calc(-50% + var(--fy))) !important;
+}
+.yr-group:not(.solo):hover .yr-node .connector-line {
+  height: var(--fh) !important;
+}
+.yr-group:not(.solo):hover .yr-node .node-label-wrap {
+  opacity: 1 !important;
+}
+/* Ensure wrapper itself doesn't block axis text */
+.yr-group { background: transparent; }
+
+/* Era color dots on timeline */
+.era-indicator {
+  position: absolute;
+  bottom: 8px;
+  left: 0; right: 0;
+  height: 3px;
+  pointer-events: none;
+  z-index: 1;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-ornament">∴ İnteraktif Kronoloji ∴</div>
+  <h1>Filozoflar <span>Zaman Tüneli</span></h1>
+  <p class="subtitle">Tarih öncesinden günümüze · 371 düşünür · Tıklayarak keşfet</p>
+</header>
+
+<div class="controls-bar">
+  <div class="hint">
+    <span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3v3a2 2 0 0 1-2 2H3"/><path d="M21 8h-3a2 2 0 0 1-2-2V3"/><path d="M3 16h3a2 2 0 0 1 2 2v3"/><path d="M16 21v-3a2 2 0 0 1 2-2h3"/></svg>
+      Tekerlek: Yakınlaştır
+    </span>
+    <span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      Sürükle: Kaydır
+    </span>
+    <span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      Tıkla: Detay
+    </span>
+  </div>
+  <div class="zoom-info" id="zoomInfo">Yakınlaştırma: 100%</div>
+</div>
+
+<div class="era-section">
+  <span class="era-label">Dönem:</span>
+  <div id="eraFilters"></div>
+</div>
+
+<div class="timeline-outer" id="tlOuter">
+  <div class="fade-l"></div>
+  <div class="fade-r"></div>
+  <div class="axis-line"></div>
+  <div class="timeline-canvas" id="tlCanvas"></div>
+</div>
+
+<div class="scrollbar-wrap">
+  <div class="scrollbar-track" id="sbTrack">
+    <div class="scrollbar-thumb" id="sbThumb"></div>
+  </div>
+</div>
+
+<div class="panel-wrap">
+  <div class="panel" id="detailPanel">
+    <button class="panel-close" onclick="closePanel()" title="Kapat">✕</button>
+    <div id="panelContent"></div>
+  </div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════
+// ERA COLOR MAP
+// ═══════════════════════════════════════════
+const ERA_COLORS = {
+  "Efsanevi":           "#6b4f9e",
+  "Antik Çağ Öncesi":   "#8b6914",
+  "Antik Yunan":        "#1a6fa5",
+  "Doğu Felsefesi":     "#8b3e8b",
+  "Roma":               "#8b3a1e",
+  "Erken Hristiyanlık": "#2e7a3e",
+  "Geç Antik":          "#3a6b7a",
+  "Ortaçağ":            "#6b5020",
+  "İslam Felsefesi":    "#1e6b52",
+  "Rönesans":           "#7a5e1e",
+  "Erken Modern":       "#4a3a8b",
+  "Aydınlanma":         "#1e4a7a",
+  "Alman İdealizmi":    "#6b1e6b",
+  "19. Yüzyıl":         "#3a6b2e",
+  "20. Yüzyıl":         "#1e6b6b",
+  "Çağdaş":             "#3a3a8b",
+};
+
+// Wikipedia Turkish URLs
+const WIKI_URLS = {
+  1:   "https://tr.wikipedia.org/wiki/Hermes_Trismegistus",
+  2:   "https://tr.wikipedia.org/wiki/Zerd%C3%BC%C5%9Ft",
+  3:   "https://tr.wikipedia.org/wiki/Homeros",
+  4:   "https://tr.wikipedia.org/wiki/Thales",
+  5:   "https://tr.wikipedia.org/wiki/Yedi_Bilgeler",
+  6:   "https://tr.wikipedia.org/wiki/Anaksimandros",
+  7:   "https://tr.wikipedia.org/wiki/Mahavira",
+  8:   "https://tr.wikipedia.org/wiki/Anaksimenes",
+  9:   "https://tr.wikipedia.org/wiki/Ksenofanes",
+  10:  "https://tr.wikipedia.org/wiki/Pisagor",
+  11:  "https://tr.wikipedia.org/wiki/Siddhartha_Gautama",
+  12:  "https://tr.wikipedia.org/wiki/Konfüçyüs",
+  13:  "https://tr.wikipedia.org/wiki/Ferekides",
+  16:  "https://tr.wikipedia.org/wiki/Laozi",
+  17:  "https://tr.wikipedia.org/wiki/Herakleitos",
+  18:  "https://tr.wikipedia.org/wiki/Parmenides",
+  19:  "https://tr.wikipedia.org/wiki/Anaksagoras",
+  20:  "https://tr.wikipedia.org/wiki/Elea'lı_Zenon",
+  21:  "https://tr.wikipedia.org/wiki/Empedokles",
+  22:  "https://tr.wikipedia.org/wiki/Protagoras",
+  23:  "https://tr.wikipedia.org/wiki/Gorgias",
+  24:  "https://tr.wikipedia.org/wiki/Mozi",
+  26:  "https://tr.wikipedia.org/wiki/Sokrates",
+  28:  "https://tr.wikipedia.org/wiki/Demokritos",
+  39:  "https://tr.wikipedia.org/wiki/Platon",
+  40:  "https://tr.wikipedia.org/wiki/Sinoplu_Diyojen",
+  41:  "https://tr.wikipedia.org/wiki/Aristoteles",
+  42:  "https://tr.wikipedia.org/wiki/Mencius",
+  43:  "https://tr.wikipedia.org/wiki/Zhuangzi",
+  48:  "https://tr.wikipedia.org/wiki/Epikuros",
+  49:  "https://tr.wikipedia.org/wiki/Kıbrıslı_Zenon",
+  52:  "https://tr.wikipedia.org/wiki/Han_Fei",
+  57:  "https://tr.wikipedia.org/wiki/Cicero",
+  58:  "https://tr.wikipedia.org/wiki/Lucretius",
+  60:  "https://tr.wikipedia.org/wiki/Philo",
+  61:  "https://tr.wikipedia.org/wiki/Seneca",
+  63:  "https://tr.wikipedia.org/wiki/Epiktetos",
+  64:  "https://tr.wikipedia.org/wiki/Marcus_Aurelius",
+  65:  "https://tr.wikipedia.org/wiki/Nagarjuna",
+  69:  "https://tr.wikipedia.org/wiki/Plotinus",
+  72:  "https://tr.wikipedia.org/wiki/Hypatia",
+  73:  "https://tr.wikipedia.org/wiki/Augustinus",
+  78:  "https://tr.wikipedia.org/wiki/Boethius",
+  84:  "https://tr.wikipedia.org/wiki/Ebu_Hanife",
+  88:  "https://tr.wikipedia.org/wiki/El-Kindi",
+  93:  "https://tr.wikipedia.org/wiki/Farabi",
+  100: "https://tr.wikipedia.org/wiki/İbn_Sina",
+  104: "https://tr.wikipedia.org/wiki/Gazali",
+  106: "https://tr.wikipedia.org/wiki/Pierre_Abelard",
+  108: "https://tr.wikipedia.org/wiki/Hildegard_von_Bingen",
+  111: "https://tr.wikipedia.org/wiki/İbn_Rüşd",
+  112: "https://tr.wikipedia.org/wiki/Maimonides",
+  114: "https://tr.wikipedia.org/wiki/Şihabüddin_Sühreverdi",
+  115: "https://tr.wikipedia.org/wiki/İbn_Arabi",
+  119: "https://tr.wikipedia.org/wiki/Mevlana",
+  123: "https://tr.wikipedia.org/wiki/Thomas_Aquinas",
+  124: "https://tr.wikipedia.org/wiki/Yunus_Emre",
+  126: "https://tr.wikipedia.org/wiki/Meister_Eckhart",
+  130: "https://tr.wikipedia.org/wiki/William_of_Ockham",
+  133: "https://tr.wikipedia.org/wiki/Petrarch",
+  135: "https://tr.wikipedia.org/wiki/İbn_Haldun",
+  139: "https://tr.wikipedia.org/wiki/Nikolaus_von_Kues",
+  142: "https://tr.wikipedia.org/wiki/Marsilio_Ficino",
+  143: "https://tr.wikipedia.org/wiki/Giovanni_Pico_della_Mirandola",
+  144: "https://tr.wikipedia.org/wiki/Erasmus",
+  145: "https://tr.wikipedia.org/wiki/Niccolò_Machiavelli",
+  147: "https://tr.wikipedia.org/wiki/Thomas_More",
+  149: "https://tr.wikipedia.org/wiki/Martin_Luther",
+  154: "https://tr.wikipedia.org/wiki/Michel_de_Montaigne",
+  156: "https://tr.wikipedia.org/wiki/Giordano_Bruno",
+  157: "https://tr.wikipedia.org/wiki/Francis_Bacon",
+  158: "https://tr.wikipedia.org/wiki/Galileo_Galilei",
+  160: "https://tr.wikipedia.org/wiki/Molla_Sadra",
+  163: "https://tr.wikipedia.org/wiki/Thomas_Hobbes",
+  166: "https://tr.wikipedia.org/wiki/René_Descartes",
+  169: "https://tr.wikipedia.org/wiki/Blaise_Pascal",
+  171: "https://tr.wikipedia.org/wiki/Baruch_Spinoza",
+  172: "https://tr.wikipedia.org/wiki/John_Locke",
+  176: "https://tr.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+  182: "https://tr.wikipedia.org/wiki/George_Berkeley",
+  183: "https://tr.wikipedia.org/wiki/Montesquieu",
+  186: "https://tr.wikipedia.org/wiki/Voltaire",
+  187: "https://tr.wikipedia.org/wiki/Émilie_du_Châtelet",
+  191: "https://tr.wikipedia.org/wiki/David_Hume",
+  192: "https://tr.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+  193: "https://tr.wikipedia.org/wiki/Denis_Diderot",
+  197: "https://tr.wikipedia.org/wiki/Adam_Smith",
+  199: "https://tr.wikipedia.org/wiki/Immanuel_Kant",
+  204: "https://tr.wikipedia.org/wiki/Thomas_Paine",
+  208: "https://tr.wikipedia.org/wiki/Jeremy_Bentham",
+  211: "https://tr.wikipedia.org/wiki/Mary_Wollstonecraft",
+  213: "https://tr.wikipedia.org/wiki/Johann_Gottlieb_Fichte",
+  216: "https://tr.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+  219: "https://tr.wikipedia.org/wiki/Friedrich_Schelling",
+  220: "https://tr.wikipedia.org/wiki/Arthur_Schopenhauer",
+  221: "https://tr.wikipedia.org/wiki/Auguste_Comte",
+  226: "https://tr.wikipedia.org/wiki/John_Stuart_Mill",
+  231: "https://tr.wikipedia.org/wiki/Søren_Kierkegaard",
+  234: "https://tr.wikipedia.org/wiki/Karl_Marx",
+  243: "https://tr.wikipedia.org/wiki/Charles_Sanders_Peirce",
+  244: "https://tr.wikipedia.org/wiki/Namık_Kemal",
+  246: "https://tr.wikipedia.org/wiki/William_James",
+  248: "https://tr.wikipedia.org/wiki/Friedrich_Nietzsche",
+  253: "https://tr.wikipedia.org/wiki/Sigmund_Freud",
+  257: "https://tr.wikipedia.org/wiki/Edmund_Husserl",
+  258: "https://tr.wikipedia.org/wiki/Henri_Bergson",
+  259: "https://tr.wikipedia.org/wiki/John_Dewey",
+  262: "https://tr.wikipedia.org/wiki/Rabindranath_Tagore",
+  265: "https://tr.wikipedia.org/wiki/Bertrand_Russell",
+  269: "https://tr.wikipedia.org/wiki/Carl_Gustav_Jung",
+  270: "https://tr.wikipedia.org/wiki/Muhammed_İkbal",
+  277: "https://tr.wikipedia.org/wiki/Ludwig_Wittgenstein",
+  278: "https://tr.wikipedia.org/wiki/Martin_Heidegger",
+  279: "https://tr.wikipedia.org/wiki/Antonio_Gramsci",
+  281: "https://tr.wikipedia.org/wiki/Walter_Benjamin",
+  285: "https://tr.wikipedia.org/wiki/Hans-Georg_Gadamer",
+  286: "https://tr.wikipedia.org/wiki/Jacques_Lacan",
+  288: "https://tr.wikipedia.org/wiki/Karl_Popper",
+  289: "https://tr.wikipedia.org/wiki/Theodor_Adorno",
+  291: "https://tr.wikipedia.org/wiki/Jean-Paul_Sartre",
+  293: "https://tr.wikipedia.org/wiki/Hannah_Arendt",
+  294: "https://tr.wikipedia.org/wiki/Kurt_Gödel",
+  298: "https://tr.wikipedia.org/wiki/Simone_de_Beauvoir",
+  300: "https://tr.wikipedia.org/wiki/Simone_Weil",
+  302: "https://tr.wikipedia.org/wiki/Marshall_McLuhan",
+  303: "https://tr.wikipedia.org/wiki/Albert_Camus",
+  305: "https://tr.wikipedia.org/wiki/Roland_Barthes",
+  312: "https://tr.wikipedia.org/wiki/John_Rawls",
+  314: "https://tr.wikipedia.org/wiki/Thomas_Kuhn",
+  317: "https://tr.wikipedia.org/wiki/Frantz_Fanon",
+  318: "https://tr.wikipedia.org/wiki/Gilles_Deleuze",
+  321: "https://tr.wikipedia.org/wiki/Michel_Foucault",
+  322: "https://tr.wikipedia.org/wiki/Noam_Chomsky",
+  325: "https://tr.wikipedia.org/wiki/Jürgen_Habermas",
+  327: "https://tr.wikipedia.org/wiki/Jacques_Derrida",
+  328: "https://tr.wikipedia.org/wiki/Pierre_Bourdieu",
+  330: "https://tr.wikipedia.org/wiki/Edward_Said",
+  343: "https://tr.wikipedia.org/wiki/Slavoj_Žižek",
+  349: "https://tr.wikipedia.org/wiki/Judith_Butler",
+  350: "https://tr.wikipedia.org/wiki/Byung-Chul_Han",
+};
+
+// ═══════════════════════════════════════════
+// PHILOSOPHER DATA (full list, sorted by year)
+// ═══════════════════════════════════════════
+const PHILOSOPHERS = [
+  {id:1,name:"Hermes Trismegistus",year:-1100,displayYear:"Efsanevi / Tarih Öncesi",era:"Efsanevi",imp:3,
+   subtitle:"Üç Kez Ulu Hermes"
+  },
+  {id:2,name:"Zerdüşt (Zarathustra)",year:-1000,displayYear:"M.Ö. 1000-600 arası",era:"Antik Çağ Öncesi",imp:3},
+  {id:3,name:"Homer ve Hesiodos",year:-750,displayYear:"M.Ö. 8. yy",era:"Antik Yunan",imp:2},
+  {id:4,name:"Thales",year:-624,displayYear:"M.Ö. 624–546",era:"Antik Yunan",imp:3},
+  {id:5,name:"Yedi Bilgeler",year:-620,displayYear:"M.Ö. 620–550",era:"Antik Yunan",imp:2},
+  {id:6,name:"Anaximander",year:-610,displayYear:"M.Ö. 610–546",era:"Antik Yunan",imp:2},
+  {id:7,name:"Mahavira",year:-599,displayYear:"M.Ö. 599–527",era:"Doğu Felsefesi",imp:3},
+  {id:8,name:"Anaximenes",year:-585,displayYear:"M.Ö. 585–528",era:"Antik Yunan",imp:2},
+  {id:9,name:"Ksenofanes",year:-570,displayYear:"M.Ö. 570–475",era:"Antik Yunan",imp:2},
+  {id:10,name:"Pisagor (Pythagoras)",year:-570,displayYear:"M.Ö. 570–495",era:"Antik Yunan",imp:3},
+  {id:11,name:"Siddhartha Gautama (Buda)",year:-563,displayYear:"M.Ö. 563–483",era:"Doğu Felsefesi",imp:3},
+  {id:12,name:"Konfüçyüs",year:-551,displayYear:"M.Ö. 551–479",era:"Doğu Felsefesi",imp:3},
+  {id:13,name:"Siroslu Pherecydes",year:-550,displayYear:"M.Ö. 6. yy",era:"Antik Yunan",imp:1},
+  {id:14,name:"Theano",year:-549,displayYear:"M.Ö. 6. yy",era:"Antik Yunan",imp:2},
+  {id:15,name:"Ajita Kesakambali",year:-548,displayYear:"M.Ö. 6. yy",era:"Doğu Felsefesi",imp:1},
+  {id:16,name:"Laozi",year:-547,displayYear:"M.Ö. 6. yy",era:"Doğu Felsefesi",imp:3},
+  {id:17,name:"Herakleitos",year:-535,displayYear:"M.Ö. 535–475",era:"Antik Yunan",imp:3},
+  {id:18,name:"Parmenides",year:-515,displayYear:"M.Ö. 515–450",era:"Antik Yunan",imp:3},
+  {id:19,name:"Anaksagoras",year:-500,displayYear:"M.Ö. 500–428",era:"Antik Yunan",imp:2},
+  {id:20,name:"Elealı Zenon",year:-490,displayYear:"M.Ö. 490–430",era:"Antik Yunan",imp:2},
+  {id:21,name:"Empedokles",year:-490,displayYear:"M.Ö. 490–430",era:"Antik Yunan",imp:2},
+  {id:22,name:"Protagoras",year:-490,displayYear:"M.Ö. 490–420",era:"Antik Yunan",imp:2},
+  {id:23,name:"Gorgias",year:-483,displayYear:"M.Ö. 483–375",era:"Antik Yunan",imp:2},
+  {id:24,name:"Mozi",year:-470,displayYear:"M.Ö. 470–391",era:"Doğu Felsefesi",imp:2},
+  {id:25,name:"Philolaus",year:-470,displayYear:"M.Ö. 470–385",era:"Antik Yunan",imp:1},
+  {id:26,name:"Sokrates",year:-469,displayYear:"M.Ö. 469–399",era:"Antik Yunan",imp:3},
+  {id:27,name:"Prodicus",year:-465,displayYear:"M.Ö. 465–395",era:"Antik Yunan",imp:1},
+  {id:28,name:"Demokritos",year:-460,displayYear:"M.Ö. 460–370",era:"Antik Yunan",imp:3},
+  {id:29,name:"Hippias",year:-460,displayYear:"M.Ö. 460–390",era:"Antik Yunan",imp:1},
+  {id:30,name:"Krotonlu Alcmaeon",year:-450,displayYear:"M.Ö. 5. yy",era:"Antik Yunan",imp:1},
+  {id:31,name:"Metapontumlu Hippasus",year:-449,displayYear:"M.Ö. 5. yy",era:"Antik Yunan",imp:1},
+  {id:32,name:"Leucippus",year:-448,displayYear:"M.Ö. 5. yy",era:"Antik Yunan",imp:1},
+  {id:33,name:"Samoslu Melissus",year:-447,displayYear:"M.Ö. 5. yy",era:"Antik Yunan",imp:1},
+  {id:34,name:"Diogenes of Apollonia",year:-446,displayYear:"M.Ö. 5. yy",era:"Antik Yunan",imp:1},
+  {id:35,name:"Antisthenes",year:-445,displayYear:"M.Ö. 445–365",era:"Antik Yunan",imp:2},
+  {id:36,name:"Aristippos",year:-435,displayYear:"M.Ö. 435–356",era:"Antik Yunan",imp:2},
+  {id:37,name:"Megaralı Eucleides",year:-435,displayYear:"M.Ö. 435–365",era:"Antik Yunan",imp:1},
+  {id:38,name:"Tarentumlu Archytas",year:-428,displayYear:"M.Ö. 428–347",era:"Antik Yunan",imp:1},
+  {id:39,name:"Platon (Eflatun)",year:-427,displayYear:"M.Ö. 427–347",era:"Antik Yunan",imp:3},
+  {id:40,name:"Sinoplu Diyojen",year:-412,displayYear:"M.Ö. 412–323",era:"Antik Yunan",imp:3},
+  {id:41,name:"Aristoteles",year:-384,displayYear:"M.Ö. 384–322",era:"Antik Yunan",imp:3},
+  {id:42,name:"Mencius",year:-372,displayYear:"M.Ö. 372–289",era:"Doğu Felsefesi",imp:2},
+  {id:43,name:"Zhuangzi",year:-369,displayYear:"M.Ö. 369–286",era:"Doğu Felsefesi",imp:3},
+  {id:44,name:"Pyrrho",year:-360,displayYear:"M.Ö. 360–270",era:"Antik Yunan",imp:2},
+  {id:45,name:"Elisli Phaedo",year:-350,displayYear:"M.Ö. 4. yy",era:"Antik Yunan",imp:1},
+  {id:46,name:"Yang Zhu",year:-349,displayYear:"M.Ö. 4. yy",era:"Doğu Felsefesi",imp:1},
+  {id:47,name:"Diodorus Cronus",year:-348,displayYear:"M.Ö. 4. yy",era:"Antik Yunan",imp:1},
+  {id:48,name:"Epicurus",year:-341,displayYear:"M.Ö. 341–270",era:"Antik Yunan",imp:3},
+  {id:49,name:"Kıbrıslı Zenon",year:-334,displayYear:"M.Ö. 334–262",era:"Antik Yunan",imp:3},
+  {id:50,name:"Arcesilaus",year:-316,displayYear:"M.Ö. 316–241",era:"Antik Yunan",imp:1},
+  {id:51,name:"Xunzi",year:-310,displayYear:"M.Ö. 310–235",era:"Doğu Felsefesi",imp:2},
+  {id:52,name:"Han Fei",year:-280,displayYear:"M.Ö. 280–233",era:"Doğu Felsefesi",imp:2},
+  {id:53,name:"Chrysippos",year:-279,displayYear:"M.Ö. 279–206",era:"Antik Yunan",imp:2},
+  {id:54,name:"Gadara'lı Menippus",year:-250,displayYear:"M.Ö. 3. yy",era:"Antik Yunan",imp:1},
+  {id:55,name:"Carneades",year:-214,displayYear:"M.Ö. 214–129",era:"Antik Yunan",imp:2},
+  {id:56,name:"Panaetius",year:-185,displayYear:"M.Ö. 185–110",era:"Antik Yunan",imp:1},
+  {id:57,name:"Cicero",year:-106,displayYear:"M.Ö. 106–43",era:"Roma",imp:3},
+  {id:58,name:"Lucretius",year:-99,displayYear:"M.Ö. 99–55",era:"Roma",imp:2},
+  {id:59,name:"Aenesidemus",year:-50,displayYear:"M.Ö. 1. yy",era:"Antik Yunan",imp:1},
+  {id:60,name:"İskenderiyeli Philo",year:-20,displayYear:"M.Ö. 20 – M.S. 50",era:"Roma",imp:2},
+  {id:61,name:"Seneca",year:4,displayYear:"M.S. 4–65",era:"Roma",imp:3},
+  {id:62,name:"Musonius Rufus",year:20,displayYear:"M.S. 20–101",era:"Roma",imp:2},
+  {id:63,name:"Epiktetos",year:55,displayYear:"M.S. 55–135",era:"Roma",imp:3},
+  {id:64,name:"Marcus Aurelius",year:121,displayYear:"M.S. 121–180",era:"Roma",imp:3},
+  {id:65,name:"Nagarjuna",year:150,displayYear:"M.S. 150–250",era:"Doğu Felsefesi",imp:3},
+  {id:66,name:"Sextus Empiricus",year:160,displayYear:"M.S. 2. yy",era:"Roma",imp:2},
+  {id:67,name:"Hierocles",year:161,displayYear:"M.S. 2. yy",era:"Roma",imp:1},
+  {id:68,name:"Origenes",year:184,displayYear:"M.S. 184–253",era:"Erken Hristiyanlık",imp:2},
+  {id:69,name:"Plotinus",year:204,displayYear:"M.S. 204–270",era:"Geç Antik",imp:3},
+  {id:70,name:"Porphyry",year:234,displayYear:"M.S. 234–305",era:"Geç Antik",imp:2},
+  {id:71,name:"Iamblichus",year:245,displayYear:"M.S. 245–325",era:"Geç Antik",imp:2},
+  {id:72,name:"Hypatia",year:350,displayYear:"M.S. 350–415",era:"Geç Antik",imp:3},
+  {id:73,name:"Augustinus",year:354,displayYear:"M.S. 354–430",era:"Erken Hristiyanlık",imp:3},
+  {id:74,name:"Proclus",year:412,displayYear:"M.S. 412–485",era:"Geç Antik",imp:2},
+  {id:75,name:"Ammonius Hermiae",year:440,displayYear:"M.S. 440–520",era:"Geç Antik",imp:1},
+  {id:76,name:"Pseudo-Dionysius",year:450,displayYear:"M.S. 5.–6. yy",era:"Geç Antik",imp:2},
+  {id:77,name:"Damascius",year:458,displayYear:"M.S. 458–538",era:"Geç Antik",imp:1},
+  {id:78,name:"Boethius",year:477,displayYear:"M.S. 477–524",era:"Geç Antik",imp:3},
+  {id:79,name:"Cassiodorus",year:485,displayYear:"M.S. 485–585",era:"Geç Antik",imp:1},
+  {id:80,name:"Simplicius",year:490,displayYear:"M.S. 490–560",era:"Geç Antik",imp:2},
+  {id:81,name:"Sevillalı İsidore",year:560,displayYear:"M.S. 560–636",era:"Ortaçağ",imp:2},
+  {id:82,name:"Bede (Venerabilis Beda)",year:672,displayYear:"M.S. 672–735",era:"Ortaçağ",imp:2},
+  {id:83,name:"Şamlı Yuhanna",year:675,displayYear:"M.S. 675–749",era:"Ortaçağ",imp:2},
+  {id:84,name:"Abu Hanife",year:699,displayYear:"M.S. 699–767",era:"İslam Felsefesi",imp:3},
+  {id:85,name:"Alcuin",year:735,displayYear:"M.S. 735–804",era:"Ortaçağ",imp:2},
+  {id:86,name:"Theodore the Studite",year:759,displayYear:"M.S. 759–826",era:"Ortaçağ",imp:1},
+  {id:87,name:"Cahiz",year:776,displayYear:"M.S. 776–868",era:"İslam Felsefesi",imp:2},
+  {id:88,name:"El-Kindi",year:801,displayYear:"M.S. 801–873",era:"İslam Felsefesi",imp:3},
+  {id:89,name:"Huneyn bin İshak",year:809,displayYear:"M.S. 809–873",era:"İslam Felsefesi",imp:2},
+  {id:90,name:"John Scotus Eriugena",year:815,displayYear:"M.S. 815–877",era:"Ortaçağ",imp:2},
+  {id:91,name:"Al-Maturidi",year:853,displayYear:"M.S. 853–944",era:"İslam Felsefesi",imp:2},
+  {id:92,name:"Ebu Bekir er-Razi",year:865,displayYear:"M.S. 865–925",era:"İslam Felsefesi",imp:3},
+  {id:93,name:"Farabi",year:872,displayYear:"M.S. 872–950",era:"İslam Felsefesi",imp:3},
+  {id:94,name:"Saadia Gaon",year:882,displayYear:"M.S. 882–942",era:"Ortaçağ",imp:2},
+  {id:95,name:"Ebu Bekir es-Sicistani",year:912,displayYear:"M.S. 912–985",era:"İslam Felsefesi",imp:1},
+  {id:96,name:"Ebu Hayyan et-Tevhidi",year:923,displayYear:"M.S. 923–1023",era:"İslam Felsefesi",imp:2},
+  {id:97,name:"İbn Miskeveyh",year:932,displayYear:"M.S. 932–1030",era:"İslam Felsefesi",imp:2},
+  {id:98,name:"İhvan-ı Safa",year:950,displayYear:"10. yy",era:"İslam Felsefesi",imp:2},
+  {id:99,name:"Al-Biruni",year:973,displayYear:"M.S. 973–1048",era:"İslam Felsefesi",imp:3},
+  {id:100,name:"İbn Sina (Avicenna)",year:980,displayYear:"M.S. 980–1037",era:"İslam Felsefesi",imp:3},
+  {id:101,name:"İbn Hazm",year:994,displayYear:"M.S. 994–1064",era:"İslam Felsefesi",imp:2},
+  {id:102,name:"Anselmus",year:1033,displayYear:"M.S. 1033–1109",era:"Ortaçağ",imp:3},
+  {id:103,name:"Ömer Hayyam",year:1048,displayYear:"M.S. 1048–1131",era:"İslam Felsefesi",imp:3},
+  {id:104,name:"Gazali",year:1058,displayYear:"M.S. 1058–1111",era:"İslam Felsefesi",imp:3},
+  {id:105,name:"Judah Halevi",year:1075,displayYear:"M.S. 1075–1141",era:"Ortaçağ",imp:2},
+  {id:106,name:"Peter Abelard",year:1079,displayYear:"M.S. 1079–1142",era:"Ortaçağ",imp:3},
+  {id:107,name:"İbn Bacce (Avempace)",year:1085,displayYear:"M.S. 1085–1138",era:"İslam Felsefesi",imp:2},
+  {id:108,name:"Hildegard von Bingen",year:1098,displayYear:"M.S. 1098–1179",era:"Ortaçağ",imp:3},
+  {id:109,name:"Peter Lombard",year:1100,displayYear:"M.S. 1100–1160",era:"Ortaçağ",imp:2},
+  {id:110,name:"İbn Tufeyl",year:1105,displayYear:"M.S. 1105–1185",era:"İslam Felsefesi",imp:2},
+  {id:111,name:"İbn Rüşd (Averroes)",year:1126,displayYear:"M.S. 1126–1198",era:"İslam Felsefesi",imp:3},
+  {id:112,name:"Musa bin Meymun (Maimonides)",year:1135,displayYear:"M.S. 1135–1204",era:"Ortaçağ",imp:3},
+  {id:113,name:"Fakhr al-Din al-Razi",year:1149,displayYear:"M.S. 1149–1209",era:"İslam Felsefesi",imp:2},
+  {id:114,name:"Şahabeddin Sühreverdi",year:1154,displayYear:"M.S. 1154–1191",era:"İslam Felsefesi",imp:3},
+  {id:115,name:"İbn Arabi",year:1165,displayYear:"M.S. 1165–1240",era:"İslam Felsefesi",imp:3},
+  {id:116,name:"Robert Grosseteste",year:1175,displayYear:"M.S. 1175–1253",era:"Ortaçağ",imp:2},
+  {id:117,name:"Albertus Magnus",year:1200,displayYear:"M.S. 1200–1280",era:"Ortaçağ",imp:2},
+  {id:118,name:"Nasiruddin Tusi",year:1201,displayYear:"M.S. 1201–1274",era:"İslam Felsefesi",imp:2},
+  {id:119,name:"Mevlânâ Celâleddîn-i Rûmî",year:1207,displayYear:"M.S. 1207–1273",era:"İslam Felsefesi",imp:3},
+  {id:120,name:"İbnü'n-Nefis",year:1213,displayYear:"M.S. 1213–1288",era:"İslam Felsefesi",imp:2},
+  {id:121,name:"Roger Bacon",year:1214,displayYear:"M.S. 1214–1292",era:"Ortaçağ",imp:2},
+  {id:122,name:"Robert Kilwardby",year:1215,displayYear:"M.S. 1215–1279",era:"Ortaçağ",imp:1},
+  {id:123,name:"Thomas Aquinas",year:1225,displayYear:"M.S. 1225–1274",era:"Ortaçağ",imp:3},
+  {id:124,name:"Yunus Emre",year:1238,displayYear:"M.S. 1238–1328",era:"İslam Felsefesi",imp:3},
+  {id:125,name:"Siger of Brabant",year:1240,displayYear:"M.S. 1240–1284",era:"Ortaçağ",imp:1},
+  {id:126,name:"Meister Eckhart",year:1260,displayYear:"M.S. 1260–1328",era:"Ortaçağ",imp:3},
+  {id:127,name:"Duns Scotus",year:1266,displayYear:"M.S. 1266–1308",era:"Ortaçağ",imp:2},
+  {id:128,name:"Marsilius of Padua",year:1275,displayYear:"M.S. 1275–1342",era:"Ortaçağ",imp:2},
+  {id:129,name:"Adudüddin el-İci",year:1281,displayYear:"M.S. 1281–1355",era:"İslam Felsefesi",imp:1},
+  {id:130,name:"William of Ockham",year:1285,displayYear:"M.S. 1285–1347",era:"Ortaçağ",imp:3},
+  {id:131,name:"Gersonides",year:1288,displayYear:"M.S. 1288–1344",era:"Ortaçağ",imp:2},
+  {id:132,name:"Jean Buridan",year:1300,displayYear:"M.S. 1300–1358",era:"Ortaçağ",imp:2},
+  {id:133,name:"Petrarch",year:1304,displayYear:"M.S. 1304–1374",era:"Rönesans",imp:2},
+  {id:134,name:"Nicole Oresme",year:1320,displayYear:"M.S. 1320–1382",era:"Ortaçağ",imp:2},
+  {id:135,name:"İbn Haldun",year:1332,displayYear:"M.S. 1332–1406",era:"İslam Felsefesi",imp:3},
+  {id:136,name:"Hasdai Crescas",year:1340,displayYear:"M.S. 1340–1410",era:"Ortaçağ",imp:2},
+  {id:137,name:"George Gemistos Plethon",year:1355,displayYear:"M.S. 1355–1452",era:"Rönesans",imp:2},
+  {id:138,name:"Leonardo Bruni",year:1370,displayYear:"M.S. 1370–1444",era:"Rönesans",imp:2},
+  {id:139,name:"Nikolaus Cusanus",year:1401,displayYear:"M.S. 1401–1464",era:"Rönesans",imp:3},
+  {id:140,name:"Bessarion",year:1403,displayYear:"M.S. 1403–1472",era:"Rönesans",imp:1},
+  {id:141,name:"Lorenzo Valla",year:1407,displayYear:"M.S. 1407–1457",era:"Rönesans",imp:2},
+  {id:142,name:"Marsilio Ficino",year:1433,displayYear:"M.S. 1433–1499",era:"Rönesans",imp:3},
+  {id:143,name:"Giovanni Pico della Mirandola",year:1463,displayYear:"M.S. 1463–1494",era:"Rönesans",imp:3},
+  {id:144,name:"Erasmus",year:1466,displayYear:"M.S. 1466–1536",era:"Rönesans",imp:3},
+  {id:145,name:"Niccolò Machiavelli",year:1469,displayYear:"M.S. 1469–1527",era:"Rönesans",imp:3},
+  {id:146,name:"Wang Yangming",year:1472,displayYear:"M.S. 1472–1529",era:"Doğu Felsefesi",imp:2},
+  {id:147,name:"Thomas More",year:1478,displayYear:"M.S. 1478–1535",era:"Rönesans",imp:2},
+  {id:148,name:"Francisco de Vitoria",year:1483,displayYear:"M.S. 1483–1546",era:"Rönesans",imp:2},
+  {id:149,name:"Martin Luther",year:1483,displayYear:"M.S. 1483–1546",era:"Rönesans",imp:3},
+  {id:150,name:"Paracelsus",year:1493,displayYear:"M.S. 1493–1541",era:"Rönesans",imp:2},
+  {id:151,name:"Bernardino Telesio",year:1509,displayYear:"M.S. 1509–1588",era:"Rönesans",imp:1},
+  {id:152,name:"Petrus Ramus",year:1515,displayYear:"M.S. 1515–1572",era:"Rönesans",imp:1},
+  {id:153,name:"Jean Bodin",year:1530,displayYear:"M.S. 1530–1596",era:"Rönesans",imp:2},
+  {id:154,name:"Michel de Montaigne",year:1533,displayYear:"M.S. 1533–1592",era:"Rönesans",imp:3},
+  {id:155,name:"Francisco Suárez",year:1548,displayYear:"M.S. 1548–1617",era:"Rönesans",imp:2},
+  {id:156,name:"Giordano Bruno",year:1548,displayYear:"M.S. 1548–1600",era:"Rönesans",imp:3},
+  {id:157,name:"Francis Bacon",year:1561,displayYear:"M.S. 1561–1626",era:"Erken Modern",imp:3},
+  {id:158,name:"Galileo Galilei",year:1564,displayYear:"M.S. 1564–1642",era:"Erken Modern",imp:3},
+  {id:159,name:"Tommaso Campanella",year:1568,displayYear:"M.S. 1568–1639",era:"Rönesans",imp:2},
+  {id:160,name:"Molla Sadra",year:1571,displayYear:"M.S. 1571–1636",era:"İslam Felsefesi",imp:3},
+  {id:161,name:"Hugo Grotius",year:1583,displayYear:"M.S. 1583–1645",era:"Erken Modern",imp:2},
+  {id:162,name:"Marin Mersenne",year:1588,displayYear:"M.S. 1588–1648",era:"Erken Modern",imp:1},
+  {id:163,name:"Thomas Hobbes",year:1588,displayYear:"M.S. 1588–1679",era:"Erken Modern",imp:3},
+  {id:164,name:"Jan Amos Comenius",year:1592,displayYear:"M.S. 1592–1670",era:"Erken Modern",imp:2},
+  {id:165,name:"Pierre Gassendi",year:1592,displayYear:"M.S. 1592–1655",era:"Erken Modern",imp:2},
+  {id:166,name:"René Descartes",year:1596,displayYear:"M.S. 1596–1650",era:"Erken Modern",imp:3},
+  {id:167,name:"Baltasar Gracián",year:1601,displayYear:"M.S. 1601–1658",era:"Erken Modern",imp:2},
+  {id:168,name:"Cyrano de Bergerac",year:1619,displayYear:"M.S. 1619–1655",era:"Erken Modern",imp:1},
+  {id:169,name:"Blaise Pascal",year:1623,displayYear:"M.S. 1623–1662",era:"Erken Modern",imp:3},
+  {id:170,name:"Margaret Cavendish",year:1623,displayYear:"M.S. 1623–1673",era:"Erken Modern",imp:2},
+  {id:171,name:"Baruch Spinoza",year:1632,displayYear:"M.S. 1632–1677",era:"Erken Modern",imp:3},
+  {id:172,name:"John Locke",year:1632,displayYear:"M.S. 1632–1704",era:"Erken Modern",imp:3},
+  {id:173,name:"Samuel von Pufendorf",year:1632,displayYear:"M.S. 1632–1694",era:"Erken Modern",imp:2},
+  {id:174,name:"Nicolas Malebranche",year:1638,displayYear:"M.S. 1638–1715",era:"Erken Modern",imp:2},
+  {id:175,name:"Elena Cornaro Piscopia",year:1646,displayYear:"M.S. 1646–1684",era:"Erken Modern",imp:2},
+  {id:176,name:"Gottfried Wilhelm Leibniz",year:1646,displayYear:"M.S. 1646–1716",era:"Erken Modern",imp:3},
+  {id:177,name:"Pierre Bayle",year:1647,displayYear:"M.S. 1647–1706",era:"Erken Modern",imp:2},
+  {id:178,name:"Giambattista Vico",year:1668,displayYear:"M.S. 1668–1744",era:"Erken Modern",imp:2},
+  {id:179,name:"Bernard Mandeville",year:1670,displayYear:"M.S. 1670–1733",era:"Erken Modern",imp:2},
+  {id:180,name:"Anthony Ashley-Cooper (Shaftesbury Kontu)",year:1671,displayYear:"M.S. 1671–1713",era:"Erken Modern",imp:2},
+  {id:181,name:"Christian Wolff",year:1679,displayYear:"M.S. 1679–1754",era:"Aydınlanma",imp:2},
+  {id:182,name:"George Berkeley",year:1685,displayYear:"M.S. 1685–1753",era:"Aydınlanma",imp:3},
+  {id:183,name:"Montesquieu",year:1689,displayYear:"M.S. 1689–1755",era:"Aydınlanma",imp:3},
+  {id:184,name:"Francis Hutcheson",year:1694,displayYear:"M.S. 1694–1746",era:"Aydınlanma",imp:2},
+  {id:185,name:"François Quesnay",year:1694,displayYear:"M.S. 1694–1774",era:"Aydınlanma",imp:2},
+  {id:186,name:"Voltaire",year:1694,displayYear:"M.S. 1694–1778",era:"Aydınlanma",imp:3},
+  {id:187,name:"Émilie du Châtelet",year:1706,displayYear:"M.S. 1706–1749",era:"Aydınlanma",imp:3},
+  {id:188,name:"Kont Buffon",year:1707,displayYear:"M.S. 1707–1788",era:"Aydınlanma",imp:2},
+  {id:189,name:"Julien Offray de La Mettrie",year:1709,displayYear:"M.S. 1709–1751",era:"Aydınlanma",imp:2},
+  {id:190,name:"Thomas Reid",year:1710,displayYear:"M.S. 1710–1796",era:"Aydınlanma",imp:2},
+  {id:191,name:"David Hume",year:1711,displayYear:"M.S. 1711–1776",era:"Aydınlanma",imp:3},
+  {id:192,name:"Jean-Jacques Rousseau",year:1712,displayYear:"M.S. 1712–1778",era:"Aydınlanma",imp:3},
+  {id:193,name:"Denis Diderot",year:1713,displayYear:"M.S. 1713–1784",era:"Aydınlanma",imp:3},
+  {id:194,name:"Alexander Gottlieb Baumgarten",year:1714,displayYear:"M.S. 1714–1762",era:"Aydınlanma",imp:2},
+  {id:195,name:"Etienne Bonnot de Condillac",year:1714,displayYear:"M.S. 1714–1780",era:"Aydınlanma",imp:2},
+  {id:196,name:"Claude Adrien Helvétius",year:1715,displayYear:"M.S. 1715–1771",era:"Aydınlanma",imp:2},
+  {id:197,name:"Adam Smith",year:1723,displayYear:"M.S. 1723–1790",era:"Aydınlanma",imp:3},
+  {id:198,name:"Baron d'Holbach",year:1723,displayYear:"M.S. 1723–1789",era:"Aydınlanma",imp:2},
+  {id:199,name:"Immanuel Kant",year:1724,displayYear:"M.S. 1724–1804",era:"Aydınlanma",imp:3},
+  {id:200,name:"Pietro Verri",year:1728,displayYear:"M.S. 1728–1797",era:"Aydınlanma",imp:1},
+  {id:201,name:"Gotthold Ephraim Lessing",year:1729,displayYear:"M.S. 1729–1781",era:"Aydınlanma",imp:2},
+  {id:202,name:"Moses Mendelssohn",year:1729,displayYear:"M.S. 1729–1786",era:"Aydınlanma",imp:2},
+  {id:203,name:"Johann Georg Hamann",year:1730,displayYear:"M.S. 1730–1788",era:"Aydınlanma",imp:2},
+  {id:204,name:"Thomas Paine",year:1737,displayYear:"M.S. 1737–1809",era:"Aydınlanma",imp:3},
+  {id:205,name:"Cesare Beccaria",year:1738,displayYear:"M.S. 1738–1794",era:"Aydınlanma",imp:2},
+  {id:206,name:"Marquis de Condorcet",year:1743,displayYear:"M.S. 1743–1794",era:"Aydınlanma",imp:2},
+  {id:207,name:"Johann Gottfried von Herder",year:1744,displayYear:"M.S. 1744–1803",era:"Aydınlanma",imp:2},
+  {id:208,name:"Jeremy Bentham",year:1748,displayYear:"M.S. 1748–1832",era:"Aydınlanma",imp:3},
+  {id:209,name:"Olympe de Gouges",year:1748,displayYear:"M.S. 1748–1793",era:"Aydınlanma",imp:3},
+  {id:210,name:"William Godwin",year:1756,displayYear:"M.S. 1756–1836",era:"19. Yüzyıl",imp:2},
+  {id:211,name:"Mary Wollstonecraft",year:1759,displayYear:"M.S. 1759–1797",era:"Aydınlanma",imp:3},
+  {id:212,name:"Henri de Saint-Simon",year:1760,displayYear:"M.S. 1760–1825",era:"19. Yüzyıl",imp:2},
+  {id:213,name:"Johann Gottlieb Fichte",year:1762,displayYear:"M.S. 1762–1814",era:"Alman İdealizmi",imp:3},
+  {id:214,name:"Sophie de Condorcet",year:1764,displayYear:"M.S. 1764–1822",era:"Aydınlanma",imp:2},
+  {id:215,name:"Maine de Biran",year:1766,displayYear:"M.S. 1766–1824",era:"19. Yüzyıl",imp:2},
+  {id:216,name:"G.W.F. Hegel",year:1770,displayYear:"M.S. 1770–1831",era:"Alman İdealizmi",imp:3},
+  {id:217,name:"Charles Fourier",year:1772,displayYear:"M.S. 1772–1837",era:"19. Yüzyıl",imp:2},
+  {id:218,name:"Friedrich Schlegel",year:1772,displayYear:"M.S. 1772–1829",era:"Alman İdealizmi",imp:2},
+  {id:219,name:"Friedrich Schelling",year:1775,displayYear:"M.S. 1775–1854",era:"Alman İdealizmi",imp:3},
+  {id:220,name:"Arthur Schopenhauer",year:1788,displayYear:"M.S. 1788–1860",era:"19. Yüzyıl",imp:3},
+  {id:221,name:"Auguste Comte",year:1798,displayYear:"M.S. 1798–1857",era:"19. Yüzyıl",imp:3},
+  {id:222,name:"Ralph Waldo Emerson",year:1803,displayYear:"M.S. 1803–1882",era:"19. Yüzyıl",imp:2},
+  {id:223,name:"Ludwig Feuerbach",year:1804,displayYear:"M.S. 1804–1872",era:"19. Yüzyıl",imp:2},
+  {id:224,name:"Alexis de Tocqueville",year:1805,displayYear:"M.S. 1805–1859",era:"19. Yüzyıl",imp:2},
+  {id:225,name:"Giuseppe Mazzini",year:1805,displayYear:"M.S. 1805–1872",era:"19. Yüzyıl",imp:2},
+  {id:226,name:"John Stuart Mill",year:1806,displayYear:"M.S. 1806–1873",era:"19. Yüzyıl",imp:3},
+  {id:227,name:"Max Stirner",year:1806,displayYear:"M.S. 1806–1856",era:"19. Yüzyıl",imp:2},
+  {id:228,name:"Harriet Taylor Mill",year:1807,displayYear:"M.S. 1807–1858",era:"19. Yüzyıl",imp:2},
+  {id:229,name:"Pierre-Joseph Proudhon",year:1809,displayYear:"M.S. 1809–1865",era:"19. Yüzyıl",imp:2},
+  {id:230,name:"Eliphas Lévi",year:1810,displayYear:"M.S. 1810–1875",era:"19. Yüzyıl",imp:2},
+  {id:231,name:"Søren Kierkegaard",year:1813,displayYear:"M.S. 1813–1855",era:"19. Yüzyıl",imp:3},
+  {id:232,name:"Mikhail Bakunin",year:1814,displayYear:"M.S. 1814–1876",era:"19. Yüzyıl",imp:2},
+  {id:233,name:"Henry David Thoreau",year:1817,displayYear:"M.S. 1817–1862",era:"19. Yüzyıl",imp:2},
+  {id:234,name:"Karl Marx",year:1818,displayYear:"M.S. 1818–1883",era:"19. Yüzyıl",imp:3},
+  {id:235,name:"Friedrich Engels",year:1820,displayYear:"M.S. 1820–1895",era:"19. Yüzyıl",imp:2},
+  {id:236,name:"Herbert Spencer",year:1820,displayYear:"M.S. 1820–1903",era:"19. Yüzyıl",imp:2},
+  {id:237,name:"Julius Bahnsen",year:1830,displayYear:"M.S. 1830–1881",era:"19. Yüzyıl",imp:1},
+  {id:238,name:"Helena Petrovna Blavatsky",year:1831,displayYear:"M.S. 1831–1891",era:"19. Yüzyıl",imp:2},
+  {id:239,name:"Wilhelm Dilthey",year:1833,displayYear:"M.S. 1833–1911",era:"19. Yüzyıl",imp:2},
+  {id:240,name:"Ernst Mach",year:1838,displayYear:"M.S. 1838–1916",era:"19. Yüzyıl",imp:2},
+  {id:241,name:"Franz Brentano",year:1838,displayYear:"M.S. 1838–1917",era:"19. Yüzyıl",imp:2},
+  {id:242,name:"Henry Sidgwick",year:1838,displayYear:"M.S. 1838–1900",era:"19. Yüzyıl",imp:2},
+  {id:243,name:"Charles Sanders Peirce",year:1839,displayYear:"M.S. 1839–1914",era:"19. Yüzyıl",imp:3},
+  {id:244,name:"Namık Kemal",year:1840,displayYear:"M.S. 1840–1888",era:"19. Yüzyıl",imp:2},
+  {id:245,name:"Philipp Mainländer",year:1841,displayYear:"M.S. 1841–1876",era:"19. Yüzyıl",imp:1},
+  {id:246,name:"William James",year:1842,displayYear:"M.S. 1842–1910",era:"19. Yüzyıl",imp:3},
+  {id:247,name:"Edward Carpenter",year:1844,displayYear:"M.S. 1844–1929",era:"19. Yüzyıl",imp:2},
+  {id:248,name:"Friedrich Nietzsche",year:1844,displayYear:"M.S. 1844–1900",era:"19. Yüzyıl",imp:3},
+  {id:249,name:"Gottlob Frege",year:1848,displayYear:"M.S. 1848–1925",era:"19. Yüzyıl",imp:3},
+  {id:250,name:"Muhammad Abduh",year:1849,displayYear:"M.S. 1849–1905",era:"19. Yüzyıl",imp:2},
+  {id:251,name:"Vladimir Solovyov",year:1853,displayYear:"M.S. 1853–1900",era:"19. Yüzyıl",imp:2},
+  {id:252,name:"Josiah Royce",year:1855,displayYear:"M.S. 1855–1916",era:"19. Yüzyıl",imp:2},
+  {id:253,name:"Sigmund Freud",year:1856,displayYear:"M.S. 1856–1939",era:"20. Yüzyıl",imp:3},
+  {id:254,name:"Ferdinand de Saussure",year:1857,displayYear:"M.S. 1857–1913",era:"20. Yüzyıl",imp:3},
+  {id:255,name:"Anna Julia Cooper",year:1858,displayYear:"M.S. 1858–1964",era:"20. Yüzyıl",imp:2},
+  {id:256,name:"Georg Simmel",year:1858,displayYear:"M.S. 1858–1918",era:"20. Yüzyıl",imp:2},
+  {id:257,name:"Edmund Husserl",year:1859,displayYear:"M.S. 1859–1938",era:"20. Yüzyıl",imp:3},
+  {id:258,name:"Henri Bergson",year:1859,displayYear:"M.S. 1859–1941",era:"20. Yüzyıl",imp:3},
+  {id:259,name:"John Dewey",year:1859,displayYear:"M.S. 1859–1952",era:"20. Yüzyıl",imp:3},
+  {id:260,name:"Charlotte Perkins Gilman",year:1860,displayYear:"M.S. 1860–1935",era:"20. Yüzyıl",imp:2},
+  {id:261,name:"Alfred North Whitehead",year:1861,displayYear:"M.S. 1861–1947",era:"20. Yüzyıl",imp:3},
+  {id:262,name:"Rabindranath Tagore",year:1861,displayYear:"M.S. 1861–1941",era:"20. Yüzyıl",imp:3},
+  {id:263,name:"Rudolf Steiner",year:1861,displayYear:"M.S. 1861–1925",era:"20. Yüzyıl",imp:2},
+  {id:264,name:"Nishida Kitaro",year:1870,displayYear:"M.S. 1870–1945",era:"Doğu Felsefesi",imp:2},
+  {id:265,name:"Bertrand Russell",year:1872,displayYear:"M.S. 1872–1970",era:"20. Yüzyıl",imp:3},
+  {id:266,name:"G.E. Moore",year:1873,displayYear:"M.S. 1873–1958",era:"20. Yüzyıl",imp:2},
+  {id:267,name:"Max Scheler",year:1874,displayYear:"M.S. 1874–1928",era:"20. Yüzyıl",imp:2},
+  {id:268,name:"Aleister Crowley",year:1875,displayYear:"M.S. 1875–1947",era:"20. Yüzyıl",imp:2},
+  {id:269,name:"Carl Gustav Jung",year:1875,displayYear:"M.S. 1875–1961",era:"20. Yüzyıl",imp:3},
+  {id:270,name:"Muhammed İkbal",year:1877,displayYear:"M.S. 1877–1938",era:"20. Yüzyıl",imp:3},
+  {id:271,name:"Moritz Schlick",year:1882,displayYear:"M.S. 1882–1936",era:"20. Yüzyıl",imp:2},
+  {id:272,name:"José Ortega y Gasset",year:1883,displayYear:"M.S. 1883–1955",era:"20. Yüzyıl",imp:2},
+  {id:273,name:"Georg Lukács",year:1885,displayYear:"M.S. 1885–1971",era:"20. Yüzyıl",imp:2},
+  {id:274,name:"René Guénon",year:1886,displayYear:"M.S. 1886–1951",era:"20. Yüzyıl",imp:2},
+  {id:275,name:"Carl Schmitt",year:1888,displayYear:"M.S. 1888–1985",era:"20. Yüzyıl",imp:2},
+  {id:276,name:"Gabriel Marcel",year:1889,displayYear:"M.S. 1889–1973",era:"20. Yüzyıl",imp:2},
+  {id:277,name:"Ludwig Wittgenstein",year:1889,displayYear:"M.S. 1889–1951",era:"20. Yüzyıl",imp:3},
+  {id:278,name:"Martin Heidegger",year:1889,displayYear:"M.S. 1889–1976",era:"20. Yüzyıl",imp:3},
+  {id:279,name:"Antonio Gramsci",year:1891,displayYear:"M.S. 1891–1937",era:"20. Yüzyıl",imp:3},
+  {id:280,name:"Rudolf Carnap",year:1891,displayYear:"M.S. 1891–1970",era:"20. Yüzyıl",imp:2},
+  {id:281,name:"Walter Benjamin",year:1892,displayYear:"M.S. 1892–1940",era:"20. Yüzyıl",imp:3},
+  {id:282,name:"Max Horkheimer",year:1895,displayYear:"M.S. 1895–1973",era:"20. Yüzyıl",imp:2},
+  {id:283,name:"Herbert Marcuse",year:1898,displayYear:"M.S. 1898–1979",era:"20. Yüzyıl",imp:3},
+  {id:284,name:"Gilbert Ryle",year:1900,displayYear:"M.S. 1900–1976",era:"20. Yüzyıl",imp:2},
+  {id:285,name:"Hans-Georg Gadamer",year:1900,displayYear:"M.S. 1900–2002",era:"20. Yüzyıl",imp:3},
+  {id:286,name:"Jacques Lacan",year:1901,displayYear:"M.S. 1901–1981",era:"20. Yüzyıl",imp:3},
+  {id:287,name:"Manly P. Hall",year:1901,displayYear:"M.S. 1901–1990",era:"20. Yüzyıl",imp:2},
+  {id:288,name:"Karl Popper",year:1902,displayYear:"M.S. 1902–1994",era:"20. Yüzyıl",imp:3},
+  {id:289,name:"Theodor Adorno",year:1903,displayYear:"M.S. 1903–1969",era:"20. Yüzyıl",imp:3},
+  {id:290,name:"Joseph Campbell",year:1904,displayYear:"M.S. 1904–1987",era:"20. Yüzyıl",imp:3},
+  {id:291,name:"Jean-Paul Sartre",year:1905,displayYear:"M.S. 1905–1980",era:"20. Yüzyıl",imp:3},
+  {id:292,name:"Emmanuel Levinas",year:1906,displayYear:"M.S. 1906–1995",era:"20. Yüzyıl",imp:3},
+  {id:293,name:"Hannah Arendt",year:1906,displayYear:"M.S. 1906–1975",era:"20. Yüzyıl",imp:3},
+  {id:294,name:"Kurt Gödel",year:1906,displayYear:"M.S. 1906–1978",era:"20. Yüzyıl",imp:3},
+  {id:295,name:"Mircea Eliade",year:1907,displayYear:"M.S. 1907–1986",era:"20. Yüzyıl",imp:2},
+  {id:296,name:"Claude Lévi-Strauss",year:1908,displayYear:"M.S. 1908–2009",era:"20. Yüzyıl",imp:3},
+  {id:297,name:"Maurice Merleau-Ponty",year:1908,displayYear:"M.S. 1908–1961",era:"20. Yüzyıl",imp:3},
+  {id:298,name:"Simone de Beauvoir",year:1908,displayYear:"M.S. 1908–1986",era:"20. Yüzyıl",imp:3},
+  {id:299,name:"Willard Van Orman Quine",year:1908,displayYear:"M.S. 1908–2000",era:"20. Yüzyıl",imp:3},
+  {id:300,name:"Simone Weil",year:1909,displayYear:"M.S. 1909–1943",era:"20. Yüzyıl",imp:3},
+  {id:301,name:"J.L. Austin",year:1911,displayYear:"M.S. 1911–1960",era:"20. Yüzyıl",imp:2},
+  {id:302,name:"Marshall McLuhan",year:1911,displayYear:"M.S. 1911–1980",era:"20. Yüzyıl",imp:3},
+  {id:303,name:"Albert Camus",year:1913,displayYear:"M.S. 1913–1960",era:"20. Yüzyıl",imp:3},
+  {id:304,name:"Paul Ricoeur",year:1913,displayYear:"M.S. 1913–2005",era:"20. Yüzyıl",imp:3},
+  {id:305,name:"Roland Barthes",year:1915,displayYear:"M.S. 1915–1980",era:"20. Yüzyıl",imp:3},
+  {id:306,name:"Donald Davidson",year:1917,displayYear:"M.S. 1917–2003",era:"20. Yüzyıl",imp:2},
+  {id:307,name:"Louis Althusser",year:1918,displayYear:"M.S. 1918–1990",era:"20. Yüzyıl",imp:2},
+  {id:308,name:"Fazlur Rahman",year:1919,displayYear:"M.S. 1919–1988",era:"20. Yüzyıl",imp:2},
+  {id:309,name:"G.E.M. Anscombe",year:1919,displayYear:"M.S. 1919–2001",era:"20. Yüzyıl",imp:2},
+  {id:310,name:"Iris Murdoch",year:1919,displayYear:"M.S. 1919–1999",era:"20. Yüzyıl",imp:2},
+  {id:311,name:"Philippa Foot",year:1920,displayYear:"M.S. 1920–2010",era:"20. Yüzyıl",imp:2},
+  {id:312,name:"John Rawls",year:1921,displayYear:"M.S. 1921–2002",era:"20. Yüzyıl",imp:3},
+  {id:313,name:"Cornelius Castoriadis",year:1922,displayYear:"M.S. 1922–1997",era:"20. Yüzyıl",imp:2},
+  {id:314,name:"Thomas Kuhn",year:1922,displayYear:"M.S. 1922–1996",era:"20. Yüzyıl",imp:3},
+  {id:315,name:"Jean-François Lyotard",year:1924,displayYear:"M.S. 1924–1998",era:"20. Yüzyıl",imp:2},
+  {id:316,name:"Paul Feyerabend",year:1924,displayYear:"M.S. 1924–1994",era:"20. Yüzyıl",imp:2},
+  {id:317,name:"Frantz Fanon",year:1925,displayYear:"M.S. 1925–1961",era:"20. Yüzyıl",imp:3},
+  {id:318,name:"Gilles Deleuze",year:1925,displayYear:"M.S. 1925–1995",era:"20. Yüzyıl",imp:3},
+  {id:319,name:"Zygmunt Bauman",year:1925,displayYear:"M.S. 1925–2017",era:"20. Yüzyıl",imp:2},
+  {id:320,name:"Hilary Putnam",year:1926,displayYear:"M.S. 1926–2016",era:"20. Yüzyıl",imp:2},
+  {id:321,name:"Michel Foucault",year:1926,displayYear:"M.S. 1926–1984",era:"20. Yüzyıl",imp:3},
+  {id:322,name:"Noam Chomsky",year:1928,displayYear:"M.S. 1928–...",era:"Çağdaş",imp:3},
+  {id:323,name:"Alasdair MacIntyre",year:1929,displayYear:"M.S. 1929–...",era:"Çağdaş",imp:2},
+  {id:324,name:"Jean Baudrillard",year:1929,displayYear:"M.S. 1929–2007",era:"20. Yüzyıl",imp:3},
+  {id:325,name:"Jürgen Habermas",year:1929,displayYear:"M.S. 1929–...",era:"Çağdaş",imp:3},
+  {id:326,name:"Félix Guattari",year:1930,displayYear:"M.S. 1930–1992",era:"20. Yüzyıl",imp:2},
+  {id:327,name:"Jacques Derrida",year:1930,displayYear:"M.S. 1930–2004",era:"20. Yüzyıl",imp:3},
+  {id:328,name:"Pierre Bourdieu",year:1930,displayYear:"M.S. 1930–2002",era:"20. Yüzyıl",imp:3},
+  {id:329,name:"John Searle",year:1932,displayYear:"M.S. 1932–...",era:"Çağdaş",imp:2},
+  {id:330,name:"Edward Said",year:1935,displayYear:"M.S. 1935–2003",era:"20. Yüzyıl",imp:3},
+  {id:331,name:"Alain Badiou",year:1937,displayYear:"M.S. 1937–...",era:"Çağdaş",imp:2},
+  {id:332,name:"Thomas Nagel",year:1937,displayYear:"M.S. 1937–...",era:"Çağdaş",imp:2},
+  {id:333,name:"Robert Nozick",year:1938,displayYear:"M.S. 1938–2002",era:"20. Yüzyıl",imp:2},
+  {id:334,name:"Jean-Luc Nancy",year:1940,displayYear:"M.S. 1940–2021",era:"20. Yüzyıl",imp:2},
+  {id:335,name:"Saul Kripke",year:1940,displayYear:"M.S. 1940–2022",era:"20. Yüzyıl",imp:3},
+  {id:336,name:"Daniel Dennett",year:1942,displayYear:"M.S. 1942–2024",era:"20. Yüzyıl",imp:3},
+  {id:337,name:"Angela Davis",year:1944,displayYear:"M.S. 1944–...",era:"Çağdaş",imp:3},
+  {id:338,name:"Donna Haraway",year:1944,displayYear:"M.S. 1944–...",era:"Çağdaş",imp:2},
+  {id:339,name:"Bruno Latour",year:1947,displayYear:"M.S. 1947–2022",era:"Çağdaş",imp:3},
+  {id:340,name:"Martha Nussbaum",year:1947,displayYear:"M.S. 1947–...",era:"Çağdaş",imp:3},
+  {id:341,name:"Nancy Fraser",year:1947,displayYear:"M.S. 1947–...",era:"Çağdaş",imp:2},
+  {id:342,name:"Peter Sloterdijk",year:1947,displayYear:"M.S. 1947–...",era:"Çağdaş",imp:2},
+  {id:343,name:"Slavoj Žižek",year:1949,displayYear:"M.S. 1949–...",era:"Çağdaş",imp:3},
+  {id:344,name:"Costas Douzinas",year:1951,displayYear:"M.S. 1951–...",era:"Çağdaş",imp:1},
+  {id:345,name:"Bernard Stiegler",year:1952,displayYear:"M.S. 1952–2020",era:"Çağdaş",imp:2},
+  {id:346,name:"bell hooks (Gloria Jean Watkins)",year:1952,displayYear:"M.S. 1952–2021",era:"Çağdaş",imp:3},
+  {id:347,name:"Cornel West",year:1953,displayYear:"M.S. 1953–...",era:"Çağdaş",imp:2},
+  {id:348,name:"Rosi Braidotti",year:1954,displayYear:"M.S. 1954–...",era:"Çağdaş",imp:2},
+  {id:349,name:"Judith Butler",year:1956,displayYear:"M.S. 1956–...",era:"Çağdaş",imp:3},
+  {id:350,name:"Byung-Chul Han",year:1959,displayYear:"M.S. 1959–...",era:"Çağdaş",imp:3},
+  {id:351,name:"Jodi Dean",year:1962,displayYear:"M.S. 1962–...",era:"Çağdaş",imp:1},
+  {id:352,name:"Ray Brassier",year:1965,displayYear:"M.S. 1965–...",era:"Çağdaş",imp:2},
+  {id:353,name:"David Chalmers",year:1966,displayYear:"M.S. 1966–...",era:"Çağdaş",imp:3},
+  {id:354,name:"Quentin Meillassoux",year:1967,displayYear:"M.S. 1967–...",era:"Çağdaş",imp:2},
+  {id:355,name:"Graham Harman",year:1968,displayYear:"M.S. 1968–...",era:"Çağdaş",imp:2},
+  {id:356,name:"Mark Fisher",year:1968,displayYear:"M.S. 1968–2017",era:"Çağdaş",imp:3},
+  {id:357,name:"Timothy Morton",year:1968,displayYear:"M.S. 1968–...",era:"Çağdaş",imp:2},
+  {id:358,name:"Nick Bostrom",year:1973,displayYear:"M.S. 1973–...",era:"Çağdaş",imp:2},
+  {id:359,name:"Reza Negarestani",year:1977,displayYear:"M.S. 1977–...",era:"Çağdaş",imp:2},
+  {id:360,name:"Francesca Ferrando",year:1982,displayYear:"M.S. 1982–...",era:"Çağdaş",imp:1},
+  {id:361,name:"Jason Hickel",year:1982,displayYear:"M.S. 1982–...",era:"Çağdaş",imp:2},
+  {id:362,name:"Nick Srnicek",year:1982,displayYear:"M.S. 1982–...",era:"Çağdaş",imp:2},
+  {id:363,name:"Helen Hester",year:1983,displayYear:"M.S. 1983–...",era:"Çağdaş",imp:1},
+  {id:364,name:"Srecko Horvat",year:1983,displayYear:"M.S. 1983–...",era:"Çağdaş",imp:1},
+  {id:365,name:"Aaron Bastani",year:1984,displayYear:"M.S. 1984–...",era:"Çağdaş",imp:1},
+  {id:366,name:"Yuk Hui",year:1985,displayYear:"M.S. 1985–...",era:"Çağdaş",imp:2},
+  {id:367,name:"Kohei Saito",year:1987,displayYear:"M.S. 1987–...",era:"Çağdaş",imp:2},
+  {id:368,name:"Thea Riofrancos",year:1988,displayYear:"M.S. 1980'lerin sonu",era:"Çağdaş",imp:1},
+  {id:369,name:"Soren Mau",year:1989,displayYear:"M.S. 1989–...",era:"Çağdaş",imp:1},
+  {id:370,name:"Olúfẹ́mi O. Táíwò",year:1990,displayYear:"M.S. 1990–...",era:"Çağdaş",imp:2},
+  {id:371,name:"Grace Blakeley",year:1993,displayYear:"M.S. 1993–...",era:"Çağdaş",imp:1},
+];
+
+// ═══════════════════════════════════════════
+// RENDER ENGINE
+// ═══════════════════════════════════════════
+const MIN_YEAR = -1200;
+const MAX_YEAR = 2000;
+const BASE_PX = 0.22; // px per year at zoom=1
+
+let zoom = 1;
+let offset = 0; // translateX applied to canvas
+let activeId = null;
+let activeEra = null;
+let isDrag = false, dragX0 = 0, offset0 = 0;
+let isThumbDrag = false, thumbX0 = 0, thumbOff0 = 0;
+
+const tlOuter = document.getElementById('tlOuter');
+const tlCanvas = document.getElementById('tlCanvas');
+const sbThumb = document.getElementById('sbThumb');
+const sbTrack = document.getElementById('sbTrack');
+const zoomInfo = document.getElementById('zoomInfo');
+
+function yearToX(y) { return (y - MIN_YEAR) * BASE_PX * zoom; }
+function totalWidth() { return (MAX_YEAR - MIN_YEAR) * BASE_PX * zoom + 300; }
+
+function clamp() {
+  const tw = totalWidth();
+  const ow = tlOuter.offsetWidth;
+  const maxOff = 80;
+  const minOff = ow - tw - 80;
+  offset = Math.min(maxOff, Math.max(minOff, offset));
+}
+
+function applyOffset() {
+  tlCanvas.style.transform = `translateX(${offset}px)`;
+  updateScrollbar();
+}
+
+function updateScrollbar() {
+  const tw = totalWidth();
+  const ow = tlOuter.offsetWidth;
+  const ratio = ow / tw;
+  const thumbW = Math.max(20, ow * ratio);
+  const maxScroll = tw - ow;
+  const scrollPos = Math.max(0, -offset);
+  const frac = maxScroll > 0 ? scrollPos / maxScroll : 0;
+  const thumbLeft = frac * (ow - thumbW);
+  sbThumb.style.width = thumbW + 'px';
+  sbThumb.style.left = Math.max(0, thumbLeft) + 'px';
+}
+
+function render() {
+  tlCanvas.innerHTML = '';
+  const list = activeEra ? PHILOSOPHERS.filter(p => p.era === activeEra) : PHILOSOPHERS;
+  const tw = totalWidth();
+  tlCanvas.style.width = tw + 'px';
+
+  // Year ticks — pick interval so ticks are 50–200px apart
+  const targetGap = 80;
+  const yearsPerPx = 1 / (BASE_PX * zoom);
+  const rawInterval = targetGap * yearsPerPx;
+  const niceIntervals = [1,2,5,10,20,50,100,200,500,1000,2000,5000,10000,20000,50000];
+  let interval = niceIntervals.find(n => n >= rawInterval) || 50000;
+
+  const startY = Math.ceil(MIN_YEAR / interval) * interval;
+  for (let y = startY; y <= MAX_YEAR; y += interval) {
+    const x = yearToX(y);
+    const tick = document.createElement('div');
+    tick.className = 'tick';
+    tick.style.left = x + 'px';
+    const tl = document.createElement('div'); tl.className = 'tick-line';
+    const lb = document.createElement('div'); lb.className = 'tick-label';
+    if (y < 0) lb.textContent = `M.Ö. ${Math.abs(y).toLocaleString()}`;
+    else if (y === 0) lb.textContent = '0';
+    else lb.textContent = `M.S. ${y.toLocaleString()}`;
+    tick.appendChild(tl); tick.appendChild(lb);
+    tlCanvas.appendChild(tick);
+  }
+
+  // ── STACKING + FAN-ON-HOVER ──
+  // DOT_STEP_C: collapsed — dots barely clear each other (no labels shown in multi-groups)
+  // DOT_STEP_F: fanned   — full label height + padding so labels never overlap
+  const DOT_STEP_C = 20;   // px between dot centres when collapsed
+  const DOT_STEP_F = 58;   // px between dot centres when fanned (label ~30px + gaps)
+
+  // Group by year, sort imp3 first
+  const yearGroups = {};
+  list.forEach(p => {
+    if (!yearGroups[p.year]) yearGroups[p.year] = [];
+    yearGroups[p.year].push(p);
+  });
+  Object.values(yearGroups).forEach(g => g.sort((a,b) => b.imp - a.imp));
+
+  // Assign alternating slots: 0, +1, -1, +2, -2 ...
+  const slotOf = {};
+  Object.entries(yearGroups).forEach(([yr, grp]) => {
+    grp.forEach((p, i) => {
+      slotOf[p.id] = i === 0 ? 0 : (i % 2 === 1 ? Math.ceil(i/2) : -Math.floor(i/2));
+    });
+  });
+
+  // Render — group wrapper handles hover via CSS, zero JS events = zero flicker
+  Object.entries(yearGroups).forEach(([yr, grp]) => {
+    const baseX  = yearToX(Number(yr));
+    const n      = grp.length;
+    const isSolo = n === 1;
+
+    // One wrapper per year group positioned on the axis
+    const wrapper = document.createElement('div');
+    wrapper.className = 'yr-group' + (isSolo ? ' solo' : '');
+    wrapper.dataset.year = yr;
+
+    // Height: enough to contain fully fanned nodes + labels (both sides)
+    const maxSlot = grp.reduce((m,p) => Math.max(m, Math.abs(slotOf[p.id])), 0);
+    const fanH    = maxSlot * DOT_STEP_F + 60; // half-height each side + label room
+    wrapper.style.cssText = [
+      `position:absolute`,
+      `left:${baseX}px`,
+      `top:50%`,
+      `transform:translate(-50%,-50%)`,
+      `width:120px`,           // wide enough to catch label hover
+      `height:${fanH * 2}px`, // symmetric around axis
+      `z-index:9`,
+      `cursor:pointer`,
+      isSolo ? `pointer-events:none` : '',
+    ].filter(Boolean).join(';');
+
+    grp.forEach((p) => {
+      const slot    = slotOf[p.id];
+      const isAbove = slot >= 0;
+      const color   = ERA_COLORS[p.era] || '#555';
+      const isActive = p.id === activeId;
+      const isLeg  = p.era === 'Efsanevi';
+
+      // node positioned relative to wrapper centre = axis
+      const node = document.createElement('div');
+      node.className = 'node yr-node' + (isActive ? ' active' : '') + (isLeg ? ' legendary' : '');
+      node.dataset.pid  = p.id;
+      node.dataset.slot = slot;
+      // CSS vars for collapsed/fanned positions — actual transition done in CSS
+      node.style.cssText = [
+        `position:absolute`,
+        `left:50%`,
+        `top:50%`,
+        // collapsed: slot * DOT_STEP_C from centre
+        `--cy:${-slot * DOT_STEP_C}px`,
+        `--fy:${-slot * DOT_STEP_F}px`,
+        `transform:translate(-50%, calc(-50% + var(--cy)))`,
+        `transition:transform 0.22s cubic-bezier(.4,0,.2,1)`,
+        `z-index:${10 + Math.abs(slot)}`,
+      ].join(';');
+
+      // Connector line
+      if (slot !== 0) {
+        const ln = document.createElement('div');
+        ln.className = 'connector-line';
+        // height transitions via CSS too
+        ln.style.cssText = [
+          `position:absolute`,
+          `left:50%`,
+          slot > 0 ? `top:50%` : `bottom:50%`,
+          `transform:translateX(-50%)`,
+          `width:1px`,
+          `--ch:${Math.abs(slot) * DOT_STEP_C}px`,
+          `--fh:${Math.abs(slot) * DOT_STEP_F}px`,
+          `height:var(--ch)`,
+          `background:${color}44`,
+          `pointer-events:none`,
+          `z-index:1`,
+          `transition:height 0.22s cubic-bezier(.4,0,.2,1)`,
+        ].join(';');
+        node.appendChild(ln);
+      }
+
+      // Dot
+      const dotO = document.createElement('div');
+      dotO.className = 'dot-outer' + (p.imp === 3 ? ' imp3' : '');
+      dotO.style.cssText = [
+        `background:${isLeg ? 'transparent' : color}`,
+        isLeg ? `border:2px dashed ${color}` : '',
+        `box-shadow:${isActive
+          ? `0 0 0 3px ${color}50,0 0 0 6px ${color}20`
+          : `0 0 0 2px ${color}40`}`,
+        `position:relative`,
+        `z-index:5`,
+      ].filter(Boolean).join(';');
+      const dotI = document.createElement('div');
+      dotI.className = 'dot-inner';
+      if (isLeg) dotI.style.background = color;
+      dotO.appendChild(dotI);
+      node.appendChild(dotO);
+
+      // Label
+      const lw = document.createElement('div');
+      lw.className = 'node-label-wrap ' + (isAbove ? 'above' : 'below');
+      lw.style.cssText = [
+        `pointer-events:none`,
+        `transition:opacity 0.18s`,
+        (isSolo || isActive) ? `opacity:1` : `opacity:0`,
+      ].join(';');
+      const nm = document.createElement('div');
+      nm.className = 'node-name';
+      if (isActive) nm.style.color = color;
+      nm.textContent = p.name;
+      const yl = document.createElement('div');
+      yl.className = 'node-year-lbl';
+      yl.textContent = p.displayYear;
+      lw.appendChild(nm);
+      lw.appendChild(yl);
+      const DOT_PX = p.imp === 3 ? 9 : 7;
+      if (isAbove) lw.style.bottom = `calc(50% + ${DOT_PX + 5}px)`;
+      else         lw.style.top    = `calc(50% + ${DOT_PX + 5}px)`;
+      node.appendChild(lw);
+
+      node.addEventListener('click', e => { e.stopPropagation(); selectNode(p.id); });
+      wrapper.appendChild(node);
+    });
+
+    // Click on wrapper background (not a node) — no-op but stop propagation
+    wrapper.addEventListener('click', e => e.stopPropagation());
+    tlCanvas.appendChild(wrapper);
+  });
+  applyOffset();
+}
+
+// ═══════════════════════════════════════════
+// INTERACTION
+// ═══════════════════════════════════════════
+tlOuter.addEventListener('wheel', e => {
+  e.preventDefault();
+  const rect = tlOuter.getBoundingClientRect();
+  const mx = e.clientX - rect.left;
+  const worldX = (mx - offset) / zoom;
+  const factor = e.deltaY < 0 ? 1.15 : (1/1.15);
+  zoom = Math.max(0.05, zoom * factor); // no max zoom!
+  offset = mx - worldX * zoom;
+  clamp();
+  applyOffset();
+  render();
+  zoomInfo.textContent = `Yakınlaştırma: ${Math.round(zoom * 100)}%`;
+}, {passive:false});
+
+// Drag
+tlOuter.addEventListener('mousedown', e => {
+  if (e.target.closest('.node')) return;
+  isDrag = true; dragX0 = e.clientX; offset0 = offset;
+  tlOuter.style.cursor = 'grabbing';
+});
+document.addEventListener('mousemove', e => {
+  if (isDrag) {
+    offset = offset0 + (e.clientX - dragX0);
+    clamp(); applyOffset();
+  }
+  if (isThumbDrag) {
+    const tw = totalWidth(), ow = tlOuter.offsetWidth;
+    const thumbW = Math.max(20, ow * ow / tw);
+    const maxThumbLeft = ow - thumbW;
+    const ratio = tw / ow;
+    offset = thumbOff0 - (e.clientX - thumbX0) * ratio;
+    clamp(); applyOffset();
+  }
+});
+document.addEventListener('mouseup', () => {
+  isDrag = false; isThumbDrag = false;
+  tlOuter.style.cursor = 'grab';
+});
+
+// Touch
+tlOuter.addEventListener('touchstart', e => {
+  isDrag = true; dragX0 = e.touches[0].clientX; offset0 = offset;
+},{passive:true});
+document.addEventListener('touchmove', e => {
+  if (!isDrag) return;
+  offset = offset0 + (e.touches[0].clientX - dragX0);
+  clamp(); applyOffset();
+},{passive:true});
+document.addEventListener('touchend', () => isDrag = false);
+
+// Scrollbar drag
+sbThumb.addEventListener('mousedown', e => {
+  e.stopPropagation();
+  isThumbDrag = true; thumbX0 = e.clientX; thumbOff0 = offset;
+});
+sbTrack.addEventListener('click', e => {
+  const rect = sbTrack.getBoundingClientRect();
+  const tw = totalWidth(), ow = tlOuter.offsetWidth;
+  const frac = (e.clientX - rect.left) / rect.width;
+  const maxScroll = tw - ow;
+  offset = -(frac * maxScroll);
+  clamp(); applyOffset();
+});
+
+// ═══════════════════════════════════════════
+// PANEL
+// ═══════════════════════════════════════════
+function selectNode(id) {
+  activeId = id;
+  render();
+  // Make the active node's label always visible even in collapsed group
+  const activeNode = tlCanvas.querySelector(`.node[data-pid="${id}"]`);
+  if (activeNode) {
+    const lbl = activeNode.querySelector('.node-label-wrap');
+    if (lbl) lbl.style.opacity = '1';
+  }
+  showPanel(id);
+}
+
+// JSON içerik verisini HTML'ye dönüştürür
+function renderContent(d) {
+  let h = '';
+
+  if (d.intro) {
+    h += `<p>${d.intro}</p>`;
+  }
+
+  (d.sections || []).forEach(sec => {
+    h += `<h3>${sec.title}</h3>`;
+    if (sec.body) h += `<p>${sec.body}</p>`;
+    if (sec.items && sec.items.length) {
+      const tag = sec.ordered ? 'ol' : 'ul';
+      h += `<${tag}>`;
+      sec.items.forEach(item => {
+        if (item.label) {
+          h += `<li><strong>${item.label}:</strong> ${item.text}</li>`;
+        } else {
+          h += `<li>${item.text}</li>`;
+        }
+      });
+      h += `</${tag}>`;
+    }
+  });
+
+  const hasStrengths = d.strengths && d.strengths.length;
+  const hasWeaknesses = d.weaknesses && d.weaknesses.length;
+
+  if (hasStrengths || hasWeaknesses) {
+    h += `<div class="sw-grid">`;
+    if (hasStrengths) {
+      h += `<div class="sw-box strength"><h4>✦ Güçlü Yönler</h4><ol>`;
+      d.strengths.forEach(s => {
+        h += `<li><strong>${s.title}:</strong> ${s.text}</li>`;
+      });
+      h += `</ol></div>`;
+    }
+    if (hasWeaknesses) {
+      h += `<div class="sw-box weakness"><h4>✦ Zayıf Noktalar</h4><ol>`;
+      d.weaknesses.forEach(w => {
+        h += `<li><strong>${w.title}:</strong> ${w.text}</li>`;
+      });
+      h += `</ol></div>`;
+    }
+    h += `</div>`;
+  }
+
+  return h || '<div class="no-content"><p>İçerik yapılandırılamamadı.</p></div>';
+}
+
+function showPanel(id) {
+  const p = PHILOSOPHERS.find(x => x.id === id);
+  if (!p) return;
+  const color = ERA_COLORS[p.era] || '#555';
+  const wikiUrl = WIKI_URLS[id];
+  const panel = document.getElementById('detailPanel');
+  const pc = document.getElementById('panelContent');
+
+  let html = `<div class="panel-top">
+    <div>
+      <div class="panel-title">${p.name}</div>
+      ${p.subtitle ? `<div class="panel-subtitle">${p.subtitle}</div>` : ''}
+      <div class="panel-subtitle" style="color:var(--text3)">${p.displayYear}</div>
+    </div>
+    <div class="panel-meta">
+      <div class="panel-era-tag" style="background:${color}">${p.era}</div>
+      ${wikiUrl ? `
+      <a class="wiki-btn" href="${wikiUrl}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+          <polyline points="15 3 21 3 21 9"/>
+          <line x1="10" y1="14" x2="21" y2="3"/>
+        </svg>
+        Türkçe Vikipedi
+      </a>` : ''}
+    </div>
+  </div>
+  <div class="panel-body">`;
+
+  // Header kısmını hemen göster
+  html += '<div class="panel-body"><div class="content-loading">Yükleniyor…</div></div>';
+  pc.innerHTML = html;
+  panel.classList.add('open');
+  setTimeout(() => panel.scrollIntoView({behavior:'smooth', block:'nearest'}), 80);
+
+  // İçeriği fetch et
+  fetch(`content/${id}.json`)
+    .then(r => { if (!r.ok) throw new Error('no-content'); return r.json(); })
+    .then(data => {
+      const body = pc.querySelector('.panel-body');
+      body.innerHTML = renderContent(data);
+    })
+    .catch(() => {
+      const body = pc.querySelector('.panel-body');
+      body.innerHTML = `<div class="no-content">
+        <p>Bu filozof için içerik henüz eklenmemiş.</p>
+        <p style="font-size:0.85rem;margin-top:0.5rem;font-family:Lato,sans-serif;font-style:normal;color:var(--text3)">
+          <code>content/${id}.json</code> dosyasını oluşturarak içerik ekleyebilirsiniz.
+        </p>
+      </div>`;
+    });
+}
+
+function closePanel() {
+  document.getElementById('detailPanel').classList.remove('open');
+  activeId = null;
+  render();
+}
+
+// ═══════════════════════════════════════════
+// ERA FILTERS + AUTO ZOOM
+// ═══════════════════════════════════════════
+function buildEraFilters() {
+  const eras = [...new Set(PHILOSOPHERS.map(p => p.era))];
+  const container = document.getElementById('eraFilters');
+
+  const allBtn = document.createElement('button');
+  allBtn.className = 'era-btn active';
+  allBtn.textContent = 'Tümü';
+  allBtn.onclick = () => {
+    activeEra = null;
+    document.querySelectorAll('.era-btn').forEach(b => b.classList.remove('active'));
+    allBtn.classList.add('active');
+    // Reset to full view
+    zoom = 1;
+    const ow = tlOuter.offsetWidth;
+    offset = -(yearToX(-400) - ow * 0.45);
+    clamp(); render();
+    zoomInfo.textContent = `Yakınlaştırma: 100%`;
+  };
+  container.appendChild(allBtn);
+
+  eras.forEach(era => {
+    const btn = document.createElement('button');
+    btn.className = 'era-btn';
+    btn.textContent = era;
+    const color = ERA_COLORS[era] || '#555';
+    btn.style.borderColor = color + '60';
+    btn.onmouseenter = () => { if (!btn.classList.contains('active')) btn.style.borderColor = color; btn.style.color = color; btn.style.background = color + '12'; };
+    btn.onmouseleave = () => { if (!btn.classList.contains('active')) { btn.style.borderColor = color + '60'; btn.style.color = ''; btn.style.background = ''; } };
+    btn.onclick = () => {
+      activeEra = era;
+      document.querySelectorAll('.era-btn').forEach(b => {
+        b.classList.remove('active');
+        b.style.background = ''; b.style.color = ''; b.style.borderColor = ERA_COLORS[b.textContent] ? ERA_COLORS[b.textContent] + '60' : '';
+      });
+      btn.classList.add('active');
+      btn.style.background = color; btn.style.color = '#fff'; btn.style.borderColor = color;
+      autoZoomToEra(era);
+    };
+    container.appendChild(btn);
+  });
+}
+
+function autoZoomToEra(era) {
+  const list = PHILOSOPHERS.filter(p => p.era === era);
+  if (!list.length) return;
+  const minY = Math.min(...list.map(p => p.year));
+  const maxY = Math.max(...list.map(p => p.year));
+  const spanYears = Math.max(maxY - minY, 50);
+  const ow = tlOuter.offsetWidth;
+  const padding = 120;
+  // Fit span into view with padding
+  zoom = (ow - padding * 2) / (spanYears * BASE_PX);
+  zoom = Math.max(0.05, Math.min(50, zoom));
+  const midX = yearToX((minY + maxY) / 2);
+  offset = ow / 2 - midX;
+  clamp();
+  render();
+  zoomInfo.textContent = `Yakınlaştırma: ${Math.round(zoom * 100)}%`;
+}
+
+// ═══════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════
+buildEraFilters();
+
+// Start: show M.Ö. 1100 to M.S. 500 roughly (full early history visible)
+zoom = 1;
+const ow = tlOuter.offsetWidth || 900;
+// Center around M.Ö. ~400 so Hermes visible on left and Rome visible on right
+offset = -(yearToX(-400) - ow * 0.45);
+clamp();
+render();
+</script>
+</body>
+</html>

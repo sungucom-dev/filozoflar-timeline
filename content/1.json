@@ -34,13 +34,13 @@
     }
   ],
   "strengths": [
-    { "title": "Bilimsel Temeller", "text": "Simya aracılığıyla modern kimyanın, astroloji aracılığıyla astronominin tohumlarını atmıştır." },
-    { "title": "Rönesans Aydınlanması", "text": "Da Vinci, Botticelli ve Bruno gibi isimlerin ufkunu açmıştır." },
-    { "title": "Bütüncül Bakış", "text": "Bilimi, dini ve sanatı birbirinden ayırmayan holistik bir dünya görüşü sunar." }
+    { "title": "Bilimsel Temeller", "text": "Simya aracılığıyla modern kimyanın, astroloji aracılığıyla astronominin ve evrensel yasalar fikriyle modern fiziğin (dolaylı da olsa) tohumlarını atmıştır." },
+    { "title": "Rönesans Aydınlanması", "text": "15. yüzyılda bu metinlerin yeniden keşfi; Leonardo da Vinci, Botticelli ve Giordano Bruno gibi isimlerin ufkunu açarak karanlık çağdan çıkışa ilham vermiştir." },
+    { "title": "Bütüncül Bakış", "text": "Bilimi, dini ve sanatı birbirinden ayırmayan "bütüncül" (holistik) bir dünya görüşü sunması, bugün bile alternatif düşünce ekolleri için bir pusuladır." }
   ],
   "weaknesses": [
-    { "title": "Tarihsel Kimlik Karmaşası", "text": "Casaubon gibi tarihçiler metinlerin MS 2–3. yüzyıllarda yazıldığını kanıtlamıştır." },
-    { "title": "Ezoterik Kapalılık", "text": "Bilginin seçilmişlere verilmesi fikri şeffaflıkla çelişir." },
-    { "title": "İstismara Açıklık", "text": "Hermetik yasalar şarlatanlığa alet edilebilmektedir." }
+    { "title": "Tarihsel Kimlik Karmaşası", "text": "Isaac Casaubon gibi tarihçiler, Hermetik metinlerin sanıldığı gibi 10.000 yıl önceden değil, MS 2. ve 3. yüzyıllarda (Geç Antik Çağ) yazıldığını kanıtlamıştır. Bu, "antik hikmet" iddiasına büyük bir darbe vurmuştur." },
+    { "title": "Ezoterik Kapalılık", "text": "Bilginin sadece "seçilmiş" kişilere verilmesi gerektiği fikri, bilimin halka açılması ve şeffaflık ilkeleriyle çelişir." },
+    { "title": "İstismara Açıklık", "text": "Hermetik yasalar, zaman zaman bilim dışı veya şarlatanlık düzeyindeki "mucizevi kurtuluş" vaatlerine alet edilebilmektedir." }
   ]
 }

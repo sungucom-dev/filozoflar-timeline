@@ -1,0 +1,65 @@
+{
+  "subtitle": "Mitostan Logosa Geçişin Mimarları (M.Ö. 8. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Homer: Kahramanlık Etiği ve Kozmik Düzen",
+      "body": "Homer, felsefenin en temel sorularından biri olan \"İnsan nasıl yaşamalı?\" sorusuna destansı bir cevap verir. Onun dünyası, tanrıların ve insanların iç içe geçtiği, ancak her ikisinin de üzerinde olan bir gücün egemen olduğu bir dünyadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kozmik Zorunluluk (Moira)",
+          "text": "Homer'in en çarpıcı yönü, Tanrıların (Zeus dahil) bile üzerinde olan \"Kader\" (Moira) kavramıdır. Bu, felsefede daha sonra karşımıza çıkacak olan \"Evrensel Yasa\" veya \"Doğa Yasası\" fikrinin mitolojik ilk halidir. Eleştirel olarak bakıldığında Homer, evrenin keyfi olmadığını, tanrıların bile değiştiremeyeceği bir sınırın/düzenin var olduğunu sezdirir."
+        },
+        {
+          "label": "Arete ve Kleos",
+          "text": "Homerik ahlak, bireysel mükemmellik (Arete) ve kalıcı ün (Kleos) üzerine kuruludur. Bu, toplumsal bir sözleşmeden ziyade, kişisel onur üzerine kurulu bir etik anlayışıdır."
+        },
+        {
+          "label": "Zayıf Noktası",
+          "text": "Homer'in dünyasında ahlak, tanrıların kaprislerine ve fiziksel güce çok fazla bağımlıdır. \"İyi\" olan, \"güçlü\" olandır. Bu durum, daha sonra Sokrates gibi isimlerin \"erdem nedir?\" sorusunu sormasına neden olan o boşluğu yaratmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Hesiodos: Sistematik Kozmogoni ve Adalet (Dike)",
+      "body": "Eğer Homer \"nasıl yaşamalı?\" sorusuna odaklandıysa, Hesiodos \"Her şey nasıl başladı?\" ve \"Düzen nasıl sağlanır?\" sorularına odaklanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kaostan Kozmosa",
+          "text": "Theogony (Tanrıların Doğuşu) eserinde Hesiodos, evrenin bir \"kaos\"tan (boşluktan) evrilerek düzenli bir yapıya kavuştuğunu anlatır. Bu, Thales ve Anaximander'in \"arkhe\" (ilk madde) arayışının doğrudan atasıdır. Düşünsel aktarımı, mitolojik olsa da, sistemli bir kronoloji sunması bakımından devrimcidir."
+        },
+        {
+          "label": "Adalet İlkesi (Dike)",
+          "text": "İşler ve Günler kitabında, adaleti (Dike) toplumsal huzurun temeli olarak görür. Tanrıların adaleti koruduğunu, çalışmanın ve dürüstlüğün tek kurtuluş yolu olduğunu savunur. Bu, felsefenin \"siyaset ve etik\" kanadının ilk ciddi tohumudur."
+        },
+        {
+          "label": "Zayıf Noktası",
+          "text": "Hesiodos'un dünyası derin bir kötümserlik barındırır. \"Altın Çağ\"dan \"Demir Çağı\"na (kendi dönemi) geçişi bir çöküş olarak anlatır. Geleceğe dair bir umut veya insanın akıl yoluyla kendini kurtarma fikri henüz doğmamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Bir Bütün Olarak Değerlendirme",
+      "body": "Homer ve Hesiodos'u bir bütün olarak eleştirdiğimizde karşımıza çıkan tablo:",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Antropomorfizm (İnsanbiçimcilik) Engeli",
+          "text": "Bu iki isim, evreni açıklarken tanrıları insani kusurlarla donatmıştır. Bu, felsefi bir açıklama için engeldir çünkü evrenin işleyişini \"birinin kararına\" bağlar. Ksenofanes'in daha sonra yapacağı \"İnsanlar tanrıları kendilerine benzetir\" eleştirisinin haklılık payı burada yatar."
+        },
+        {
+          "label": "Düzen Arayışının Başlatılması",
+          "text": "En büyük başarıları, dünyayı \"parçalı hikayeler\" olmaktan çıkarıp, birbirine bağlı bir \"sistem\" olarak sunmalarıdır. Hesiodos'un evren doğuşu anlatısı, bilimsel teorilerin atası olan bir \"tarihsel süreç\" fikrini başlatmıştır."
+        },
+        {
+          "label": "Etik Temellerin Atılması",
+          "text": "Homer'in kahramanlık onuru ile Hesiodos'un adalet ve çalışma ahlakı, Batı etiğinin iki zıt kutbunu oluşturur: Bir yanda bireysel deha, diğer yanda toplumsal düzen."
+        }
+      ]
+    }
+  ],
+  "strengths": [],
+  "weaknesses": []
+}

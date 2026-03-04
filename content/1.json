@@ -1,0 +1,46 @@
+{
+  "subtitle": "Üç Kez Ulu Hermes",
+  "intro": "Hermes Trismegistus, düşünce tarihinde \"Simyanın Babası\" ve \"Okültizmin Mimarı\"dır. O, tarihin tozlu sayfalarından ziyade, insan ruhunun ve evrenin işleyişine dair kadim bir \"fısıltı\" gibidir. Rönesans dâhilerinden Newton'a kadar pek çok zihni etkileyen bu figür, bize evrenin rastgele bir kaos değil, belirli yasalarla işleyen devasa bir \"zihin\" olduğunu söyler.",
+  "sections": [
+    {
+      "title": "Zümrüt Tablet (Tabula Smaragdina)",
+      "body": "Hermetizmin özü, bu küçücük ama devasa etkili metinde saklıdır.",
+      "items": [
+        { "label": "Tekabül Yasası", "text": "\"Aşağıda olan yukarıda olan gibidir, yukarıda olan da aşağıda olan gibidir; tek bir şeyin mucizesini gerçekleştirmek için.\"" },
+        { "label": "Birlik", "text": "Evrendeki her şeyin tek bir kaynaktan geldiğini ve makro kozmos (evren) ile mikro kozmosun (insan) birbirinin aynası olduğunu savunur." }
+      ]
+    },
+    {
+      "title": "Kybalion ve Yedi Evrensel İlke",
+      "body": "Hermetik bilgeliğin temel yasaları:",
+      "ordered": true,
+      "items": [
+        { "label": "Zihinsellik", "text": "\"Her şey zihindir; evren zihinseldir.\"" },
+        { "label": "Tekabül", "text": "Aşağısı yukarısı gibidir." },
+        { "label": "Titreşim", "text": "Hiçbir şey durmaz; her şey hareket eder, her şey titreşir." },
+        { "label": "Zıtlık", "text": "Her şey ikilidir; her şeyin zıt kutupları vardır." },
+        { "label": "Ritim", "text": "Her şey akar ve geri döner; sarkaç her zaman aynı mesafede sallanır." },
+        { "label": "Sebep-Sonuç", "text": "Her sebebin bir sonucu, her sonucun bir sebebi vardır." },
+        { "label": "Cinsiyet", "text": "Her şeyin eril ve dişil prensibi vardır." }
+      ]
+    },
+    {
+      "title": "Corpus Hermeticum ve Kutsal Bilgi",
+      "body": "",
+      "items": [
+        { "label": "Gnosis (Bilgi)", "text": "Kurtuluş, sadece ibadetle değil, evrenin ve kendi benliğinin gerçek doğasını \"bilmek\" (Gnosis) ile mümkündür." },
+        { "label": "İnsan-Tanrı", "text": "İnsan, Tanrı'nın bir parçasıdır ve doğru simyasal (ruhsal) süreçlerden geçerek kendi içindeki ilahiliğe ulaşabilir." }
+      ]
+    }
+  ],
+  "strengths": [
+    { "title": "Bilimsel Temeller", "text": "Simya aracılığıyla modern kimyanın, astroloji aracılığıyla astronominin tohumlarını atmıştır." },
+    { "title": "Rönesans Aydınlanması", "text": "Da Vinci, Botticelli ve Bruno gibi isimlerin ufkunu açmıştır." },
+    { "title": "Bütüncül Bakış", "text": "Bilimi, dini ve sanatı birbirinden ayırmayan holistik bir dünya görüşü sunar." }
+  ],
+  "weaknesses": [
+    { "title": "Tarihsel Kimlik Karmaşası", "text": "Casaubon gibi tarihçiler metinlerin MS 2–3. yüzyıllarda yazıldığını kanıtlamıştır." },
+    { "title": "Ezoterik Kapalılık", "text": "Bilginin seçilmişlere verilmesi fikri şeffaflıkla çelişir." },
+    { "title": "İstismara Açıklık", "text": "Hermetik yasalar şarlatanlığa alet edilebilmektedir." }
+  ]
+}

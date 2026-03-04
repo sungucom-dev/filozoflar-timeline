@@ -88,6 +88,99 @@ h1 span { color: var(--gold); }
 }
 .hint span { display: flex; align-items: center; gap: 0.3rem; }
 .hint svg { width: 14px; height: 14px; opacity: 0.6; }
+.search-wrap {
+  position: relative;
+  flex: 1;
+  max-width: 320px;
+}
+.search-input {
+  width: 100%;
+  padding: 0.4rem 2.2rem 0.4rem 0.9rem;
+  border: 1px solid var(--border2);
+  background: var(--surface);
+  color: var(--text);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.85rem;
+  outline: none;
+  transition: border-color 0.2s;
+  border-radius: 2px;
+}
+.search-input:focus { border-color: var(--gold); }
+.search-input::placeholder { color: var(--text4); }
+.search-icon {
+  position: absolute;
+  right: 0.6rem; top: 50%;
+  transform: translateY(-50%);
+  width: 14px; height: 14px;
+  color: var(--text3);
+  pointer-events: none;
+}
+.search-clear {
+  position: absolute;
+  right: 0.5rem; top: 50%;
+  transform: translateY(-50%);
+  background: none; border: none;
+  color: var(--text3); cursor: pointer;
+  font-size: 1rem; line-height: 1;
+  display: none;
+  padding: 0 2px;
+}
+.search-clear:hover { color: var(--text); }
+.search-dropdown {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0; right: 0;
+  background: var(--surface);
+  border: 1px solid var(--border2);
+  box-shadow: 0 4px 16px var(--shadow);
+  max-height: 260px;
+  overflow-y: auto;
+  z-index: 1000;
+  display: none;
+}
+.search-dropdown.open { display: block; }
+.search-item {
+  padding: 0.5rem 0.9rem;
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.15s;
+}
+.search-item:last-child { border-bottom: none; }
+.search-item:hover, .search-item.highlighted { background: var(--gold-pale); }
+.search-item-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text);
+  flex: 1;
+}
+.search-item-name mark {
+  background: transparent;
+  color: var(--gold);
+  font-weight: 700;
+}
+.search-item-meta {
+  font-size: 0.72rem;
+  color: var(--text3);
+  white-space: nowrap;
+}
+.search-item-era {
+  font-size: 0.65rem;
+  padding: 1px 5px;
+  border-radius: 2px;
+  color: #fff;
+  white-space: nowrap;
+}
+.search-no-result {
+  padding: 0.7rem 0.9rem;
+  font-size: 0.85rem;
+  color: var(--text3);
+  font-style: italic;
+}
+
 .zoom-info {
   font-family: 'Cinzel', serif;
   font-size: 0.65rem;
@@ -542,6 +635,12 @@ h1 span { color: var(--gold); }
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
       Tıkla: Detay
     </span>
+  </div>
+  <div class="search-wrap">
+    <input class="search-input" id="searchInput" type="text" placeholder="Filozof ara… (örn: Platon, Kant)" autocomplete="off" spellcheck="false">
+    <svg class="search-icon" id="searchIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <button class="search-clear" id="searchClear" title="Temizle">✕</button>
+    <div class="search-dropdown" id="searchDropdown"></div>
   </div>
   <div class="zoom-info" id="zoomInfo">Yakınlaştırma: 100%</div>
 </div>
@@ -1606,6 +1705,157 @@ const ow = tlOuter.offsetWidth || 900;
 offset = -(yearToX(-400) - ow * 0.45);
 clamp();
 render();
+
+// ═══════════════════════════════════════════
+// SEARCH
+// ═══════════════════════════════════════════
+const searchInput    = document.getElementById('searchInput');
+const searchDropdown = document.getElementById('searchDropdown');
+const searchClear    = document.getElementById('searchClear');
+const searchIcon     = document.getElementById('searchIcon');
+
+let highlightedIdx = -1;
+let searchResults  = [];
+
+function escapeRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+
+function highlight(text, query) {
+  if (!query) return text;
+  return text.replace(new RegExp(`(${escapeRe(query)})`, 'gi'), '<mark>$1</mark>');
+}
+
+function doSearch(q) {
+  q = q.trim();
+  searchDropdown.innerHTML = '';
+  highlightedIdx = -1;
+
+  if (q.length < 1) {
+    searchDropdown.classList.remove('open');
+    searchClear.style.display = 'none';
+    searchIcon.style.display  = '';
+    return;
+  }
+
+  searchClear.style.display = '';
+  searchIcon.style.display  = 'none';
+
+  const ql = q.toLowerCase();
+  searchResults = PHILOSOPHERS.filter(p =>
+    p.name.toLowerCase().includes(ql) ||
+    p.era.toLowerCase().includes(ql)
+  ).slice(0, 12);
+
+  if (!searchResults.length) {
+    searchDropdown.innerHTML = `<div class="search-no-result">Sonuç bulunamadı</div>`;
+    searchDropdown.classList.add('open');
+    return;
+  }
+
+  searchResults.forEach((p, i) => {
+    const color = ERA_COLORS[p.era] || '#555';
+    const item  = document.createElement('div');
+    item.className = 'search-item';
+    item.innerHTML = `
+      <span class="search-item-name">${highlight(p.name, q)}</span>
+      <span class="search-item-meta">${p.displayYear}</span>
+      <span class="search-item-era" style="background:${color}">${p.era}</span>
+    `;
+    item.addEventListener('mousedown', e => {
+      e.preventDefault(); // don't blur input
+      pickResult(i);
+    });
+    searchDropdown.appendChild(item);
+  });
+
+  searchDropdown.classList.add('open');
+}
+
+function pickResult(idx) {
+  const p = searchResults[idx];
+  if (!p) return;
+
+  // Close dropdown
+  searchDropdown.classList.remove('open');
+  searchInput.value = p.name;
+  searchClear.style.display = '';
+  searchIcon.style.display  = 'none';
+
+  // Zoom to philosopher: zoom in nicely, centre on them
+  const targetZoom = Math.max(zoom, 4); // zoom in to at least 400%
+  const ow = tlOuter.offsetWidth;
+  const targetX = (p.year - MIN_YEAR) * BASE_PX * targetZoom;
+  zoom   = targetZoom;
+  offset = ow / 2 - targetX;
+  clamp();
+  render();
+  zoomInfo.textContent = `Yakınlaştırma: ${Math.round(zoom * 100)}%`;
+
+  // Select and open panel
+  selectNode(p.id);
+
+  // Pulse the node briefly to make it findable
+  setTimeout(() => {
+    const node = tlCanvas.querySelector(`.yr-node[data-pid="${p.id}"]`);
+    if (node) {
+      node.style.transition = 'transform 0.1s';
+      node.style.transform  = 'translate(-50%, calc(-50% + var(--cy))) scale(2.2)';
+      setTimeout(() => { node.style.transform = ''; }, 300);
+    }
+  }, 120);
+}
+
+// Keyboard navigation
+searchInput.addEventListener('input', e => doSearch(e.target.value));
+
+searchInput.addEventListener('keydown', e => {
+  const items = searchDropdown.querySelectorAll('.search-item');
+  if (!items.length) return;
+
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    highlightedIdx = Math.min(highlightedIdx + 1, items.length - 1);
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    highlightedIdx = Math.max(highlightedIdx - 1, 0);
+  } else if (e.key === 'Enter') {
+    e.preventDefault();
+    if (highlightedIdx >= 0) pickResult(highlightedIdx);
+    else if (searchResults.length === 1) pickResult(0);
+    return;
+  } else if (e.key === 'Escape') {
+    searchDropdown.classList.remove('open');
+    searchInput.blur();
+    return;
+  } else { return; }
+
+  items.forEach((el, i) => el.classList.toggle('highlighted', i === highlightedIdx));
+  items[highlightedIdx]?.scrollIntoView({ block: 'nearest' });
+});
+
+searchInput.addEventListener('focus', () => {
+  if (searchInput.value.trim()) doSearch(searchInput.value);
+});
+
+searchInput.addEventListener('blur', () => {
+  // Small delay so mousedown on item fires first
+  setTimeout(() => searchDropdown.classList.remove('open'), 150);
+});
+
+searchClear.addEventListener('click', () => {
+  searchInput.value = '';
+  searchClear.style.display = 'none';
+  searchIcon.style.display  = '';
+  searchDropdown.classList.remove('open');
+  searchInput.focus();
+});
+
+// Close dropdown on outside click
+document.addEventListener('click', e => {
+  if (!e.target.closest('.search-wrap')) {
+    searchDropdown.classList.remove('open');
+  }
+});
+
 </script>
 </body>
 </html>

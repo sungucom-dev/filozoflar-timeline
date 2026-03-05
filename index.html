@@ -244,6 +244,7 @@ h1 span { color: var(--gold); }
   cursor: grab;
   user-select: none;
   background: var(--bg);
+  touch-action: none; /* critical: let JS handle all touch */
 }
 .timeline-outer:active { cursor: grabbing; }
 
@@ -589,7 +590,6 @@ h1 span { color: var(--gold); }
 }
 
 /* ── Year-group hover: CSS-only fan, zero flicker ── */
-/* Non-solo groups: fan nodes to fanned position on wrapper hover */
 .yr-group:not(.solo):hover .yr-node {
   transform: translate(-50%, calc(-50% + var(--fy))) !important;
 }
@@ -599,7 +599,6 @@ h1 span { color: var(--gold); }
 .yr-group:not(.solo):hover .yr-node .node-label-wrap {
   opacity: 1 !important;
 }
-/* Ensure wrapper itself doesn't block axis text */
 .yr-group { background: transparent; }
 
 /* Era color dots on timeline */
@@ -611,6 +610,33 @@ h1 span { color: var(--gold); }
   pointer-events: none;
   z-index: 1;
 }
+
+/* ── MOBILE ZOOM BUTTONS ── */
+.zoom-btns {
+  display: none;
+  position: absolute;
+  bottom: 10px;
+  right: 12px;
+  z-index: 30;
+  gap: 6px;
+}
+@media (pointer: coarse) {
+  .zoom-btns { display: flex; }
+}
+.zoom-btn {
+  width: 36px; height: 36px;
+  background: var(--surface);
+  border: 1px solid var(--border2);
+  color: var(--text2);
+  font-size: 1.2rem;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px var(--shadow);
+  user-select: none;
+  -webkit-user-select: none;
+}
+.zoom-btn:active { background: var(--gold-pale); }
 </style>
 </head>
 <body>
@@ -655,6 +681,11 @@ h1 span { color: var(--gold); }
   <div class="fade-r"></div>
   <div class="axis-line"></div>
   <div class="timeline-canvas" id="tlCanvas"></div>
+  <!-- Mobile zoom buttons -->
+  <div class="zoom-btns">
+    <button class="zoom-btn" id="zoomOutBtn" title="Uzaklaştır">−</button>
+    <button class="zoom-btn" id="zoomInBtn" title="Yakınlaştır">+</button>
+  </div>
 </div>
 
 <div class="scrollbar-wrap">
@@ -693,157 +724,15 @@ const ERA_COLORS = {
   "Çağdaş":             "#3a3a8b",
 };
 
-// Wikipedia Turkish URLs
 const WIKI_URLS = {
-  1:   "https://tr.wikipedia.org/wiki/Hermes_Trismegistus",
-  2:   "https://tr.wikipedia.org/wiki/Zerd%C3%BC%C5%9Ft",
-  3:   "https://tr.wikipedia.org/wiki/Homeros",
-  4:   "https://tr.wikipedia.org/wiki/Thales",
-  5:   "https://tr.wikipedia.org/wiki/Yedi_Bilgeler",
-  6:   "https://tr.wikipedia.org/wiki/Anaksimandros",
-  7:   "https://tr.wikipedia.org/wiki/Mahavira",
-  8:   "https://tr.wikipedia.org/wiki/Anaksimenes",
-  9:   "https://tr.wikipedia.org/wiki/Ksenofanes",
-  10:  "https://tr.wikipedia.org/wiki/Pisagor",
-  11:  "https://tr.wikipedia.org/wiki/Siddhartha_Gautama",
-  12:  "https://tr.wikipedia.org/wiki/Konfüçyüs",
-  13:  "https://tr.wikipedia.org/wiki/Ferekides",
-  16:  "https://tr.wikipedia.org/wiki/Laozi",
-  17:  "https://tr.wikipedia.org/wiki/Herakleitos",
-  18:  "https://tr.wikipedia.org/wiki/Parmenides",
-  19:  "https://tr.wikipedia.org/wiki/Anaksagoras",
-  20:  "https://tr.wikipedia.org/wiki/Elea'lı_Zenon",
-  21:  "https://tr.wikipedia.org/wiki/Empedokles",
-  22:  "https://tr.wikipedia.org/wiki/Protagoras",
-  23:  "https://tr.wikipedia.org/wiki/Gorgias",
-  24:  "https://tr.wikipedia.org/wiki/Mozi",
-  26:  "https://tr.wikipedia.org/wiki/Sokrates",
-  28:  "https://tr.wikipedia.org/wiki/Demokritos",
-  39:  "https://tr.wikipedia.org/wiki/Platon",
-  40:  "https://tr.wikipedia.org/wiki/Sinoplu_Diyojen",
-  41:  "https://tr.wikipedia.org/wiki/Aristoteles",
-  42:  "https://tr.wikipedia.org/wiki/Mencius",
-  43:  "https://tr.wikipedia.org/wiki/Zhuangzi",
-  48:  "https://tr.wikipedia.org/wiki/Epikuros",
-  49:  "https://tr.wikipedia.org/wiki/Kıbrıslı_Zenon",
-  52:  "https://tr.wikipedia.org/wiki/Han_Fei",
-  57:  "https://tr.wikipedia.org/wiki/Cicero",
-  58:  "https://tr.wikipedia.org/wiki/Lucretius",
-  60:  "https://tr.wikipedia.org/wiki/Philo",
-  61:  "https://tr.wikipedia.org/wiki/Seneca",
-  63:  "https://tr.wikipedia.org/wiki/Epiktetos",
-  64:  "https://tr.wikipedia.org/wiki/Marcus_Aurelius",
-  65:  "https://tr.wikipedia.org/wiki/Nagarjuna",
-  69:  "https://tr.wikipedia.org/wiki/Plotinus",
-  72:  "https://tr.wikipedia.org/wiki/Hypatia",
-  73:  "https://tr.wikipedia.org/wiki/Augustinus",
-  78:  "https://tr.wikipedia.org/wiki/Boethius",
-  84:  "https://tr.wikipedia.org/wiki/Ebu_Hanife",
-  88:  "https://tr.wikipedia.org/wiki/El-Kindi",
-  93:  "https://tr.wikipedia.org/wiki/Farabi",
-  100: "https://tr.wikipedia.org/wiki/İbn_Sina",
-  104: "https://tr.wikipedia.org/wiki/Gazali",
-  106: "https://tr.wikipedia.org/wiki/Pierre_Abelard",
-  108: "https://tr.wikipedia.org/wiki/Hildegard_von_Bingen",
-  111: "https://tr.wikipedia.org/wiki/İbn_Rüşd",
-  112: "https://tr.wikipedia.org/wiki/Maimonides",
-  114: "https://tr.wikipedia.org/wiki/Şihabüddin_Sühreverdi",
-  115: "https://tr.wikipedia.org/wiki/İbn_Arabi",
-  119: "https://tr.wikipedia.org/wiki/Mevlana",
-  123: "https://tr.wikipedia.org/wiki/Thomas_Aquinas",
-  124: "https://tr.wikipedia.org/wiki/Yunus_Emre",
-  126: "https://tr.wikipedia.org/wiki/Meister_Eckhart",
-  130: "https://tr.wikipedia.org/wiki/William_of_Ockham",
-  133: "https://tr.wikipedia.org/wiki/Petrarch",
-  135: "https://tr.wikipedia.org/wiki/İbn_Haldun",
-  139: "https://tr.wikipedia.org/wiki/Nikolaus_von_Kues",
-  142: "https://tr.wikipedia.org/wiki/Marsilio_Ficino",
-  143: "https://tr.wikipedia.org/wiki/Giovanni_Pico_della_Mirandola",
-  144: "https://tr.wikipedia.org/wiki/Erasmus",
-  145: "https://tr.wikipedia.org/wiki/Niccolò_Machiavelli",
-  147: "https://tr.wikipedia.org/wiki/Thomas_More",
-  149: "https://tr.wikipedia.org/wiki/Martin_Luther",
-  154: "https://tr.wikipedia.org/wiki/Michel_de_Montaigne",
-  156: "https://tr.wikipedia.org/wiki/Giordano_Bruno",
-  157: "https://tr.wikipedia.org/wiki/Francis_Bacon",
-  158: "https://tr.wikipedia.org/wiki/Galileo_Galilei",
-  160: "https://tr.wikipedia.org/wiki/Molla_Sadra",
-  163: "https://tr.wikipedia.org/wiki/Thomas_Hobbes",
-  166: "https://tr.wikipedia.org/wiki/René_Descartes",
-  169: "https://tr.wikipedia.org/wiki/Blaise_Pascal",
-  171: "https://tr.wikipedia.org/wiki/Baruch_Spinoza",
-  172: "https://tr.wikipedia.org/wiki/John_Locke",
-  176: "https://tr.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
-  182: "https://tr.wikipedia.org/wiki/George_Berkeley",
-  183: "https://tr.wikipedia.org/wiki/Montesquieu",
-  186: "https://tr.wikipedia.org/wiki/Voltaire",
-  187: "https://tr.wikipedia.org/wiki/Émilie_du_Châtelet",
-  191: "https://tr.wikipedia.org/wiki/David_Hume",
-  192: "https://tr.wikipedia.org/wiki/Jean-Jacques_Rousseau",
-  193: "https://tr.wikipedia.org/wiki/Denis_Diderot",
-  197: "https://tr.wikipedia.org/wiki/Adam_Smith",
-  199: "https://tr.wikipedia.org/wiki/Immanuel_Kant",
-  204: "https://tr.wikipedia.org/wiki/Thomas_Paine",
-  208: "https://tr.wikipedia.org/wiki/Jeremy_Bentham",
-  211: "https://tr.wikipedia.org/wiki/Mary_Wollstonecraft",
-  213: "https://tr.wikipedia.org/wiki/Johann_Gottlieb_Fichte",
-  216: "https://tr.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
-  219: "https://tr.wikipedia.org/wiki/Friedrich_Schelling",
-  220: "https://tr.wikipedia.org/wiki/Arthur_Schopenhauer",
-  221: "https://tr.wikipedia.org/wiki/Auguste_Comte",
-  226: "https://tr.wikipedia.org/wiki/John_Stuart_Mill",
-  231: "https://tr.wikipedia.org/wiki/Søren_Kierkegaard",
-  234: "https://tr.wikipedia.org/wiki/Karl_Marx",
-  243: "https://tr.wikipedia.org/wiki/Charles_Sanders_Peirce",
-  244: "https://tr.wikipedia.org/wiki/Namık_Kemal",
-  246: "https://tr.wikipedia.org/wiki/William_James",
-  248: "https://tr.wikipedia.org/wiki/Friedrich_Nietzsche",
-  253: "https://tr.wikipedia.org/wiki/Sigmund_Freud",
-  257: "https://tr.wikipedia.org/wiki/Edmund_Husserl",
-  258: "https://tr.wikipedia.org/wiki/Henri_Bergson",
-  259: "https://tr.wikipedia.org/wiki/John_Dewey",
-  262: "https://tr.wikipedia.org/wiki/Rabindranath_Tagore",
-  265: "https://tr.wikipedia.org/wiki/Bertrand_Russell",
-  269: "https://tr.wikipedia.org/wiki/Carl_Gustav_Jung",
-  270: "https://tr.wikipedia.org/wiki/Muhammed_İkbal",
-  277: "https://tr.wikipedia.org/wiki/Ludwig_Wittgenstein",
-  278: "https://tr.wikipedia.org/wiki/Martin_Heidegger",
-  279: "https://tr.wikipedia.org/wiki/Antonio_Gramsci",
-  281: "https://tr.wikipedia.org/wiki/Walter_Benjamin",
-  285: "https://tr.wikipedia.org/wiki/Hans-Georg_Gadamer",
-  286: "https://tr.wikipedia.org/wiki/Jacques_Lacan",
-  288: "https://tr.wikipedia.org/wiki/Karl_Popper",
-  289: "https://tr.wikipedia.org/wiki/Theodor_Adorno",
-  291: "https://tr.wikipedia.org/wiki/Jean-Paul_Sartre",
-  293: "https://tr.wikipedia.org/wiki/Hannah_Arendt",
-  294: "https://tr.wikipedia.org/wiki/Kurt_Gödel",
-  298: "https://tr.wikipedia.org/wiki/Simone_de_Beauvoir",
-  300: "https://tr.wikipedia.org/wiki/Simone_Weil",
-  302: "https://tr.wikipedia.org/wiki/Marshall_McLuhan",
-  303: "https://tr.wikipedia.org/wiki/Albert_Camus",
-  305: "https://tr.wikipedia.org/wiki/Roland_Barthes",
-  312: "https://tr.wikipedia.org/wiki/John_Rawls",
-  314: "https://tr.wikipedia.org/wiki/Thomas_Kuhn",
-  317: "https://tr.wikipedia.org/wiki/Frantz_Fanon",
-  318: "https://tr.wikipedia.org/wiki/Gilles_Deleuze",
-  321: "https://tr.wikipedia.org/wiki/Michel_Foucault",
-  322: "https://tr.wikipedia.org/wiki/Noam_Chomsky",
-  325: "https://tr.wikipedia.org/wiki/Jürgen_Habermas",
-  327: "https://tr.wikipedia.org/wiki/Jacques_Derrida",
-  328: "https://tr.wikipedia.org/wiki/Pierre_Bourdieu",
-  330: "https://tr.wikipedia.org/wiki/Edward_Said",
-  343: "https://tr.wikipedia.org/wiki/Slavoj_Žižek",
-  349: "https://tr.wikipedia.org/wiki/Judith_Butler",
-  350: "https://tr.wikipedia.org/wiki/Byung-Chul_Han",
+  1:"https://tr.wikipedia.org/wiki/Hermes_Trismegistus",2:"https://tr.wikipedia.org/wiki/Zerd%C3%BC%C5%9Ft",3:"https://tr.wikipedia.org/wiki/Homeros",4:"https://tr.wikipedia.org/wiki/Thales",5:"https://tr.wikipedia.org/wiki/Yedi_Bilgeler",6:"https://tr.wikipedia.org/wiki/Anaksimandros",7:"https://tr.wikipedia.org/wiki/Mahavira",8:"https://tr.wikipedia.org/wiki/Anaksimenes",9:"https://tr.wikipedia.org/wiki/Ksenofanes",10:"https://tr.wikipedia.org/wiki/Pisagor",11:"https://tr.wikipedia.org/wiki/Siddhartha_Gautama",12:"https://tr.wikipedia.org/wiki/Konfüçyüs",13:"https://tr.wikipedia.org/wiki/Ferekides",16:"https://tr.wikipedia.org/wiki/Laozi",17:"https://tr.wikipedia.org/wiki/Herakleitos",18:"https://tr.wikipedia.org/wiki/Parmenides",19:"https://tr.wikipedia.org/wiki/Anaksagoras",20:"https://tr.wikipedia.org/wiki/Elea'lı_Zenon",21:"https://tr.wikipedia.org/wiki/Empedokles",22:"https://tr.wikipedia.org/wiki/Protagoras",23:"https://tr.wikipedia.org/wiki/Gorgias",24:"https://tr.wikipedia.org/wiki/Mozi",26:"https://tr.wikipedia.org/wiki/Sokrates",28:"https://tr.wikipedia.org/wiki/Demokritos",39:"https://tr.wikipedia.org/wiki/Platon",40:"https://tr.wikipedia.org/wiki/Sinoplu_Diyojen",41:"https://tr.wikipedia.org/wiki/Aristoteles",42:"https://tr.wikipedia.org/wiki/Mencius",43:"https://tr.wikipedia.org/wiki/Zhuangzi",48:"https://tr.wikipedia.org/wiki/Epikuros",49:"https://tr.wikipedia.org/wiki/Kıbrıslı_Zenon",52:"https://tr.wikipedia.org/wiki/Han_Fei",57:"https://tr.wikipedia.org/wiki/Cicero",58:"https://tr.wikipedia.org/wiki/Lucretius",60:"https://tr.wikipedia.org/wiki/Philo",61:"https://tr.wikipedia.org/wiki/Seneca",63:"https://tr.wikipedia.org/wiki/Epiktetos",64:"https://tr.wikipedia.org/wiki/Marcus_Aurelius",65:"https://tr.wikipedia.org/wiki/Nagarjuna",69:"https://tr.wikipedia.org/wiki/Plotinus",72:"https://tr.wikipedia.org/wiki/Hypatia",73:"https://tr.wikipedia.org/wiki/Augustinus",78:"https://tr.wikipedia.org/wiki/Boethius",84:"https://tr.wikipedia.org/wiki/Ebu_Hanife",88:"https://tr.wikipedia.org/wiki/El-Kindi",93:"https://tr.wikipedia.org/wiki/Farabi",100:"https://tr.wikipedia.org/wiki/İbn_Sina",104:"https://tr.wikipedia.org/wiki/Gazali",106:"https://tr.wikipedia.org/wiki/Pierre_Abelard",108:"https://tr.wikipedia.org/wiki/Hildegard_von_Bingen",111:"https://tr.wikipedia.org/wiki/İbn_Rüşd",112:"https://tr.wikipedia.org/wiki/Maimonides",114:"https://tr.wikipedia.org/wiki/Şihabüddin_Sühreverdi",115:"https://tr.wikipedia.org/wiki/İbn_Arabi",119:"https://tr.wikipedia.org/wiki/Mevlana",123:"https://tr.wikipedia.org/wiki/Thomas_Aquinas",124:"https://tr.wikipedia.org/wiki/Yunus_Emre",126:"https://tr.wikipedia.org/wiki/Meister_Eckhart",130:"https://tr.wikipedia.org/wiki/William_of_Ockham",133:"https://tr.wikipedia.org/wiki/Petrarch",135:"https://tr.wikipedia.org/wiki/İbn_Haldun",139:"https://tr.wikipedia.org/wiki/Nikolaus_von_Kues",142:"https://tr.wikipedia.org/wiki/Marsilio_Ficino",143:"https://tr.wikipedia.org/wiki/Giovanni_Pico_della_Mirandola",144:"https://tr.wikipedia.org/wiki/Erasmus",145:"https://tr.wikipedia.org/wiki/Niccolò_Machiavelli",147:"https://tr.wikipedia.org/wiki/Thomas_More",149:"https://tr.wikipedia.org/wiki/Martin_Luther",154:"https://tr.wikipedia.org/wiki/Michel_de_Montaigne",156:"https://tr.wikipedia.org/wiki/Giordano_Bruno",157:"https://tr.wikipedia.org/wiki/Francis_Bacon",158:"https://tr.wikipedia.org/wiki/Galileo_Galilei",160:"https://tr.wikipedia.org/wiki/Molla_Sadra",163:"https://tr.wikipedia.org/wiki/Thomas_Hobbes",166:"https://tr.wikipedia.org/wiki/René_Descartes",169:"https://tr.wikipedia.org/wiki/Blaise_Pascal",171:"https://tr.wikipedia.org/wiki/Baruch_Spinoza",172:"https://tr.wikipedia.org/wiki/John_Locke",176:"https://tr.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",182:"https://tr.wikipedia.org/wiki/George_Berkeley",183:"https://tr.wikipedia.org/wiki/Montesquieu",186:"https://tr.wikipedia.org/wiki/Voltaire",187:"https://tr.wikipedia.org/wiki/Émilie_du_Châtelet",191:"https://tr.wikipedia.org/wiki/David_Hume",192:"https://tr.wikipedia.org/wiki/Jean-Jacques_Rousseau",193:"https://tr.wikipedia.org/wiki/Denis_Diderot",197:"https://tr.wikipedia.org/wiki/Adam_Smith",199:"https://tr.wikipedia.org/wiki/Immanuel_Kant",204:"https://tr.wikipedia.org/wiki/Thomas_Paine",208:"https://tr.wikipedia.org/wiki/Jeremy_Bentham",211:"https://tr.wikipedia.org/wiki/Mary_Wollstonecraft",213:"https://tr.wikipedia.org/wiki/Johann_Gottlieb_Fichte",216:"https://tr.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",219:"https://tr.wikipedia.org/wiki/Friedrich_Schelling",220:"https://tr.wikipedia.org/wiki/Arthur_Schopenhauer",221:"https://tr.wikipedia.org/wiki/Auguste_Comte",226:"https://tr.wikipedia.org/wiki/John_Stuart_Mill",231:"https://tr.wikipedia.org/wiki/Søren_Kierkegaard",234:"https://tr.wikipedia.org/wiki/Karl_Marx",243:"https://tr.wikipedia.org/wiki/Charles_Sanders_Peirce",244:"https://tr.wikipedia.org/wiki/Namık_Kemal",246:"https://tr.wikipedia.org/wiki/William_James",248:"https://tr.wikipedia.org/wiki/Friedrich_Nietzsche",253:"https://tr.wikipedia.org/wiki/Sigmund_Freud",257:"https://tr.wikipedia.org/wiki/Edmund_Husserl",258:"https://tr.wikipedia.org/wiki/Henri_Bergson",259:"https://tr.wikipedia.org/wiki/John_Dewey",262:"https://tr.wikipedia.org/wiki/Rabindranath_Tagore",265:"https://tr.wikipedia.org/wiki/Bertrand_Russell",269:"https://tr.wikipedia.org/wiki/Carl_Gustav_Jung",270:"https://tr.wikipedia.org/wiki/Muhammed_İkbal",277:"https://tr.wikipedia.org/wiki/Ludwig_Wittgenstein",278:"https://tr.wikipedia.org/wiki/Martin_Heidegger",279:"https://tr.wikipedia.org/wiki/Antonio_Gramsci",281:"https://tr.wikipedia.org/wiki/Walter_Benjamin",285:"https://tr.wikipedia.org/wiki/Hans-Georg_Gadamer",286:"https://tr.wikipedia.org/wiki/Jacques_Lacan",288:"https://tr.wikipedia.org/wiki/Karl_Popper",289:"https://tr.wikipedia.org/wiki/Theodor_Adorno",291:"https://tr.wikipedia.org/wiki/Jean-Paul_Sartre",293:"https://tr.wikipedia.org/wiki/Hannah_Arendt",294:"https://tr.wikipedia.org/wiki/Kurt_Gödel",298:"https://tr.wikipedia.org/wiki/Simone_de_Beauvoir",300:"https://tr.wikipedia.org/wiki/Simone_Weil",302:"https://tr.wikipedia.org/wiki/Marshall_McLuhan",303:"https://tr.wikipedia.org/wiki/Albert_Camus",305:"https://tr.wikipedia.org/wiki/Roland_Barthes",312:"https://tr.wikipedia.org/wiki/John_Rawls",314:"https://tr.wikipedia.org/wiki/Thomas_Kuhn",317:"https://tr.wikipedia.org/wiki/Frantz_Fanon",318:"https://tr.wikipedia.org/wiki/Gilles_Deleuze",321:"https://tr.wikipedia.org/wiki/Michel_Foucault",322:"https://tr.wikipedia.org/wiki/Noam_Chomsky",325:"https://tr.wikipedia.org/wiki/Jürgen_Habermas",327:"https://tr.wikipedia.org/wiki/Jacques_Derrida",328:"https://tr.wikipedia.org/wiki/Pierre_Bourdieu",330:"https://tr.wikipedia.org/wiki/Edward_Said",343:"https://tr.wikipedia.org/wiki/Slavoj_Žižek",349:"https://tr.wikipedia.org/wiki/Judith_Butler",350:"https://tr.wikipedia.org/wiki/Byung-Chul_Han",
 };
 
 // ═══════════════════════════════════════════
-// PHILOSOPHER DATA (full list, sorted by year)
+// PHILOSOPHER DATA
 // ═══════════════════════════════════════════
 const PHILOSOPHERS = [
-  {id:1,name:"Hermes Trismegistus",year:-1100,displayYear:"Efsanevi / Tarih Öncesi",era:"Efsanevi",imp:3,
-   subtitle:"Üç Kez Ulu Hermes"
-  },
+  {id:1,name:"Hermes Trismegistus",year:-1100,displayYear:"Efsanevi / Tarih Öncesi",era:"Efsanevi",imp:3,subtitle:"Üç Kez Ulu Hermes"},
   {id:2,name:"Zerdüşt (Zarathustra)",year:-1000,displayYear:"M.Ö. 1000-600 arası",era:"Antik Çağ Öncesi",imp:3},
   {id:3,name:"Homer ve Hesiodos",year:-750,displayYear:"M.Ö. 8. yy",era:"Antik Yunan",imp:2},
   {id:4,name:"Thales",year:-624,displayYear:"M.Ö. 624–546",era:"Antik Yunan",imp:3},
@@ -1221,10 +1110,10 @@ const PHILOSOPHERS = [
 // ═══════════════════════════════════════════
 const MIN_YEAR = -1200;
 const MAX_YEAR = 2000;
-const BASE_PX = 0.22; // px per year at zoom=1
+const BASE_PX = 0.22;
 
 let zoom = 1;
-let offset = 0; // translateX applied to canvas
+let offset = 0;
 let activeId = null;
 let activeEra = null;
 let isDrag = false, dragX0 = 0, offset0 = 0;
@@ -1271,7 +1160,6 @@ function render() {
   const tw = totalWidth();
   tlCanvas.style.width = tw + 'px';
 
-  // Year ticks — pick interval so ticks are 50–200px apart
   const targetGap = 80;
   const yearsPerPx = 1 / (BASE_PX * zoom);
   const rawInterval = targetGap * yearsPerPx;
@@ -1293,13 +1181,9 @@ function render() {
     tlCanvas.appendChild(tick);
   }
 
-  // ── STACKING + FAN-ON-HOVER ──
-  // DOT_STEP_C: collapsed — dots barely clear each other (no labels shown in multi-groups)
-  // DOT_STEP_F: fanned   — full label height + padding so labels never overlap
-  const DOT_STEP_C = 20;   // px between dot centres when collapsed
-  const DOT_STEP_F = 58;   // px between dot centres when fanned (label ~30px + gaps)
+  const DOT_STEP_C = 20;
+  const DOT_STEP_F = 58;
 
-  // Group by year, sort imp3 first
   const yearGroups = {};
   list.forEach(p => {
     if (!yearGroups[p.year]) yearGroups[p.year] = [];
@@ -1307,7 +1191,6 @@ function render() {
   });
   Object.values(yearGroups).forEach(g => g.sort((a,b) => b.imp - a.imp));
 
-  // Assign alternating slots: 0, +1, -1, +2, -2 ...
   const slotOf = {};
   Object.entries(yearGroups).forEach(([yr, grp]) => {
     grp.forEach((p, i) => {
@@ -1315,30 +1198,27 @@ function render() {
     });
   });
 
-  // Render — group wrapper handles hover via CSS, zero JS events = zero flicker
   Object.entries(yearGroups).forEach(([yr, grp]) => {
     const baseX  = yearToX(Number(yr));
     const n      = grp.length;
     const isSolo = n === 1;
 
-    // One wrapper per year group positioned on the axis
     const wrapper = document.createElement('div');
     wrapper.className = 'yr-group' + (isSolo ? ' solo' : '');
     wrapper.dataset.year = yr;
 
-    // Height: enough to contain fully fanned nodes + labels (both sides)
     const maxSlot = grp.reduce((m,p) => Math.max(m, Math.abs(slotOf[p.id])), 0);
-    const fanH    = maxSlot * DOT_STEP_F + 60; // half-height each side + label room
+    const fanH    = maxSlot * DOT_STEP_F + 60;
     wrapper.style.cssText = [
       `position:absolute`,
       `left:${baseX}px`,
       `top:50%`,
       `transform:translate(-50%,-50%)`,
-      `width:120px`,           // wide enough to catch label hover
-      `height:${fanH * 2}px`, // symmetric around axis
+      `width:120px`,
+      `height:${fanH * 2}px`,
       `z-index:9`,
       `cursor:pointer`,
-    ].filter(Boolean).join(';');
+    ].join(';');
 
     grp.forEach((p) => {
       const slot    = slotOf[p.id];
@@ -1347,17 +1227,14 @@ function render() {
       const isActive = p.id === activeId;
       const isLeg  = p.era === 'Efsanevi';
 
-      // node positioned relative to wrapper centre = axis
       const node = document.createElement('div');
       node.className = 'node yr-node' + (isActive ? ' active' : '') + (isLeg ? ' legendary' : '');
       node.dataset.pid  = p.id;
       node.dataset.slot = slot;
-      // CSS vars for collapsed/fanned positions — actual transition done in CSS
       node.style.cssText = [
         `position:absolute`,
         `left:50%`,
         `top:50%`,
-        // collapsed: slot * DOT_STEP_C from centre
         `--cy:${-slot * DOT_STEP_C}px`,
         `--fy:${-slot * DOT_STEP_F}px`,
         `transform:translate(-50%, calc(-50% + var(--cy)))`,
@@ -1366,11 +1243,9 @@ function render() {
         `pointer-events:all`,
       ].join(';');
 
-      // Connector line
       if (slot !== 0) {
         const ln = document.createElement('div');
         ln.className = 'connector-line';
-        // height transitions via CSS too
         ln.style.cssText = [
           `position:absolute`,
           `left:50%`,
@@ -1388,7 +1263,6 @@ function render() {
         node.appendChild(ln);
       }
 
-      // Dot
       const dotO = document.createElement('div');
       dotO.className = 'dot-outer' + (p.imp === 3 ? ' imp3' : '');
       dotO.style.cssText = [
@@ -1406,7 +1280,6 @@ function render() {
       dotO.appendChild(dotI);
       node.appendChild(dotO);
 
-      // Label
       const lw = document.createElement('div');
       lw.className = 'node-label-wrap ' + (isAbove ? 'above' : 'below');
       lw.style.cssText = [
@@ -1432,7 +1305,6 @@ function render() {
       wrapper.appendChild(node);
     });
 
-    // Click on wrapper background (not a node) — no-op but stop propagation
     wrapper.addEventListener('click', e => e.stopPropagation());
     tlCanvas.appendChild(wrapper);
   });
@@ -1440,7 +1312,7 @@ function render() {
 }
 
 // ═══════════════════════════════════════════
-// INTERACTION
+// INTERACTION — MOUSE
 // ═══════════════════════════════════════════
 tlOuter.addEventListener('wheel', e => {
   e.preventDefault();
@@ -1448,7 +1320,7 @@ tlOuter.addEventListener('wheel', e => {
   const mx = e.clientX - rect.left;
   const worldX = (mx - offset) / zoom;
   const factor = e.deltaY < 0 ? 1.15 : (1/1.15);
-  zoom = Math.max(0.05, zoom * factor); // no max zoom!
+  zoom = Math.max(0.05, zoom * factor);
   offset = mx - worldX * zoom;
   clamp();
   applyOffset();
@@ -1456,21 +1328,16 @@ tlOuter.addEventListener('wheel', e => {
   zoomInfo.textContent = `Yakınlaştırma: ${Math.round(zoom * 100)}%`;
 }, {passive:false});
 
-// Drag
 tlOuter.addEventListener('mousedown', e => {
   if (e.target.closest('.node')) return;
   isDrag = true; dragX0 = e.clientX; offset0 = offset;
   tlOuter.style.cursor = 'grabbing';
 });
 document.addEventListener('mousemove', e => {
-  if (isDrag) {
-    offset = offset0 + (e.clientX - dragX0);
-    clamp(); applyOffset();
-  }
+  if (isDrag) { offset = offset0 + (e.clientX - dragX0); clamp(); applyOffset(); }
   if (isThumbDrag) {
     const tw = totalWidth(), ow = tlOuter.offsetWidth;
     const thumbW = Math.max(20, ow * ow / tw);
-    const maxThumbLeft = ow - thumbW;
     const ratio = tw / ow;
     offset = thumbOff0 - (e.clientX - thumbX0) * ratio;
     clamp(); applyOffset();
@@ -1481,16 +1348,107 @@ document.addEventListener('mouseup', () => {
   tlOuter.style.cursor = 'grab';
 });
 
-// Touch
+// ═══════════════════════════════════════════
+// INTERACTION — TOUCH (pinch zoom + pan)
+// ═══════════════════════════════════════════
+let touchStartDist = 0;
+let touchStartZoom = 1;
+let touchStartMidX = 0;
+let touchStartOffset = 0;
+let touchStartX = 0;
+let isTouchDrag = false;
+let touchMoved = false;
+let touchTarget = null;
+
+function getTouchDist(touches) {
+  const dx = touches[0].clientX - touches[1].clientX;
+  const dy = touches[0].clientY - touches[1].clientY;
+  return Math.sqrt(dx * dx + dy * dy);
+}
+
+function getTouchMidX(touches) {
+  return (touches[0].clientX + touches[1].clientX) / 2;
+}
+
 tlOuter.addEventListener('touchstart', e => {
-  isDrag = true; dragX0 = e.touches[0].clientX; offset0 = offset;
-},{passive:true});
-document.addEventListener('touchmove', e => {
-  if (!isDrag) return;
-  offset = offset0 + (e.touches[0].clientX - dragX0);
-  clamp(); applyOffset();
-},{passive:true});
-document.addEventListener('touchend', () => isDrag = false);
+  if (e.touches.length === 1) {
+    // Single touch: pan or tap
+    isTouchDrag = true;
+    touchMoved = false;
+    touchTarget = e.target;
+    touchStartX = e.touches[0].clientX;
+    offset0 = offset;
+  } else if (e.touches.length === 2) {
+    // Two fingers: pinch zoom
+    isTouchDrag = false;
+    touchStartDist = getTouchDist(e.touches);
+    touchStartZoom = zoom;
+    const rect = tlOuter.getBoundingClientRect();
+    touchStartMidX = getTouchMidX(e.touches) - rect.left;
+    touchStartOffset = offset;
+  }
+}, { passive: true });
+
+tlOuter.addEventListener('touchmove', e => {
+  e.preventDefault(); // prevent page scroll while interacting with timeline
+  if (e.touches.length === 1 && isTouchDrag) {
+    const dx = e.touches[0].clientX - touchStartX;
+    if (Math.abs(dx) > 3) touchMoved = true;
+    offset = offset0 + dx;
+    clamp(); applyOffset();
+  } else if (e.touches.length === 2) {
+    isTouchDrag = false;
+    const newDist = getTouchDist(e.touches);
+    const rect = tlOuter.getBoundingClientRect();
+    const newMidX = getTouchMidX(e.touches) - rect.left;
+
+    // Zoom around the midpoint between fingers
+    const newZoom = Math.max(0.05, touchStartZoom * (newDist / touchStartDist));
+    const worldX = (touchStartMidX - touchStartOffset) / touchStartZoom;
+    zoom = newZoom;
+    offset = newMidX - worldX * zoom;
+    clamp(); applyOffset(); render();
+    zoomInfo.textContent = `Yakınlaştırma: ${Math.round(zoom * 100)}%`;
+  }
+}, { passive: false });
+
+tlOuter.addEventListener('touchend', e => {
+  if (e.touches.length === 0) {
+    // Tap: if barely moved, treat as click
+    if (isTouchDrag && !touchMoved && touchTarget) {
+      const node = touchTarget.closest('.yr-node');
+      if (node && node.dataset.pid) {
+        selectNode(parseInt(node.dataset.pid));
+      }
+    }
+    isTouchDrag = false;
+    touchMoved = false;
+    touchTarget = null;
+  } else if (e.touches.length === 1) {
+    // Went from 2 fingers to 1: restart single-touch pan
+    isTouchDrag = true;
+    touchMoved = false;
+    touchStartX = e.touches[0].clientX;
+    offset0 = offset;
+    touchTarget = null;
+  }
+}, { passive: true });
+
+// ═══════════════════════════════════════════
+// MOBILE ZOOM BUTTONS
+// ═══════════════════════════════════════════
+function doZoom(factor) {
+  const ow = tlOuter.offsetWidth;
+  const cx = ow / 2; // zoom around center
+  const worldX = (cx - offset) / zoom;
+  zoom = Math.max(0.05, zoom * factor);
+  offset = cx - worldX * zoom;
+  clamp(); applyOffset(); render();
+  zoomInfo.textContent = `Yakınlaştırma: ${Math.round(zoom * 100)}%`;
+}
+
+document.getElementById('zoomInBtn').addEventListener('click', () => doZoom(1.4));
+document.getElementById('zoomOutBtn').addEventListener('click', () => doZoom(1/1.4));
 
 // Scrollbar drag
 sbThumb.addEventListener('mousedown', e => {
@@ -1512,7 +1470,6 @@ sbTrack.addEventListener('click', e => {
 function selectNode(id) {
   activeId = id;
   render();
-  // Make the active node's label always visible even in collapsed group
   const activeNode = tlCanvas.querySelector(`.node[data-pid="${id}"]`);
   if (activeNode) {
     const lbl = activeNode.querySelector('.node-label-wrap');
@@ -1521,14 +1478,9 @@ function selectNode(id) {
   showPanel(id);
 }
 
-// JSON içerik verisini HTML'ye dönüştürür
 function renderContent(d) {
   let h = '';
-
-  if (d.intro) {
-    h += `<p>${d.intro}</p>`;
-  }
-
+  if (d.intro) h += `<p>${d.intro}</p>`;
   (d.sections || []).forEach(sec => {
     h += `<h3>${sec.title}</h3>`;
     if (sec.body) h += `<p>${sec.body}</p>`;
@@ -1536,38 +1488,29 @@ function renderContent(d) {
       const tag = sec.ordered ? 'ol' : 'ul';
       h += `<${tag}>`;
       sec.items.forEach(item => {
-        if (item.label) {
-          h += `<li><strong>${item.label}:</strong> ${item.text}</li>`;
-        } else {
-          h += `<li>${item.text}</li>`;
-        }
+        h += item.label
+          ? `<li><strong>${item.label}:</strong> ${item.text}</li>`
+          : `<li>${item.text}</li>`;
       });
       h += `</${tag}>`;
     }
   });
-
-  const hasStrengths = d.strengths && d.strengths.length;
-  const hasWeaknesses = d.weaknesses && d.weaknesses.length;
-
-  if (hasStrengths || hasWeaknesses) {
+  const hasS = d.strengths && d.strengths.length;
+  const hasW = d.weaknesses && d.weaknesses.length;
+  if (hasS || hasW) {
     h += `<div class="sw-grid">`;
-    if (hasStrengths) {
+    if (hasS) {
       h += `<div class="sw-box strength"><h4>✦ Güçlü Yönler</h4><ol>`;
-      d.strengths.forEach(s => {
-        h += `<li><strong>${s.title}:</strong> ${s.text}</li>`;
-      });
+      d.strengths.forEach(s => h += `<li><strong>${s.title}:</strong> ${s.text}</li>`);
       h += `</ol></div>`;
     }
-    if (hasWeaknesses) {
+    if (hasW) {
       h += `<div class="sw-box weakness"><h4>✦ Zayıf Noktalar</h4><ol>`;
-      d.weaknesses.forEach(w => {
-        h += `<li><strong>${w.title}:</strong> ${w.text}</li>`;
-      });
+      d.weaknesses.forEach(w => h += `<li><strong>${w.title}:</strong> ${w.text}</li>`);
       h += `</ol></div>`;
     }
     h += `</div>`;
   }
-
   return h || '<div class="no-content"><p>İçerik yapılandırılamamadı.</p></div>';
 }
 
@@ -1579,7 +1522,7 @@ function showPanel(id) {
   const panel = document.getElementById('detailPanel');
   const pc = document.getElementById('panelContent');
 
-  let html = `<div class="panel-top">
+  pc.innerHTML = `<div class="panel-top">
     <div>
       <div class="panel-title">${p.name}</div>
       ${p.subtitle ? `<div class="panel-subtitle">${p.subtitle}</div>` : ''}
@@ -1587,40 +1530,29 @@ function showPanel(id) {
     </div>
     <div class="panel-meta">
       <div class="panel-era-tag" style="background:${color}">${p.era}</div>
-      ${wikiUrl ? `
-      <a class="wiki-btn" href="${wikiUrl}" target="_blank" rel="noopener">
+      ${wikiUrl ? `<a class="wiki-btn" href="${wikiUrl}" target="_blank" rel="noopener">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
           <polyline points="15 3 21 3 21 9"/>
           <line x1="10" y1="14" x2="21" y2="3"/>
-        </svg>
-        Türkçe Vikipedi
-      </a>` : ''}
+        </svg>Türkçe Vikipedi</a>` : ''}
     </div>
   </div>
-  <div class="panel-body">`;
+  <div class="panel-body"><div class="content-loading">Yükleniyor…</div></div>`;
 
-  // Header kısmını hemen göster
-  html += '<div class="panel-body"><div class="content-loading">Yükleniyor…</div></div>';
-  pc.innerHTML = html;
   panel.classList.add('open');
   setTimeout(() => panel.scrollIntoView({behavior:'smooth', block:'nearest'}), 80);
 
-  // İçeriği fetch et
   fetch(`content/${id}.json`)
     .then(r => { if (!r.ok) throw new Error('no-content'); return r.json(); })
     .then(data => {
-      const body = pc.querySelector('.panel-body');
-      body.innerHTML = renderContent(data);
+      pc.querySelector('.panel-body').innerHTML = renderContent(data);
     })
     .catch(() => {
-      const body = pc.querySelector('.panel-body');
-      body.innerHTML = `<div class="no-content">
+      pc.querySelector('.panel-body').innerHTML = `<div class="no-content">
         <p>Bu filozof için içerik henüz eklenmemiş.</p>
         <p style="font-size:0.85rem;margin-top:0.5rem;font-family:Lato,sans-serif;font-style:normal;color:var(--text3)">
-          <code>content/${id}.json</code> dosyasını oluşturarak içerik ekleyebilirsiniz.
-        </p>
-      </div>`;
+          <code>content/${id}.json</code> dosyasını oluşturarak içerik ekleyebilirsiniz.</p></div>`;
     });
 }
 
@@ -1631,7 +1563,7 @@ function closePanel() {
 }
 
 // ═══════════════════════════════════════════
-// ERA FILTERS + AUTO ZOOM
+// ERA FILTERS
 // ═══════════════════════════════════════════
 function buildEraFilters() {
   const eras = [...new Set(PHILOSOPHERS.map(p => p.era))];
@@ -1644,7 +1576,6 @@ function buildEraFilters() {
     activeEra = null;
     document.querySelectorAll('.era-btn').forEach(b => b.classList.remove('active'));
     allBtn.classList.add('active');
-    // Reset to full view
     zoom = 1;
     const ow = tlOuter.offsetWidth;
     offset = -(yearToX(-400) - ow * 0.45);
@@ -1659,7 +1590,7 @@ function buildEraFilters() {
     btn.textContent = era;
     const color = ERA_COLORS[era] || '#555';
     btn.style.borderColor = color + '60';
-    btn.onmouseenter = () => { if (!btn.classList.contains('active')) btn.style.borderColor = color; btn.style.color = color; btn.style.background = color + '12'; };
+    btn.onmouseenter = () => { if (!btn.classList.contains('active')) { btn.style.borderColor = color; btn.style.color = color; btn.style.background = color + '12'; } };
     btn.onmouseleave = () => { if (!btn.classList.contains('active')) { btn.style.borderColor = color + '60'; btn.style.color = ''; btn.style.background = ''; } };
     btn.onclick = () => {
       activeEra = era;
@@ -1683,13 +1614,11 @@ function autoZoomToEra(era) {
   const spanYears = Math.max(maxY - minY, 50);
   const ow = tlOuter.offsetWidth;
   const padding = 120;
-  // Fit span into view with padding
   zoom = (ow - padding * 2) / (spanYears * BASE_PX);
   zoom = Math.max(0.05, Math.min(50, zoom));
   const midX = yearToX((minY + maxY) / 2);
   offset = ow / 2 - midX;
-  clamp();
-  render();
+  clamp(); render();
   zoomInfo.textContent = `Yakınlaştırma: ${Math.round(zoom * 100)}%`;
 }
 
@@ -1697,11 +1626,8 @@ function autoZoomToEra(era) {
 // INIT
 // ═══════════════════════════════════════════
 buildEraFilters();
-
-// Start: show M.Ö. 1100 to M.S. 500 roughly (full early history visible)
 zoom = 1;
 const ow = tlOuter.offsetWidth || 900;
-// Center around M.Ö. ~400 so Hermes visible on left and Rome visible on right
 offset = -(yearToX(-400) - ow * 0.45);
 clamp();
 render();
@@ -1718,7 +1644,6 @@ let highlightedIdx = -1;
 let searchResults  = [];
 
 function escapeRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
-
 function highlight(text, query) {
   if (!query) return text;
   return text.replace(new RegExp(`(${escapeRe(query)})`, 'gi'), '<mark>$1</mark>');
@@ -1728,29 +1653,23 @@ function doSearch(q) {
   q = q.trim();
   searchDropdown.innerHTML = '';
   highlightedIdx = -1;
-
   if (q.length < 1) {
     searchDropdown.classList.remove('open');
     searchClear.style.display = 'none';
     searchIcon.style.display  = '';
     return;
   }
-
   searchClear.style.display = '';
   searchIcon.style.display  = 'none';
-
   const ql = q.toLowerCase();
   searchResults = PHILOSOPHERS.filter(p =>
-    p.name.toLowerCase().includes(ql) ||
-    p.era.toLowerCase().includes(ql)
+    p.name.toLowerCase().includes(ql) || p.era.toLowerCase().includes(ql)
   ).slice(0, 12);
-
   if (!searchResults.length) {
     searchDropdown.innerHTML = `<div class="search-no-result">Sonuç bulunamadı</div>`;
     searchDropdown.classList.add('open');
     return;
   }
-
   searchResults.forEach((p, i) => {
     const color = ERA_COLORS[p.era] || '#555';
     const item  = document.createElement('div');
@@ -1758,42 +1677,28 @@ function doSearch(q) {
     item.innerHTML = `
       <span class="search-item-name">${highlight(p.name, q)}</span>
       <span class="search-item-meta">${p.displayYear}</span>
-      <span class="search-item-era" style="background:${color}">${p.era}</span>
-    `;
-    item.addEventListener('mousedown', e => {
-      e.preventDefault(); // don't blur input
-      pickResult(i);
-    });
+      <span class="search-item-era" style="background:${color}">${p.era}</span>`;
+    item.addEventListener('mousedown', e => { e.preventDefault(); pickResult(i); });
     searchDropdown.appendChild(item);
   });
-
   searchDropdown.classList.add('open');
 }
 
 function pickResult(idx) {
   const p = searchResults[idx];
   if (!p) return;
-
-  // Close dropdown
   searchDropdown.classList.remove('open');
   searchInput.value = p.name;
   searchClear.style.display = '';
   searchIcon.style.display  = 'none';
-
-  // Zoom to philosopher: zoom in nicely, centre on them
-  const targetZoom = Math.max(zoom, 4); // zoom in to at least 400%
+  const TARGET_ZOOM = 7;
   const ow = tlOuter.offsetWidth;
-  const targetX = (p.year - MIN_YEAR) * BASE_PX * targetZoom;
-  zoom   = targetZoom;
+  const targetX = (p.year - MIN_YEAR) * BASE_PX * TARGET_ZOOM;
+  zoom   = TARGET_ZOOM;
   offset = ow / 2 - targetX;
-  clamp();
-  render();
+  clamp(); render();
   zoomInfo.textContent = `Yakınlaştırma: ${Math.round(zoom * 100)}%`;
-
-  // Select and open panel
   selectNode(p.id);
-
-  // Pulse the node briefly to make it findable
   setTimeout(() => {
     const node = tlCanvas.querySelector(`.yr-node[data-pid="${p.id}"]`);
     if (node) {
@@ -1804,43 +1709,20 @@ function pickResult(idx) {
   }, 120);
 }
 
-// Keyboard navigation
 searchInput.addEventListener('input', e => doSearch(e.target.value));
-
 searchInput.addEventListener('keydown', e => {
   const items = searchDropdown.querySelectorAll('.search-item');
   if (!items.length) return;
-
-  if (e.key === 'ArrowDown') {
-    e.preventDefault();
-    highlightedIdx = Math.min(highlightedIdx + 1, items.length - 1);
-  } else if (e.key === 'ArrowUp') {
-    e.preventDefault();
-    highlightedIdx = Math.max(highlightedIdx - 1, 0);
-  } else if (e.key === 'Enter') {
-    e.preventDefault();
-    if (highlightedIdx >= 0) pickResult(highlightedIdx);
-    else if (searchResults.length === 1) pickResult(0);
-    return;
-  } else if (e.key === 'Escape') {
-    searchDropdown.classList.remove('open');
-    searchInput.blur();
-    return;
-  } else { return; }
-
+  if (e.key === 'ArrowDown') { e.preventDefault(); highlightedIdx = Math.min(highlightedIdx + 1, items.length - 1); }
+  else if (e.key === 'ArrowUp') { e.preventDefault(); highlightedIdx = Math.max(highlightedIdx - 1, 0); }
+  else if (e.key === 'Enter') { e.preventDefault(); if (highlightedIdx >= 0) pickResult(highlightedIdx); else if (searchResults.length === 1) pickResult(0); return; }
+  else if (e.key === 'Escape') { searchDropdown.classList.remove('open'); searchInput.blur(); return; }
+  else return;
   items.forEach((el, i) => el.classList.toggle('highlighted', i === highlightedIdx));
   items[highlightedIdx]?.scrollIntoView({ block: 'nearest' });
 });
-
-searchInput.addEventListener('focus', () => {
-  if (searchInput.value.trim()) doSearch(searchInput.value);
-});
-
-searchInput.addEventListener('blur', () => {
-  // Small delay so mousedown on item fires first
-  setTimeout(() => searchDropdown.classList.remove('open'), 150);
-});
-
+searchInput.addEventListener('focus', () => { if (searchInput.value.trim()) doSearch(searchInput.value); });
+searchInput.addEventListener('blur', () => { setTimeout(() => searchDropdown.classList.remove('open'), 150); });
 searchClear.addEventListener('click', () => {
   searchInput.value = '';
   searchClear.style.display = 'none';
@@ -1848,14 +1730,9 @@ searchClear.addEventListener('click', () => {
   searchDropdown.classList.remove('open');
   searchInput.focus();
 });
-
-// Close dropdown on outside click
 document.addEventListener('click', e => {
-  if (!e.target.closest('.search-wrap')) {
-    searchDropdown.classList.remove('open');
-  }
+  if (!e.target.closest('.search-wrap')) searchDropdown.classList.remove('open');
 });
-
 </script>
 </body>
 </html>

@@ -1,0 +1,72 @@
+{
+  "subtitle": "Kozmik Düalizmin ve Özgür İradenin Mimarı (M.Ö. 1000-600 arası)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Evrensel Savaş ve Düalizm",
+      "body": "Zerdüşt'ün düşünce dünyası, evrenin iki zıt kutbun savaşı üzerine kurulu olduğu fikrine dayanır: Ahura Mazda (Bilge Rab/İyilik) ve Angra Mainyu (Ehrimen/Kötülük).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Asha (Hakikat) ve Druj (Yalan)",
+          "text": "Zerdüşt felsefesinde dünya sadece fiziksel bir yer değil, ahlaki bir seçim alanıdır. Asha, kozmik düzeni ve doğruluğu; Druj ise kaosu ve yalanı temsil eder."
+        },
+        {
+          "label": "Ahlaki Üçleme",
+          "text": "Zerdüşt'ün öğretisi son derece yalın ama derin bir eylem planına dayanır: Humata, Hukhta, Huvarshta (İyi Düşünce, İyi Söz, İyi Eylem). Bu, ahlakı soyut bir kavram olmaktan çıkarıp günlük hayatın pratiğine dönüştürür."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Merkezli Bakış: Özgür İrade",
+      "body": "Zerdüşt'ü öncüllerinden ayıran en önemli özellik, insanı tanrıların oyuncağı olmaktan çıkarıp kozmik savaşın belirleyici aktörü haline getirmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kozmik Sorumluluk",
+          "text": "İnsanın özgür iradesi vardır ve bu iradeyle hangi tarafı seçeceği evrenin nihai kaderini belirler. Bu, Batı felsefesinde yüzyıllar sonra tartışılacak olan etik sorumluluk kavramının en erken ve en güçlü formlarından biridir."
+        }
+      ]
+    },
+    {
+      "title": "Zaman Algısı: Döngüselden Doğrusala",
+      "body": "Homer ve çağdaşlarının çoğunda zaman döngüseldir. Zerdüşt ise zamanın bir başlangıcı ve sonu (Frashokereti - Yenilenme/Kıyamet) olduğunu öne sürer. Bu, tarihin bir amacı ve yönü olduğu fikrinin (teleoloji) doğuşudur.",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "title": "Tarihsel Etki ve Miras",
+      "body": "Zerdüşt'ün Cennet-Cehennem, Kıyamet, Kurtarıcı (Mesih) ve Melek-Şeytan gibi kavramları, kendisinden yüzyıllar sonra gelen Yahudilik, Hristiyanlık ve İslam üzerinde silinmez izler bırakmıştır. Felsefi olarak ise Nietzsche'nin ondan ilhamla (veya onu tersyüz ederek) kendi başyapıtını yazması, Zerdüşt'ün değerlerin yaratıcısı kimliğinin bir kanıtıdır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Teodise Sorununa İlk Çözüm",
+      "text": "Kötülük neden var? sorusuna, kötülüğü tanrıdan bağımsız (veya ona zıt) bir ilke olarak tanımlayarak cevap vermiştir. Bu, Tanrı'nın mutlak iyiliğini korumaya çalışan rasyonel bir denemedir."
+    },
+    {
+      "title": "Bireyselleşme",
+      "text": "Dini/felsefi süreci kabilevi bir ayinden bireysel bir ahlak sınavına dönüştürmüştür. Kişi, kendi seçimlerinden bizzat sorumludur."
+    },
+    {
+      "title": "Ekolojik Bilinç",
+      "text": "Doğayı (toprak, su, ateş) kutsal sayması, insanı çevreyle uyumlu bir düzen koruyucusu olarak konumlandırması, antik dönem için ileri bir doğa felsefesidir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Katı Düalizmin Çıkmazı",
+      "text": "İyilik ve kötülüğü iki ayrı töz gibi keskin ayırmak, evrenin birliği (monizm) fikrine zarar verir. Eğer kötülük ezeli ise, iyilik mutlak mıdır? Bu soru, daha sonraki Zerdüşti akımlarda (Zurvanizm) zaman kavramıyla çözülmeye çalışılmıştır."
+    },
+    {
+      "title": "Ahlaki Determinizm Riski",
+      "text": "Her şeyi ak ve kara olarak ikiye bölmek, insan doğasının ve ahlaki durumların gri alanlarını göz ardı etme riskini taşır. Bu savaş, düşünce sistemini esneklikten yoksun bırakabilir."
+    },
+    {
+      "title": "Seçkinci Adalet",
+      "text": "Zerdüşt'ün sisteminde adalet kesindir; ancak bu, merhamet ve bağışlama gibi kavramların daha sonraki dinlerin aksine ikinci planda kalmasına neden olmuştur."
+    }
+  ]
+}

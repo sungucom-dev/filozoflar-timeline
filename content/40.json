@@ -1,0 +1,70 @@
+{
+  "subtitle": "Doğallığın, Şokun ve Özgürlüğün Sesi (M.Ö. 412–323)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Doğaya Uygun Yaşam (Physis)",
+      "body": "Diyojen için mutluluk, toplumsal geleneklerin (Nomos) prangalarından kurtulup doğanın yalınlığına dönmektir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Autarkeia (Kendi Kendine Yetme)",
+          "text": "İhtiyaçlarını minimuma indiren kişi, dünyanın en özgür insanıdır. Bir gün bir çocuğun avucuyla su içtiğini görünce, \"Bu çocuk bana hala gereksiz eşyam olduğunu öğretti,\" diyerek tek varlığı olan çanağını da atmıştır."
+        },
+        {
+          "label": "Askesis (Çile)",
+          "text": "Bedeni ve ruhu zorluklara alıştırmak, talihin getireceği felaketlere karşı en büyük kalkandır. Kışın karda çıplak ayakla yürür veya heykellere sadaka dileyerek \"reddedilmeye\" karşı idman yapardı."
+        }
+      ]
+    },
+    {
+      "title": "Parrhesia (Söz Sakınmazlığı) ve Anaideia (Utanmazlık)",
+      "body": "Diyojen, toplumsal ikiyüzlülüğü deşifre etmek için \"şok\" taktiklerini kullanırdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dürüst İnsan Aramak",
+          "text": "Güpegündüz elinde fenerle Atina sokaklarında dolaşıp \"Bir adam (dürüst bir insan) arıyorum!\" demesi, aslında koca bir medeniyetin ahlaki çöküşüne tutulan bir aynaydı."
+        },
+        {
+          "label": "Köpeksi Yaşam",
+          "text": "\"Kinik\" kelimesi Yunanca Kyon (Köpek) kelimesinden gelir. Diyojen bir köpek gibi sokaklarda yaşar, herkesin içinde yemek yer ve doğal olan hiçbir şeyin gizlenmemesi gerektiğini (utanmazlık - anaideia) savunurdu."
+        }
+      ]
+    },
+    {
+      "title": "Dünya Vatandaşlığı (Kosmopolites)",
+      "body": "\"Nerelisin?\" diye soranlara, kendi şehir devletini (Polis) söylemek yerine, tarihte ilk kez \"Ben bir dünya vatandaşıyım,\" (Kosmopolites) cevabını vermiştir. Bu, milliyetçiliğin ve yerel sınırların felsefi olarak ilk kez bu kadar radikal bir şekilde reddedilmesidir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Dürüstlüğün Zirvesi",
+      "text": "Diyojen, felsefesini sadece kitaplarda değil, bizzat bedeninde ve yaşamında sergilemiştir. Onun tutarlılığı, Büyük İskender'e bile \"İskender olmasaydım Diyojen olmak isterdim,\" dedirtecek kadar etkileyicidir."
+    },
+    {
+      "title": "Toplumsal Eleştirinin Öncülüğü",
+      "text": "Statükoyu, sınıf ayrımını ve boş gururu mizah ve hicivle sarsarak, eleştirel düşüncenin sokağa inmesini sağlamıştır."
+    },
+    {
+      "title": "Psikolojik Özgürleşme",
+      "text": "İnsanı eşyaya, unvana ve başkalarının takdirine olan bağımlılığından kurtarmaya çalışarak, ruhsal bir dayanıklılık modeli sunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yıkıcılık ama İnşa Edememe",
+      "text": "Diyojen mevcut her şeyi (aileni, devleti, dini, mülkiyeti) yıkar; ancak yerine bir toplumun nasıl sürdürüleceğine dair yapıcı bir alternatif sunmaz. Onun felsefesi toplu yaşama değil, bireysel inzivaya uygundur."
+    },
+    {
+      "title": "Aşırı Uçlar ve Kabalık",
+      "text": "Toplumsal nezaketi \"yalan\" olarak görüp tamamen reddetmesi, felsefeyi bazen sadece bir taciz ve kabalık pratiğine dönüştürebilir. Bu durum, mesajının içeriğinden çok davranışlarının tuhaflığının konuşulmasına yol açar."
+    },
+    {
+      "title": "Asalaklık Paradoksu",
+      "text": "Diyojen mülkiyeti reddeder ama karnını doyurmak için mülkiyet sahibi olanların sadakasına ihtiyaç duyar. Yani reddettiği sistemin artıklarıyla var olur. Bu, Kinik felsefenin en temel mantıksal çıkmazıdır."
+    }
+  ]
+}

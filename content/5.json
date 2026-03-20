@@ -1,0 +1,100 @@
+{
+  "subtitle": "Pratik Hikmetin ve Toplumsal Dengenin Öncüleri (M.Ö. 620–550)",
+  "intro": "Bu isimlerin en büyük başarısı, Homerik kahramanlık onurunun yerine \"Ölçülülük\" (Sophrosyne) kavramını koymalarıdır. Onlar için bilgelik, evrenin neyden yapıldığını bilmek değil, insanın sınırlarını bilmektir.",
+  "sections": [
+    {
+      "title": "Solon (Atina): Adaletin Siyasi Mimarı",
+      "body": "Solon, felsefeyi yasaya dönüştüren isimdir. Atina'nın ekonomik çöküşünü engellemek için borçları silen (Seisachtheia) ve sınıf ayrımını mülkiyete göre düzenleyen reformist bir bilgedir. Temel aktarımı: \"Hiçbir şeyde aşırıya kaçma\" (Mēden agan) ve \"Ölmeden kimseye mutlu deme.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analiz",
+          "text": "Solon, mutluluğu bir anlık haz değil, bir ömür boyu süren denge olarak tanımlar. Adaleti, tanrısal bir cezadan ziyade toplumsal bir denge unsuru olarak görmesi, siyaset felsefesinin laikleşmesindeki ilk adımdır."
+        }
+      ]
+    },
+    {
+      "title": "Chilon (Sparta): Öz-Denetimin Sesi",
+      "body": "Spartalı bir devlet adamı olan Chilon, bilgeliği askeri disiplin ve az sözle öz anlatım (lakonik) ile birleştirmiştir. Temel aktarımı: \"Kendini tanı\" (Gnothi seauton). Bu sözü Delphi tapınağına kazıtan odur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analiz",
+          "text": "Bilgeliği dış dünyadan alıp insanın iç dünyasına yönelten ilk kırılma noktasıdır. Dışsal başarıdan ziyade içsel farkındalığı merkeze koyması, ileride Sokrates'in temelini oluşturacaktır."
+        }
+      ]
+    },
+    {
+      "title": "Periander (Korint): Gücün Pragmatizmi",
+      "body": "Listede adı en çok tartışılan kişidir; çünkü o bir tirандır. Ancak yönetimi sırasındaki düzenleyici dehası onu bu listeye sokmuştur. Temel aktarımı: \"Çalışma her şeyi fetheder.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analiz",
+          "text": "O, bilgeliği eylem ve irade ile özdeşleştirir. Düşünceyi sadece bir teori değil, kaosu düzene sokan bir araç olarak görmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Bias (Priene): Gerçekçiliğin ve Karakterin Savunucusu",
+      "body": "Hukukçu ve hitabet ustası olan Bias, insan doğasına dair daha karanlık ama gerçekçi bir bakış açısı sunar. Temel aktarımı: \"İnsanların çoğu kötüdür\" ve \"Bilgeliği gençlikten yaşlılığa bir azık olarak taşı.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analiz",
+          "text": "Toplumsal bir optimizm yerine bireysel liyakati ve hazırlıklı olmayı savunur. Onun bilgeliği, hayatta kalma ve erdemli kalma sanatı arasındaki ince çizgidir."
+        }
+      ]
+    },
+    {
+      "title": "Cleobulus (Lindos): Eğitimin ve Ölçünün Savunucusu",
+      "body": "Lindos tiranı olan Cleobulus, dönemine göre devrimci sayılabilecek bir tutumla kadınların da eğitilmesi gerektiğini savunmuştur. Temel aktarımı: \"Ölçü en iyisidir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analiz",
+          "text": "Dengeyi sadece siyasi bir araç değil, bir evrensel estetik olarak görmüştür. Bilgeliği demokratikleştirme ve yayma eğilimi, eğitimin felsefi önemini vurgular."
+        }
+      ]
+    },
+    {
+      "title": "Pittacus (Midilli): Sorumluluğun ve Tevazuun Bilgesi",
+      "body": "Midilli'de düzeni sağladıktan sonra yetkilerinden kendi isteğiyle vazgeçen, gücü bırakabilen nadir liderlerdendir. Temel aktarımı: \"Fırsatı kolla\" ve \"Zorunluluğa karşı tanrılar bile savaşmaz.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analiz",
+          "text": "İnsanın gücünün sınırlarını ve zamanın ruhunu anlama becerisini yüceltir. Kadercilikten ziyade, gerçekliğin sınırlarına saygı duyan bir rasyonalizmi temsil eder."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Seküler Ahlak",
+      "text": "Bu bilgeler, ahlakı tanrıların emirlerinden çıkarıp, insanın kendi karakteri ve toplumsal gereklilikler üzerine inşa etmişlerdir. Bu, Batı rasyonalizminin ilk büyük zaferidir."
+    },
+    {
+      "title": "Sophrosyne (Denge) Kültürü",
+      "text": "Aşırılık (Hubris) kavramını bir suç ve hastalık olarak tanımlayarak, Yunan kültürünün o meşhur orta yol felsefesini kurmuşlardır."
+    },
+    {
+      "title": "Kolektif Hafıza",
+      "text": "Felsefeyi halkın anlayabileceği aforizmalara (gnome) indirgeyerek, düşünceyi elit bir tabakadan alıp kamusal bir kültüre dönüştürmüşlerdir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistem Eksikliği",
+      "text": "Bu isimler filozof değildir; onlar pratik akıl yürüten bilge kişilerdir. Evrenin yapısı, bilginin kaynağı veya varlığın özü üzerine sistematik, mantıksal bir kanıtlama sunmazlar. Sadece \"doğru olan budur\" derler, \"neden?\" sorusunu derinleştirmezler."
+    },
+    {
+      "title": "Muhafazakâr Eğilim",
+      "text": "Çoğu devlet adamı olduğu için bilgelikleri genellikle statükoyu korumaya, toplumsal huzuru sağlamaya yöneliktir. Radikal bir sorgulama yerine, uyumlu bir toplum inşasına odaklanmışlardır."
+    },
+    {
+      "title": "Elitist Bakış Açısı",
+      "text": "Bias'ın \"insanların çoğu kötüdür\" ifadesinde görüldüğü gibi, bilgelik genellikle ayrıcalıklı bir azınlığın sahip olduğu bir yetenek olarak sunulur. Halkı eğitmekten ziyade, halkı yönetmek için bilgelik üretmişlerdir."
+    }
+  ]
+}

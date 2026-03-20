@@ -1,0 +1,71 @@
+{
+  "subtitle": "Polimati ve Doğal Yasaların Savunucusu (M.Ö. 460–390)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Öz-Yeterlilik (Autarkeia) ve Çok Yönlülük",
+      "body": "Hippias, \"insanın her şeyi kendi başına yapabilmesi gerektiğine\" inanan radikal bir bireycidir. Olimpiyat oyunlarına gittiğinde; üzerindeki elbiseden ayakkabılarına, parmağındaki mühür yüzüğünden kullandığı kokuya kadar her şeyi bizzat kendi elleriyle yaptığını gururla anlatırdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Polimati (Çok Bilmişlik)",
+          "text": "Ona göre bilgi, sadece soyut bir düşünce değil, pratik bir beceridir. Hafıza teknikleri (mnemonics) geliştirmiş ve bir kez duyduğu elli ismi hemen ezberleyebilmesiyle ün kazanmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Physis (Doğa) vs. Nomos (Yasa/Gelenek)",
+      "body": "Hippias, Batı düşüncesindeki \"doğal hukuk\" anlayışının en erken temsilcilerinden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yasaların Tiranlığı",
+          "text": "\"Yasa (Nomos), insanın tiranıdır ve doğaya (Physis) aykırı olan birçok şeyi zorla yaptırır.\""
+        },
+        {
+          "label": "Evrensel Kardeşlik",
+          "text": "İnsanların yapay yasalar ve sınırlar yüzünden birbirine yabancılaştığını savunur. Ona göre tüm bilgeler ve iyi insanlar, doğuştan birbirinin akrabası ve hemşehrisidir. Bu, bugün bildiğimiz Kozmopolitizm (dünya vatandaşlığı) fikrinin tohumudur."
+        }
+      ]
+    },
+    {
+      "title": "Matematiksel Deha: Kuadratriks",
+      "body": "Hippias, sadece hitabetle ilgilenmemiş, geometriye de kalıcı bir iz bırakmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Açıyı Üçe Bölmek",
+          "text": "Antik çağın çözülemeyen problemlerinden biri olan bir açıyı üç eşit parçaya bölme ve daireyi kareleştirme problemleri için Kuadratriks (Hippias Eğrisi) adı verilen özel bir eğri keşfetmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Disiplinlerarası Yaklaşım",
+      "text": "Bilgiyi kompartımanlara ayırmak yerine, sanat, bilim ve felsefeyi tek bir potada eritmesi, modern \"bütüncül eğitim\" anlayışına çok yakındır."
+    },
+    {
+      "title": "Hümanist Evrensellik",
+      "text": "Soy, sop, kast veya şehir devletlerine dayalı ayrımcılığı reddedip \"doğal akrabalık\" üzerinden bir insanlık ideali kurması, etik tarihinin en parlak anlarından biridir."
+    },
+    {
+      "title": "Öz-Yeterlilik İdeali",
+      "text": "İnsanın dış dünyaya bağımlılığını azaltıp kendi emeğiyle var olması, yüzyıllar sonra Stoacıları ve hatta modern anarşist düşünürleri etkileyecek kadar güçlü bir duruştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Derinlik Sorunu (Yüzeysellik)",
+      "text": "Her şeyi bilen birinin, hiçbir şeyde tam anlamıyla derinleşememesi riski Hippias için de geçerlidir. Platon, diyaloglarında onu sık sık \"her şeyi bilen ama hiçbir şeyi tam kavramamış\" bir kibir abidesi olarak resmeder."
+    },
+    {
+      "title": "Narsisizm ve Gösteriş",
+      "text": "Bilgiyi ve yeteneği, bir \"bilgelik\" aracı olmaktan çok bir \"kendini kanıtlama ve şov\" aracına dönüştürmesi, sofistlerin \"paralı öğretmen\" imajını pekiştirmiş ve felsefenin saygınlığına zarar vermiştir."
+    },
+    {
+      "title": "Hafıza ve Anlayış Karışıklığı",
+      "text": "Hippias'ın \"hafıza tekniklerine\" verdiği aşırı önem, gerçek bir \"anlama\" ve \"akıl yürütme\" sürecinin yerini, sadece verilerin depolanmasının almasına neden olabilir."
+    }
+  ]
+}

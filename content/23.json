@@ -1,0 +1,74 @@
+{
+  "subtitle": "Nihilizmin ve Retoriğin Büyücüsü (M.Ö. 483–375)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Üçlü Nihilist Sav",
+      "body": "Gorgias, \"Doğa ve Var Olmayan Üzerine\" adlı eserinde, Elea Okulu'nun (Parmenides) mantığını kullanarak varlığı üç sarsıcı önermeyle imkansız kılar.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Hiçbir şey yoktur.",
+          "text": ""
+        },
+        {
+          "label": "Bir şey var olsa bile, bilinemez.",
+          "text": ""
+        },
+        {
+          "label": "Bilinse bile, başkasına aktarılamaz.",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "Sözün Gücü (Logos): Ruhun İlacı ve Zehri",
+      "body": "Hakikati öldürdükten sonra Gorgias, geriye kalan tek gücü kutsar: Hitabet (Retorik).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sözün Tiranlığı",
+          "text": "\"Söz, en küçük ve en görünmez bedene sahip olmasına rağmen, ilahi işler başaran büyük bir hükümdardır.\" Ona göre söz, ruhu ilaçlar gibi iyileştirebilir veya zehirleyebilir."
+        },
+        {
+          "label": "Helena'ya Övgü",
+          "text": "Truva savaşının sebebi olarak görülen Helena'yı savunduğu ünlü konuşmasında, aşkın, kaderin veya \"sözün ikna gücünün\" insan iradesini nasıl devre dışı bıraktığını kanıtlar. Eğer Helena \"sözle\" ikna edildiyse, o bir suçlu değil, bir kurbandır."
+        }
+      ]
+    },
+    {
+      "title": "Kairos (Doğru An)",
+      "body": "Gorgias, mutlak ahlaki yasalar yerine \"Kairos\" kavramını getirir. Bir eylemin doğruluğu veya bir sözün etkisi, içinde bulunulan zamana, mekana ve duruma bağlıdır. Bu, durum ahlakının (situational ethics) en erken formudur.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dilin Sınırlarını Keşfetmesi",
+      "text": "Kelimelerin nesnelerin kendisi olmadığını, sadece bizim onlara yüklediğimiz semboller olduğunu fark etmesi, modern dil felsefesinin ve semantiğin temellerini atmıştır."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Sözün insan duyguları üzerindeki manipülatif gücünü keşfetmesi, onu tarihin ilk büyük psikologlarından biri yapar. Reklamcılıktan siyasete kadar modern ikna teknikleri hala onun ilkelerini kullanır."
+    },
+    {
+      "title": "Dogma Yıkıcılık",
+      "text": "İnsanların \"mutlak gerçek\" diye peşinden gittiği kavramların aslında dilsel kurgular olduğunu göstererek, entelektüel bir özgürleşme alanı yaratmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Mantal Çelişki (Performatif Paradoks)",
+      "text": "Eğer \"hiçbir şey başkasına aktarılamaz\" ise, Gorgias neden bu fikri başkalarına anlatmak için saatlerce konuşmuş ve kitap yazmıştır? Kendi teorisi, kendi eylemiyle çelişir."
+    },
+    {
+      "title": "Ahlaki Boşluk",
+      "text": "Hakikati ve bilgiyi iptal etmek, adaleti sadece \"en iyi konuşanın\" kazandığı bir güç oyununa dönüştürür. Bu durum, toplumun etik temellerini dinamitleyen bir oportünizme yol açabilir."
+    },
+    {
+      "title": "Ciddiyet Kaybı",
+      "text": "Felsefeyi bir \"oyun\" (paignion) olarak görmesi, insanlığın varoluşsal sancılarına ve gerçek acılarına karşı bir kayıtsızlık yaratabilir."
+    }
+  ]
+}

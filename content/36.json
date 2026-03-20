@@ -1,0 +1,70 @@
+{
+  "subtitle": "Anlık Hazzın ve Zerafetin Bilgesi (M.Ö. 445–365)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: En Yüksek İyi Olarak Haz",
+      "body": "Aristippos için hayatın amacı ve anlamı tektir: Haz. Ancak onun haz anlayışı, Epikuros'un \"acıdan kaçınma\" odaklı dinginliğinden farklı olarak, daha aktif ve bedensel bir hazdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şimdiki Zamanın Gücü",
+          "text": "Geçmiş bitti, gelecek ise belirsizdir. Bu yüzden bilge kişi, \"şimdi\"nin sunduğu hazları en üst düzeye çıkarmalıdır."
+        },
+        {
+          "label": "Duyumculuk",
+          "text": "Ona göre sadece kendi duygularımızdan ve duyumlarımızdan emin olabiliriz. Dış dünya hakkında kesin bilgi imkansızdır, bu yüzden \"hissedilen\" mutluluk gerçektir."
+        }
+      ]
+    },
+    {
+      "title": "Hazzın Kölesi Değil, Efendisi Olmak",
+      "body": "Aristippos'un en büyük farkı buradadır. O, sefahat içinde yaşasa da bu sefahate bağımlı kalınmamasını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ünlü Söz",
+          "text": "\"Hazlara sahibim, ama onlara ait değilim.\""
+        },
+        {
+          "label": "Esneklik",
+          "text": "Aristippos, her türlü koşula uyum sağlayabilen bir \"bukalemun\" gibiydi. Sarayda ipekler içinde de yaşayabilirdi, bir fırtınada sandalda da... Önemli olan, dış koşulların ruhun keyfini bozmasına izin vermemektir."
+        }
+      ]
+    },
+    {
+      "title": "Pragmatik Filozof",
+      "body": "Sokrates'in diğer öğrencilerinin aksine, felsefe eğitimi karşılığında ücret alan ilk Sokratesçidir. Felsefeyi hayattan kopuk bir teori değil, \"nasıl daha keyifli yaşanır?\" sorusuna yanıt veren pratik bir araç olarak görmüştür.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojik Realizm",
+      "text": "İnsan doğasının hazza yöneldiği ve acıdan kaçtığı gerçeğini (psikolojik hedonizm) dürüstçe kabul etmiştir. Bu yaklaşım, modern faydacılık ve tüketim psikolojisi araştırmaları için bir temel sunar."
+    },
+    {
+      "title": "Ruhsal Özerklik",
+      "text": "Hazların içinde bile onlara bağımlı olmamayı (hazzın efendisi olmayı) savunması, aslında çok güçlü bir irade eğitimi gerektirir. Bu yönüyle Stoacılığa şaşırtıcı bir benzerlik gösterir."
+    },
+    {
+      "title": "Anın Değeri",
+      "text": "İnsanı geçmişin pişmanlıklarından ve geleceğin kaygılarından kurtarıp \"şimdi\"ye odaklaması, mental sağlık açısından (modern mindfulness gibi) iyileştirici bir etkiye sahiptir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Etik Sığlık ve Bencillik",
+      "text": "Hazzı en yüksek iyi olarak tanımlamak, başkalarının acısını görmezden gelmeye veya başkalarını haz aracı olarak görmeye (istismara) kapı aralayabilir. Toplumsal adalet ve fedakarlık bu sistemde yer bulmakta zorlanır."
+    },
+    {
+      "title": "Sürekli Tatminsizlik Riski",
+      "text": "Bedensel hazlar doğası gereği geçicidir ve bir süre sonra \"haz eşiği\" yükselir. Bu, kişiyi sürekli daha fazlasını aramaya iten \"hedonik bir koşu bandına\" hapsedebilir."
+    },
+    {
+      "title": "Entelektüel Derinlik Kaybı",
+      "text": "Soyut hakikatleri ve evrensel yasaları (Logos, İdealar) \"hissedilmedikleri\" gerekçesiyle reddetmesi, felsefeyi sadece duyusal bir deneyime indirgeyerek zihinsel kapasiteyi kısıtlar."
+    }
+  ]
+}

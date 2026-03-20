@@ -1,0 +1,87 @@
+{
+  "subtitle": "Devlet Çarkının Soğuk Mühendisi (M.Ö. 280–233)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Radikal Realizm ve İnsan Doğası",
+      "body": "Han Fei, hocası Xunzi'den \"insan doğası kötüdür\" fikrini almış ve onu bir siyaset bilimi haline getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bencillik Motoru",
+          "text": "Ona göre insanlar ne sevgiyle ne de erdemle yönetilebilir. İnsanlar sadece kendi çıkarlarını düşünür, acıdan kaçar ve hazza yönelirler."
+        },
+        {
+          "label": "Tarihsel Değişim",
+          "text": "Konfüçyüsçülerin \"geçmişteki bilge kralları taklit edelim\" fikrine karşı çıkar. \"Geçmişin çözümleri, bugünün sorunlarını çözmez.\" Şartlar değiştikçe yönetim biçimi de değişmelidir."
+        }
+      ]
+    },
+    {
+      "title": "İktidarın Üç Sütunu (Fa, Shu, Shi)",
+      "body": "Han Fei'ye göre bir hükümdarın başarılı olması için şu üç araca ihtiyacı vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fa (Yasa)",
+          "text": "Yasalar herkesin görebileceği kadar açık, net ve herkes için eşit olmalıdır. Yasa, bir güneş gibi herkesi aynı şekilde aydınlatmalı ve ısıtmalıdır."
+        },
+        {
+          "label": "Shu (Yöntem/Sanat)",
+          "text": "Hükümdar, devlet görevlilerini denetlemek için gizli yöntemler kullanmalıdır. Kimseye tam güvenmemeli, herkesi birbirine karşı kontrol altında tutmalıdır."
+        },
+        {
+          "label": "Shi (Güç/Makam)",
+          "text": "Hükümdarın kişiliği değil, oturduğu makamın otoritesi önemlidir. Zayıf bir adam bile o makamın verdiği güçle (Shi) devleti yönetebilir."
+        }
+      ]
+    },
+    {
+      "title": "İki Kanat: Ödül ve Ceza",
+      "body": "Devleti yönetmek için \"iki handle\" (iki tutaç) vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ödül",
+          "text": "Yasaya uyanı ve hizmet edeni cömertçe ödüllendir."
+        },
+        {
+          "label": "Ceza",
+          "text": "Yasayı çiğneyeni, en küçük bir hata yapsa bile acımasızca cezalandır."
+        },
+        {
+          "label": "Analiz",
+          "text": "Eğer cezalar ağır ve kaçınılmaz olursa, hiç kimse suç işlemeye cesaret edemez ve böylece toplumda \"doğal bir düzen\" oluşur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Devlet Kurumsallaşması",
+      "text": "Kişisel duyguları ve akrabalık bağlarını bir kenara bırakıp \"liyakat\" ve \"yasa önünde eşitlik\" (soylular için bile) kavramlarını getirmesi, modern bürokrasinin en erken formudur."
+    },
+    {
+      "title": "Siyasi İstikrar",
+      "text": "Kaos içindeki Savaşan Devletler döneminde, merkeziyetçi ve güçlü bir devlet yapısı önererek birliği sağlamış ve tarihin akışını değiştirmiştir."
+    },
+    {
+      "title": "Machiavelli'den Önce",
+      "text": "Niccolò Machiavelli'den 1700 yıl önce, siyasetin ahlaktan bağımsız bir \"teknik\" olduğunu fark etmesi, onun entelektüel keskinliğini gösterir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Güvenlik Dilemması",
+      "text": "Hiç kimseye güvenmeyen, herkesi casuslarla izleyen bir sistem; yöneticiyi de halkı da derin bir paranoyaya ve korkuya hapseder."
+    },
+    {
+      "title": "İnsan Ruhunun Reddi",
+      "text": "İnsanı sadece ödül ve cezaya tepki veren bir makine gibi görmesi, insanın yaratıcılık, sadakat ve fedakarlık gibi yüksek niteliklerini yok sayar."
+    },
+    {
+      "title": "Kendi Sonunu Getirme",
+      "text": "Han Fei, bizzat kurduğu o \"soğuk ve rekabetçi\" sistemin kurbanı olmuştur. Arkadaşı ve rakibi Li Si tarafından kıskançlık sonucu hapse atılmış ve orada zehir içirilerek öldürülmüştür."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "subtitle": "Ruhun Özgürlüğü ve Şiddetsizliğin Radikalizmi (M.Ö. 599–527)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Ahimsa (Mutlak Şiddetsizlik)",
+      "body": "Mahavira'nın felsefesinin kalbinde Ahimsa yatar. Ancak bu, sadece öldürmemek değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Canlılık",
+          "text": "Mahavira'ya göre sadece insanlar ve hayvanlar değil; bitkiler, toprak, su ve hava bile birer can (Jiva) taşır. Bu yüzden bir Jain için nefes alırken bir böceği yutmamak için maske takmak veya yürürken yerdeki canlılara basmamak için yeri süpürmek, derin bir felsefi sorumluluktur."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, insanı evrenin efendisi değil, en küçük zerreye bile saygı duyması gereken bir misafir konumuna indirir."
+        }
+      ]
+    },
+    {
+      "title": "Anekantavada: Gerçeğin Çok Boyutluluğu",
+      "body": "Mahavira, epistemolojiye (bilgi felsefesi) muazzam bir katkı sunmuştur: Anekantavada.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Körlerin Fili Tarifi",
+          "text": "Hiçbir insan gerçeğin tamamını kavrayamaz; herkes gerçeğe kendi sınırlı açısıyla bakar. Bir şey aynı anda hem vardır, hem yoktur, hem de tanımlanamazdır (Syadvada)."
+        },
+        {
+          "label": "Entelektüel Hoşgörü",
+          "text": "Bu düşünce, \"Benim doğrum tek doğrudur\" diyen dogmatizme karşı tarihteki en güçlü panzehirdir. Başkalarının fikirlerine yer açan bir göreli hakikat sistemidir."
+        }
+      ]
+    },
+    {
+      "title": "Karma Materyalizmi ve Arınma",
+      "body": "Mahavira için Karma, Budizm'deki gibi sadece psikolojik bir iz değil, ruhun üzerine yapışan fiziksel toz parçacıklarıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşırı Çilecilik (Tapasyas)",
+          "text": "Ruhun (Jiva) maddeden (Ajiva) kurtulması için bu karma tozlarının yakılması gerekir. Bunun yolu da arzuları tamamen öldürmek, dünyevi bağlardan kopmak ve hatta en ileri aşamada aç kalarak ölümü beklemektir (Sallekhana)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Etik Zirve",
+      "text": "Ahimsa prensibi, insanlık tarihinin ulaştığı en yüksek ahlaki standartlardan biridir. Sadece fiziksel şiddeti değil, dildeki ve düşüncedeki şiddeti de reddetmesi, barışçıl bir toplum inşası için benzersiz bir temeldir. Mahatma Gandhi'nin ilham kaynağıdır."
+    },
+    {
+      "title": "Epistemolojik Alçakgönüllülük",
+      "text": "Anekantavada, fanatizmin kökünü kazıyan bir mantıktır. \"Belki de haklısın\" diyebilen bir felsefe, diyalog ve barış için en sağlam köprüdür."
+    },
+    {
+      "title": "Bireysel Sorumluluk",
+      "text": "Mahavira, kurtuluşu tanrılara kurban sunmakta veya ritüellerde değil, kişinin kendi disiplininde ve öz-denetiminde görür. Bu, ruhaniliğin demokratikleşmesidir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Uygulanabilirlik Sorunu",
+      "text": "Mahavira'nın Ahimsa anlayışı, medeniyetin sürmesi (tarım, savunma, barınma) için gereken temel eylemleri bile günah veya ruhsal kirlenme kategorisine sokma riski taşır. Toplumun tamamı Jain rahibi gibi yaşasaydı, insan neslinin devamı imkansız hale gelirdi."
+    },
+    {
+      "title": "Beden ve Ruh Düalizminin Sertliği",
+      "text": "Bedeni sadece bir hapishane ve karmadan kurtulması gereken bir yük olarak görmek, yaşamın yaşamsal sevincini ve fiziksel dünyanın sunduğu güzellikleri ıskalar. Sallekhana (aç kalarak ölüm) uygulaması, modern etik perspektifinden yaşama hakkı ile çelişebilir."
+    },
+    {
+      "title": "Metafiziksel Determinizm",
+      "text": "Karma'yı fiziksel bir madde gibi tanımlamak, ahlaki süreçleri fazlasıyla mekanikleştirir. İnsanın niyetinden ziyade, istemeden çiğnediği bir karıncanın bile ruhuna ağırlık yapması, adaleti fazla teknik bir boyuta taşır."
+    }
+  ]
+}

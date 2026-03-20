@@ -1,0 +1,70 @@
+{
+  "subtitle": "Sorgulanmamış Hayatın ve İçsel Bilginin Peşinde (M.Ö. 469–399)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel İlke: \"Bildiğim Tek Şey, Hiçbir Şey Bilmediğimdir\"",
+      "body": "Sokrates'in bilgeliği, kendi cahilliğini itiraf etmesiyle başlar. Ona göre gerçek bilgi, sahte ve temelsiz kabullerin yıkılmasıyla mümkündür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sokratik Yöntem (Elenchus)",
+          "text": "İnsanlara sorular sorarak, aslında bildiklerini sandıkları şeyleri bilmediklerini onlara gösterir. Bu bir \"yıkım\" sürecidir."
+        },
+        {
+          "label": "Maieutik (Doğurtma)",
+          "text": "Sokrates kendine \"ruhların ebesi\" der. Bilgiyi birine öğretmez; sorularıyla kişinin ruhunda zaten var olan ama fark edilmeyen hakikati dışarı çıkarır."
+        }
+      ]
+    },
+    {
+      "title": "Etik Entelektüalizm: \"Erdem Bilgidir\"",
+      "body": "Sokrates'e göre ahlak ile zeka birbirinden ayrılamaz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kimse Bilerek Kötülük Yapmaz",
+          "text": "Eğer bir kişi \"İyi\"nin ne olduğunu gerçekten bilirse, onu yapar. Kötülük, bir irade zayıflığı değil, bir \"bilgi eksikliği\" veya cehalettir."
+        },
+        {
+          "label": "Ruhun Bakımı",
+          "text": "En büyük görev, ruhu en iyi hale getirmektir. Zenginlik veya şöhret değil, adalete uygun yaşamak gerçek mutluluğu getirir."
+        }
+      ]
+    },
+    {
+      "title": "Daimon: İçsel Ses",
+      "body": "Sokrates, kendisine ne yapması gerektiğini değil, neyi yapmaması gerektiğini söyleyen ilahi bir iç sese (daimon) sahip olduğunu iddia etmiştir. Bu, bireysel vicdanın toplumsal yasaların önüne geçtiği ilk anlardan biridir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Tanımlama ve Kavramsal Netlik",
+      "text": "\"Adalet nedir?\", \"Cesaret nedir?\" gibi sorularla, felsefeyi belirsiz konuşmalardan çıkarıp kesin tanımlar arayan bilimsel bir disipline dönüştürmüştür."
+    },
+    {
+      "title": "Entelektüel Dürüstlük",
+      "text": "İnançları uğruna ölmeyi göze alması (baldıran zehri), felsefeyi bir \"masa başı işi\" olmaktan çıkarıp bir yaşam biçimi ve ahlaki direniş sembolü haline getirmiştir."
+    },
+    {
+      "title": "İçsel Özgürlük",
+      "text": "Mutluluğu dışsal koşullara değil, içsel erdeme bağlaması, Stoacılık gibi sonraki birçok büyük akımın temelini atmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İradenin Hafife Alınması",
+      "text": "\"Kimse bilerek kötülük yapmaz\" önermesi, insan doğasının karanlık ve irrasyonel tarafını (arzular, bağımlılıklar, tutkular) görmezden gelir. Bir insan sigaranın zararlı olduğunu \"bilse\" bile içmeye devam edebilir; yani bilgi her zaman eyleme dönüşmez."
+    },
+    {
+      "title": "Siyasi Elitizm ve Demokrasi Karşıtlığı",
+      "text": "Devleti bir gemiye benzeterek, onu \"çoğunluğun\" değil sadece \"bilenlerin\" yönetmesi gerektiğini savunması, Atina demokrasisi ile çatışmasına ve sonunda idam edilmesine neden olmuştur. Bu yaklaşım, otoriter rejimlere kapı aralayabilir."
+    },
+    {
+      "title": "Aporia (Çıkmaz)",
+      "text": "Platon'un erken dönem diyaloglarında görüldüğü üzere, Sokrates genellikle bir tanımı yıkar ama yerine yenisini koymadan konuşmayı bitirir. Bu \"çıkmaz\" hali, pratik çözümler bekleyen toplum için sinir bozucu ve yıkıcı olabilir."
+    }
+  ]
+}

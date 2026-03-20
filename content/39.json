@@ -1,0 +1,74 @@
+{
+  "subtitle": "İdealar Dünyası ve Mağaranın Ötesi (M.Ö. 427–347)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: İdealar Kuramı (İki Dünya Teorisi)",
+      "body": "Platon'un felsefesi dünyayı ikiye ayırır. Bu, felsefe tarihindeki en etkili düalizmdir (ikicilik).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fenomenler (Görünüşler) Dünyası",
+          "text": "İçinde yaşadığımız, duyularımızla algıladığımız, sürekli değişen ve yok olan dünyadır. Buradaki her şey (bir ağaç, bir masa, bir güzel insan) sadece birer kopyadır."
+        },
+        {
+          "label": "İdealar (Formlar) Dünyası",
+          "text": "Sadece akılla kavranabilen, değişmez, ezeli ve ebedi gerçekliklerin dünyasıdır. Gerçek \"Güzel\", gerçek \"Adalet\" ve \"At\" ideası buradadır."
+        }
+      ]
+    },
+    {
+      "title": "Mağara Metaforu",
+      "body": "Platon, insanın durumunu meşhur bir benzetmeyle açıklar: Bizler, bir mağarada sırtı girişe dönük zincirlenmiş mahkumlar gibiyiz. Arkamızdaki ateşin önünden geçen nesnelerin duvara yansıyan gölgelerini gerçeklik sanıyoruz. Filozof, zincirlerini kırıp dışarı çıkan ve Güneş'i (İyi İdeasını) gören kişidir.",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "title": "Devlet ve Ruhun Üçlü Yapısı",
+      "body": "Platon'a göre hem insan ruhu hem de devlet üç parçadan oluşur ve adalet bu parçaların uyumudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Akıl (Yöneticiler/Filozof Krallar)",
+          "text": "Bilgelikle yönetmelidir."
+        },
+        {
+          "label": "İrade/Cesaret (Koruyucular/Askerler)",
+          "text": "Düzeni sağlamalıdır."
+        },
+        {
+          "label": "Arzu/İştah (Üreticiler/Halk)",
+          "text": "Ölçülü olmalıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sistemli Düşünce",
+      "text": "Fizikten ahlaka, siyasetten sanat kuramına kadar her şeyi birbirine bağlayan ilk bütüncül felsefi sistemi kurmuştur."
+    },
+    {
+      "title": "Rasyonalizmin Zaferi",
+      "text": "Duyuların yanıltıcılığına karşı aklın ve matematiğin (Akademia'nın kapısında \"Geometri bilmeyen giremez\" yazardı) kesinliğini savunarak bilimsel düşüncenin önünü açmıştır."
+    },
+    {
+      "title": "Etik İdealizm",
+      "text": "\"İyi\"yi evrensel ve nesnel bir hedef olarak belirleyerek, sofistlerin rölativizmine (göreceliğine) karşı sarsılmaz bir ahlak kalesi inşa etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Totalitarizm Riski",
+      "text": "Devlet eserinde önerdiği sansür, çocukların devlet tarafından yetiştirilmesi ve \"soylu yalanlar\" gibi kavramlar, Karl Popper gibi düşünürler tarafından modern totaliter rejimlerin (faşizm, komünizm) felsefi atası olarak eleştirilmiştir."
+    },
+    {
+      "title": "Dünyadan Kopuş",
+      "text": "İdealar dünyasını o kadar yüceltmiştir ki, içinde yaşadığımız fiziksel dünyayı ve duyusal deneyimi \"değersiz gölgeler\" olarak yaftalamıştır. Bu durum, pratik bilimin ve ampirik gözlemin bazen hor görülmesine neden olmuştur."
+    },
+    {
+      "title": "Açıklanamayan Bağ (Methexis)",
+      "text": "İdealar ile fiziksel nesneler arasındaki \"katılma\" (pay alma) ilişkisini mantıksal olarak tam açıklayamamıştır. Öğrencisi Aristoteles, bu boşluğu \"Üçüncü Adam Argümanı\" ile en sert şekilde eleştirecektir."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "subtitle": "Gerçekliğin Maddi ve Formel Mimarı (M.Ö. 384–322)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Hilemorfizm (Madde ve Form)",
+      "body": "Aristoteles, hocası Platon'un \"İdealar başka bir dünyadadır\" fikrine şiddetle karşı çıkar. Ona göre form (idea), nesnenin dışındaki bir dünyada değil, tam olarak o nesnenin içindedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Madde (Hyle)",
+          "text": "Bir şeyin neyden yapıldığıdır. (Örn: Heykelin mermeri.)"
+        },
+        {
+          "label": "Form (Morphe)",
+          "text": "O şeye karakterini veren özelliktir. (Örn: Heykelin şekli/ruhu.)"
+        },
+        {
+          "label": "Analiz",
+          "text": "Bir elma, \"elma ideasından\" pay aldığı için değil; maddesi ve formu birleşerek \"bu elma\"yı oluşturduğu için gerçektir. Gerçeklik yerdedir, dokunulabilir ve gözlenebilir."
+        }
+      ]
+    },
+    {
+      "title": "Dört Neden Doktrini",
+      "body": "Aristoteles, evrendeki her oluşumu anlamak için dört temel sorunun sorulması gerektiğini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Maddi Neden",
+          "text": "Neden yapıldı? (Madde)"
+        },
+        {
+          "label": "Formel Neden",
+          "text": "Nedir? (Tasarım/Şekil)"
+        },
+        {
+          "label": "Fail Neden",
+          "text": "Kim yaptı? (Hareket ettirici güç)"
+        },
+        {
+          "label": "Ereksel Neden (Telos)",
+          "text": "Ne amaçla yapıldı? (Gaye)"
+        }
+      ]
+    },
+    {
+      "title": "Etik: Altın Orta (Mesotes)",
+      "body": "Aristoteles'e göre hayatın amacı Eudaimonia'dır (mutluluk/esenlik). Bu amaca ancak \"erdemli\" yaşayarak ulaşılır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ölçülülük",
+          "text": "Erdem, iki uç arasındaki \"altın orta\"dır. Örneğin, cesaret; korkaklık (eksiklik) ile atılganlık (aşırılık) arasındaki dengedir."
+        },
+        {
+          "label": "Zoon Politikon",
+          "text": "İnsan sosyal bir hayvandır; erdem ancak bir topluluk içinde, diğer insanlarla etkileşim halinde yaşanabilir."
+        }
+      ]
+    },
+    {
+      "title": "Mantığın Kurucusu: Kıyas (Syllogism)",
+      "body": "Aristoteles, bugün bile kullandığımız klasik mantığın babasıdır. Organon adlı eserinde doğru düşünmenin kurallarını belirlemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Örnek",
+          "text": "Bütün insanlar ölümlüdür (Büyük önerme) + Sokrates bir insandır (Küçük önerme) = O halde Sokrates ölümlüdür (Sonuç)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Metodun Babası",
+      "text": "Doğayı sadece akıl yürüterek değil, gözlemleyerek ve sınıflandırarak (ilk biyolojik sınıflandırmalar) açıklamaya çalışması, modern bilimin temelini atmıştır."
+    },
+    {
+      "title": "Ayakları Yere Basan Etik",
+      "text": "Ahlakı \"ideal bir dünyadan\" alıp, günlük hayattaki alışkanlıklara ve \"denge\" kavramına indirgemesi, onu çok daha uygulanabilir ve insani kılmıştır."
+    },
+    {
+      "title": "Mantıksal Tutarlılık",
+      "text": "Batı dillerindeki terminolojinin (özne, yüklem, kategori, cevher vb.) büyük çoğunluğunu o yaratmıştır. O olmasaydı, bugün felsefe yapacak bir dilimiz bile olmayabilirdi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dogmatikleşen Hatalar",
+      "text": "Aristoteles o kadar büyük bir otorite haline gelmiştir ki, fizikteki bazı hataları (ağır nesnelerin hafiflerden hızlı düşeceği, evrenin merkezinin Dünya olduğu vb.) 2000 yıl boyunca bilimin ilerlemesini durdurmuştur. 17. yüzyıl bilim devrimi, aslında Aristoteles'in yıkılmasıdır."
+    },
+    {
+      "title": "Toplumsal Hiyerarşi",
+      "text": "Bazı insanların \"doğuştan köle\" olduğunu savunması ve kadını \"tamamlanmamış bir erkek\" olarak tanımlaması, felsefesinin çağının ötesine geçemeyen en karanlık ve sorunlu kısımlarıdır."
+    },
+    {
+      "title": "Teleolojik Yanılsama",
+      "text": "Her şeyin bir \"amacı\" (telos) olduğunu savunması (Örn: Yağmurun bitkiler büyüsün diye yağması), doğadaki rastlantısallığı ve mekanik süreçleri anlamamızı zorlaştıran bir \"niyet\" okumasıdır."
+    }
+  ]
+}

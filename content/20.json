@@ -1,0 +1,65 @@
+{
+  "subtitle": "Paradoksların Efendisi ve Mantığın Sınırı (M.Ö. 490–430)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Strateji: Reductio ad Absurdum (Saçmaya İndirgeme)",
+      "body": "Zenon, Parmenides'in \"Varlık birdir ve hareketsizdir\" fikrini doğrudan kanıtlamak yerine; \"Varlık çokluktur ve hareketlidir\" diyenlerin iddialarının mantıksal olarak imkansız olduğunu göstermeye çalışmıştır. Eğer bir iddia saçma bir sonuca çıkıyorsa, o iddia yanlıştır.",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "title": "Hareket Paradoksları: Zaman ve Mekan Çıkmazı",
+      "body": "Zenon, hareketin duyusal bir yanılsama olduğunu kanıtlamak için dört ünlü paradoks sunar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşil ve Kaplumbağa",
+          "text": "Aşil, kendisinden biraz önde başlayan bir kaplumbağayı asla yakalayamaz. Çünkü Aşil'in kaplumbağaya ulaşması için önce onun başladığı noktaya gelmesi gerekir; o süre zarfında kaplumbağa az da olsa ilerlemiş olacaktır. Bu süreç sonsuza kadar devam eder."
+        },
+        {
+          "label": "Dikotomi (İkiye Bölünme)",
+          "text": "Bir yolu bitiremezsiniz. Çünkü önce yolun yarısına, sonra kalan yarının yarısına gitmeniz gerekir. Mekan sonsuz bölünebildiği için, sonlu bir sürede sonsuz noktayı geçmek imkansızdır."
+        },
+        {
+          "label": "Ok Paradoksu",
+          "text": "Uçan bir ok aslında durmaktadır. Çünkü zamanın her \"an\"ında, ok belirli bir yer kaplar ve o noktada sabittir. Hareket, bu sabit anların birleşimi olamaz; dolayısıyla hareket yoktur."
+        }
+      ]
+    },
+    {
+      "title": "Çokluk Paradoksu",
+      "body": "Eğer varlık çokluk ise, bu parçalar ya o kadar küçüktür ki büyüklükleri yoktur (bu durumda toplamları da büyüklük oluşturmaz) ya da büyüklükleri vardır (bu durumda sonsuz sayıda parça sonsuz bir büyüklük oluşturur). Her iki durum da mantıksal bir çelişkiye yol açar.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Diyalektiğin ve Mantığın Gelişimi",
+      "text": "Zenon, felsefeyi \"hitabet\"ten çıkarıp \"analitik bir süreç\" haline getirmiştir. Argüman kurma, çürütme ve kavramsal netlik arayışında Batı düşüncesine muazzam bir metodoloji miras bırakmıştır."
+    },
+    {
+      "title": "Sonsuzluk ve Süreklilik Sorunu",
+      "text": "Zenon, matematiğin ve fiziğin bugün bile tartıştığı \"sonsuz küçükler\" ve \"mekanın sürekliliği\" problemlerini ilk kez formüle etmiştir. Kalkülüsün (limit kavramının) felsefi tohumlarını atmıştır."
+    },
+    {
+      "title": "Duyuların Sorgulanması",
+      "text": "Duyuların bize sunduğu \"apaçık\" gerçekliğin (hareket gibi), akıl süzgecinden geçtiğinde ne kadar kırılgan olabileceğini göstererek epistemolojik bir uyanış yaratmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Mantıksal Safsata (Zeno'nun Tuzağı)",
+      "text": "Zenon, \"mantıksal/matematiksel sonsuzluk\" ile \"fiziksel zaman/mekan\"ı birbirine karıştırmıştır. Matematiksel olarak bir doğruyu sonsuza bölebiliriz ancak bu fiziksel olarak o yolun sonu olmadığı anlamına gelmez. Modern matematik (serilerin toplamı ve limit teorisi), Zenon'un sonsuz adımlarının toplamının sonlu bir değer olduğunu göstererek paradoksları çözmüştür."
+    },
+    {
+      "title": "Statik Zaman Algısı",
+      "text": "Ok paradoksunda zamanı \"donmuş anlar\" (fotoğraf kareleri) olarak görmesi, zamanın akışkan ve dinamik yapısını ıskalar. Hareket, noktaların toplamı değil, noktalar arasındaki geçiştir."
+    },
+    {
+      "title": "İnkârcı Tutum",
+      "text": "Zenon, gerçeği açıklamak yerine gerçekliği \"yok saymayı\" tercih etmiştir. Bir felsefenin görevi, duyularla algılanan hareketi \"yok\" demek değil, o hareketin hangi yasalarla mümkün olduğunu açıklamaktır."
+    }
+  ]
+}

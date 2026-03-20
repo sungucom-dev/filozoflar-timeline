@@ -1,0 +1,79 @@
+{
+  "subtitle": "Eklektik Bilgelik ve Cumhuriyet Ruhu (M.Ö. 106–43)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Felsefi Duruş: Akademik Şüphecilik ve Eklektisizm",
+      "body": "Cicero kendisini Carneades'in Akademik Şüphecilik geleneğine bağlı görürdü. Ancak o, sadece \"hiçbir şey bilinemez\" demekle yetinmemiş, farklı okulların en makul fikirlerini bir araya getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Seçmeci Yaklaşım",
+          "text": "Mantıkta Akademik, ahlakta Stoacı, yöntemde ise Peripatetik (Aristotelesçi) bir yol izlemiştir. Epikurosçuluğu ise toplumsal sorumluluktan kaçtığı gerekçesiyle reddetmiştir."
+        },
+        {
+          "label": "Olasılıkçılık",
+          "text": "Hakikati kesin olarak bulamasak da, hayatımızı yönlendirecek \"en olası\" (probabile) olanın peşinden gitmemiz gerektiğini savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Doğal Hukuk (Lex Naturalis)",
+      "body": "Cicero'nun hukuk ve siyaset felsefesindeki en büyük mirası, yasaların sadece insanların koyduğu kurallar olmadığını savunmasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Akıl",
+          "text": "Gerçek yasa, doğa ile uyumlu olan \"Doğru Akıl\"dır (Recta Ratio). Bu yasa her yerde, her zaman ve herkes için geçerlidir."
+        },
+        {
+          "label": "Adalet",
+          "text": "İnsanların koyduğu yasalar, eğer bu doğal adalet ilkesine aykırıysa \"yasa\" sayılmazlar. Bu fikir, yüzyıllar sonra Amerikan Bağımsızlık Bildirgesi'nden İnsan Hakları Evrensel Beyannamesi'ne kadar her yeri etkilemiştir."
+        }
+      ]
+    },
+    {
+      "title": "Ödev ve Erdem (De Officiis)",
+      "body": "Oğlu Marcus'a yazdığı mektuplardan oluşan De Officiis (Ödevler Üzerine), Batı ahlak düşüncesinin en temel metinlerinden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dört Temel Erdem",
+          "text": "Bilgelik, Adalet, Cesaret ve Ölçülülük."
+        },
+        {
+          "label": "Fayda ve Erdem",
+          "text": "Cicero, bir şeyin \"faydalı\" olup ama \"erdemli\" olmamasının imkansız olduğunu savunur. Eğer bir eylem ahlaksızca ise, uzun vadede asla faydalı olamaz."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefi Terminolojinin Mimarı",
+      "text": "Yunanca kavramları karşılamak için Latince kelimeler türetmiştir (qualitas, elementum, moralis gibi). O olmasaydı, Ortaçağ ve Rönesans felsefesi konuşacak dil bulamazdı."
+    },
+    {
+      "title": "Siyaset ve Etik Sentezi",
+      "text": "Felsefeyi fildişi kulelerden indirip devlet yönetimi ve hukukun temeline yerleştirmiştir. \"Halkın esenliği en yüksek yasadır\" (Salus populi suprema lex esto) diyerek siyasi etiği tanımlamıştır."
+    },
+    {
+      "title": "Humanitas Kavramı",
+      "text": "İnsanı sadece biyolojik bir varlık değil, eğitim, kültür ve nezaketle donanmış \"insancıl\" bir varlık olarak tanımlayan Humanitas idealini geliştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Özgünlük Sorunu",
+      "text": "Eleştirenler, Cicero'nun yeni bir fikir üretmediğini, sadece Yunanlıların fikirlerini derleyen bir \"ansiklopedist\" olduğunu söylerler. O, bir kaşif değil, usta bir aktarıcıdır."
+    },
+    {
+      "title": "Narsisizm ve Kararsızlık",
+      "text": "Siyasi hayatındaki aşırı özgüveni (kendini \"vatanın babası\" ilan etmesi) ve felsefi şüpheciliğini bazen siyasi bir \"nabza göre şerbet verme\" aracına dönüştürmesi, karakterine dair eleştirileri beraberinde getirmiştir."
+    },
+    {
+      "title": "Gelenekçilik",
+      "text": "Roma'nın eski geleneklerine (Mos Maiorum) o kadar bağlıydı ki, değişen dünya şartlarını ve Cumhuriyet'in çöküşünü tam olarak kabullenememiş, bu da onu bazen statükonun kör bir savunucusu durumuna düşürmüştür."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "subtitle": "Sosyal Harmoninin ve Ritüelin Savunucusu (M.Ö. 551–479)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Ren (İnsaniyet) ve Li (Ritüel/Edep)",
+      "body": "Konfüçyüs felsefesi iki temel sütun üzerine yükselir: İçsel erdem ve dışsal davranış.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ren (Benevolence)",
+          "text": "İnsanın içindeki sevgi, merhamet ve empati yeteneğidir. \"Kendine yapılmasını istemediğini başkasına yapma\" kuralı (Gümüş Kural) bu kavramın merkezindedir."
+        },
+        {
+          "label": "Li (Propriety)",
+          "text": "Ritüeller, gelenekler ve görgü kurallarıdır. Konfüçyüs'e göre Ren (içsel iyilik) ancak Li (doğru form/ritüel) aracılığıyla topluma akar. Ritüeller toplumu bir arada tutan manevi çimentodur."
+        }
+      ]
+    },
+    {
+      "title": "Beş Temel İlişki (Wu Lun) ve Filial Piety (Xiao)",
+      "body": "Konfüçyüs, toplumun ancak herkesin kendi rolünü bildiği ve bu rolün hakkını verdiği bir ortamda huzur bulacağını savunur.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Yönetici - Tabii (Vatandaş)",
+          "text": ""
+        },
+        {
+          "label": "Baba - Oğul",
+          "text": ""
+        },
+        {
+          "label": "Koca - Karı",
+          "text": ""
+        },
+        {
+          "label": "Ağabey - Kardeş",
+          "text": ""
+        },
+        {
+          "label": "Arkadaş - Arkadaş",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "Xiao: Evlatlık Görevi",
+      "body": "Tüm ahlakın temeli aileye, özellikle babaya olan saygı ve itaattir. Aile, devletin mikro modelidir; ailesine saygı duymayanın devlete sadık olması beklenemez.",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "title": "Junzi: Erdemli İnsan (Asil Kişi)",
+      "body": "Konfüçyüs'e göre asalet kan bağıyla değil, karakterle kazanılır. Junzi, sürekli öğrenen, kendini geliştiren, çıkarlarını değil adaleti gözeten ideal insandır. Bu, liyakate dayalı bir bürokrasinin temelini atmıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sivil Ahlakın Kurumsallaşması",
+      "text": "Dini bir otoriteye ihtiyaç duymadan, tamamen beşeri ilişkiler üzerinden sağlam bir ahlak sistemi kurmuştur. Bu, seküler bir toplum düzeni için tarihteki en başarılı örneklerden biridir."
+    },
+    {
+      "title": "Eğitimin Demokratikleşmesi",
+      "text": "Soyluların tekelindeki eğitimi halka açmış ve \"Öğrenmek isteyen herkese kapım açıktır\" diyerek liyakat sistemini (meritokrasi) başlatmıştır."
+    },
+    {
+      "title": "Toplumsal İstikrar",
+      "text": "Kaos dönemlerinde toplumun birbirine nasıl tutunacağına dair sunduğu reçete, Doğu Asya kültürlerinin binlerce yıl boyunca dayanıklı kalmasını sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Muhafazakârlık ve Gelenekçilik",
+      "text": "Geçmişe duyulan aşırı özlem ve \"eskilerin bilgeliği\"ne mutlak bağlılık, yenilikçiliğin ve değişimin önünü kesme riski taşır. Konfüçyüsçülük, zaman zaman statükoyu koruyan katı bir zırha dönüşebilir."
+    },
+    {
+      "title": "Bireyin İkincilleştirilmesi",
+      "text": "Toplumsal harmoni ve aile bağları o kadar ön plandadır ki, bireyin kendi özgün arzuları ve bağımsız kimliği bu yapının altında ezilebilir. \"İtaat\" erdemi, eleştirel düşünceyi köreltebilir."
+    },
+    {
+      "title": "Ataerkil Yapı",
+      "text": "Beş temel ilişkinin neredeyse tamamı hiyerarşiktir ve kadını erkeğe, genci yaşlıya bağımlı kılar. Bu durum, modern eşitlik kavramlarıyla ciddi bir çatışma yaratır."
+    },
+    {
+      "title": "Zulme Zemin Hazırlama Riski",
+      "text": "\"Yöneticiye itaat\" vurgusu, kötü niyetli otokratlar tarafından halkı dizginlemek için suistimal edilmeye müsaittir; her ne kadar Konfüçyüs erdemini yitiren yöneticinin meşruiyetini kaybedeceğini söylese de."
+    }
+  ]
+}

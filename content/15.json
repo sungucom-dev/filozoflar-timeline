@@ -1,0 +1,55 @@
+{
+  "subtitle": "Radikal Materyalizmin ve Nihilizmin Şafağı (M.Ö. 6. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Dört Element ve Maddi İndirgemecilik",
+      "body": "Ajita'nın felsefesi, insanın ve evrenin tamamen maddi temellere dayandığı fikri üzerine kuruludur. Ona göre insan; toprak, su, ateş ve havadan ibarettir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ölümün Mekanikliği",
+          "text": "İnsan öldüğünde; toprak toprağa, su suya, ateş ateşe ve hava havaya döner. Duyular ise boşluğa karışır. Ajita'ya göre ortada ne bir \"ruh\" kalır ne de bir \"ötesi\"."
+        },
+        {
+          "label": "Reenkarnasyon ve Karma Reddi",
+          "text": "Hint düşüncesinin temel taşları olan karma (eylem-sonuç) ve yeniden doğum fikirlerini tamamen reddeder. \"Cömertlik bir yalandır, kurban törenleri anlamsızdır\" diyerek dönemin tüm dini otoritesini sarsmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Epistemolojik Radikalizm: Sadece Görülen Gerçektir",
+      "body": "Ajita için bilgi, sadece duyusal algıdan ibarettir. Akıl yürütme veya kutsal metinler, eğer doğrudan duyusal bir karşılığı yoksa, aldatmacadır. Bu yaklaşım, yüzyıllar sonra Batı'da gelişecek olan Pozitivizm ve Empirizm akımlarının en ilkel ve sert formudur.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dogma Karşıtı Dürüstlük",
+      "text": "Ajita, insanların korkularından ve umutlarından beslenen \"ahiret\" ticaretine karşı çıkmıştır. Onun \"Aptallar cömertlikten bahseder, bilginler ise her şeyin yok olacağını bilir\" sözü, felsefi bir dürüstlük ve illüzyonları yıkma çabasıdır."
+    },
+    {
+      "title": "Sınıf ve Ritüel Eleştirisi",
+      "text": "Kast sisteminin ve pahalı kurban törenlerinin mantıksal bir temeli olmadığını savunarak, toplumsal bir eşitlik zeminine (herkesin aynı elementlere döneceği fikriyle) kapı aralamıştır."
+    },
+    {
+      "title": "Doğa Bilimlerine Zemin",
+      "text": "İnsanı mistik bir varlık olmaktan çıkarıp \"maddi bir süreç\" olarak tanımlaması, biyolojik ve fiziksel araştırmaların önündeki metafizik engelleri kaldırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İndirgemecilik (Redüksiyonizm)",
+      "text": "Ajita, bilinci ve zihinsel süreçleri tamamen maddeye indirgerken, \"Neden bazı maddeler (beyin gibi) düşünürken diğerleri (taş gibi) düşünmez?\" sorusunu açıklamakta yetersiz kalır. Madde-zihin etkileşimini görmezden gelmesi, sisteminin en büyük boşluğudur."
+    },
+    {
+      "title": "Etik Boşluk ve Nihilizm",
+      "text": "Eğer ölümle her şey bitiyorsa ve karma yoksa, \"Neden ahlaklı olmalıyım?\" sorusuna Ajita'nın sisteminde tatmin edici bir cevap yoktur. Bu durum, toplumsal düzeni sadece \"güçlü olanın hayatta kalması\" ilkesine itme riski taşır."
+    },
+    {
+      "title": "Kaynağın Güvenilirliği",
+      "text": "Ajita hakkında bildiğimiz her şey, ona karşı olan Budist ve Jainist metinlerden gelmektedir. Bu, bir davada sadece savcının iddianamesini okuyup sanığı tanımaya benzer. Ajita'nın felsefesinin incelikleri, rakipleri tarafından \"nihilizm\" olarak basitleştirilmiş olabilir."
+    }
+  ]
+}

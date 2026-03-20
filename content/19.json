@@ -1,0 +1,74 @@
+{
+  "subtitle": "Sonsuz Karışım ve Kozmik Zeka (M.Ö. 500–428)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: \"Her Şeyde Her Şeyden Bir Parça Vardır\"",
+      "body": "Anaksagoras, Parmenides'in \"Yokluktan hiçbir şey gelemez\" ilkesini en radikal noktaya taşır. Ona göre, eğer saç deriden çıkıyorsa, derinin içinde zaten \"saç\" olmalıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Spermata (Tohumlar)",
+          "text": "Evren, sonsuz sayıda ve sonsuz küçüklükte \"tohumlardan\" oluşur. Bu tohumlar her şeyi (kemik, et, altın, taş) içinde barındırır."
+        },
+        {
+          "label": "Homoiomereia (Benzer Parçalar)",
+          "text": "Bir maddeyi ne kadar bölerseniz bölün, içindeki içerik değişmez. Bir altın parçasının her zerresinde evrendeki her şeyden bir miktar vardır, ancak \"altın\" tohumları çoğunlukta olduğu için biz onu altın olarak görürüz."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, maddenin sonsuz bölünebilirliği fikridir ve Atomcuların \"bölünemez parça\" fikrine tam bir zıtlık oluşturur."
+        }
+      ]
+    },
+    {
+      "title": "Nous (Kozmik Akıl)",
+      "body": "Anaksagoras'ın felsefe tarihindeki en büyük devrimi Nous kavramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Maddeden Ayrışma",
+          "text": "İlk kez bir filozof, maddeyi (tohumları) hareket ettiren gücü maddeden tamamen ayırmıştır. Nous; saf, karışmamış, her şeyi bilen ve her şeye hükmeden bir \"Zeka\"dır."
+        },
+        {
+          "label": "İlk Hareket",
+          "text": "Başlangıçta her şey hareketsiz bir kaos halindeyken, Nous bir girdap (perichoresis) başlatmış ve bu hareketle maddeler birbirinden ayrışarak evreni oluşturmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel Sekülerizm",
+      "body": "Anaksagoras, gök cisimlerini tanrısal varlıklar olarak değil, fiziksel nesneler olarak görmüştür. Güneş'in Peloponnesos'tan daha büyük, kızgın bir metal kütlesi olduğunu, Ay'ın ise üzerinde dağlar ve vadiler bulunan, ışığını Güneş'ten alan toprak bir yapı olduğunu söylemiştir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dualizmin (İkicilik) Doğuşu",
+      "text": "Zihin (Nous) ve Maddeyi birbirinden ayırması, Platon ve Aristoteles üzerinden Descartes'a kadar uzanan Batı metafiziğinin ana omurgasını oluşturmuştur."
+    },
+    {
+      "title": "Bilimsel Cesaret ve Gözlem",
+      "text": "Mitolojik açıklamaları tamamen reddedip astronomik olayları mekanik nedenlerle açıklama çabası, onu modern bilimin gerçek öncülerinden biri yapar. Meteorların düşmesini bile sistemine dahil etmiştir."
+    },
+    {
+      "title": "Maddenin Sakınımı",
+      "text": "Hiçbir şeyin yok olmadığını, sadece \"karışma ve ayrışma\" olduğunu savunarak, modern fiziğin temel yasalarına (termodinamik) sezgisel bir yaklaşım sergilemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Nous'un \"Emekli\" Edilmesi",
+      "text": "Aristoteles ve Sokrates'in en büyük eleştirisi şudur: Anaksagoras, \"Akıl\" gibi muazzam bir kavramı ortaya atmış, ancak sistemi kurduktan sonra bütün işi yine hava, su ve eter gibi mekanik nedenlere bırakmıştır. Nous, sadece \"ilk düğmeye basan\" bir garsona dönüştürülmüştür."
+    },
+    {
+      "title": "Sonsuz Karışım Paradoksu",
+      "text": "\"Her şeyde her şeyin olması\" fikri mantıksal olarak çekici gelse de, fiziksel olarak bir maddenin karakterini nasıl koruduğunu açıklamakta zorlanır. Eğer her şey her şeyse, hiçbir şey \"kendi\" değildir."
+    },
+    {
+      "title": "Biyolojik Açıklama Eksikliği",
+      "text": "Tohumların nasıl olup da canlı organizmalara, bilince veya duygulara dönüştüğünü açıklayacak bir biyolojik mekanizma sunmaz; her şeyi tohumların \"zaten orada olmasına\" bağlayarak sorunu erteler."
+    }
+  ]
+}

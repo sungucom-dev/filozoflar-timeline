@@ -1,0 +1,79 @@
+{
+  "subtitle": "Eğri Odunu Düzeltme Sanatı ve Kültürel İnşa (M.Ö. 310–235)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: İnsan Doğası Kötüdür (Xing E)",
+      "body": "Xunzi, Mencius'a en sert itirazını burada yapar. Ona göre insan doğuştan bencil, arzularla dolu ve kıskançtır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eğri Odun Metaforu",
+          "text": "\"Eğri bir odun parçasının düzleşmesi için buharla yumuşatılması ve kalıba sokulması gerekir; insanın doğası da ancak eğitim ve ritüellerle düzeltilebilir.\""
+        },
+        {
+          "label": "Yapay İyilik (Wei)",
+          "text": "İyilik doğuştan gelmez; sonradan, yoğun bir çabayla inşa edilen bir \"yapaylık\" ürünüdür. Burada \"yapaylık\" kötü bir anlamda değil, \"insan emeğiyle yaratılan kültür\" anlamında kullanılır."
+        }
+      ]
+    },
+    {
+      "title": "Li (Ritüel) ve Yasaların Gücü",
+      "body": "Xunzi, kaosu engellemenin yolunu toplumsal sınırların net çizilmesinde görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Arzu Yönetimi",
+          "text": "İnsanların arzuları sınırsızdır ama kaynaklar sınırlıdır. Bu durum kaçınılmaz olarak savaşa yol açar. Li (ritüeller/kurallar), bu arzuları düzene sokan ve her bireye toplumda uygun bir yer (hiyerarşi) veren barajlardır."
+        },
+        {
+          "label": "Eğitimin Mutlaklığı",
+          "text": "Eğitim, sadece bilgi edinmek değil, vahşi bir hayvanı (insan doğasını) ehlileştirme sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Gök (Tian) ve Doğa Ayrımı",
+      "body": "Xunzi, Uzak Doğu felsefesinde devrim niteliğinde bir adım atarak \"Gök\"ü (Tian) sekülerleştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğal Düzen",
+          "text": "Gök, ahlaki bir yargıç veya insanların işine karışan bir tanrı değildir. O sadece mevsimlerin değişmesi, yağmurun yağması gibi doğal yasaların adıdır."
+        },
+        {
+          "label": "İnsanın Sorumluluğu",
+          "text": "\"Gök'ün bir işi vardır, insanın bir işi vardır.\" Kuraklık olduğunda dua etmek yerine baraj yapmak gerektiğini savunarak, kaderciliğe karşı insan iradesini koymuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sosyolojik Gerçekçilik",
+      "text": "İnsanın karanlık tarafını (hırs, kıskançlık, bencillik) inkar etmeden kabul etmesi, onun felsefesini toplumsal sorunlara karşı daha pratik ve korumacı kılar."
+    },
+    {
+      "title": "Kültürün Yüceltilmesi",
+      "text": "İnsanı \"doğa\"nın kurbanı olmaktan çıkarıp \"kültür\"ün yaratıcısı olarak konumlandırmıştır. Medeniyetin emekle ve kurallarla ayakta kaldığı fikri, modern siyaset bilimine çok yakındır."
+    },
+    {
+      "title": "Liyakat ve Eğitim Vurgusu",
+      "text": "Soylu doğmayı değil, eğitimle kendini \"yontmayı\" esas aldığı için, toplumsal mobiliteye ve kişisel gelişime kapı açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Otoriterlik Riski",
+      "text": "İnsan doğasına duyduğu bu derin güvensizlik, devletin ve kuralların birey üzerinde mutlak bir baskı kurmasına yol açabilir. Nitekim öğrencileri Han Fei ve Li Si, bu fikirleri kullanarak tarihin en acımasız totaliter rejimlerinden biri olan Legalizm akımını kurmuşlardır."
+    },
+    {
+      "title": "Duygusal Kuraklık",
+      "text": "Ritüellere ve disipline o kadar odaklanır ki, içsel samimiyetin ve doğal empatinin (Mencius'un o değerli merhamet duygusunun) önemini bazen gölgede bırakır."
+    },
+    {
+      "title": "Aşırı Müdahalecilik",
+      "text": "Her şeyin \"yapay\" ve \"inşa edilmiş\" olması gerektiği inancı, insan hayatının kendiliğinden gelişen, yaratıcı ve özgür alanlarını kısıtlayabilir."
+    }
+  ]
+}

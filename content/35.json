@@ -1,0 +1,75 @@
+{
+  "subtitle": "Erdemin Yalınlığı ve Toplumsal Reddiye (M.Ö. 4. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Erdem Yegâne İyidir",
+      "body": "Antisthenes için felsefe bir \"bilme\" meselesi değil, bir yaşama meselesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eylem Olarak Erdem",
+          "text": "Sokrates'in \"Erdem bilgidir\" sözünü daha ileri götürür: Erdem bir eylemdir ve bir kez elde edildiğinde asla kaybedilmez."
+        },
+        {
+          "label": "Hazzın Reddi",
+          "text": "Onun en meşhur sözlerinden biri şudur: \"Haz alacağıma delirsem daha iyi!\" Haz, insanı dış dünyaya bağımlı kılar; oysa bilge kişi hiçbir şeye ihtiyaç duymayan kişidir."
+        }
+      ]
+    },
+    {
+      "title": "Autarkeia (Kendi Kendine Yetme)",
+      "body": "Antisthenes, medeniyetin getirdiği tüm yapay ihtiyaçları (para, şan, lüks, makam) ruhun prangaları olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğaya Dönüş",
+          "text": "Toplumsal yasalar (Nomos) yerine doğanın yasalarını (Physis) koyar. Gerçek özgürlük, dış dünyadan hiçbir şey beklememek ve her koşulda \"kendine yetebilmektir\"."
+        },
+        {
+          "label": "Kıyafet ve Sembolizm",
+          "text": "Katlanmış pelerini, asası ve heybesiyle ilk \"Kinik\" imajını o yaratmıştır. Bu kıyafet, onun dünyaya karşı ilan ettiği bağımsızlığın üniformasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Dil ve Mantık: Adlandırma Teorisi",
+      "body": "Sadece ahlakla değil, mantıkla da ilgilenmiştir. Antisthenes, tanımlamanın imkansız olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özdeşlik",
+          "text": "Bir şeyin ne olduğunu söyleyemeyiz, sadece neye benzediğini söyleyebiliriz. \"At\"ı tanımlayamazsınız, sadece \"At, ata benzer\" diyebilirsiniz. Bu yaklaşım, Platon'un \"İdealar\" dünyasına yapılmış en erken ve en sert materyalist itirazlardan biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Dürüstlük ve Tutarlılık",
+      "text": "Antisthenes, söylediklerini bizzat yaşayan bir adamdır. Lüksü reddedip yoksulluğu seçmesi, felsefeye muazzam bir \"karakter gücü\" kazandırmıştır."
+    },
+    {
+      "title": "Statüko Karşıtlığı",
+      "text": "Zenginlik, sınıf ayrımı ve yapay sosyal normların insanı mutsuz ettiğini fark etmesi, onu tarihin ilk gerçek \"muhalif\" düşünürlerinden biri yapar."
+    },
+    {
+      "title": "Stoacılığın Temeli",
+      "text": "Onun \"Erdem her şeydir\" ve \"Dışsal olaylar önemsizdir\" fikirleri, yüzyıllar sonra Roma İmparatorluğu'na yön verecek olan Stoacılığın ana kaynağı olmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Sertlik ve Kabalık",
+      "text": "Toplumsal nezaketi ve sanatı \"boş işler\" olarak görüp reddetmesi, felsefeyi bazen sadece \"saldırgan bir askeze\" (çileciliğe) indirger. Bu tutum, toplumsal bağları onarmak yerine koparma riski taşır."
+    },
+    {
+      "title": "Estetik ve Kültürel Kayıp",
+      "text": "Bilimin, sanatın ve edebiyatın insan ruhuna kattığı derinliği \"gereksiz yük\" olarak tanımlaması, medeniyetin niteliksel gelişimini baltalayabilir."
+    },
+    {
+      "title": "Paradoksal Bağımlılık",
+      "text": "Toplumun tüm değerlerine \"karşı\" yaşamak, aslında o değerlere hala bir şekilde bağımlı olmaktır. Toplumu sürekli şoke etmeye çalışmak, aslında hala \"toplumu referans almak\" demektir."
+    }
+  ]
+}

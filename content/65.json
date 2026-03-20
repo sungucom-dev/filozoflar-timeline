@@ -1,0 +1,102 @@
+{
+  "subtitle": "Boşluğun (Sunyata) ve İlişkiselliğin Mimarı (150–250)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Sunyata (Boşluk)",
+      "body": "Nagarjuna'nın felsefesi tek bir kelime etrafında döner: Sunyata. Ancak bu \"hiçlik\" demek değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Svabhava'nın Reddi",
+          "text": "Nesnelerin kendi başlarına, bağımsız ve kalıcı bir \"özü\" (svabhava) olduğu fikrini reddeder."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bir ağaç; tohum, toprak, su, güneş ve zaman olmadan \"ağaç\" olamaz. Hiçbir şey kendi başına var olamadığı için, her şey özden \"boştur\". Bu, nesnelerin yok olduğu anlamına gelmez; sadece bağımlı oldukları anlamına gelir."
+        }
+      ]
+    },
+    {
+      "title": "Bağımlı Varoluş (Pratityasamutpada)",
+      "body": "Nagarjuna'ya göre varoluş, her şeyin birbirine bağlı olduğu devasa bir ağdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Etkileşim",
+          "text": "Hiçbir neden tek başına bir sonuç doğurmaz ve hiçbir sonuç tek bir nedene bağlanamaz. Varoluş, sürekli bir akış ve etkileşim halidir."
+        },
+        {
+          "label": "Düğüm",
+          "text": "Bir ağın düğümleri gibi, biz de sadece diğer düğümlerle olan ilişkimiz sayesinde varızdır. Düğümleri çözerseniz, ağ da kalmaz."
+        }
+      ]
+    },
+    {
+      "title": "Mantıksal Silah: Catuskoti (Dörtlü Mantık)",
+      "body": "Nagarjuna, bir şeyin gerçekliği hakkında yapılabilecek tüm önermeleri şu dörtlü yapıyla (tetralemma) imkansız kılar ve bu dört olasılığı da reddeder. Çünkü dil ve kavramlar, bu akışkan gerçekliği dondurmaya çalışan yetersiz araçlardır.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Olumlama",
+          "text": "X vardır."
+        },
+        {
+          "label": "Olumsuzlama",
+          "text": "X yoktur."
+        },
+        {
+          "label": "Bağdaştırma",
+          "text": "X hem vardır hem yoktur."
+        },
+        {
+          "label": "İptal",
+          "text": "X ne vardır ne de yoktur."
+        }
+      ]
+    },
+    {
+      "title": "İki Hakikat Doktrini",
+      "body": "Nagarjuna iki tür hakikat tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Göreceli Hakikat (Samvrti)",
+          "text": "Günlük hayatta işimize yarayan gerçeklik (Örn: \"Benim adım Ahmet, bu bir masa\"). Yaşamak için buna ihtiyacımız vardır."
+        },
+        {
+          "label": "Mutlak Hakikat (Paramartha)",
+          "text": "Her şeyin boş olduğu ve hiçbir ayrımın bulunmadığı mutlak birlik hali."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dogmatizmin Panzehiri",
+      "text": "Sadece dini değil, bilimsel ve felsefi her türlü katı görüşü sarsarak zihni esnek ve açık tutar. \"Boşluğa bile tutunma\" der."
+    },
+    {
+      "title": "Psikolojik Hafiflik",
+      "text": "Nesnelere ve benliğe atfettiğimiz o \"kalıcı ve ağır\" anlamları yıkarak, insanın acılarından (tutkularından) kurtulmasını sağlar."
+    },
+    {
+      "title": "Modern Fizikle Uyum",
+      "text": "Onun \"ilişkisellik\" vurgusu, modern kuantum fiziğindeki gözlemci-nesne ilişkisi ve atom altı parçacıkların bağımsız bir özü olmadığı fikriyle şaşırtıcı derecede örtüşür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Nihilizm Tuzağı",
+      "text": "\"Her şey boşsa, ahlakın veya çabanın ne anlamı var?\" sorusu en büyük riskidir. Nagarjuna buna \"orta yol\" ile cevap verse de, takipçileri bazen bu derin boşlukta kaybolabilir."
+    },
+    {
+      "title": "Mantıksal İntihar",
+      "text": "Kendi argümanlarını da \"boş\" olarak tanımlar. Eğer her şey boşsa, Nagarjuna'nın felsefesi de boş ve dolayısıyla geçersiz değil midir? Bu paradoks, onun sisteminin en kırılgan noktasıdır."
+    },
+    {
+      "title": "Dilin Sınırları",
+      "text": "Felsefesi o kadar soyuttur ki, bazen sadece dil oyunlarına dönüşme ve gerçek hayattan tamamen kopma tehlikesi taşır."
+    }
+  ]
+}

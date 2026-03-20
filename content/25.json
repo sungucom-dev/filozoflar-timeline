@@ -1,0 +1,79 @@
+{
+  "subtitle": "Sınır, Sayı ve Merkezi Ateş (M.Ö. 470–385)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Sınırlayanlar ve Sınırsızlar (Limiters and Unlimiteds)",
+      "body": "Philolaus'un felsefesinin temel taşı, evrenin zıtlıkların uyumuyla oluştuğudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ontolojik Çatışma",
+          "text": "Evren, \"Sınırsızlar\" (hava, boşluk, süreklilik gibi belirsiz olanlar) ile \"Sınırlayanlar\"ın (şekil, sayı, ölçü gibi belirleyenler) birleşimidir."
+        },
+        {
+          "label": "Harmonia (Uyum)",
+          "text": "Bu iki zıt yapı, ancak \"Uyum\" (Harmony) sayesinde bir araya gelip bir dünya (Kosmos) oluşturabilir. Philolaus için uyum, matematiksel bir zorunluluktur."
+        }
+      ]
+    },
+    {
+      "title": "Sayıların Mutlak Egemenliği",
+      "body": "Philolaus, \"Sayılar yalan söylemez\" diyenlerin ilkidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilginin Anahtarı",
+          "text": "Sayı olmazsa hiçbir şey anlaşılamaz, bilinemez ve tarif edilemez. Bir şeyin sayısı yoksa, o şey \"yok\" hükmündedir."
+        },
+        {
+          "label": "On Sayısı (Dekas)",
+          "text": "On sayısını evrenin en kutsal ve mükemmel sayısı olarak görür. Bu sayı, tüm sayısal sistemin ve kozmik düzenin temelidir."
+        }
+      ]
+    },
+    {
+      "title": "Merkezi Ateş: Dünyayı Hareket Ettirmek",
+      "body": "Philolaus, astronomi tarihinde gerçek bir deprem yaratmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Antichthon (Karşı-Dünya)",
+          "text": "Dünyanın evrenin merkezinde olduğu dogmasını yıkar. Ona göre merkezde \"Hestia\" (Merkezi Ateş) vardır ve Dünya, Güneş, Ay ve diğer gezegenler (ve bizim göremediğimiz \"Karşı-Dünya\") bu ateşin etrafında döner."
+        },
+        {
+          "label": "Kozmik Koro",
+          "text": "Gezegenlerin hareketinin, sayısal oranlara dayalı muazzam bir göksel müzik (kürelerin müziği) ürettiğini savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Matematiksel Ontoloji",
+      "text": "Varlığı şiirsel metaforlardan çıkarıp rasyonel, ölçülebilir ve matematiksel bir zemine oturtarak modern bilimin (özellikle fiziğin) yolunu açmıştır."
+    },
+    {
+      "title": "Kozmolojik Devrim",
+      "text": "Dünyayı evrenin merkezinden söküp atarak, insanın narsistik algısını ilk kez büyük bir kozmik perspektifle sarsmıştır."
+    },
+    {
+      "title": "Yazılı Gelenek",
+      "text": "Pisagorculuğun o aşırı kapalı ve sözlü geleneğini bozarak düşünceleri yazıya aktarması, felsefenin evrenselleşmesine hizmet etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sayı Mistisizmi",
+      "text": "Sayıları bazen birer araç olmaktan çıkarıp, onlara dinsel ve büyülü anlamlar yüklemesi (Numeroloji), felsefesini rasyonaliteden uzaklaştırıp mistisizme kaydırmıştır."
+    },
+    {
+      "title": "Zorlama Düzen",
+      "text": "On sayısının mükemmelliğine o kadar inanmıştır ki; evrendeki cisimlerin sayısını \"ona\" tamamlamak için \"Karşı-Dünya\" gibi kanıtlanamayan hayali gök cisimleri uydurmak zorunda kalmıştır."
+    },
+    {
+      "title": "Hiyerarşik Katılık",
+      "text": "Dünyayı katı sayısal sınırlara hapsetmesi, doğanın o akışkan ve \"ölçüye gelmez\" kaotik taraflarını görmezden gelmesine neden olmuştur."
+    }
+  ]
+}

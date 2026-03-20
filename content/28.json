@@ -1,0 +1,83 @@
+{
+  "subtitle": "Atomik Gerçeklik ve Mekanik Evren (M.Ö. 460–370)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Varlık Olarak Atomlar ve Boşluk",
+      "body": "Demokritos için evrende sadece iki gerçeklik vardır: Atomlar ve Boşluk. Geri kalan her şey (renkler, tatlar, kokular) birer sanıdır (nomos).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Parçalanamaz Birimler",
+          "text": "Atomlar ezelidir, değişmezdir ve sonsuz sayıdadır. Aralarındaki fark sadece şekil, düzen ve konumdan ibarettir."
+        },
+        {
+          "label": "Mekanik Çatışma",
+          "text": "Atomlar boşlukta rastgele değil, çarpışmalar ve kancalı yapılarıyla birbirlerine tutunarak nesneleri oluştururlar. Evrende amaçlılık (teleoloji) yoktur; sadece Zorunluluk (Ananke) vardır."
+        }
+      ]
+    },
+    {
+      "title": "Epistemoloji: Karanlık ve Aydınlık Bilgi",
+      "body": "Demokritos, duyularımız ile aklımız arasına keskin bir sınır çizer.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Karanlık Bilgi",
+          "text": "Duyularla elde edilen bilgidir (görme, işitme vb.). Bize nesnelerin \"rengini\" veya \"kokusunu\" söyler ama bu özellikler atomlarda yoktur; sadece bizim algımızda vardır."
+        },
+        {
+          "label": "Aydınlık (Meşru) Bilgi",
+          "text": "Akıl yoluyla ulaşılan atomların ve boşluğun bilgisidir. Gerçek olan budur."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu ayrım, modern felsefede John Locke'un \"Birincil ve İkincil Nitelikler\" ayrımının binlerce yıl önceki habercisidir."
+        }
+      ]
+    },
+    {
+      "title": "Etik: Euthymia (Ruh Dinginliği)",
+      "body": "Demokritos'un materyalizmi sadece fizikle sınırlı değildir. Ruhun da çok ince, küresel ve hareketli \"ateş atomlarından\" oluştuğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutluluk Formülü",
+          "text": "En yüksek iyi, haz değil, Euthymia'dır (ruh dinginliği/neşesi). Bu, korkudan ve boş inançlardan arınmış, ölçülü bir yaşamla elde edilir."
+        },
+        {
+          "label": "Gülümseyen Filozof",
+          "text": "İnsanların boş hırslarını, ölüm korkularını ve tanrısal ceza endişelerini saçma bulduğu için onlara gülmesiyle tanınır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Bilimin Temeli",
+      "text": "Maddenin korunumu, atomik yapı ve nedensellik ilkeleriyle modern kimya ve fiziğin felsefi babasıdır. Doğa olaylarını hiçbir doğaüstü güce başvurmadan açıklama başarısı eşsizdir."
+    },
+    {
+      "title": "Psikolojik Özgürleşme",
+      "text": "Ruhu atomlara indirgeyerek ölüm korkusunu (çünkü ölüm sadece atomların dağılmasıdır) ve tanrıların gazabını felsefi olarak geçersiz kılmıştır. Bu, insanlık için büyük bir zihinsel özgürleşmedir."
+    },
+    {
+      "title": "Bütüncül Materyalizm",
+      "text": "Fizikten ahlaka, siyasetten kozmolojiye kadar her şeyi tek bir ilkeyle (atom) açıklayan tarihteki en tutarlı \"kapalı\" sistemlerden birini kurmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İradenin Yok Sayılması",
+      "text": "Katı determinizm (her şeyin atom çarpışmalarıyla zorunlu olması), insan iradesini bir illüzyona dönüştürür. Eğer her şey zorunluysa, \"iyi\" veya \"kötü\" seçimi nasıl mümkün olabilir? Bu çelişki, sisteminin en zayıf halkasıdır."
+    },
+    {
+      "title": "Niteliklerin İptali",
+      "text": "Dünyayı sadece şekil ve ağırlığa indirgemek, estetik deneyimi ve bilincin öznel derinliğini (niteliksel zenginliği) açıklamakta yetersiz kalır. \"Tat\" veya \"Aşk\" sadece atomların dizilişiyle tam olarak açıklanamaz."
+    },
+    {
+      "title": "İlk Hareket Sorunu",
+      "text": "Atomların neden hareket ettiğine dair nihai bir açıklama sunmaz; hareketi maddenin ezeli bir özelliği olarak \"varsayar\". Aristoteles, bu noktada onu \"nedeni açıklamak yerine bir başlangıç noktası dayatmakla\" eleştirecektir."
+    }
+  ]
+}

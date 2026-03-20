@@ -1,0 +1,75 @@
+{
+  "subtitle": "Görev Aşkı ve Evrensel Bütünlük (121–180)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Kozmopolis ve Sympatheia",
+      "body": "Marcus Aurelius için insan, sadece kendi başına bir birey değil, evrensel bir organizmanın (Logos) ayrılmaz bir parçasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ortak İyi",
+          "text": "\"Arı kovanına yaramayan şey, arıya da yaramaz.\" Bir insanın tek amacı, topluma ve evrensel düzene hizmet etmektir."
+        },
+        {
+          "label": "Sympatheia (Evrensel Bağ)",
+          "text": "Evrendeki her şey birbirine görünmez iplerle bağlıdır. Bu yüzden birine yapılan haksızlık, aslında tüm düzene ve dolayısıyla kişinin kendisine yapılmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Engeli Yol Yapmak",
+      "body": "Stoacılığın en pratik ve modern girişimcilik dünyasını bile etkileyen ilkesini en net o ifade etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dönüştürücü Güç",
+          "text": "\"Eyleme engel olan şey, eylemi ilerletir. Yolun üzerindeki engel, yolun kendisi olur.\" Başına gelen kötü olaylar, aslında senin sabrını, zekanı ve erdemini test edip geliştirmen için birer fırsattır."
+        }
+      ]
+    },
+    {
+      "title": "Zamanın Geçiciliği ve Memento Mori",
+      "body": "Marcus, imparatorluk gücünün geçiciliğine dair derin bir farkındalığa sahipti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Toz ve Gölge",
+          "text": "Her gün kendine, en büyük imparatorların bile unutulduğunu, her şeyin değiştiğini ve ölümün her an kapıda olduğunu hatırlatırdı. Bu onu kibirden koruyan en büyük kalkandı."
+        },
+        {
+          "label": "Şimdiye Odaklanma",
+          "text": "Gelecek için endişelenmek veya geçmiş için hayıflanmak anlamsızdır; çünkü sahip olduğun tek şey, şu anki kısa andır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Liderlikte Erdemin Zirvesi",
+      "text": "Gücün insanı mutlak olarak yozlaştırdığı bir çağda, elindeki sınırsız yetkiyi sadece adalet ve hizmet için kullanmaya çalışması, insanlık tarihinin en büyük ahlaki başarılarından biridir."
+    },
+    {
+      "title": "İçsel Dürüstlük",
+      "text": "Günlüğü, bir insanın kendi zaaflarıyla (öfke, bıkkınlık, kibir) nasıl dürüstçe yüzleşebileceğinin en samimi örneğidir."
+    },
+    {
+      "title": "Dayanıklılık Kültürü",
+      "text": "Modern dünyada \"rezilyans\" (psikolojik sağlamlık) dediğimiz kavramın en derin felsefi temellerini atmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hüzünlü Kabulleniş",
+      "text": "Marcus'un yazılarında Epiktetos'un o neşeli ve meydan okuyan tavrı yerine, bazen \"hayat bir görevdir ve bitene kadar katlanmalıyız\" diyen ağır bir hüzün ve yorgunluk hissedilir. Bu, felsefeyi biraz fazla kasvetli kılabilir."
+    },
+    {
+      "title": "Siyasi Değişim Eksikliği",
+      "text": "Sistemi \"mevcut olanı kabullenmek\" üzerine kurulu olduğu için, Roma'nın çürümekte olan kurumlarını devrimci bir şekilde değiştirmek yerine, onları olduğu gibi korumaya ve onlara \"sabretmeye\" odaklanmıştır. (Örn: Hristiyanlara yönelik baskıların kendi döneminde devam etmesi.)"
+    },
+    {
+      "title": "Fatalizm (Kadercilik) Tuzağı",
+      "text": "Her şeyi \"ilahi bir planın parçası\" olarak görmesi, bazen insanın kendi hatalarını veya sistemin yanlışlarını sorgulamasını engelleyebilir."
+    }
+  ]
+}

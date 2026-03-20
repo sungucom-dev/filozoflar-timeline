@@ -1,0 +1,75 @@
+{
+  "subtitle": "Sayıların ve Yıldızların Muhafızı (350–415)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bilimsel Miras: Müze'nin Son Yıldızı",
+      "body": "Hypatia, ünlü matematikçi Theon'un kızıdır ve İskenderiye Müzesi (Mouseion) geleneğinin son temsilcisidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Matematik ve Astronomi",
+          "text": "Öklid'in geometrisi ve Diophantus'un cebiri üzerine şerhler yazmış; Batlamyus'un devasa eseri Almagest'i (Büyük Kitap) babasıyla birlikte yeniden düzenlemiştir."
+        },
+        {
+          "label": "Teknoloji",
+          "text": "Yıldızların konumunu belirleyen astrolabın ve sıvıların yoğunluğunu ölçen hidrometrenin geliştirilmesinde kilit rol oynamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Felsefesi: Berrak Yeni Platonculuk",
+      "body": "Iamblichus'un aksine Hypatia, Yeni Platonculuğu büyü ve ritüellerden arındırıp, onu matematiksel bir kesinlik ve mantıksal bir derinlikle savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Sınıf",
+          "text": "Onun derslerinde Hristiyanlar, Yahudiler ve Paganlar aynı masada otururdu. Felsefe, onun için dinlerin ve siyasetin ötesinde, ruhun \"akıl\" yoluyla yükseldiği ortak bir alandı."
+        },
+        {
+          "label": "Kamusal Alan",
+          "text": "Şehirdeki yüksek düzeyli yöneticilere danışmanlık yapmış; felsefeyi toplumun merkezine, sokağa ve idareye taşımıştır."
+        }
+      ]
+    },
+    {
+      "title": "Trajik Son: Bir Çağın Kapanışı",
+      "body": "MS 415 yılında, İskenderiye'deki siyasi ve dini gerginliklerin (Piskopos Cyril ile Vali Orestes arasındaki güç savaşı) ortasında kalmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kurban Edilen Deha",
+          "text": "Bir bağnaz grup tarafından vahşice katledilmesi, özgür düşüncenin dogmatizm karşısındaki en karanlık yenilgilerinden biridir. Bu olay, antik bilimsel geleneğin yerini dogmatik bir Ortaçağ yapısına bırakmasının simgesi olmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kadınların Bilimdeki Öncülüğü",
+      "text": "Erkek egemen bir dünyada, sadece zekasıyla en üst düzeye ulaşmış ve yüzyıllar boyunca bilim kadınları için bir simge haline gelmiştir."
+    },
+    {
+      "title": "Sentez Gücü",
+      "text": "Bilimi (matematik/astronomi) ve felsefeyi birbirinden koparmadan, bir bütün olarak öğretmesi; rasyonel düşüncenin en saf hallerinden biridir."
+    },
+    {
+      "title": "Entelektüel Köprü",
+      "text": "Farklı dinlerden öğrencileri bir arada tutabilmesi, onun ne kadar hoşgörülü ve evrensel bir vizyona sahip olduğunu gösterir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasi Öngörü Eksikliği",
+      "text": "Felsefeyi kamusal alanda bu kadar görünür kılması ve valiye olan yakınlığı, onu yükselen dini fanatizmin hedefi haline getirmiştir. Belki de felsefenin o dönemdeki \"yakıcı\" gücünü hafife almıştır."
+    },
+    {
+      "title": "Eserlerin Kaybolması",
+      "text": "Trajik bir şekilde, çalışmalarının çoğu kütüphane yangınlarında ve saldırılarda yok olmuştur. Onu bugün daha çok öğrencilerinin (Örn: Synesius) mektupları ve tarihçilerin anlatılarından biliyoruz; bu da orijinal fikirlerinin tam derinliğini kavramamızı zorlaştırır."
+    },
+    {
+      "title": "Elitist Kalma Riski",
+      "text": "Eğitimi çok yüksek düzeyliydi ve hitap ettiği kitle genellikle soylular ve yöneticilerdi. Bu durum, onun fikirlerinin alt tabakalardaki halk kitlelerine ulaşmasını ve toplumsal bir \"zırh\" kazanmasını engellemiş olabilir."
+    }
+  ]
+}

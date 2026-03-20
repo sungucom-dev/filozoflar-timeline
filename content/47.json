@@ -1,0 +1,66 @@
+{
+  "subtitle": "Mantıksal Kadercilik ve İmkansızın Sınırı (M.Ö. 4. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Üstün Argüman (Kyriêuon Logos)",
+      "body": "Diodorus'un felsefe tarihine bıraktığı en büyük bomba, \"olanak\" (possibility) kavramını yeniden tanımlamasıdır. Ona göre şu üç önerme birbiriyle çelişir: Geçmişte olmuş her şey zorunludur (değiştirilemez); mümkün olandan imkansız olan çıkmaz; ne olan ne de olacak olan bir şey yine de mümkündür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sonuç",
+          "text": "Diodorus, üçüncü önermeyi feda eder. Ona göre mümkün olan şey, ya şu an doğrudur ya da gelecekte doğru olacaktır. Eğer bir şey ne şimdi oluyorsa ne de gelecekte olacaksa, o şey imkansızdır. Bu, \"potansiyel ama hiç gerçekleşmeyecek\" olan her şeyi evrenden siler."
+        }
+      ]
+    },
+    {
+      "title": "Hareketin Reddi ve \"Hareket Etmiş Olma\"",
+      "body": "Diodorus, tıpkı Zenon gibi hareketin o anki varlığını sorgular ama bunu mantıksal bir atomculukla yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şimdi Hareket Yoktur",
+          "text": "\"Bir cisim ne olduğu yerde hareket edebilir (çünkü oradadır), ne de olmadığı yerde (çünkü orada yoktur).\""
+        },
+        {
+          "label": "Geçmiş Zamanın Zaferi",
+          "text": "Ona göre bir nesne asla \"hareket etmiyor\"dur, sadece \"hareket etmiş\" olabilir. Tıpkı bir filmin kareleri gibi; karelerin içinde hareket yoktur, sadece kareler arasındaki farktan \"hareket etmiş olma\" sonucuna varırız."
+        }
+      ]
+    },
+    {
+      "title": "Dil ve Anlam: Her Şey İsimdir",
+      "body": "Diodorus, dilin yapaylığına inanır. \"Hiçbir kelime doğuştan anlamsız değildir\" diyerek, bir köleye \"Ancak\" (Alla mên) ismini vererek dilin sadece uzlaşımdan ibaret olduğunu kanıtlamaya çalışmıştır. Onun için mantık, dilin kurallarıyla örülmüş kaskatı bir kafestir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modal Mantığın Temeli",
+      "text": "Olasılık ve zorunluluk üzerine kurduğu analizler, yüzyıllar sonra modal mantığın ve modern bilişimsel mantığın en önemli yapı taşlarından biri olmuştur."
+    },
+    {
+      "title": "Deterministik Netlik",
+      "text": "Evreni belirsizlikten temizleyerek, mantıksal olarak tutarlı ama kaskatı bir kader anlayışı sunmuştur; bu da Stoacıların \"fıtrata uyum\" felsefesine zemin hazırlamıştır."
+    },
+    {
+      "title": "Paradoks Ustası",
+      "text": "Zihni konfor alanından çıkaran paradokslarıyla, düşüncenin kendi sınırlarını (dil ve mantık üzerinden) fark etmesini sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Özgür İradenin İptali",
+      "text": "\"Sadece gerçekleşenler mümkündür\" demek, insan iradesini ve \"seçme\" eylemini anlamsız bir illüzyona indirger."
+    },
+    {
+      "title": "Statik Evren",
+      "text": "Hareketin \"şimdi\"sini reddetmesi, yaşamın o akışkan ve dinamik doğasını mantıksal bir donukluğa hapseder."
+    },
+    {
+      "title": "Psikolojik Yıkım",
+      "text": "Diodorus'un dünyasında \"umut\" yoktur, çünkü gelecek zaten mantıksal bir zorunlulukla ipotek altına alınmıştır."
+    }
+  ]
+}

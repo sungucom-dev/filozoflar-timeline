@@ -1,0 +1,79 @@
+{
+  "subtitle": "Evrensel Sevgi ve Radikal Faydacılığın Sesi (M.Ö. 470–391)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Jian'ai (Evrensel Sevgi / Ayırımsız İlgi)",
+      "body": "Mozi'nin felsefesi, Konfüçyüs'ün \"dereceli sevgi\" (önce aile, sonra yakınlar, en son yabancılar) anlayışına kökten bir itirazdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ayırımsız Sevgi",
+          "text": "Mozi'ye göre dünyadaki tüm kaosun, savaşların ve hırsızlıkların sebebi \"ayrımcılık\"tır. Eğer herkes başkasının babasını kendi babası, başkasının devletini kendi devleti gibi severse, saldırganlık için hiçbir sebep kalmaz."
+        },
+        {
+          "label": "Mantıksal Gerekçe",
+          "text": "Bu bir romantizm değil, pragmatizmdir. \"Ben başkasını seversem, o da beni sever; böylece ikimiz de karlı çıkarız\" mantığına dayanır."
+        }
+      ]
+    },
+    {
+      "title": "Faydacılık (Li) ve Savurganlık Karşıtlığı",
+      "body": "Mozi, bir eylemin değerini \"halka sağladığı somut fayda\" ile ölçer. Bu bağlamda Konfüçyüsçü ritüellere savaş açmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Müzik ve Cenaze Eleştirisi",
+          "text": "Mozi'ye göre üç yıl süren yas törenleri veya pahalı müzik şölenleri üretimden koparır ve devletin kaynaklarını boşa harcar. Halk açken müzik dinlemek veya tören yapmak ahlaksızlıktır."
+        },
+        {
+          "label": "Üçlü Denetim (San Biao)",
+          "text": "Bir fikrin doğruluğunu üç ölçütle test eder: Geçmişteki kanıtlar (tarih), halkın deneyimi (gözlem) ve toplumsal uygulama (fayda)."
+        }
+      ]
+    },
+    {
+      "title": "Siyaset ve Savunma Sanatı",
+      "body": "Mozi, sadece bir düşünür değil, aynı zamanda müthiş bir askeri mühendistir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Saldırganlığa Karşı Savunma",
+          "text": "Mohistler, haksız savaşlara (fetih savaşlarına) şiddetle karşı çıkmışlardır. Ancak bir şehir saldırıya uğradığında, o şehri savunmak için en ileri savunma teknolojilerini (mancınıklar, tahkimatlar) bizzat geliştirip uygulamışlardır."
+        },
+        {
+          "label": "Liyakat ve Tanrısal İrade (Tian)",
+          "text": "Yöneticilerin asaletle değil, yetenekle seçilmesini savunur. Gök'ün (Tian) adil olduğunu ve halka zulmedenleri cezalandıracağını iddia ederek siyasete ahlaki bir denetim getirir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İlk Sistematik Mantık ve Bilim",
+      "text": "Mohistler (geç dönem), Çin tarihinde optik, mekanik ve mantık üzerine çalışan tek gruptur. Fikirlerini \"kanıt\" ve \"tanımlama\" üzerine kurmaları, Doğu düşüncesinde nadir görülen bir analitik gelenek başlatmıştır."
+    },
+    {
+      "title": "Hümanist Faydacılık",
+      "text": "Batı'da Jeremy Bentham'dan yüzyıllar önce \"en büyük çoğunluk için en büyük mutluluk\" (fayda) prensibini savunması, onu modern siyaset felsefesinin dâhi bir öncüsü yapar."
+    },
+    {
+      "title": "Tutarlılık ve Adanmışlık",
+      "text": "Fikirlerini sadece yazmamış, savaşları durdurmak için barikatlara gitmişlerdir. \"Sözü ile özü bir\" olma konusunda felsefe tarihinin en dürüst gruplarından biridir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Duygusal Katılık",
+      "text": "Mozi, insan doğasını çok fazla hafife almıştır. Bir insanın yabancı birini öz annesi kadar sevmesini talep etmek, biyolojik ve psikolojik gerçeklere (evrimsel bağlara) aykırıdır. Bu radikal eşitlik, uygulanması imkansız bir ütopya yaratır."
+    },
+    {
+      "title": "Hayatın Estetikten Arındırılması",
+      "text": "Müziği, sanatı ve estetik ritüelleri \"faydasız\" oldukları gerekçesiyle reddetmesi, yaşamı sadece \"karın doyurma ve hayatta kalma\" düzeyine indirger. Mozi'nin dünyası güvenli ama gri, neşesiz ve mekanik bir dünyadır."
+    },
+    {
+      "title": "Otoriter Eğilimler",
+      "text": "\"Yukarıyla uyumlanma\" (Shangtong) prensibi, toplumun en tepedeki yöneticinin ahlaki standartlarına mutlak itaat etmesini gerektirir. Bu durum, eleştirel düşünceyi bastıran ve totaliter bir yapıya evrilebilen bir \"tektipleştirme\" riski taşır."
+    }
+  ]
+}

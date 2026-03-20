@@ -1,0 +1,71 @@
+{
+  "subtitle": "Dogmayı Yıkan Deha ve Sayıların Kaosu (M.Ö. 5. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Keşif: İrrasyonel Sayıların İcadı/Keşfi",
+      "body": "Pisagorcular için evren, tam sayıların (1, 2, 3...) ve bunların birbirine oranlarının (p/q) mükemmel bir uyumuydu. Hippasus, geometrik bir problem üzerine çalışırken bu mükemmeliyeti yerle bir etti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Karenin Köşegeni",
+          "text": "Kenarı 1 birim olan bir karenin köşegen uzunluğunu hesaplamaya çalıştığında (Pisagor teoremi: 1² + 1² = c²), sonucun √2 olduğunu gördü. Ancak bu sayı, iki tam sayının oranı olarak ifade edilemiyordu."
+        },
+        {
+          "label": "Analiz",
+          "text": "√2 sayısının \"ölçülemez\" (irrasyonel) olduğunu kanıtlamak, evrenin sadece basit tam sayılardan ibaret olduğu inancını kökünden sarstı. Bu, matematik tarihinin en büyük \"krizlerinden\" biridir."
+        }
+      ]
+    },
+    {
+      "title": "Geometrik Kozmoloji: On İki Yüzlü (Dodekahedron)",
+      "body": "Hippasus'un bir diğer büyük başarısı, on iki düzgün beşgenden oluşan dodekahedronu keşfetmesi ve onu bir küre içine nasıl yerleştireceğini göstermesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sırrın İfşası",
+          "text": "Pisagorcular bu beşli sembolizmi ve dodekahedronu \"kutsal\" sayar ve gizli tutarlardı. Hippasus'un bu bilgiyi okul dışına taşıması (veya kendi keşfi olarak sunması), onun \"hain\" ilan edilmesine neden olan en büyük suçlarından biriydi."
+        }
+      ]
+    },
+    {
+      "title": "Arkhe Olarak Ateş (Herakleitosçu Etki)",
+      "body": "İlginçtir ki Hippasus, Pisagorcu olmasına rağmen madde felsefesinde Herakleitos'a yakındır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Değişim ve Hareket",
+          "text": "Arkhe'nin (ilk madde) Ateş olduğunu savunmuştur. Evrenin belirli zaman aralıklarında değiştiğini ve sürekli bir hareket halinde olduğunu iddia etmiştir. Bu yönüyle, Pisagor'un \"statik ve sayısal\" evreninden \"dinamik ve enerjik\" bir evren anlayışına geçiş yapmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Dürüstlük",
+      "text": "Hippasus, ulaştığı matematiksel sonucun (irrasyonellik) bağlı olduğu okulun temel inançlarını yıktığını gördüğünde, gerçeği gizlemek yerine onu takip etmiştir. Bu, felsefenin \"gerçek ne pahasına olursa olsun aranmalıdır\" ilkesinin en sert örneğidir."
+    },
+    {
+      "title": "Matematiksel Titizlik",
+      "text": "Soyut bir kavram olan \"ölçülemezlik\" üzerine gitmesi, matematiği sadece bir hesaplama aracı olmaktan çıkarıp, mantıksal bir kanıtlama ve keşif disiplinine dönüştürmüştür."
+    },
+    {
+      "title": "Okullar Arası Köprü",
+      "text": "Pisagorculuk ile Herakleitosçu değişim felsefesi arasında kurduğu bağ, antik düşüncenin ne kadar geçirgen ve dinamik olduğunu gösterir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistemik Boşluk",
+      "text": "Hippasus'un keşifleri, yıkıcı olmalarına rağmen, yıkılanın yerine yeni ve bütüncül bir sistem koymakta eksik kalmıştır. İrrasyonelliğin evrensel uyumla (harmonia) nasıl bağdaştığını açıklayan bir teori geliştirecek vakti (veya şansı) olmamıştır."
+    },
+    {
+      "title": "Gizlilik ve İletişim Hatası",
+      "text": "Bilgiyi yayma biçimi (eğer efsaneler doğruysa), o dönem için bir \"aydınlanma\" girişimi gibi görünse de, bilimsel bir topluluk içindeki etik kuralları ve güveni sarsmıştır. Bu, bilginin paylaşımı ile korunması arasındaki kadim çatışmanın bir kurbanı olmasına yol açmıştır."
+    },
+    {
+      "title": "Kaynak Yetersizliği",
+      "text": "Hakkındaki çoğu bilgi, onun \"denizde boğularak öldürüldüğünü\" anlatan efsanelere ve rakiplerinin (geç dönem Pisagorcuların) karalamalarına dayanır. Bu durum, onun özgün felsefi fikirlerini tarafsızca analiz etmeyi zorlaştırır."
+    }
+  ]
+}

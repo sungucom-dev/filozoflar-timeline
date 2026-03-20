@@ -1,0 +1,98 @@
+{
+  "subtitle": "On Mod ve Mutlak Belirsizlik (M.Ö. 1. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Akademia'ya Başkaldırı: \"Yalancı Şüpheciler\"",
+      "body": "Aenesidemus, o dönemdeki Akademia'nın (özellikle Philo ve Karneades sonrası) aslında \"gizli birer dogmatik\" olduğunu savunur. Onlara göre \"hiçbir şey bilinemez\" demek, en azından bir şeyi bildiğimizi iddia etmektir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gerçek Pyrrhonculuk",
+          "text": "Aenesidemus'a göre gerçek bir şüpheci, \"hiçbir şey bilinemez\" bile demez; sadece her konuda yargıyı askıya alır (Epokhe). Felsefe, bir sonuç değil, bitmek bilmeyen bir \"araştırma\" sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Meşhur \"On Mod\" (On Tropos)",
+      "body": "Aenesidemus'un felsefe tarihine bıraktığı en büyük miras, yargıyı askıya almamızı sağlayan on mantıksal argümandır. Bu modlar, neden her şeyin göreceli olduğunu ve nesnelerin özünü asla kavrayamayacağımızı kanıtlar.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Canlılar Arasındaki Farklar",
+          "text": "Bir köpek dünyayı bizim gibi mi görür?"
+        },
+        {
+          "label": "İnsanlar Arasındaki Farklar",
+          "text": "Birinin lezzetli dediği şey, diğeri için iğrençtir."
+        },
+        {
+          "label": "Duyu Organları Arasındaki Farklar",
+          "text": "Göz görür, el dokunur; hangisi nesnenin gerçekliğini verir?"
+        },
+        {
+          "label": "Durum ve Koşullar",
+          "text": "Sarhoşken veya uykudayken dünya farklı görünür."
+        },
+        {
+          "label": "Konum ve Mesafe",
+          "text": "Uzaktaki kule yuvarlak, yakındaki köşelidir."
+        },
+        {
+          "label": "Karışımlar",
+          "text": "Hiçbir şeyi saf haliyle görmeyiz; hava ve ışık her şeyi değiştirir."
+        },
+        {
+          "label": "Miktarlar ve Yapılar",
+          "text": "Az miktar şarap iyidir, çok miktar zehirdir."
+        },
+        {
+          "label": "Görecelik (En Temel Mod)",
+          "text": "Her şey \"bir şeye göre\"dir."
+        },
+        {
+          "label": "Nadirlik ve Sıklık",
+          "text": "Güneş her gün doğar, bu yüzden sıradandır; ama bir kuyruklu yıldız mucize sayılır."
+        },
+        {
+          "label": "Töreler ve Yasalar",
+          "text": "Bir kültürde kutsal olan, diğerinde suçtur."
+        }
+      ]
+    },
+    {
+      "title": "Nedenselliğin Reddi",
+      "body": "Aenesidemus, bilimin ve felsefenin temeli olan \"neden-sonuç\" ilişkisine de saldırır. Ona göre bir \"neden\", \"sonuç\" ile aynı anda mı vardır? Eğer önceyse, sonuç henüz yoktur; eğer sonraysa, sonuç zaten olmuştur. Bu mantıksal çıkmazla, nedenselliğin sadece zihnimizin bir kurgusu olduğunu iddia eder.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Eleştirel Düşüncenin Zirvesi",
+      "text": "\"On Mod\", bugün bile algı psikolojisi ve sosyoloji için sarsılmaz birer gözlem niteliğindedir. Önyargılarımızı yıkmak için eşsiz bir araçtır."
+    },
+    {
+      "title": "Epistemolojik Alçakgönüllülük",
+      "text": "İnsan zihninin her şeyi kavrayabileceği kibrine karşı, algının fiziksel ve kültürel sınırlarını en net şekilde o çizmiştir."
+    },
+    {
+      "title": "Pyrrhonculuğun Kurtarıcısı",
+      "text": "Eğer o olmasaydı, Pyrrhon'un fikirleri antik çağın tozlu raflarında kaybolup gidecekti. Şüpheciliği bir sistem haline getirerek Sextus Empiricus'a giden yolu açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Paradoksal Kapan",
+      "text": "Aenesidemus, her şeyin göreceli olduğunu kanıtlamak için kullandığı \"On Mod\"un kendisinin de göreceli olup olmadığını açıklamakta zorlanır. Eğer bu modlar \"kesin doğru\" ise, şüphecilik kendi içinde çöker."
+    },
+    {
+      "title": "Bilimsel Araştırmanın Tıkanması",
+      "text": "Nedenselliği reddetmek, doğayı anlama çabasını (fizik, tıp vb.) imkansız kılar. Sadece \"görünüşlerle\" yetinmek, insanlığın teknolojik ve tıbbi gelişimini durdurabilecek bir pasiflik yaratabilir."
+    },
+    {
+      "title": "Pratik Hayatın Zorluğu",
+      "text": "Her saniye \"yargıyı askıya alarak\" yaşamak imkansızdır. Aenesidemos bu yüzden şüphecilerin \"görünüşlere, geleneklere ve içgüdülere\" göre, yani \"inanmadan ama uyum sağlayarak\" yaşamasını önerir; bu da bir tür entelektüel ikiyüzlülük riski taşır."
+    }
+  ]
+}

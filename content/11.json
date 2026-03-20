@@ -1,0 +1,70 @@
+{
+  "subtitle": "Zihnin Özgürlüğü ve Orta Yol (M.Ö. 563–483)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Dört Yüce Gerçek ve Orta Yol",
+      "body": "Buda'nın felsefesi, teorik bir meraktan ziyade pratik bir tedavi yöntemidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Acı ve Kaynağı",
+          "text": "Hayat acıdır (tatminsizliktir), bu acının kaynağı ise bitmek bilmeyen arzular ve tutunma çabasıdır."
+        },
+        {
+          "label": "Orta Yol",
+          "text": "Buda, Mahavira'nın bedene işkence eden çileciliği ile sıradan insanın haz düşkünlüğü arasında bir \"Orta Yol\" önerir. Ona göre, telleri çok gergin bir lir çalmaz, çok gevşek bir lir ise ses vermez. Akortlu bir yaşam esastır."
+        }
+      ]
+    },
+    {
+      "title": "Anatta (Benliksizlik) ve Geçicilik (Anicca)",
+      "body": "Buda, Hindistan'ın \"Atman\" (Ebedi Ruh) inancına tarihin en radikal psikolojik darbesini indirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ben Yoktur",
+          "text": "Bizim \"ben\" dediğimiz şey, aslında sürekli değişen beş kümenin (form, duygu, algı, zihinsel oluşumlar ve bilinç) geçici bir birleşimidir. Akan bir nehirde suyun değişmesi gibi, \"ben\" de her an değişen bir süreçtir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, Batı felsefesinde David Hume'un yüzyıllar sonra ulaşacağı \"benlik bir algılar demetidir\" fikrinin antik ve çok daha derinlikli bir öncülüdür."
+        }
+      ]
+    },
+    {
+      "title": "Bağımlı Arzu (Pratityasamutpada)",
+      "body": "Hiçbir şey kendiliğinden var olmaz. Her şey bir nedene bağlı olarak ortaya çıkar ve nedenler ortadan kalktığında yok olur. Bu, evrenin doğrusal bir yaratılış değil, muazzam bir \"Neden-Sonuç Ağı\" olduğunu savunur.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Buda, felsefeyi bir \"zihin bilimi\"ne dönüştürmüştür. İnsanın dış dünyayı değil, kendi algılarını değiştirerek özgürleşebileceğini savunması, modern bilişsel psikolojinin temel taşıdır."
+    },
+    {
+      "title": "Hümanist ve Eşitlikçi Yapı",
+      "text": "Kast sistemini ve kurban ritüellerini reddederek, aydınlanmayı herkes için ulaşılabilir kılmıştır. Soylu olanın doğumla değil, davranışla (erdemle) olacağını savunması toplumsal bir devrimdir."
+    },
+    {
+      "title": "Dogma Karşıtlığı",
+      "text": "\"Ben söyledim diye inanmayın, kendiniz deneyimleyin ve işe yarıyorsa kabul edin\" (Kalama Sutta) diyerek, felsefeyi körü körüne inançtan kurtarıp bireysel deneye dayandırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Pessimizm ve Yaşamdan Kopuş Riski",
+      "text": "Odak noktasının \"Acı\" olması, yaşamın estetik sevincini, yaratıcılığı ve yaşama arzusunu (eroz) bir \"hastalık\" gibi görme tehlikesi taşır. Tamamen arzudan arınmış bir dünya, aynı zamanda sanattan, aşktan ve ilerlemeden vazgeçmiş bir dünya olabilir mi?"
+    },
+    {
+      "title": "Benliksizlik ve Sorumluluk Paradoksu",
+      "text": "Eğer kalıcı bir \"ben\" (ruh/öz) yoksa, öldükten sonra \"reenkarnasyon\" (veya yeniden doğum) yaşayan şey nedir? Eğer \"ben\" yoksam, ahlaki eylemlerimin sorumluluğunu kim taşır? Budist mantık bu durumu \"bir mumun diğer mumu yakması\" (ateş aynıdır ama mum farklıdır) ile açıklasa da, bu ontolojik bir boşluk yaratır."
+    },
+    {
+      "title": "Sosyal Kayıtsızlık",
+      "text": "Odak noktasının bireysel kurtuluş ve zihinsel dinginlik olması, toplumsal adaletsizliklere karşı aktif bir mücadeleden ziyade, \"kabulleniş\" ve \"içsel huzur\"a yönelmeyi teşvik edebilir."
+    }
+  ]
+}

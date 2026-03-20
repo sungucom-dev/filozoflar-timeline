@@ -1,0 +1,83 @@
+{
+  "subtitle": "Kelimelerin Doğruluğu ve Etik Seçimler (M.Ö. 465–395)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Orthoepeia (Kelimelerin Doğru Kullanımı)",
+      "body": "Prodicus'un felsefe dünyasındaki en büyük imzası, kelimeler arasındaki nüansları belirleme tutkusudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sinonim Ayrımı",
+          "text": "Ona göre birbirine benzeyen kelimeler aslında farklı gerçeklikleri temsil eder. Örneğin, \"haz\" (hedone) ile \"sevinç\" (khara) veya \"istemek\" ile \"arzulamak\" arasındaki farkları cerrahi bir titizlikle ayırırdı."
+        },
+        {
+          "label": "Sokrates Üzerindeki Etkisi",
+          "text": "Sokrates'in \"tanımlama\" tutkusunun arkasında Prodikos'un bu dilsel disiplini yatar. Platon'un diyaloglarında Sokrates, Prodikos'tan sık sık \"hocam\" diye bahseder (bazen ironik olsa da)."
+        }
+      ]
+    },
+    {
+      "title": "Etik Alegori: \"Herkül'ün Seçimi\"",
+      "body": "Prodicus, antik dünyanın en ünlü ahlak masallarından birinin yazarıdır. Genç Herkül bir yol ayrımına gelir ve karşısına iki kadın çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Erdem (Arete)",
+          "text": "Sade, ciddi ve zorlu bir yol vaat eder; ancak bu yolun sonunda gerçek onur ve ölümsüzlük vardır."
+        },
+        {
+          "label": "Haz/Kötülük (Kakia)",
+          "text": "Süslü, çekici ve zahmetsiz bir hayat vaat eder; ancak bu yolun sonu boşluk ve çürümedir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu hikaye, Batı sanatında ve felsefesinde binlerce yıl boyunca \"irade\" ve \"seçim\" temalarının temel şablonu olmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Naturalist Din Kuramı",
+      "body": "Prodicus, dinin kökenine dair tarihteki ilk sosyo-psikolojik açıklamayı getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fayda ve Tanrılaştırma",
+          "text": "Ona göre insanlar, hayatlarını devam ettirmelerini sağlayan faydalı şeyleri (Güneş, Ay, nehirler, meyveler) başlangıçta \"tanrı\" olarak adlandırmışlardır. Örneğin Mısırlılar Nil'i, Yunanlar ekmeği (Demeter) ve şarabı (Dionysos) bu yüzden kutsallaştırmıştır."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu yaklaşım, teolojiyi gökyüzünden alıp insan ihtiyaçlarına ve antropolojiye indiren radikal bir sekülerleşme adımıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dil Biliminin Temeli",
+      "text": "Kelimelerin rastgele kullanılmadığını, her birinin kendine özgü bir anlam alanı olduğunu savunması, mantıksal düşünmenin ve analitik felsefenin önünü açmıştır. Dilin \"netleşmesi\", düşüncenin de \"netleşmesi\" demektir."
+    },
+    {
+      "title": "Rasyonel Antropoloji",
+      "text": "Dini inançları doğaüstü olaylarla değil, \"insan faydası\" ile açıklaması, onu tarihin ilk din bilimcilerinden (din fenomenoloğu) biri yapar."
+    },
+    {
+      "title": "Etik Eğitmenlik",
+      "text": "Ahlakı sadece soyut kurallar olarak değil, bireyin her an karşılaştığı bir \"seçim\" (Herkül örneği gibi) olarak sunması, ahlakı pratik ve anlaşılır kılmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Laf Kalabalığı (Pedanti)",
+      "text": "Prodicus'un kelime ayrımlarına olan aşırı düşkünlüğü, bazen asıl konudan sapılmasına ve felsefenin bir \"sözlük çalışmasına\" dönüşmesine neden olmuştur. Sokrates, Protagoras diyaloğunda Prodikos'un bu titizliğini biraz gülünç duruma düşürür."
+    },
+    {
+      "title": "Pessimizm (Karamsarlık)",
+      "text": "Prodicus'un insan hayatını acılarla dolu, ölümü ise bu acılardan bir \"kurtuluş\" olarak gördüğü söylenir. Bu aşırı karamsar bakış açısı, onun \"Erdem\" vurgusunu yaşam sevincinden kopuk, sadece bir görev bilincine sıkıştırma riski taşır."
+    },
+    {
+      "title": "Faydacı Tanrı Tasavvuru",
+      "text": "Tanrıları sadece \"faydalı nesneler\" olarak tanımlaması, dinin daha derin psikolojik, estetik veya varoluşsal boyutlarını (huşu, korku, aşkınlık) açıklamakta yetersiz kalabilir."
+    }
+  ]
+}

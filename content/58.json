@@ -1,0 +1,79 @@
+{
+  "subtitle": "Maddenin Şairi ve Korkuların Yıkıcısı (M.Ö. 99–55)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Eser: De Rerum Natura (Evrenin Yapısı Üzerine)",
+      "body": "Lucretius, Epikuros'un Yunanistan'da kurduğu \"Bahçe\" felsefesini Roma'nın sert ve politik dünyasına taşımıştır. Amacı; insanları dinin getirdiği korkulardan ve ölüm endişesinden bilimsel bir bakış açısıyla kurtarmaktır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Atom ve Boşluk",
+          "text": "Evren sadece iki şeyden oluşur: Madde (Atomlar) ve Boşluk. Hiçbir şey yoktan var olmaz ve hiçbir şey tamamen yok olmaz; sadece form değiştirir."
+        },
+        {
+          "label": "Şiirsel Bilim",
+          "text": "Karmaşık atom teorisini halka anlatmak için şiiri bir \"balın etrafındaki ilaç\" gibi kullanmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Clinamen (Atomik Sapma) ve Özgür İrade",
+      "body": "Lucretius, Epikuros'un fizik kuramını Roma'ya taşırken en hayati kavramı, yani \"sapma\"yı (clinamen) savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mekanizmaya Karşı İrade",
+          "text": "Eğer atomlar sadece yukarıdan aşağıya (yağmur gibi) dümdüz düşseydi, her şey önceden belirlenmiş olurdu. Ancak Lucretius, atomların belirsiz zamanlarda çok küçük bir \"sapma\" yaptığını söyler."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu fiziksel sapma, insan zihnindeki özgür seçimin kaynağıdır. Evren katı bir makine değil, içinde yaratıcılığa yer olan bir boşluktur."
+        }
+      ]
+    },
+    {
+      "title": "Ölümün ve Tanrıların Reddi",
+      "body": "Lucretius'a göre insanların mutsuzluğunun temelinde din ve ölüm korkusu yatar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrılar Nerede?",
+          "text": "Tanrılar vardır ama onlar evrenler arasındaki boşluklarda (intermundia) sonsuz bir huzur içinde yaşarlar. Bizim dualarımızla, kurbanlarımızla veya günahlarımızla asla ilgilenmezler."
+        },
+        {
+          "label": "Ölüm Nedir?",
+          "text": "Ruh da atomlardan oluşur ve beden ölünce o da dağılır. \"Ölüm bizim için hiçbir şeydir; çünkü biz varken o yoktur, o geldiğinde ise biz artık yokuzdur.\""
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Aydınlanma",
+      "text": "Doğa olaylarını (şimşek, hastalıklar, mevsimler) mitolojiyle değil, tamamen maddi nedenlerle açıklama çabası, onu modern bilimin ve materyalizmin en büyük atalarından biri yapar."
+    },
+    {
+      "title": "Psikolojik Özgürleşme",
+      "text": "İnsanı cehennem korkusundan ve \"tanrıları memnun etme\" yükünden kurtararak, bireye kendi hayatının sorumluluğunu vermiştir."
+    },
+    {
+      "title": "Edebi Deha",
+      "text": "Latinceyi felsefi bir dil haline getirmiş, soyut kavramları doğadan verdiği somut ve büyüleyici imgelerle (güneş ışığındaki toz zerreleri gibi) anlatmayı başarmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Duygusal Boşluk",
+      "text": "Her şeyi atomların çarpışmasına indirgemesi, insanın anlam arayışını ve ruhsal derinliğini (aşk, yas, sanatın aşkın tarafı) bazen fazla \"mekanik\" bir düzleme çekme riski taşır."
+    },
+    {
+      "title": "Anti-Sosyal Tutum",
+      "text": "Epikurosçu \"gizlice yaşa\" ilkesine bağlılığı, toplumsal ilerleme ve siyasi adalet için gereken kolektif mücadeleyi zayıflatabilir."
+    },
+    {
+      "title": "Karanlık Bakış Açısı",
+      "text": "Eserinin sonunda yer alan Atina vebası tasviri gibi bölümler, onun hayata bakışında gizli bir karamsarlık ve melankoli olduğunu düşündürür."
+    }
+  ]
+}

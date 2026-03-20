@@ -1,0 +1,91 @@
+{
+  "subtitle": "Acısızlığın ve Dinginliğin Bahçesi (M.Ö. 341–270)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Ataraksia (Ruh Dinginliği) ve Aponia (Acısızlık)",
+      "body": "Popüler kültürde \"hazcılık\" (hedonizm) denince akla aşırı sefahat gelse de, Epicurus bunun tam tersini savunur. Onun için en büyük haz, acının yokluğudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pasif Haz",
+          "text": "Şiddetli ve geçici zevkler (ziyafetler, şehvet vb.) beraberinde hayal kırıklığı ve acı getirir. Gerçek haz; bedensel acının yokluğu (Aponia) ve ruhun fırtınalardan arınmış olmasıdır (Ataraksia)."
+        },
+        {
+          "label": "Doğal ve Gerekli Arzular",
+          "text": "Yemek, içmek, barınmak, dostluk — bunlar kolayca doyurulur."
+        },
+        {
+          "label": "Doğal Ama Gerekli Olmayan Arzular",
+          "text": "Lüks yemekler, cinsel hazlar — sınırlı tutulmalıdır."
+        },
+        {
+          "label": "Ne Doğal Ne Gerekli Arzular",
+          "text": "Şöhret, güç, ölümsüzlük arzusu — bunlar asla doyurulamaz ve mutsuzluk kaynağıdır."
+        }
+      ]
+    },
+    {
+      "title": "Fizik: Atomlar ve \"Sapma\" (Clinamen)",
+      "body": "Epicurus, Demokritos'un atomculuğunu benimser ama ona çok hayati bir ekleme yapar: Sapma.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özgür İrade",
+          "text": "Eğer atomlar sadece yukarıdan aşağıya dümdüz düşseydi, her şey önceden belirlenmiş (deterministik) olurdu. Epikuros, atomların bazen belirsiz bir şekilde \"saptığını\" söyler. Bu küçük sapma, evrendeki rastlantısallığın ve dolayısıyla insanın özgür iradesinin fiziksel temelidir."
+        }
+      ]
+    },
+    {
+      "title": "Tetrapharmakos (Dörtlü Şifa)",
+      "body": "Epicurus, mutsuzluğun dört ana kaynağına karşı \"dörtlü bir reçete\" sunar.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Tanrıdan korkma",
+          "text": "Tanrılar mükemmeldir ve insanların küçük işleriyle uğraşmazlar."
+        },
+        {
+          "label": "Ölümden endişe etme",
+          "text": "\"Ben varken ölüm yok, ölüm varken ben yokum.\" Bizim için ölüm bir deneyim değildir."
+        },
+        {
+          "label": "İyiye ulaşmak kolaydır",
+          "text": "Temel ihtiyaçlar doğada bolca bulunur."
+        },
+        {
+          "label": "Acıya katlanmak kolaydır",
+          "text": "Şiddetli acı kısa sürer (öldürür veya geçer), uzun süren acı ise hafiftir (alışılır)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojik Terapi Olarak Felsefe",
+      "text": "Felsefeyi bir entelektüel egzersiz olmaktan çıkarıp, insanların korkularıyla (özellikle ölüm korkusu) başa çıkmasını sağlayan pratik bir yönteme dönüştürmüştür."
+    },
+    {
+      "title": "Sosyal Eşitlik",
+      "text": "\"Bahçe\" okulu, o dönem için devrimci bir adımla kadınları ve köleleri öğrencisi olarak kabul etmiştir. Dostluğu, kan bağından ve vatandaşlıktan daha üstün tutmuştur."
+    },
+    {
+      "title": "Bilimsel Materyalizm",
+      "text": "Evreni doğaüstü masallardan temizleyip tamamen maddi nedenlerle açıklama çabası, modern bilimsel dünya görüşünün öncüsüdür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasi Kaçış (Lathe Biosas)",
+      "text": "\"Gizlice yaşa\" düsturu, bireyi toplumsal sorumluluklardan ve siyasi mücadeleden koparır. Bu, adaletsiz bir düzende sadece \"kendi bahçesini temiz tutan\" pasif bir toplum yaratma riski taşır."
+    },
+    {
+      "title": "Hazzın Negatif Tanımı",
+      "text": "Mutluluğu sadece \"acının yokluğu\" olarak tanımlamak, insan ruhunun yaratıcılık, risk alma ve büyük tutkularla gelen o coşkulu tarafını (Nietzscheci anlamda) eksik bırakabilir."
+    },
+    {
+      "title": "Mantıksal Sığlık",
+      "text": "Fizik teorisindeki \"atomların sapması\" fikri, her ne kadar özgür iradeyi kurtarsa da, bilimsel bir kanıttan ziyade felsefi bir \"yama\" gibi durur ve mekanik tutarlılığı zedeler."
+    }
+  ]
+}

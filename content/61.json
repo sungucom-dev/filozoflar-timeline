@@ -1,0 +1,70 @@
+{
+  "subtitle": "Saraydaki Stoacı ve Ölümün Terbiyecisi (4–65)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Pratik Bilgelik ve Ruhun Tedavisi",
+      "body": "Seneca için felsefe, bir kütüphane işi değil, bir \"yaşam ilacı\"dır. O, Stoacılığı teorik bir fizik veya mantık sistemi olmaktan çıkarıp, günlük hayattaki kaygı, öfke ve kederle başa çıkma sanatına dönüştürmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zamanın Kısalığı Üzerine",
+          "text": "İnsanların hayatın kısalığından yakınmasını eleştirir: \"Hayat kısa değildir; biz onu boşa harcayarak kısaltırız.\" Önemli olan ne kadar yaşadığımız değil, ne kadar \"farkında\" yaşadığımızdır."
+        },
+        {
+          "label": "Premeditatio Malorum",
+          "text": "Stoacılığın en güçlü tekniklerinden biridir. Seneca, başımıza gelebilecek her türlü kötü senaryoyu (sürgün, fakirlik, ölüm) önceden zihnimizde prova etmemiz gerektiğini savunur. Böylece felaket geldiğinde bizi hazırlıksız yakalayamaz."
+        }
+      ]
+    },
+    {
+      "title": "Zenginlik ve Stoacılık: \"Mülk Senin Olsun, Sen Mülkün Olma\"",
+      "body": "Seneca, antik çağın en zengin adamlarından biriydi. Bu durum, \"fakirliği ve sadeliği\" öven Stoacı öğretiyle çelişkili görünse de, o bunu şöyle açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kullan ama Bağlanma",
+          "text": "Bilge kişi zenginliğe sahip olabilir, ancak zenginliğin ona sahip olmasına izin vermez. Zenginliği \"tercih edilebilir bir kayıtsızlık\" (proegmena) olarak görür."
+        },
+        {
+          "label": "Yoksulluk Provası",
+          "text": "Zaman zaman en eski elbiselerini giyip en sade yemekleri yiyerek, \"Korktuğum yoksulluk bu muymuş?\" diye sorar. Amacı, talihin (Fortuna) elindeki her şeyi geri alması ihtimaline karşı ruhunu özgür tutmaktır."
+        }
+      ]
+    },
+    {
+      "title": "Ölüm Sanatı (Meletē Thanatou)",
+      "body": "Seneca'ya göre tüm felsefe, aslında ölmeyi öğrenmektir. Ölüm, korkulacak bir son değil, doğanın bir yasası ve bazen de tiranlığa karşı son bir özgürlük kapısıdır. İmparator Neron tarafından intihara zorlandığında, damarlarını keserken bile dostlarını teselli etmesi, onun felsefesini bizzat yaşamıyla (ve ölümüyle) mühürlediği andır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Lucilius'a Mektuplar eseri, bugün bile modern terapilerin (özellikle BDT) en temel kaynaklarından biridir. İnsanın iç dünyasını, hırslarını ve korkularını bir cerrah titizliğiyle analiz etmiştir."
+    },
+    {
+      "title": "Hümanizm ve Merhamet",
+      "text": "Kölelere karşı insancıl davranılmasını savunması ve \"insan, insan için kutsal bir şeydir\" (homo sacra res homini) demesi, Stoacılığa derin bir şefkat boyutu katmıştır."
+    },
+    {
+      "title": "Edebi Etki",
+      "text": "Latinceyi bir felsefe dili olarak zirveye taşımıştır. Kısa, vurucu ve aforizmalarla dolu tarzı, Montaigne'den Schopenhauer'a kadar tüm Batı deneme geleneğini etkilemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hayat-Felsefe Çelişkisi",
+      "text": "Neron gibi zalim bir imparatorun danışmanlığını yapması, onun acımasızlıklarına sessiz kalması ve bu sırada devasa bir servet biriktirmesi, \"vicdanlı filozof\" imajıyla en büyük çelişkisidir. Birçok kişi onu bir \"ikiyüzlü\" olarak eleştirmiştir."
+    },
+    {
+      "title": "Retorik Aşırılık",
+      "text": "Bazen o kadar süslü ve dramatik bir dil kullanır ki (özellikle tragedyalarında), asıl felsefi mesaj estetik bir gösterişin altında kalabilir."
+    },
+    {
+      "title": "Kaderci Teslimiyet",
+      "text": "Stoacıların \"kaderi kabullenme\" ilkesini bazen siyasi bir atalete dönüştürmesi, zalim yönetimlere karşı aktif bir direniş geliştirmesini engellemiştir."
+    }
+  ]
+}

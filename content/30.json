@@ -1,0 +1,78 @@
+{
+  "subtitle": "Beyin Merkezli Bilincin ve Dengenin Mimarı (M.Ö. 5. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Ensefalosentrizm (Beyin Merkezli Görüş)",
+      "body": "Alcmaeon, antik dünyada genel kabul gören \"kalp bilincin merkezidir\" (kardiosentrizm) inancına karşı çıkan ilk kişidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duyuların Merkezi",
+          "text": "Yaptığı diseksiyonlar (hayvan kadavralarını açarak inceleme) sonucunda, gözlerin ve diğer duyu organlarının ince kanallarla (poroi) beyne bağlı olduğunu keşfetmiştir."
+        },
+        {
+          "label": "Düşünce ve Algı",
+          "text": "Ona göre beyin, duyulardan gelen verileri sentezleyen ve anlamlandıran ana organdır. Eğer beyin sarsılırsa, duyular da işlevini yitirir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, felsefe tarihinde \"zihin-beden\" ilişkisinin biyolojik bir zemine oturtulduğu ilk andır. Aristoteles gibi devlerin bile yüzyıllar sonra kalbi merkez seçeceği düşünülürse, Alcmaeon'un sezgisi hayret vericidir."
+        }
+      ]
+    },
+    {
+      "title": "Sağlık Felsefesi: Isonomia (Eşit Haklılık/Denge)",
+      "body": "Alcmaeon, siyasi bir kavram olan \"demokrasi\"yi ve \"hak eşitliği\"ni tıbba ve doğaya uygulamıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Denge Olarak Sağlık",
+          "text": "Sağlık, bedendeki karşıt güçlerin (sıcak-soğuk, tatlı-acı, kuru-yaş) Isonomia (eşit dağılım/denge) içinde olmasıdır."
+        },
+        {
+          "label": "Hastalık Olarak Monarşi",
+          "text": "Eğer bu güçlerden biri diğerlerine hükmetmeye başlarsa (Monarchia), hastalık ortaya çıkar."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu görüş, Hipokrat'ın \"dört mizaç\" teorisinin ve Batı tıbbının \"homeostaz\" (iç denge) kavramının felsefi temelidir."
+        }
+      ]
+    },
+    {
+      "title": "İnsan ve Hayvan Ayrımı",
+      "body": "Alcmaeon, bilişsel yetenekler üzerine ilk kategorizasyonlardan birini yapmıştır: Hayvanlar sadece \"algılar\" (perceive), ancak sadece insan \"anlar\" (understand). Anlamak, algılanan veriler üzerinde işlem yapabilme yeteneğidir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Deneysel Yöntemin Öncülüğü",
+      "text": "Sadece akıl yürüterek değil, gözlem ve diseksiyon yaparak sonuçlara ulaşması, onu Miletli doğa filozoflarından ayırıp modern bilimsel yönteme yaklaştırır."
+    },
+    {
+      "title": "Zihin Felsefesine Fiziksel Temel",
+      "text": "Bilincin ve hafızanın beyinde yerleşik olduğunu savunması, felsefeyi \"ruh\" gibi soyut kavramların tekelinden çıkarıp somut bir araştırma nesnesi haline getirmiştir."
+    },
+    {
+      "title": "Bütüncül Sağlık Anlayışı",
+      "text": "Hastalığı dışsal bir \"cin çarpması\" veya \"tanrı cezası\" değil, bedensel bir \"hükümet krizi\" (denge bozulması) olarak görmesi, tıbbın rasyonelleşmesini sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Pisagorcu Kalıntılar",
+      "text": "Bir yandan rasyonel tıp yaparken, diğer yandan \"ruhun ölümsüzlüğünü\" kanıtlamak için onun \"gök cisimleri gibi dairesel hareket ettiğini\" savunması, mantıksal bir tutarsızlıktır. Gözlemci kimliği ile mistik mirası arasında sıkışmıştır."
+    },
+    {
+      "title": "Sınırlı Mekanizma Açıklaması",
+      "text": "Duyu kanallarını keşfetmiş olsa da, sinir sisteminin elektriksel veya kimyasal işleyişini bilmediği için, verilerin beyne nasıl \"aktığını\" hava veya ateş gibi elementel benzetmelerle açıklamaya çalışmıştır."
+    },
+    {
+      "title": "Metafiziksel Benzetmeler",
+      "text": "Mikrokozmos (insan) ile makrokozmos (evren) arasında kurduğu aşırı benzerlik, zaman zaman biyolojik gerçekleri kozmolojik şablonlara uydurma zorunluluğu doğurmuştur."
+    }
+  ]
+}

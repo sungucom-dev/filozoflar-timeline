@@ -1,0 +1,79 @@
+{
+  "subtitle": "Rölativizmin (Görecelik) ve Hümanizmin Şafağı (M.Ö. 490–420)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Homo Mensura (İnsan Ölçüdür)",
+      "body": "Protagoras'ın felsefesi tarihin en ünlü rölativist önermesiyle başlar: \"İnsan, var olan şeylerin varlıklarının, var olmayan şeylerin de yokluklarının ölçüsüdür.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bireysel Algı",
+          "text": "Ona göre \"nesnel\" bir dünya yoktur; sadece \"algılanan\" bir dünya vardır. Rüzgar üşüyen için soğuk, üşümeyen için ılıktır. Her iki yargı da o anı yaşayan kişi için \"doğrudur\"."
+        },
+        {
+          "label": "Hakikatin Parçalanması",
+          "text": "Tek bir \"Gerçek\" (Parmenides'in Varlığı gibi) yoktur. Kaç insan varsa o kadar gerçek vardır."
+        }
+      ]
+    },
+    {
+      "title": "Agnostisizm: Bilinemezciliğin İlk İfadesi",
+      "body": "İlahiyat konusunda Ksenofanes'ten bile daha radikal bir şüphecilik sergilemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrılar Üzerine",
+          "text": "\"Tanrılar hakkında, ne var olduklarını ne de yok olduklarını, ne de neye benzediklerini bilebilirim; çünkü konunun karanlığı ve insan ömrünün kısalığı buna engeldir.\""
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu yaklaşım, felsefeyi dini dogmalardan tamamen koparıp, odağı \"yaşanan ana\" ve \"insani pratiğe\" çevirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Antilogik: Her Şeyin İki Yüzü Vardır",
+      "body": "Protagoras, her konu hakkında birbirine zıt iki argümanın savunulabileceğini iddia etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zayıf Argümanı Güçlendirmek",
+          "text": "Sofistlerin en çok eleştirilen bu tekniği, aslında hitabetin (retorik) gücünü göstermek içindir. Bir davanın doğruluğu, onu savunanın ikna kabiliyetine bağlıdır."
+        },
+        {
+          "label": "Eğitim (Arete)",
+          "text": "Erdemin (devlet yönetme ve ikna sanatı) öğretilebilir olduğunu savunarak, asalete dayalı liderlik anlayışını sarsmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Hümanist Devrim",
+      "text": "Felsefenin merkezine \"insanı\" koyması, Sokrates öncesi dönemin en büyük kırılmasıdır. İnsanın kendi dünyasının yaratıcısı olduğunu fark etmesini sağlamıştır."
+    },
+    {
+      "title": "Demokrasinin Felsefi Temeli",
+      "text": "Eğer \"herkesin görüşü kendine göre doğruysa\", o zaman kararlar ortak uzlaşı ve ikna (hitabet) ile alınmalıdır. Bu, Atina demokrasisinin entelektüel yakıtıdır."
+    },
+    {
+      "title": "Dilbilim ve Retorik",
+      "text": "Cümle yapıları, kelime anlamları ve hitabet teknikleri üzerine yaptığı çalışmalarla, dilin sadece bir araç değil, gerçekliği inşa eden bir güç olduğunu göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Öz-Yıkım (Paradoks)",
+      "text": "Eğer \"her şey doğruysa\", o zaman \"bazı şeylerin yanlış olduğu\" iddiası da doğrudur. Protagoras'ın rölativizmi, mantıksal olarak kendi kendini geçersiz kılan bir \"her şey mübahtır\" zeminine çıkar."
+    },
+    {
+      "title": "Etik Belirsizlik",
+      "text": "Eğer mutlak bir \"Doğru\" veya \"İyi\" yoksa, adalet sadece \"güçlü olanın veya iyi konuşanın\" ikna ettiği şeye dönüşür. Bu durum, ahlakı tamamen pragmatik bir çıkarlar oyununa indirger."
+    },
+    {
+      "title": "Hakikat Kaybı",
+      "text": "Doğayı ve evrensel yasaları (Logos) tamamen dışlayıp sadece \"insan sanısına\" (Doxa) odaklanması, bilimsel ve objektif bilginin önünü tıkar."
+    }
+  ]
+}

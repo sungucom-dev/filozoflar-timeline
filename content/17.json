@@ -1,0 +1,79 @@
+{
+  "subtitle": "Değişimin, Çatışmanın ve Logos'un Ustası (M.Ö. 535–475)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Logos (Evrensel Akıl/Yasa)",
+      "body": "Herakleitos'un felsefesi tek bir kelimeyle özetlenebilir: Logos.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ortak Olan",
+          "text": "Logos, her şeyin temelindeki yasadır. Her şey bu yasaya göre gerçekleşir. Ancak insanlar, her biri kendi özel dünyasında yaşıyormuş gibi, bu ortak yasayı kavramaktan acizdirler."
+        },
+        {
+          "label": "Analiz",
+          "text": "Logos sadece \"söz\" değildir; evrenin içsel mantığıdır. Bu kavram, stoacılıktan Hristiyan ilahiyatına kadar uzanan devasa bir terminolojik mirasın başlangıcıdır."
+        }
+      ]
+    },
+    {
+      "title": "Oluş ve Değişim: Panta Rhei (Her Şey Akar)",
+      "body": "Herakleitos, evrende kalıcı hiçbir şey olmadığını, her şeyin sürekli bir değişim (oluş) içinde olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nehir Metaforu",
+          "text": "\"Aynı nehre iki kez giremezsin, çünkü her seferinde akan sular farklıdır.\""
+        },
+        {
+          "label": "Arkhe Olarak Ateş",
+          "text": "Miletliler gibi bir arkhe seçecekse, bu ancak Ateş olabilir. Çünkü ateş, sürekli değişen, tüketen ama dönüştüren, en devingen unsurdur. Evren \"ezeli ve ebedi bir ateştir; ölçüyle yanar, ölçüyle söner.\""
+        }
+      ]
+    },
+    {
+      "title": "Karşıtların Birliği ve Çatışma (Polemos)",
+      "body": "Onun felsefesinin en çarpıcı ve modern tarafı budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Savaş Her Şeyin Babasıdır",
+          "text": "Çatışma ve karşıtlık, evrenin var olmasını sağlayan temel gerilimdir. Yay ve lir örneğinde olduğu gibi; zıt yönlere çekilen teller arasındaki gerilim, harmoniyi (uyumu) yaratır."
+        },
+        {
+          "label": "Birlik",
+          "text": "Yukarı çıkan yol ile aşağı inen yol birdir. Karşıtlar birbirini tamamlar; hastalık sağlığı, açlık tokluğu anlamlı kılar."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Diyalektiğin Temeli",
+      "text": "Karşıtların birliği fikri, yüzyıllar sonra Hegel ve Marx'ın sistemlerini üzerine kuracağı diyalektik düşüncenin tohumudur. Gerçekliği bir \"durum\" değil, bir \"süreç\" olarak görmesi devrimcidir."
+    },
+    {
+      "title": "Statik Bakışın Yıkılması",
+      "text": "Evreni donmuş bir tablo gibi gören Miletli yaklaşımı yıkıp yerine dinamik bir model koyması, onu modern fiziğin (enerji ve termodinamik) sezgisel bir öncüsü yapar."
+    },
+    {
+      "title": "Bütüncül Bakış",
+      "text": "Parçalara değil, parçalar arasındaki \"ilişkiye\" (Logos) odaklanması, sistem teorisinin en erken örneklerinden biridir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Bilginin İmkansızlığı Riski",
+      "text": "Eğer her şey her an değişiyorsa, hakkında konuştuğumuz \"şey\" o an artık o şey değilse, kesin bilgi (episteme) nasıl mümkün olabilir? Bu sorun, öğrencisi Kratylos'u \"nehre bir kez bile girilemez\" demeye ve sonunda sadece parmağıyla işaret ederek susmaya itmiştir. Platon bu sorunu aşmak için \"İdealar\"ı icat etmek zorunda kalacaktır."
+    },
+    {
+      "title": "Aşırı Elitizm ve Mizanizopi (İnsan Sevmezlik)",
+      "text": "Herakleitos, halkı \"yiyip içmekten başka bir şey düşünmeyen sürüler\" olarak görür. Bu kibirli ve kapalı tutum, felsefesini sadece \"seçkinler\" için anlaşılmaz aforizmalar (bilmeceler) yığınına dönüştürmüştür. \"Karanlık\" lakabı buradan gelir."
+    },
+    {
+      "title": "Ahlaki Belirsizlik",
+      "text": "Her şeyin çatışmadan doğduğunu ve \"savaşın adalet olduğunu\" söylemesi, etik bir pusula sunmakta zayıf kalır. Güçlünün zayıfı yok etmesini evrensel bir yasa (Logos) olarak kutsama riski taşır."
+    }
+  ]
+}

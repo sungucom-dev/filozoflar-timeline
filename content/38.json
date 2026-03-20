@@ -1,0 +1,79 @@
+{
+  "subtitle": "Sayıların, Mekaniğin ve Devletin Mimarı (M.Ö. 428–347)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Matematiksel Uyum ve Armoni",
+      "body": "Archytas için her şeyin temeli sayıdır; ancak o, Pisagorcuların mistik sayı gizemciliğini bir adım öteye taşıyarak Matematiksel Bilimlerin (Quadrivium) temellerini atmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Müzik ve Oranlar",
+          "text": "Ses perdeleri arasındaki ilişkiyi matematiksel oranlarla açıklamıştır. Özellikle \"armonik oran\" (harmonic mean) üzerine çalışmaları, Batı müzik teorisinin yapı taşlarından biridir."
+        },
+        {
+          "label": "Küpü İki Katına Çıkarma",
+          "text": "Antik çağın en zor geometri problemlerinden biri olan \"Delos Problemi\"ni (küpün hacmini iki katına çıkarma), üç boyutlu geometrik cisimleri (silindir, koni ve tor) kesiştirerek çözen ilk kişidir."
+        }
+      ]
+    },
+    {
+      "title": "Mekaniğin Doğuşu: Uçan Güvercin",
+      "body": "Archytas, felsefeyi sadece düşünceyle sınırlamamış, onu fiziksel dünyaya uygulamıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tarihin İlk Robotu",
+          "text": "\"Tahta Güvercin\" adı verilen, basınçlı hava veya buharla çalışan ve yaklaşık 200 metre uçabilen mekanik bir düzenek yaptığı söylenir. Bu, tarihteki ilk otonom uçuş denemesi ve robotik biliminin başlangıcı kabul edilir."
+        },
+        {
+          "label": "Akustik Teorisi",
+          "text": "Sesin, nesnelerin birbirine çarpmasıyla oluşan hava titreşimlerinden kaynaklandığını fark ederek modern akustiğin öncüsü olmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Siyaset ve Logismos (Hesaplama/Akıl Yürütme)",
+      "body": "Tarentum halkı onu o kadar sevmiştir ki, yasaya aykırı olmasına rağmen üst üste 7 kez general (strategos) seçilmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sosyal Barışın Formülü",
+          "text": "Archytas'a göre toplumsal çatışmaların çözümü Logismos (matematiksel hesaplama/akıl yürütme) kavramında yatar. Eğer haklar ve mallar doğru matematiksel oranlarla dağıtılırsa, zengin ile fakir arasında çekişme kalmaz."
+        },
+        {
+          "label": "Platon'un Kurtarıcısı",
+          "text": "Platon, Sicilya'da tiran Dionysios tarafından hapse atıldığında, Archytas diplomatik gücünü ve dostluğunu kullanarak onu ölümden kurtarmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Uygulamalı Bilimin Öncülüğü",
+      "text": "Felsefeyi sadece \"ruh\" veya \"varlık\" tartışmalarından çıkarıp, onu teknolojiye, müziğe ve mühendisliğe tahvil etmesi muazzam bir devrimdir."
+    },
+    {
+      "title": "Siyasi İstikrar",
+      "text": "Fikirlerini bizzat bir devletin yönetiminde başarıyla uygulaması, \"filozofların yönettiği bir toplumun\" ütopya olmadığını kanıtlamıştır."
+    },
+    {
+      "title": "Platon Üzerindeki Etkisi",
+      "text": "Platon'un \"İdealar\" dünyasına kattığı matematiksel kesinlik ve \"Filozof-Kral\" ideali, büyük oranda Archytas'ın yaşayan örneğinden beslenmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Matematiksel İndirgemecilik",
+      "text": "Toplumsal adaleti ve insan ilişkilerini sadece \"matematiksel bir hesaplama\" (Logismos) meselesine indirgemesi, insan ruhunun irrasyonel, duygusal ve karmaşık yönlerini göz ardı etme riski taşır."
+    },
+    {
+      "title": "Pisagorcu Dogmalar",
+      "text": "Her ne kadar bilimsel olsa da, köklerindeki Pisagorcu mistisizmden (sayıların kutsallığı gibi) tamamen kopamamıştır. Bu da rasyonel düşüncesinin bazen gizemci bir kabukla örtülmesine neden olur."
+    },
+    {
+      "title": "Kaynak Yetersizliği",
+      "text": "Mekanik dehasına dair anlatılanlar büyüleyicidir, ancak eserlerinin çoğu kaybolduğu için teorilerinin teknik detayları tam olarak bilinememekte, bazen efsane ile gerçek birbirine karışmaktadır."
+    }
+  ]
+}

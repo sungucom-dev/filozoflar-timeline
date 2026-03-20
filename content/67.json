@@ -1,0 +1,95 @@
+{
+  "subtitle": "Oikeiôsis ve Genişleyen Şefkat Halkaları (2. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Oikeiôsis: Kendine Ait Kılma",
+      "body": "Hierocles, Stoacı \"Oikeiôsis\" (yakınlaştırma/benimseme) kavramını en rafine haline getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hayatta Kalma Güdüsü",
+          "text": "Her canlı, doğası gereği önce kendi varlığını korur ve kendine değer verir."
+        },
+        {
+          "label": "Ahlaki Genişleme",
+          "text": "Erdem, bu \"kendine değer verme\" hissini sadece kendi bedenimizle sınırlı tutmayıp; yavaş yavaş dışarıdaki insanları da \"kendimize ait\" (oikeion) görmeye başlamaktır."
+        }
+      ]
+    },
+    {
+      "title": "Hierocles'in Çemberleri (Circles of Concern)",
+      "body": "Hierocles'in felsefe tarihine bıraktığı en meşhur miras, ahlaki sorumluluğumuzu anlatan o iç içe geçmiş halkalardır. Dışarıdaki halkaları içeriye doğru çekmek; yani yabancıya \"akrabaymış\", komşuya \"kardeşmiş\" gibi davranarak mesafeleri zihinsel olarak yok etmektir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Merkez",
+          "text": "Kendi zihnimiz ve bedenimiz."
+        },
+        {
+          "label": "1. Halka",
+          "text": "Anne, baba, kardeşler ve eş (Çekirdek aile)."
+        },
+        {
+          "label": "2. Halka",
+          "text": "Uzak akrabalar."
+        },
+        {
+          "label": "3. Halka",
+          "text": "Komşular ve yerel topluluk."
+        },
+        {
+          "label": "4. Halka",
+          "text": "Hemşehriler ve yurttaşlar."
+        },
+        {
+          "label": "En Dış Halka",
+          "text": "Tüm insanlık (Cosmopolis)."
+        }
+      ]
+    },
+    {
+      "title": "Pratik Sosyal Etik: Evlilik ve Kardeşlik",
+      "body": "Hierocles sadece büyük teorilerle uğraşmaz, gündelik ilişkilerin \"mekaniğini\" de anlatır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kardeş Sevgisi",
+          "text": "Kardeşinizi vücudunuzun bir parçası (kolunuz veya bacağınız) gibi görmenizi önerir. Ona zarar vermek, aslında kendi bedeninize zarar vermektir."
+        },
+        {
+          "label": "Ekonomik Evlilik",
+          "text": "Evliliği sadece duygusal bir bağ değil, toplumsal bir \"dayanışma hücresi\" olarak görür. Birbirine destek olan eşler, evrensel düzenin küçük birer kopyasıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kozmopolitizmin Psikolojisi",
+      "text": "Dünya vatandaşlığı fikrini sadece siyasi bir söylem olmaktan çıkarıp, onu \"ben\" duygusunun genişlemesi üzerinden psikolojik bir zemine oturtmuştur."
+    },
+    {
+      "title": "Eylem Odaklı Empati",
+      "text": "Empatiyi pasif bir duygu değil, halkaları içeri çekme eylemi (çaba) olarak tanımlayarak ahlakı \"işlevsel\" kılmıştır."
+    },
+    {
+      "title": "Bütünlük",
+      "text": "Bireysel huzur ile toplumsal barış arasındaki o kopmaz bağı, en basit ve akılda kalıcı görselleştirme (çemberler) ile anlatmayı başarmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İdealizm vs. Gerçeklik",
+      "text": "İnsan beyninin evrimsel olarak \"kendi kabilesini\" korumaya programlı olduğu gerçeği (tribalizm), Hierocles'in \"tüm insanlığı kucaklama\" idealini pratikte oldukça zorlaştırır."
+    },
+    {
+      "title": "Duygusal Yorgunluk",
+      "text": "Her yabancıyı bir akraba gibi görmeye çalışmanın yaratacağı \"empati yorgunluğu\", bireyin kendi merkezindeki huzuru bozma riski taşır."
+    },
+    {
+      "title": "Hiyerarşi Sorunu",
+      "text": "Eğer herkesi \"içeri\" çekersek, en yakındakilerin (ailenin) özel yerini ve onlara olan öncelikli görevlerimizi nasıl koruyacağımız sorusu felsefesinde bazen bulanık kalabilir."
+    }
+  ]
+}

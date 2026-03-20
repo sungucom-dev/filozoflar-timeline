@@ -1,0 +1,95 @@
+{
+  "subtitle": "Şüpheciliğin Teknisyeni ve Ruhun Hekimi (2. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Üç Tür Filozof",
+      "body": "Sextus, felsefe tarihini üç ana gruba ayırarak işe başlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dogmatikler",
+          "text": "Hakikati bulduklarını iddia edenler (Aristoteles, Stoacılar, Epikurosçular)."
+        },
+        {
+          "label": "Akademikler",
+          "text": "Hakikatin bulunamayacağını iddia edenler (Arkesilaos, Karneades). Sextus'a göre bu da bir tür dogmatizmdir; çünkü \"bulunamaz\" demek de kesin bir yargıdır."
+        },
+        {
+          "label": "Şüpheciler (Pyrrhoncular)",
+          "text": "Hakikati hala aramaya devam edenler. Bunlar hiçbir yargıya varmazlar, sadece araştırırlar (Skeptikos kelimesi \"araştıran\" demektir)."
+        }
+      ]
+    },
+    {
+      "title": "Agrippa'nın Beş Modu (Beş Tropes)",
+      "body": "Sextus, şüpheciliği sarsılmaz bir mantık duvarına dönüştüren \"Beş Modu\" şöyle sıralar.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Anlaşmazlık",
+          "text": "Her konuda filozoflar arasında bitmek bilmeyen bir kavga vardır."
+        },
+        {
+          "label": "Sonsuz Gerileme",
+          "text": "Bir şeyi kanıtlamak için bir kanıt sunarsın, o kanıtı kanıtlamak için başka bir kanıt... Bu sonsuza kadar gider."
+        },
+        {
+          "label": "Görecelik",
+          "text": "Her şey özneye ve koşullara göre değişir."
+        },
+        {
+          "label": "Varsayım",
+          "text": "Kanıt zincirini bir yerde durdurmak için kanıtlanmamış bir \"doğru\" varsaymak zorunda kalırsın (Dogmatiklerin yaptığı gibi)."
+        },
+        {
+          "label": "Döngüsellik",
+          "text": "A'yı B ile, B'yi de A ile kanıtlamaya çalışmak."
+        }
+      ]
+    },
+    {
+      "title": "Fenomenlerle Yaşamak",
+      "body": "Sextus'a karşı en büyük eleştiri şuydu: \"Eğer hiçbir yargın yoksa nasıl yaşıyorsun?\" Sextus'un cevabı hem pratik hem de kurnazcadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Görünüşlere İtaat",
+          "text": "\"Güneşin bir tanrı olup olmadığını bilmiyorum ama sıcaklık hissettiğimde gölgeye kaçıyorum.\""
+        },
+        {
+          "label": "Dört Rehber",
+          "text": "Doğal içgüdüler, bedensel ihtiyaçlar, toplumsal gelenekler ve mesleki eğitim (tıp gibi). Şüpheci, bunlara \"inanmadan\" ama \"uyum sağlayarak\" yaşar. Böylece huzura (Ataraksia) kavuşur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefi Arşivcilik",
+      "text": "Antik çağın tüm felsefe okullarının (özellikle Stoacıların) argümanlarını o kadar detaylı eleştirmiştir ki, bugün kaybolmuş birçok okulun fikrini onun sayesinde biliyoruz."
+    },
+    {
+      "title": "Modern Bilime Miras",
+      "text": "16. yüzyılda eserleri yeniden keşfedildiğinde Montaigne, Descartes ve Hume üzerinde bomba etkisi yaratmıştır. \"Bilimsel şüphecilik\" ve \"pozitivizm\" gibi akımların tohumlarını o atmıştır."
+    },
+    {
+      "title": "Dogmatizm Karşıtlığı",
+      "text": "Zihni fanatizmden ve \"mutlak doğru\" iddiasından arındırarak, entelektüel bir alçakgönüllülük ve tolerans alanı açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yaşamın Sığlaşması",
+      "text": "Hayatı sadece \"görünüşlere uyum sağlamak\" olarak görmek, büyük idealleri, devrimci değişimleri ve tutkulu bağlılıkları anlamsız kılar. Şüpheci, statükonun en güvenli (ve belki de en sıkıcı) limanıdır."
+    },
+    {
+      "title": "Mantıksal İntihar",
+      "text": "Kendi argümanlarının da şüphe altında olduğunu söyler. Bu durum, felsefesini bir tür \"temizlik sonrası boşluk\" haline getirir. İnşa edilecek hiçbir şey bırakmaz."
+    },
+    {
+      "title": "Hekimlik ve Felsefe Çelişkisi",
+      "text": "Bir hekim olarak ilaç yazarken veya teşhis koyarken \"bu hastalığın gerçek nedenini bilmiyorum ama bu ot iyi geliyor\" demesi, tıbbi ilerlemeyi bir tür deneme-yanılma (ampirizm) ile sınırlama riski taşır."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "subtitle": "Sayının Estetiği ve Düzenin Ahlakı (M.Ö. 6. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Öz Olarak \"Sayı\" ve Oran",
+      "body": "Theano, Pisagorcu geleneğin temelini savunur: \"Her şey sayıdan ibarettir.\" Ancak onun bu iddiaya kattığı derinlik, sayıyı sadece niceliksel bir ölçü birimi değil, evrensel bir \"dil\" ve \"düzenleyici ilke\" olarak görmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Altın Oran ve Uyum",
+          "text": "Theano'nun çalışmalarının odağında Altın Oran ve geometrik uyum yatar. Ona göre evren, tesadüfi bir yığın değil, matematiksel bir simetridir. Bu simetriyi anlamak, Tanrısal olanı anlamaktır."
+        },
+        {
+          "label": "Sayının Maddedeki Yeri",
+          "text": "Theano için sayılar, maddeden bağımsız soyut varlıklar değildir; maddenin içinde saklı olan ve ona \"form\" veren kuvvetlerdir. Bu, Platon'un \"İdealar\" kuramına giden yoldaki en güçlü basamaklardan biridir."
+        }
+      ]
+    },
+    {
+      "title": "Mikrokozmos ve Makrokozmos Dengesi: Etik",
+      "body": "Theano, matematiksel düzeni toplumsal ve bireysel hayata uygular. Yazdığı söylenen \"Dindarlık Üzerine\" ve kadınlara yönelik mektupları, evrensel harmoni ile ev içi/toplumsal harmoni arasında doğrudan bir bağ kurar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ölçülülük ve Orta Yol",
+          "text": "Sayılardaki denge, ruhta \"itidal\" (ölçülülük) olarak tezahür etmelidir. Theano, aşırılığı sayılardaki bir hata/bozulma gibi görür. Onun ahlak felsefesi, evrendeki matematiksel adaletin insan davranışına yansımasıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilim ve Ahlakın Sentezi",
+      "text": "Theano, matematiği sadece bir hesaplama aracı olmaktan çıkarıp bir \"yaşam felsefesi\" haline getirmiştir. Bilimsel bir veri (matematik) ile etik bir sonucu (adalet/uyum) bu kadar sıkı bağlaması, rasyonel düşüncenin insan hayatına uygulanmasında devrimcidir."
+    },
+    {
+      "title": "Kadın Entelektüel Kimliği",
+      "text": "Antik dünyanın katı toplumsal yapısında felsefi bir otorite olarak kabul görmesi, düşüncenin cinsiyetler üstü niteliğini kanıtlar. Pisagorculuğun \"kadınlara kapı açan\" yapısının en somut ve başarılı örneğidir."
+    },
+    {
+      "title": "Soyutlama Yeteneği",
+      "text": "\"Her şey sayıdır\" derken, duyularla algılanan değişken dünyanın arkasında değişmez bir \"formül\" arayışı, modern teorik fiziğin (evreni denklemlerle açıklama çabasının) felsefi kökenidir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sayı Mistisizmi (Numeroloji)",
+      "text": "Theano ve Pisagorcular, sayıları bazen aşırı kutsallaştırarak rasyonellikten uzaklaşmışlardır. Bazı sayıların \"iyi\", bazılarının \"kötü\" olarak nitelendirilmesi, felsefeyi mantıksal bir zeminden çıkarıp batıl bir inanç (numeroloji) sınırına çekme riski taşır."
+    },
+    {
+      "title": "Dogmatizm ve Gizlilik",
+      "text": "Pisagorcu okulun aşırı kapalı yapısı, bilgiyi \"seçkin bir azınlığa\" saklaması, felsefenin \"evrensel sorgulanabilirlik\" ilkesine aykırıdır. Theano'nun öğretileri de bu kapalı kapılar ardındaki otoriter yapının bir parçasıdır."
+    },
+    {
+      "title": "Atıf Sorunu",
+      "text": "Antik dünyada kadınların eserleri genellikle babalarına veya kocalarına atfedilmiştir (veya tam tersi). Theano'nun fikirlerinin ne kadarının özgün, ne kadarının okulun ortak doktrini olduğunu ayırt etmek zordur. Bu da bireysel felsefi dehasının tam olarak analiz edilmesini güçleştirir."
+    }
+  ]
+}

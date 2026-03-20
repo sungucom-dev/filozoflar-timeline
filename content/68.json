@@ -1,0 +1,85 @@
+{
+  "subtitle": "Alegori, Ruhların Düşüşü ve Apokatastasis (184–253)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Üç Katmanlı Yorum (Alegorik Metot)",
+      "body": "Origenes'e göre kutsal metinlerin üç anlamı vardır ve bu, insanın yapısına (beden, ruh, zihin) karşılık gelir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beden (Lafzi Anlam)",
+          "text": "Metnin düz, tarihi ve zahiri anlamıdır. Basit inananlar içindir."
+        },
+        {
+          "label": "Ruh (Ahlaki Anlam)",
+          "text": "Metnin insanın ahlaki yaşamına verdiği derslerdir."
+        },
+        {
+          "label": "Zihin/Ruhaniyet (Manevi Anlam)",
+          "text": "Metnin altındaki gizli, felsefi ve ilahi sırlar. Origenes, asıl hakikatin bu \"alegorik\" (mecazi) katmanda yattığını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Ruhların Ön-Varlığı (Pre-existence of Souls)",
+      "body": "Origenes, zamanın başlangıcından önce Tanrı'nın tüm rasyonel varlıkları (ruhları) saf, bedensiz ve eşit olarak yarattığını iddia eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Düşüş ve Bedenlenme",
+          "text": "Bu ruhlar, Tanrı'ya olan sevgilerinde soğumuş ve O'ndan uzaklaşmışlardır. Uzaklaşma derecelerine göre; kimisi melek, kimisi insan, kimisi de şeytan (ifrit) olmuştur. Beden, ruhun bu düşüşten sonra hapsedildiği bir \"eğitim kampı\"dır."
+        },
+        {
+          "label": "Adalet Savunusu",
+          "text": "Dünyadaki eşitsizlikleri (neden biri zengin, diğeri fakir doğar?) ruhların bu dünyadan önceki tercihlerine bağlayarak Tanrı'yı adaletsizlikle suçlanmaktan kurtarmaya çalışır."
+        }
+      ]
+    },
+    {
+      "title": "Apokatastasis: Mutlak İyileşme (Evrensel Restorasyon)",
+      "body": "Bu, Origenes'in en çok tartışılan ve sonunda \"heretik\" (sapkın) ilan edilmesine neden olan fikridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Herkes Kurtulacak",
+          "text": "Tanrı'nın sevgisinin ve gücünün her şeyi kuşatacağına inanır. Sonunda, en günahkar ruhlar ve hatta Şeytan bile pişman olacak, arınacak ve Tanrı'ya geri dönecektir. Cehennem sonsuz bir ceza yeri değil, geçici bir \"terapi ve arınma\" merkezidir."
+        }
+      ]
+    },
+    {
+      "title": "Hexapla ve Bilimsel Yaklaşım",
+      "body": "Origenes sadece bir mistik değil, aynı zamanda devasa bir filolog (dil bilimci) idi. Eski Ahit'in farklı İbranice ve Yunanca versiyonlarını altı sütun halinde yan yana dizdiği Hexapla çalışması, tarihin ilk büyük eleştirel metin analizi örneklerinden biridir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Hristiyan Felsefesinin Kurucusu",
+      "text": "İnancı, antik felsefenin (Platonizm, Stoacılık) kavramlarıyla rasyonel bir sisteme oturtan ilk dev isimdir. Augustine'den Thomas Aquinas'a kadar herkes onun açtığı yoldan gitmiştir."
+    },
+    {
+      "title": "Özgür İrade Vurgusu",
+      "text": "İnsanın kaderini sadece Tanrı'nın bir lütfu değil, ruhun kendi özgür seçimlerinin bir sonucu olarak görerek bireysel sorumluluğu merkeze almıştır."
+    },
+    {
+      "title": "Metin Eleştirmenliği",
+      "text": "Kutsal metinlere akademik ve karşılaştırmalı bir disiplinle yaklaşarak ilahiyatı bir \"ilim\" haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dini Dogmalarla Çatışma",
+      "text": "\"Ruhların ön-varlığı\" ve \"Şeytan'ın bile kurtuluşu\" gibi fikirleri, kilisenin resmi doktriniyle (cennet-cehennem, ilk günah) çeliştiği için 553 yılında II. İstanbul Konsili'nde resmen lanetlenmiştir."
+    },
+    {
+      "title": "Aşırı Alegorizm",
+      "text": "Metinlerin literal (tarihi) anlamını bazen o kadar çok buharlaştırmıştır ki, İncil'in tarihi gerçekliğinin felsefi bir fanteziye dönüştüğü eleştirilmiştir."
+    },
+    {
+      "title": "Kişisel Radikalizm",
+      "text": "(Söylentiye göre) kendisini \"cennet krallığı için hadım etmesi\", onun felsefesindeki o aşırı asketizm (çilecilik) ve bedeni küçümseyen Platonik damarın uç bir örneği olarak görülür."
+    }
+  ]
+}

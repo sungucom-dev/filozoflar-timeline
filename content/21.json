@@ -1,0 +1,83 @@
+{
+  "subtitle": "Dört Köke Dönüş ve Evrensel Çatışma (M.Ö. 490–430)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Dört Element (Rhizomata - Kökler)",
+      "body": "Empedokles, kendisinden önceki tekil madde arayışlarını (Su, Hava, Ateş) birleştirmiştir. Ona göre evren tek bir maddeden değil, dört ebedi ve değişmez \"kökten\" oluşur: Ateş, Hava, Su ve Toprak.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Maddenin Korunumu",
+          "text": "Bu dört kök asla yok olmaz, yeni bir kök doğmaz. Gördüğümüz her şey, bu dört elementin farklı oranlarda birleşip ayrılmasından ibarettir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, kimyadaki \"element\" kavramının ve \"maddenin sakınımı\" ilkesinin felsefi temelidir. Değişimi, maddenin kendisinin değişmesi olarak değil, parçaların yer değiştirmesi olarak tanımlayarak Parmenides'i ikna etmeye çalışmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Hareket Ettirici Güçler: Sevgi (Philia) ve Nefret (Neikos)",
+      "body": "Elementler kendi başlarına hareket edemezler. Empedokles, maddeye dışarıdan müdahale eden iki kozmik kuvvet tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sevgi",
+          "text": "Elementleri bir araya getirir, birleştirir ve uyumu sağlar."
+        },
+        {
+          "label": "Nefret",
+          "text": "Elementleri birbirinden ayırır, parçalar ve kaosu yaratır."
+        },
+        {
+          "label": "Kozmik Döngü",
+          "text": "Evren, Sevgi'nin tam egemen olduğu \"Süros\" (Küre) aşaması ile Nefret'in egemen olduğu tam ayrışma aşaması arasında sonsuz bir döngü içindedir."
+        }
+      ]
+    },
+    {
+      "title": "Proto-Evrimsel Biyoloji",
+      "body": "Empedokles, canlıların oluşumu üzerine hayli tuhaf ama dâhice bir teori sunar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kopuk Organların Birleşimi",
+          "text": "Başlangıçta organlar (kollar, gözler, bacaklar) topraktan ayrı ayrı çıkmış, Sevgi'nin etkisiyle rastgele birleşmişlerdir. Bu birleşimlerden yaşama uygun olmayan \"ucubeler\" (insan kafalı öküzler gibi) yok olmuş; sadece çevreye uyum sağlayan ve işlevsel olan bileşimler hayatta kalmıştır."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, Darwin'den 2300 yıl önce dile getirilmiş, \"doğal seçilim\" fikrinin en ilkel ve mitolojik formudur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Çoğulculuğun Zaferi",
+      "text": "Tek bir madde yerine dörtlü bir yapı önermesi, evrendeki niteliksel çeşitliliği açıklama konusunda Miletlilerden çok daha başarılıdır. Kimya biliminin 19. yüzyıla kadar sürecek olan temel şablonunu (4 element) o kurmuştur."
+    },
+    {
+      "title": "Kuvvet ve Madde Ayrımı",
+      "text": "Maddenin kendisi ile onu hareket ettiren \"kuvvet\"i (Sevgi/Nefret) birbirinden ayırması, modern fizikteki \"madde ve enerji/alan\" ayrımının ilk adımıdır."
+    },
+    {
+      "title": "Epistemolojik İlke",
+      "text": "\"Benzer benzerle bilinir\" (Similia similibus) diyerek, dış dünyayı algılamamızın nedeninin içimizde de o elementlerin (toprakla toprağı, suyla suyu görmemiz gibi) bulunması olduğunu savunmuştur. Bu, algı felsefesinde çok tartışılmış bir ilkedir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Antropomorfik (İnsani) Kuvvetler",
+      "text": "Maddeyi hareket ettiren güçleri \"Sevgi\" ve \"Nefret\" gibi insani duygularla tanımlaması, sistemine bilimsel olmaktan çok mitolojik bir hava katar. Mekanik bir açıklama yerine psikolojik bir açıklama tercih etmiştir."
+    },
+    {
+      "title": "Oranların Gizemi",
+      "text": "Elementlerin birleşerek farklı maddeleri (kemik, kan, et) oluşturduğunu söylerken, bu \"karışım oranlarının\" nasıl belirlendiğini ve sabit kaldığını açıklayacak matematiksel bir temelden yoksundur."
+    },
+    {
+      "title": "Biyolojik Fantastiklik",
+      "text": "Canlıların oluşumuna dair \"kopuk organlar\" teorisi, gözleme dayalı olmaktan ziyade hayal gücüne dayalıdır ve türlerin sürekliliğini açıklamakta yetersiz kalır."
+    }
+  ]
+}

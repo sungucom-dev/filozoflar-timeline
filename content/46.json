@@ -1,0 +1,71 @@
+{
+  "subtitle": "Radikal Bireyciliğin ve Kendini Korumanın Sesi (M.Ö. 4. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Wei Wo (Herkes Kendisi İçin)",
+      "body": "Yang Zhu'nun felsefesi, bireyin değerini her türlü toplumsal, siyasi ve dini kurumun üzerinde tutar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kendi Doğanı Koru",
+          "text": "İnsan için en yüksek görev, kendi yaşamını ve sağlığını korumaktır. Dışsal mallar (zenginlik, rütbe, şan) geçicidir; kalıcı ve gerçek olan tek şey kendi bedenimiz ve ruhsal huzurumuzdur."
+        },
+        {
+          "label": "Müdahalesizlik",
+          "text": "O, ne başkasına zarar vermeyi ne de başkası için kendini feda etmeyi savunur. Eğer herkes sadece kendi \"bahçesini\" temiz tutarsa, dünya kendiliğinden düzene girecektir."
+        }
+      ]
+    },
+    {
+      "title": "\"Tek Bir Saç Teli\" Paradoksu",
+      "body": "Yang Zhu'nun en ünlü (ve en çok eleştirilen) argümanı şudur: \"Eğer vücudundan tek bir saç teli kopararak tüm dünyaya fayda sağlayabilecek olsaydı, bunu yapmazdı.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analiz",
+          "text": "Bu, sadece bir bencillik gösterisi değildir; bireyin bütünlüğünün kutsallığına dair bir metafizik duruştur. Eğer bugün bir saç telini feda ederseniz, yarın bir uzvunuzu, öbür gün ise tüm hayatınızı devletin veya ideolojilerin emrine verirsiniz. Yang Zhu, bireyin sömürülmesine giden yolu en baştan kapatır."
+        }
+      ]
+    },
+    {
+      "title": "Ölüm Karşısında Eşitlik",
+      "body": "Yang Zhu, tarihin ilk büyük materyalistlerinden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hayat Kısa, Ölüm Ebedidir",
+          "text": "\"Yaşarken biz farklıyız; ama ölürken hepimiz aynıyız; çürümüş kemikler.\" Madem ölüm herkesi eşitleyecek, o halde neden yaşarken başkalarının belirlediği yapay ahlak kuralları için acı çekelim? Önemli olan, hayattayken duyularımızı ve arzularımızı tatmin ederek, doğamıza uygun yaşamaktır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Anti-Totaliter Duruş",
+      "text": "Bireyi devletin veya toplumun bir \"dişlisi\" olmaktan kurtarması, onu modern liberalizmin ve anarşizmin çok erken bir müjdecisi yapar. İnsanın \"kendine ait olma\" hakkını en sert şekilde savunmuştur."
+    },
+    {
+      "title": "Psikolojik Realizm",
+      "text": "Mozi'nin \"herkesi aynı sev\" idealinin aksine, insanın doğal olarak önce kendini düşündüğü gerçeğini (psikolojik egoizm) kabul ederek, daha dürüst bir zemin üzerine felsefe kurmuştur."
+    },
+    {
+      "title": "Yaşamın Değeri",
+      "text": "Savaşı, fetihleri ve boş kahramanlıkları reddederek, \"sıradan bir insanın huzurla yaşamasının\" en büyük başarı olduğunu söylemesi, barışçıl bir perspektif sunar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Toplumsal Çöküş Riski",
+      "text": "Eğer hiç kimse toplum için en küçük bir fedakarlıkta bulunmazsa (vergi vermezse, kamu hizmeti yapmazsa), medeniyetin ve güvenliğin sürdürülmesi imkansız hale gelir. Yang Zhu'nun dünyasında \"kamu yararı\" diye bir kavram yoktur."
+    },
+    {
+      "title": "Empati Boşluğu",
+      "text": "Acı çeken birine yardım etmeyi bile bir tür \"kendinden vermek\" olarak görüp reddetme potansiyeli, bu felsefeyi etik açıdan kurak ve soğuk bir noktaya itebilir."
+    },
+    {
+      "title": "Yanılsama Olarak Bağımsızlık",
+      "text": "İnsan, biyolojik ve sosyal olarak başkalarına bağımlı bir varlıktır. \"Kendi kendine yetme\" fikri, aslında diğer insanların emeği sayesinde mümkün olan bir illüzyon olabilir."
+    }
+  ]
+}

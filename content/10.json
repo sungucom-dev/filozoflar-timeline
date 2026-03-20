@@ -1,0 +1,70 @@
+{
+  "subtitle": "Sayıların Efendisi ve Ruhun Gezgini (M.Ö. 570–495)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Arkhe Olarak \"Sayı\" (Arithmos)",
+      "body": "Pisagor, Milet Okulu'nun \"su, hava, sonsuzluk\" gibi maddesel arkhe arayışlarını kökten değiştirmiştir. Ona göre evrenin tözü maddi bir şey değil, form ve yapıdır; bu yapı da ancak sayılarla ifade edilebilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Matematiksel Evren",
+          "text": "Pisagor için \"1\" birimdir, \"2\" çizgidir, \"3\" yüzeydir, \"4\" ise hacimdir. Evrendeki her nesne, sayısal bir düzenin fiziksel tezahürüdür."
+        },
+        {
+          "label": "Müziğin Matematiği",
+          "text": "Tellerin uzunluğu ile çıkan sesler arasındaki matematiksel oranları (oktav, beşli, dörtlü) keşfederek, estetiğin ve fiziğin sayısal bir temeli olduğunu kanıtlamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Metafizik ve Psikoloji: Ruh Göçü (Metempsikoz)",
+      "body": "Pisagor, felsefeye Orfik gizemlerden gelen bir \"ruh\" kavramı eklemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beden Hapishanedir",
+          "text": "Ruh ölümsüzdür ve bir bedenden diğerine (insan, hayvan veya bitki) göç eder. Felsefenin ve matematiğin amacı, ruhu bu döngüden kurtarıp arındırmaktır."
+        },
+        {
+          "label": "Sessizlik ve Çilecilik",
+          "text": "Kurduğu okul (aslında bir tarikattır), katı etik kurallar, vejetaryenlik ve uzun süreli sessizlik yeminleri üzerine kuruluydu."
+        }
+      ]
+    },
+    {
+      "title": "Kosmos (Düzen) Kavramı",
+      "body": "Evrene \"Kosmos\" (düzen/süs/uyum) adını veren ilk kişinin Pisagor olduğu söylenir. Evren, kaotik bir yığın değil, \"kürelerin müziği\"ni çalan muazzam bir orkestradır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Soyutlamanın Zirvesi",
+      "text": "Arkhe'yi maddeden (su/hava) kurtarıp \"ilişki ve oran\" (sayı) düzeyine çekmesi, teorik bilimin ve modern fiziğin gerçek başlangıcıdır. Bugün evreni formüllerle açıklıyorsak, bu Pisagorcu mirastır."
+    },
+    {
+      "title": "Bilim ve Yaşam Sentezi",
+      "text": "Bilgiyi sadece entelektüel bir merak değil, karakteri dönüştüren bir araç olarak görmüştür. \"Filozof\" (bilgelik dostu) terimini ilk kullanan kişi olarak, felsefeye bir tevazu ve adanmışlık katmıştır."
+    },
+    {
+      "title": "Disiplinlerarasılık",
+      "text": "Müzik, matematik, astronomi ve ahlakı tek bir potada eriterek evrensel bir sistem kurma cesareti göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sayı Mistisizmi ve Numeroloji",
+      "text": "Sayıları kutsallaştırması (Örn: 10 sayısını temsil eden Tetraktys'e yemin etmeleri), rasyonel düşünceyi batıl inancın sınırına itmiştir. Sayıların \"cinsiyeti\" veya \"adaleti\" olduğu gibi iddialar, mantıksal zeminden yoksundur."
+    },
+    {
+      "title": "Dogmatizm ve Tutuculuk",
+      "text": "\"Efendi (Pisagor) öyle dedi\" (Autos epha) ilkesi, eleştirel düşüncenin önünü kesmiştir. Okulun sırlarını paylaşanların (Örn: İrrasyonel sayıları bulan Hippasus) cezalandırıldığı iddiası, felsefenin özgür ruhuyla çelişir."
+    },
+    {
+      "title": "Elitizm",
+      "text": "Bilgiyi halktan gizlenen bir \"gizem\" haline getirmiş, toplumu \"bilenler\" ve \"bilmeyenler\" olarak keskin çizgilerle ayırmıştır. Bu, bilginin demokratikleşmesini engellemiştir."
+    }
+  ]
+}

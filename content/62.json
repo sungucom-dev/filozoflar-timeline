@@ -1,0 +1,79 @@
+{
+  "subtitle": "Yaşayan Felsefe ve Pratik Erdem (20–101)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Felsefe Bir \"Zanaat\"tır",
+      "body": "Rufus için felsefe, tıp veya müzik gibi bir beceridir; sadece konuşarak değil, yaparak öğrenilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eylem Odaklılık",
+          "text": "\"Nasıl ki bir müzisyen sadece nota bilerek müzisyen olmazsa, bir filozof da sadece teorik kuralları ezberleyerek bilge olamaz.\" Rufus, öğrencilerini lüks içinde tartışmaya değil, tarlalarda çalışmaya ve zorluklara göğüs germeye yönlendirirdi."
+        },
+        {
+          "label": "Eğitimin Amacı",
+          "text": "Felsefe, insanın doğuştan getirdiği o \"eğri\" eğilimleri düzeltmek için kullanılan bir araçtır."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Eşitlik: Kadınlar ve Felsefe",
+      "body": "Antik dünya için devrim niteliğinde, hatta \"tehlikeli\" sayılacak bir fikri savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aynı Akıl, Aynı Erdem",
+          "text": "Kadınların da erkeklerle aynı zihinsel kapasiteye ve ahlaki duyarlılığa sahip olduğunu söyler. \"Eğer kadınlar da erkeklerle aynı temel ihtiyaçlara ve erdem potansiyeline sahipse, neden felsefe eğitimi almasınlar?\""
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu görüşüyle Rufus, Stoacılığı saraylardan ve elit çevrelerden çıkarıp tüm insanlığa yayan ilk gerçek evrenselci seslerden biri olmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Askēsis: Beden ve Ruh Antrenmanı",
+      "body": "Rufus'a göre lüks, ruhun en büyük düşmanıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beslenme ve Giyim",
+          "text": "Basit yemeklerin (mümkünse vejetaryen) ve sade kıyafetlerin ruhu özgürleştirdiğini savunur. Ona göre yemek yemek bir zevk aracı değil, sadece yaşamak için bir zorunluluktur."
+        },
+        {
+          "label": "Sürgünlerin Gücü",
+          "text": "İmparatorlar tarafından üç kez sürgüne gönderilmesine rağmen, her seferinde bu sürgünleri \"bir karakter testi\" olarak görmüş ve gittiği yerlerde (ıssız adalarda bile) felsefe yapmaya devam etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Muazzam Bir Hoca",
+      "text": "Epiktetos gibi felsefe tarihini değiştiren bir ismi yetiştirmiş olması, onun pedagojik gücünün en büyük kanıtıdır. Epiktetos'un o sert ve tavizsiz tarzı, tamamen Rufus'un okulundan mirastır."
+    },
+    {
+      "title": "Toplumsal İlerleme",
+      "text": "Kadın hakları ve kölelerin onuru konusundaki duruşu, onu çağından yüzyıllarca ileriye taşır."
+    },
+    {
+      "title": "Sarsılmaz Karakter",
+      "text": "Sürgünlere ve baskılara karşı dik duruşu, Stoacılığın sadece bir \"kitap bilgisi\" olmadığını, bizzat bir direniş biçimi olduğunu tüm Roma'ya kanıtlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Rigitlik (Katılık)",
+      "text": "Rufus bazen o kadar ayrıntıcıdır ki (sakalın boyundan, evin çatısının yüksekliğine kadar), felsefeyi bir \"ahlak kuralları listesine\" indirgeme riski taşır. Bu, felsefenin o geniş ve sorgulayıcı doğasını biraz daraltabilir."
+    },
+    {
+      "title": "Duygusal Kuraklık",
+      "text": "Hayatı sadece bir \"görev\" ve \"disiplin\" alanı olarak görmesi, insan ruhunun estetik, neşe ve hafiflik gibi ihtiyaçlarını bazen tamamen yok saymasına neden olur."
+    },
+    {
+      "title": "Uygulanabilirlik Zorluğu",
+      "text": "Herkesin bir \"atlet\" gibi her saniye kendini denetleyerek yaşaması, sıradan insanlar için felsefeyi ulaşılmaz ve yorucu bir \"çile\" haline getirebilir."
+    }
+  ]
+}

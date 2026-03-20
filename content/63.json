@@ -1,0 +1,83 @@
+{
+  "subtitle": "Zincirli Bir Bedende Mutlak Hürriyet (55–135)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Kontrol Odağı (Dichotomy of Control)",
+      "body": "Epiktetos'un tüm felsefesi tek bir temel ayrım üzerine kuruludur. Mutsuzluğun tek sebebi, bu iki alanı birbirine karıştırmaktır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bizim Elimizde Olanlar (Ta eph' hēmin)",
+          "text": "Düşüncelerimiz, dürtülerimiz, arzularımız ve tiksintilerimiz. Yani kendi zihinsel onayımız. Burası bizim krallığımızdır ve buraya Tanrı bile müdahale edemez."
+        },
+        {
+          "label": "Bizim Elimizde Olmayanlar (Ta ouk eph' hēmin)",
+          "text": "Bedenimiz, mal mülkümüz, itibarımız, makamımız ve başkalarının bizim hakkındaki düşünceleri. Bunlar \"dışsal\" şeylerdir ve rüzgarın önündeki yaprak gibi değişkendirler."
+        },
+        {
+          "label": "Analiz",
+          "text": "Epiktetos der ki: \"Beni zincire vurabilirsin, ama irademi (Proairesis) Zeus bile ele geçiremez.\""
+        }
+      ]
+    },
+    {
+      "title": "Üç Alan Disiplini (Topoi)",
+      "body": "Epiktetos, Stoacı eğitimi üç pratik aşamaya böler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Arzu ve Tiksinti Disiplini",
+          "text": "Sadece kontrolümüz altında olanı istemek, olmayandan ise korkmamak. Bu, huzurun (Ataraxia) anahtarıdır."
+        },
+        {
+          "label": "Eylem Disiplini",
+          "text": "Toplumsal görevlerimizi (oğul, baba, yurttaş olarak) doğaya uygun şekilde yerine getirmek."
+        },
+        {
+          "label": "Onay Disiplini",
+          "text": "Zihnimize gelen izlenimlere (heyecan, korku, öfke) hemen teslim olmamak; onları mantık süzgecinden geçirmek."
+        }
+      ]
+    },
+    {
+      "title": "Felsefe Bir Performanstır",
+      "body": "Epiktetos, sadece kitap okuyanları küçümserdi. Ona göre felsefe, bir kütüphane işi değil, bir \"yaşam idmanı\"dır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yaşayan Felsefe",
+          "text": "\"Bana felsefe hakkında konuşan birini değil, felsefeyi yaşayan birini göster. Hastayken hala huzurlu olan, tehlikedeyken hala mutlu olan, sürgündeyken hala onurlu olan birini...\""
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojik Dayanıklılığın Zirvesi",
+      "text": "İnsana her türlü dışsal baskı, işkence veya talihsizlik karşısında sarsılmaz bir \"iç kale\" sunar. Modern Bilişsel Davranışçı Terapi'nin (BDT) en saf atasıdır."
+    },
+    {
+      "title": "Radikal Eşitlik",
+      "text": "Bir kölenin, zihnini terbiye ederek bir imparatordan daha özgür olabileceğini savunması, insanlık onuruna yapılmış en büyük vurgulardan biridir."
+    },
+    {
+      "title": "Sadelik ve Netlik",
+      "text": "Karmaşık metafizik tartışmaları bir kenara bırakıp, doğrudan \"nasıl yaşamalıyız?\" sorusuna pratik ve vurucu cevaplar vermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Duygusal Kopuş",
+      "text": "Epiktetos, sevdiğin birini öperken bile onun \"ölümlü\" olduğunu kendine hatırlatmanı söyler. Bu, yas ve acıya karşı koruma sağlasa da, insanı sevgi ve şefkat gibi derin duygulardan soğutarak bir tür \"duygusal nasırlaşmaya\" yol açabilir."
+    },
+    {
+      "title": "Siyasi Pasifizm",
+      "text": "Dışsal dünyayı (hukuksuzluk, tiranlık, fakirlik) \"kontrolümüz dışında\" görüp onlara kayıtsız kalmayı önermesi, sistematik adaletsizliklere karşı toplumsal mücadelenin önünü tıkayabilir."
+    },
+    {
+      "title": "İradenin Aşırı Yüklenmesi",
+      "text": "Her şeyi kişinin kendi zihinsel onayına indirgemesi, insanın biyolojik sınırlarını, travmalarını ve çevresel faktörlerin ruh sağlığı üzerindeki kaçınılmaz etkilerini fazla hafife alan bir \"iradecilik\" tuzağıdır."
+    }
+  ]
+}

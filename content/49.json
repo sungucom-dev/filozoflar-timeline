@@ -1,0 +1,83 @@
+{
+  "subtitle": "Doğaya Uygun Yaşamın ve İradenin Kalesi (M.Ö. 334–262)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Felsefenin Üç Dalı",
+      "body": "Zenon, felsefeyi organik bir bütün olarak görmüş ve onu meşhur bir benzetmeyle (bir meyve bahçesi veya bir canlı organizma gibi) açıklamıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mantık (Bahçenin Çiti)",
+          "text": "Düşüncelerimizi yanlışlardan koruyan koruyucu duvardır."
+        },
+        {
+          "label": "Fizik (Ağaçlar)",
+          "text": "Evrenin yapısını, yani doğayı anlamamızı sağlar."
+        },
+        {
+          "label": "Etik (Meyve)",
+          "text": "Felsefenin asıl amacıdır; doğru yaşamanın ve mutluluğun bilgisidir."
+        }
+      ]
+    },
+    {
+      "title": "\"Kontrol Odağı\" ve Doğaya Uygunluk",
+      "body": "Stoacılığın kalbi, neyin bizim elimizde olup neyin olmadığını ayırt etmektir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Elimizde Olanlar",
+          "text": "Düşüncelerimiz, arzularımız ve kararlarımız. Özgürlüğümüzün tek kalesi burasıdır."
+        },
+        {
+          "label": "Elimizde Olmayanlar",
+          "text": "Şöhret, zenginlik, sağlık, başkalarının düşünceleri ve ölüm. Bunlar \"kayıtsız\" (adiaphora) şeylerdir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Mutsuzluk, kontrol edemediğimiz şeylere hükmetmeye çalışmaktan doğar. Bilge kişi, dış dünyayı değiştiremiyorsa, ona bakış açısını değiştirir."
+        }
+      ]
+    },
+    {
+      "title": "Logos ve Amor Fati (Kaderini Sev)",
+      "body": "Zenon'a göre evren, tanrısal bir akıl olan Logos tarafından yönetilen devasa bir organizmadır. Tesadüfe yer yoktur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kader Bir Araba, Biz Bir Köpeğiz",
+          "text": "Stoacı bir benzetmeye göre; hayat, hareket eden bir at arabası, biz de ona bağlı bir köpeğiz. Ya arabanın peşinden isteyerek koşar ve huzurlu oluruz ya da direnir, sürüklenerek canımızı yakarız. İrade, başımıza geleni değiştirmek değil, ona verilen yanıtı belirlemektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Duygusal Dayanıklılık",
+      "text": "İnsanı dışsal sarsıntılara (iflas, hastalık, ölüm) karşı sarsılmaz bir iç kaleye kavuşturur. Modern Bilişsel Davranışçı Terapi'nin (BDT) felsefi kökenidir."
+    },
+    {
+      "title": "Dünya Vatandaşlığı (Kozmopolitizm)",
+      "text": "Zenon, köle ile imparatorun, yabancı ile yurttaşın aynı tanrısal akıldan pay aldığını savunarak evrensel bir kardeşlik ideali kurmuştur."
+    },
+    {
+      "title": "Sorumluluk Bilinci",
+      "text": "Epikurosçuların aksine Stoacılar, topluma ve devlete hizmet etmeyi bir \"görev\" olarak görürler. Bu, felsefeyi toplumsal bir inşa aracına dönüştürür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Duygusal Bastırma (Apatheia)",
+      "text": "Tutkulardan arınma ideali, bazen insani duyguların (yas, aşırı neşe, empati) tamamen bastırılmasına ve kişinin bir \"duygu robotuna\" dönüşmesine neden olabilir."
+    },
+    {
+      "title": "Kaderci Pasifizm",
+      "text": "Eğer her şey önceden belirlenmiş bir Logos tarafından yönetiliyorsa, adaletsizliğe karşı savaşmanın anlamı nedir? Stoacılık, kişiyi haksızlıkları \"kaderin bir parçası\" olarak kabul etmeye iten bir kabulleniş tuzağına düşürebilir."
+    },
+    {
+      "title": "Aşırı Katılık",
+      "text": "Zenon'un ilk döneminde \"ya tam bilgesindir ya da değilsindir\" şeklindeki siyah-beyaz bakış açısı, insanın gelişim sürecindeki gri alanları ve hataları hoş görmekte zorlanır."
+    }
+  ]
+}

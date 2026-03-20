@@ -1,0 +1,70 @@
+{
+  "subtitle": "Stoacılığın Mantıksal Mimarı (M.Ö. 279–206)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Mantık: Aristoteles'e İlk Büyük Rakip",
+      "body": "Chrysippos, mantığı felsefenin sadece bir aracı değil, ruhu koruyan bir zırh olarak görmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Önermeler Mantığı",
+          "text": "Aristoteles \"nesnelerin\" mantığına (Bütün A'lar B'dir) odaklanırken; Chrysippos \"önermelerin\" mantığını (Eğer P ise, o halde Q) kurmuştur. Bugün modern bilgisayar yazılımlarının ve dijital mantığın temelinde onun attığı bu \"ve, veya, ise\" eklemleri yatar."
+        },
+        {
+          "label": "Paradoksların Çözümü",
+          "text": "\"Yalancı Paradoksu\" gibi zihin yoran bilmeceler üzerine yıllarca çalışmış, dilin ve mantığın sınırlarını zorlamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Kader ve Özgür İrade: Silindir Analojisi",
+      "body": "Stoacılığın en büyük sorunu olan \"Her şey kaderse biz neden sorumluyuz?\" sorusuna dâhice bir yanıt vermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Silindir Örneği",
+          "text": "Bir silindiri tepeden aşağı iterseniz, onun yuvarlanmasına sebep olan şey dışsal bir güçtür (Kader/İtme). Ancak silindirin \"yuvarlanarak\" gitmesi, onun kendi şekliyle (Kendi Doğası/Karakter) ilgilidir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Dışsal olaylar kaderdir, ancak onlara nasıl tepki verdiğimiz bizim karakterimizdir. Chrysippos, Uyumluluk (Compatibilism) felsefesinin babasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Fizik ve Pneuma",
+      "body": "Evreni canlı, akıllı ve her yerine yayılmış bir \"ruhsal soluk\" olan Pneuma ile açıklanan devasa bir organizma olarak görmüştür. Her şey birbirine görünmez zincirlerle (Sempatia) bağlıdır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sistematik Bütünlük",
+      "text": "Zenon'un bazen dağınık kalan fikirlerini birbirine öyle sıkı bağlamıştır ki, Stoacılık yüzyıllarca sarsılmadan ayakta kalabilmiştir."
+    },
+    {
+      "title": "Mantıksal Devrim",
+      "text": "Aristotelesçi olmayan bir mantık sistemi kurarak, Batı düşünce tarihine alternatif bir akıl yürütme yolu açmıştır."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Duyguları \"aklın bir hatası\" veya \"yanlış yargı\" olarak tanımlayarak, insanın kendi duyguları üzerinde bilişsel bir kontrol kurabileceğini savunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Laf Kalabalığı ve Pedanti",
+      "text": "Antik kaynaklar onun çok tekrar yaptığını, her konuyu aşırı teknik detaylara boğduğunu ve bazen anlaşılamaz hale geldiğini söyler. Felsefeyi biraz \"kurutmuştur\"."
+    },
+    {
+      "title": "Katı Determinizm",
+      "text": "Kader ile özgür iradeyi birleştirme çabası (silindir örneği) çok yaratıcı olsa da, birçok eleştirmen için hala bireyin gerçek seçim şansını tam olarak açıklayamayan bir \"kelime oyunu\" olarak görülür."
+    },
+    {
+      "title": "Kibirli Dogmatizm",
+      "text": "Sistemini o kadar mükemmel ve kapalı kurmuştur ki, dışarıdan gelen eleştirilere karşı bazen esneklik göstermek yerine \"mantık oyunlarıyla\" cevap vermeyi seçmiştir."
+    }
+  ]
+}

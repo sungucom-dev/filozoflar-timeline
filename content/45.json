@@ -1,0 +1,75 @@
+{
+  "subtitle": "Kölelikten Ruhun Özgürlüğüne (M.Ö. 4. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yaşam Öyküsü: Felsefenin Kurtarıcı Gücü",
+      "body": "Phaedo'nun hayatı, felsefenin insan onuru üzerindeki etkisinin en somut kanıtıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tutsaklıktan Bilgeliğe",
+          "text": "Elisli soylu bir aileden gelmesine rağmen, şehri istila edildiğinde köle olarak satılmış ve Atina'da bir genelevde çalışmaya zorlanmıştır. Sokrates, genç Phaedo'daki zekayı ve ruhsal ışığı fark etmiş; dostlarını (muhtemelen Cebes veya Kriton) ikna ederek onun fidyesini ödetmiş ve özgürlüğüne kavuşturmuştur."
+        },
+        {
+          "label": "Sokrates'in Yanında",
+          "text": "Özgürlüğünü kazandıktan sonra kendini tamamen Sokrates'e adamış, hocasının son anlarına (baldıran zehrini içtiği ana) tanıklık eden çekirdek kadroda yer almıştır."
+        }
+      ]
+    },
+    {
+      "title": "Temel Öğreti: Elis Okulu ve Erdemin Birliği",
+      "body": "Sokrates'in ölümünden sonra memleketine dönerek Elis Okulu'nu (daha sonra Menedemos tarafından Eretria'ya taşınacaktır) kurmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sokratik Miras",
+          "text": "Phaedo, Megaralı Eucleides gibi, erdem ile bilgi arasındaki sarsılmaz bağı savunmuştur. Ona göre felsefenin temel amacı, ruhu tutkuların ve dışsal zorunlulukların köleliğinden kurtarmaktır."
+        },
+        {
+          "label": "Diyalog Sanatı",
+          "text": "Phaedo, felsefi fikirlerini yaymak için diyalog formunu kullanmıştır. En ünlü eseri olan Zopyros, dış görünüş ile içsel karakter arasındaki ilişkiyi sorgular."
+        }
+      ]
+    },
+    {
+      "title": "Zopyros Diyaloğu: Karakterin Dönüşümü",
+      "body": "Bu diyalogda, bir fizyognomi ustası olan Zopyros, Sokrates'in yüz hatlarına bakarak onun \"şehvet düşkünü ve aptal\" olduğunu iddia eder. Sokrates'in öğrencileri öfkelenir ancak Sokrates araya girer: \"Zopyros haklı; doğamda bu eğilimler var ama ben onları felsefe ve irade yoluyla terbiye ettim.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analiz",
+          "text": "Phaedo bu hikayeyle, insanın biyolojik veya sosyal kaderine (kölelik, kötü eğilimler vb.) mahkum olmadığını, felsefe aracılığıyla kendini yeniden inşa edebileceğini savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İnsan Onurunun Savunusu",
+      "text": "Phaedo, en düşük sosyal statüden (kölelik) gelerek en yüksek entelektüel seviyeye ulaşılabileceğini kanıtlamıştır. Bu, felsefenin \"evrensel ve demokratik\" doğasına vurulan tarihi bir mühürdür."
+    },
+    {
+      "title": "İradenin Gücü",
+      "text": "Zopyros üzerinden verdiği \"kendini terbiye etme\" mesajı, karakterin sabit olmadığını, eğitilebilir ve dönüştürülebilir olduğunu vurgulayarak eğitim felsefesine büyük bir katkı sunmuştur."
+    },
+    {
+      "title": "Sokratik Ruhun Korunması",
+      "text": "Sokrates'in insani ve ahlaki dokusunu, onun sadece mantıksal bir tartışmacı olmadığını vurgulayarak gelecek nesillere aktarmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Özgün Metafizik Eksikliği",
+      "text": "Phaedo ve okulu, Megaralılar veya Platon gibi derin bir varlık felsefesi (metafizik) inşa etmekten ziyade, ahlaki ve pedagojik (eğitsel) bir çerçevede kalmıştır. Bu durum, okulunun zamanla diğer akımların içinde erimesine neden olmuştur."
+    },
+    {
+      "title": "Platon'un Gölgesi",
+      "text": "Hakkındaki bilgilerin çoğu Platon'un Phaedo diyaloğundan gelir. Bu diyalogda Phaedo sadece bir anlatıcıdır ve savunulan fikirler (İdealar, ruhun ölümsüzlüğü) aslında Platon'a aittir. Phaedo'nun kendi özgün fikirlerini bu dev gölgenin altından çekip çıkarmak zordur."
+    },
+    {
+      "title": "Fragmanlaşmış Miras",
+      "text": "Eserlerinden hiçbirinin tam metin olarak günümüze ulaşmamış olması, onun felsefi sisteminin teknik detaylarını analiz etmeyi imkansız kılar."
+    }
+  ]
+}

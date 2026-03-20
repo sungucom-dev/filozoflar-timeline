@@ -1,0 +1,82 @@
+{
+  "subtitle": "İnsan Doğasının İyimser Mimarı ve \"Gök\"ün Vicdanı (M.Ö. 372–289)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: İnsan Doğası İyidir (Xingshan)",
+      "body": "Mencius'un felsefesi tarihteki en ünlü \"iyimser\" insan tanımıyla başlar. Ona göre insan doğası, tıpkı suyun aşağı doğru akma eğilimi gibi, iyiliğe meyyaldir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Merhamet",
+          "text": "Erdemli olmanın (Ren) başlangıcıdır. (Kuyuya düşmek üzere olan bir çocuk görünce duyulan o anlık korku ve acıma hissi.)"
+        },
+        {
+          "label": "Utanç ve Nefret",
+          "text": "Doğruluğun (Yi) başlangıcıdır."
+        },
+        {
+          "label": "Hürmet ve Saygı",
+          "text": "Edep ve görgünün (Li) başlangıcıdır."
+        },
+        {
+          "label": "Doğru-Yanlış Duygusu",
+          "text": "Bilgeliğin (Zhi) başlangıcıdır."
+        }
+      ]
+    },
+    {
+      "title": "Siyaset Felsefesi: Halkın Refahı ve \"Gök\"ün İradesi",
+      "body": "Mencius, siyasi otoriteye karşı halkın haklarını savunan tarihteki ilk büyük seslerden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Halkın Önceliği",
+          "text": "\"Bir devlette en önemli unsur halktır, sonra devlet gelir, en son ise hükümdar.\""
+        },
+        {
+          "label": "Zalime Karşı Direniş",
+          "text": "Eğer bir hükümdar halkına zulmederse, \"Gök'ün İnayeti\"ni (Mandate of Heaven) kaybetmiş demektir. Mencius'a göre böyle birini devirmek (hatta öldürmek) bir kralı öldürmek değil, \"bir soyguncuyu cezalandırmaktır\"."
+        },
+        {
+          "label": "Ekonomik Temel",
+          "text": "Ahlakın karnı doyurmaktan geçtiğini savunmuştur. \"Well-field\" (Kuyu-tarla) sistemiyle adil toprak dağıtımını ve halkın temel ihtiyaçlarının karşılanmasını şart koşmuştur."
+        }
+      ]
+    },
+    {
+      "title": "\"Qi\" ve Ruhsal Enerji",
+      "body": "Mencius sadece bir siyasetçi değil, aynı zamanda bir mistiktir. İnsanın içindeki \"浩然之氣\" (Haoran Zhi Qi - Coşkun Yaşam Enerjisi) kavramını geliştirmiştir. Bu enerji, erdemli yaşandığında ruhu ve bedeni dolduran sarsılmaz bir ahlaki güçtür.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İnsan Onurunun Yüceltilmesi",
+      "text": "İnsan doğasını \"doğuştan iyi\" kabul ederek, bireye muazzam bir ahlaki sorumluluk ve özsaygı yüklemiştir. Bu, eğitimi bir \"dayatma\" değil, \"içteki cevheri ortaya çıkarma\" sürecine dönüştürür."
+    },
+    {
+      "title": "Demokratik Tohumlar",
+      "text": "Hükümdarın meşruiyetini halkın refahına bağlaması, Doğu düşüncesinde \"sosyal adalet\" ve \"direniş hakkı\" kavramlarının temelini atmıştır."
+    },
+    {
+      "title": "Psikolojik Temelli Etik",
+      "text": "Ahlakı sadece dışsal kurallar (ritüeller) olmaktan çıkarıp, içsel duygulara (merhamet, utanç) dayandırması, Konfüçyüsçülüğü çok daha samimi ve insani kılmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İyimserlik (Ütopizm)",
+      "text": "İnsan doğasının iyiliğine olan bu sarsılmaz inanç, tarihteki sistematik kötülükleri, savaşları ve sadizmi açıklamakta bazen yetersiz kalır. Halefi Xunzi, \"İnsan doğası kötüdür, iyilik sonradan kazanılır\" diyerek onu çok sert eleştirecektir."
+    },
+    {
+      "title": "Yönetici Ahlakına Aşırı Bağımlılık",
+      "text": "Sistem, \"iyi bir hükümdar gelirse her şey düzelir\" gibi ahlaki bir beklenti üzerine kuruludur. Kurumsal denetim ve hukuk mekanizmaları yerine, yöneticinin \"vicdanına\" aşırı güvenmesi pratik siyasette bir zafiyettir."
+    },
+    {
+      "title": "Çevresel Determinizm",
+      "text": "Kötülüğü tamamen \"kötü çevreye\" bağlaması, bireyin kendi özgür iradesiyle seçtiği \"bilinçli kötülüğü\" tam olarak analiz edememesine yol açabilir."
+    }
+  ]
+}

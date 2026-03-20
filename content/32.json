@@ -1,0 +1,70 @@
+{
+  "subtitle": "Atomizmin Kurucusu ve Boşluğun Keşfi (M.Ö. 5. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Atomlar ve Boşluk (Kene)",
+      "body": "Leucippus, Parmenides'in \"Varlık vardır, yokluk yoktur, o halde hareket imkansızdır\" şeklindeki mantık hapsinden çıkış yolunu dâhice bir hamleyle bulmuştur: Boşluğu (Yokluğu) kabul etmek.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Varlık (Dolu)",
+          "text": "Evren, sonsuz sayıda, çok küçük, görülemez ve parçalanamaz (a-tomos) maddi taneciklerle doludur. Bunlar ezelidir, değişmezdir ve nitelikçe aynıdır."
+        },
+        {
+          "label": "Yokluk (Boşluk)",
+          "text": "Hareketin mümkün olabilmesi için \"hiçliğin\" de var olması gerekir. Atomlar bu sonsuz boşluk içinde yüzerler."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, Batı düşüncesinde madde ile mekanın birbirinden ayrıldığı ilk net andır. Leucippus, Parmenides'in \"Bir\"ini milyonlarca küçük parçaya bölmüş ama her bir parçaya Parmenidesçi \"değişmezlik\" özelliğini vermiştir."
+        }
+      ]
+    },
+    {
+      "title": "Gereklilik ve Nedensellik (Ananke)",
+      "body": "Leucippus'un günümüze ulaşan tek kesin fragmanı şöyledir: \"Hiçbir şey rastlantı sonucu meydana gelmez; her şey bir nedene ve zorunluluğa bağlı olarak ortaya çıkar.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mekanik Evren",
+          "text": "Evrende \"kozmik bir akıl\" (Anaxagoras'ın Nous'u gibi) veya \"tanrısal irade\" yoktur. Her şey, atomların boşluktaki mekanik çarpışmaları ve birleşmeleriyle, yani katı bir fiziksel zorunlulukla gerçekleşir."
+        }
+      ]
+    },
+    {
+      "title": "Oluşum Mekanizması: Girdap (Dine)",
+      "body": "Atomlar boşlukta rastgele değil, devasa bir girdap hareketiyle birleşirler. Benzer atomlar benzerlerini çeker; ağır olanlar merkeze çöker (Dünya), hafif olanlar çevreye yayılır (Ateş/Gök).",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Fiziksel Bilimin Temeli",
+      "text": "Maddenin korunumu ve parçalı yapısı üzerine kurduğu teori, 20. yüzyıl atom fiziğine kadar felsefi bir rehber olmuştur. Duyularla algılanan niteliksel çeşitliliği (renk, koku, tat), niceliksel düzenlemelere (atomların dizilişi) indirgemesi muazzam bir rasyonelleşmedir."
+    },
+    {
+      "title": "Mantıksal Uzlaşı",
+      "text": "Herakleitos'un \"değişimini\" ve Parmenides'in \"kalıcılığını\" aynı sistemde birleştirmiştir. Atomlar kalıcıdır (Parmenides), ancak onların dizilişi sürekli değişir (Herakleitos)."
+    },
+    {
+      "title": "Radikal Materyalizm",
+      "text": "Evreni doğaüstü güçlerden tamamen arındırarak, her şeyi \"madde ve hareket\" ile açıklama cesareti göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hareketin Kaynağı Belirsizliği",
+      "text": "Leucippus, atomların hareket ettiğini söyler ama bu hareketin neden başladığını veya atomların neden \"durmadığını\" açıklamaz. Hareketi maddenin ezeli bir özelliği olarak varsayar ama bu bir kanıt değil, bir ön kabuldür."
+    },
+    {
+      "title": "Katı Determinizmin Çıkmazı",
+      "text": "Her şeyi mutlak bir zorunluluğa bağlaması, insan iradesini ve \"özgürlüğü\" imkansız kılar. Eğer her düşüncemiz atomların çarpışmasından ibaretse, ahlaki sorumluluktan bahsetmek anlamsızlaşır. (Bu sorunu daha sonra Epikuros \"sapma\" teoremiyle çözmeye çalışacaktır.)"
+    },
+    {
+      "title": "Nitelik Kaybı",
+      "text": "Dünyayı sadece şekil, büyüklük ve ağırlığa indirgemek; bilinci, duyguları ve estetik deneyimi açıklamakta yetersiz kalır. \"Soğuk atomlar nasıl sıcak bir sevgi yaratır?\" sorusu atomizmde cevapsızdır."
+    }
+  ]
+}

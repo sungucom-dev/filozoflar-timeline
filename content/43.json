@@ -1,0 +1,75 @@
+{
+  "subtitle": "Kozmik Oyunun ve Mutlak Özgürlüğün Şairi (M.Ö. 369–286)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Perspektiflerin Göreceliği (Kelebek Rüyası)",
+      "body": "Zhuangzi için gerçeklik, bakanın gözündedir. En ünlü hikayesi olan \"Kelebek Rüyası\", özne ve nesne arasındaki ayrımı unufak eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dönüşüm",
+          "text": "\"Zhuangzi rüyasında bir kelebek olduğunu gördü. Uyandığında ise, kelebek olduğunu düşleyen bir Zhuangzi mi, yoksa Zhuangzi olduğunu düşleyen bir kelebek mi olduğunu bilemedi.\""
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, Pyrrhon'un şüpheciliğine benzer; ancak Zhuangzi burada \"bilinemezlikten\" dolayı acı çekmez, aksine bu \"dönüşümün\" (hua) tadını çıkarır. Her şey sürekli bir değişim içindedir ve hiçbir perspektif diğerinden daha \"üstün\" değildir."
+        }
+      ]
+    },
+    {
+      "title": "Yararsızlığın Yararı (Wuyong)",
+      "body": "Toplumun \"başarı\" ve \"fayda\" kıstaslarına en sert eleştiriyi bu kavramla getirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Budaklı Ağaç",
+          "text": "Marangozların düz olmadığı için kesmediği, meyve vermediği için kimsenin dokunmadığı o devasa, budaklı ağaç en uzun yaşayanıdır. Çünkü kimse için \"yararlı\" değildir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Zhuangzi'ye göre, toplumun beklediği anlamda \"yararlı\" olmak, baltayı kendi köküne davet etmektir. Gerçek özgürlük, başkalarının beklentilerine hizmet etmemek ve kendi doğal akışında (Ziran) kalabilmektir."
+        }
+      ]
+    },
+    {
+      "title": "Wu-Wei: Çabasız Eylem",
+      "body": "Laozi'den devraldığı bu kavramı, günlük hayatın ustalığına (Örn: Kasap Ding'in öyküsü) odaklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Akışta Olmak",
+          "text": "Bir işi yaparken zihnin ve bedenin o işle bütünleşmesi, aradaki \"ben\" duygusunun silinmesidir. Kasap Ding, bıçağını kemiklere hiç çarpmadan, eklemlerin arasındaki boşluklardan geçirerek keser; çünkü o, Tao'nun ritmine uymuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Zihinsel Özgürleşme",
+      "text": "İnsanı toplumsal rollerin, unvanların ve \"doğru-yanlış\" ikiliklerinin yarattığı stresten kurtarmaya çalışır. Modern psikolojideki \"akış\" (flow) kavramının kadim kökenidir."
+    },
+    {
+      "title": "Ekolojik Bilinç",
+      "text": "İnsanı evrenin efendisi değil, onun küçük ve uyumlu bir parçası olarak konumlandırır. Doğaya hükmetmek yerine onunla akmayı savunması, modern çevreci düşünce için bir ilham kaynağıdır."
+    },
+    {
+      "title": "Mizahın Gücü",
+      "text": "Felsefeyi asık suratlılıktan kurtarmıştır. Paradokslar, absürt hikayeler ve keskin bir mizah kullanarak dogmaları sarsar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasi Kayıtsızlık",
+      "text": "Zhuangzi'nin felsefesi \"adaletsizlikle savaşmak\" yerine \"adaletsizliğin üstünden uçmayı\" önerir. Zulüm karşısında sessiz kalmaya veya toplumsal sorunlardan kaçmaya (eskapizm) neden olabilir."
+    },
+    {
+      "title": "Anti-Rasyonalizm",
+      "text": "Akıl yürütmeyi ve mantığı \"sınırlı\" oldukları gerekçesiyle küçümsemesi, bilimsel ilerleme ve sistematik bilgi üretimi için bir engel teşkil edebilir."
+    },
+    {
+      "title": "Uygulama Zorluğu",
+      "text": "\"Hiçbir şeyi umursamadan kozmik akışta yaşamak\", gerçek dünyadaki ekonomik ve sosyal zorunluluklar altında ezilen kitleler için lüks bir \"entelektüel inziva\" gibi görünebilir."
+    }
+  ]
+}

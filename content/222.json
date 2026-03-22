@@ -1,0 +1,49 @@
+{
+  "subtitle": "Özgüven, Yüce Ruh ve Doğa (1803–1882)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Self-Reliance (Özgüven): Bireyin Kutsallığı",
+      "body": "Emerson'un en meşhur ve Amerikan karakterini en çok şekillendiren fikridir.",
+      "ordered": false,
+      "items": [
+        {"label": "İçsel Otorite", "text": "\"Kendine güvenmek, Tanrı'ya güvenmektir.\" Birey, toplumun dayattığı geleneklere ve sürü psikolojisine karşı kendi iç sesini dinlemelidir."},
+        {"label": "Taklit İntihardır", "text": "\"Taklit etmek intihardır, gıpta etmek ise cehalet.\" Her insan, evrenin başka hiç kimsede olmayan benzersiz bir notasını taşır."}
+      ]
+    },
+    {
+      "title": "The Over-Soul (Yüce Ruh)",
+      "body": "Emerson, Tanrı'yı uzaktaki bir yargıç olarak değil, her şeyin içinden akan evrensel bir \"Ruh\" olarak kurgular.",
+      "ordered": false,
+      "items": [
+        {"label": "Birlik", "text": "Doğa, insan ve ilahi olan arasındaki ayrım yapaydır. Hepimiz, tüm varoluşu birbirine bağlayan o devasa \"Yüce Ruh\"un parçalarıyız."},
+        {"label": "Eşitlik", "text": "Bu ruh her insanda eşit derecede mevcut olduğu için, hiyerarşiler ve rütbeler aslında birer yanılsamadır."}
+      ]
+    },
+    {
+      "title": "Nature (Doğa) ve Şeffaf Gözbebeği",
+      "body": "Emerson için doğa, Tanrı'nın dilidir ve ruhun aynasıdır.",
+      "ordered": false,
+      "items": [
+        {"label": "Şeffaf Gözbebeği", "text": "Meşhur metaforuyla anlatır; doğanın içinde olduğunda insan bir \"şeffaf gözbebeği\"ne dönüşür. \"Ben hiçbir şeyim; ama her şeyi görürüm. Evrensel varlığın akımları içimden geçer; ben Tanrı'nın bir parçasıyım.\""},
+        {"label": "Şifa ve Bilgelik", "text": "Şehirlerin ve toplumsal rollerin yarattığı yozlaşmadan kurtulmanın tek yolu, doğanın o bozulmamış sessizliğine geri dönmektir."}
+      ]
+    },
+    {
+      "title": "Amerikan Entelektüel Bağımsızlığı",
+      "body": "The American Scholar söyleviyle, Amerikalı düşünürleri Avrupa'nın \"kütüphane raflarındaki\" tozlu fikirleri taklit etmekten vazgeçip, kendi topraklarındaki ve yaşamlarındaki gerçeği görmeye çağırmıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {"title": "Bireysel Özgürleşme", "text": "İnsanı kurumların (Kilise, Devlet, Gelenek) kulu olmaktan çıkarıp kendi vicdanının efendisi yapmıştır."},
+    {"title": "Amerikan Edebiyatı ve Felsefesi", "text": "Thoreau, Whitman ve hatta Nietzsche gibi dev isimleri derinden etkileyerek modern düşüncenin ufkunu genişletmiştir."},
+    {"title": "Bütünsel Ekoloji", "text": "Doğayı sadece bir kaynak deposu olarak değil, ruhsal bir gelişim alanı olarak görerek çevre felsefesine öncülük etmiştir."}
+  ],
+  "weaknesses": [
+    {"title": "Kötülük Problemi", "text": "Karamsar rakipleri (özellikle Melville ve Hawthorne) tarafından, dünyadaki \"gerçek\" kötülüğü, karanlığı ve trajediyi fazla hafife aldığı, her şeyi toz pembe bir iyimserlikle açıkladığı gerekçesiyle eleştirilmiştir."},
+    {"title": "Pratik Eylem Eksikliği", "text": "Kölelik gibi büyük toplumsal yaralar konusunda (başlangıçta) felsefesinin o \"yüce\" seviyesinden inip somut bir politik duruş sergilemekte geç kaldığı söylenir."},
+    {"title": "Elitist Bireycilik", "text": "\"Kendine güven\" çağrısı, bazen ekonomik ve sosyal imkanları olmayan kitleler için lüks bir felsefe gibi görünebilir."}
+  ]
+}

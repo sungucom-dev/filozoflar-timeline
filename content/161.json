@@ -1,0 +1,79 @@
+{
+  "subtitle": "Serbest Denizler ve Savaşın Hukuku (1583–1645)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Mare Liberum (Özgür Denizler)",
+      "body": "Grotius'un uluslararası arenada ilk büyük çıkışı, denizlerin mülkiyeti tartışmasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Deniz Herkesindir",
+          "text": "Portekiz ve İspanya'nın okyanusları kendi \"mülkü\" gibi görmesine karşı çıkmıştır. Ona göre denizler, doğası gereği işgal edilemez ve mülk edinilemez; bu yüzden tüm ulusların ticaretine ve seyrüseferine açık olmalıdır."
+        },
+        {
+          "label": "Modern Etki",
+          "text": "Bu eser, bugünkü \"Uluslararası Deniz Hukuku\"nun en temel taşıdır."
+        }
+      ]
+    },
+    {
+      "title": "De Jure Belli ac Pacis (Savaş ve Barış Hukuku Üzerine)",
+      "body": "1625'te yayımlanan bu başyapıt, devletler arasındaki ilişkilerin ilk kapsamlı \"anayasası\" gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Savaşın da Kuralları Vardır",
+          "text": "Grotius savaşın tamamen yok edilemeyeceğini biliyordu; ancak savaşı hukuki bir çerçeveye oturtmaya çalıştı. Hangi nedenlerin savaşı \"haklı\" kılacağını ve savaş sırasında hangi sınırların (sivillerin korunması vb.) aşılamayacağını tanımladı."
+        },
+        {
+          "label": "Adil Savaş",
+          "text": "Salamanca Okulu'ndan (Vitoria) aldığı mirası modern, seküler bir hukuk sistemine dönüştürdü."
+        }
+      ]
+    },
+    {
+      "title": "\"Etiamsi Daremus\": Doğal Hukukun Sekülerleşmesi",
+      "body": "Grotius'un felsefe tarihindeki en cesur ve devrimci hamlesi budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrı Olmasa Bile",
+          "text": "Şöyle demiştir: \"Tanrı'nın var olmadığını veya insan işleriyle ilgilenmediğini kabul etsek bile (etiamsi daremus non esse Deum), bu hukuk ilkeleri yine de geçerli olurdu.\""
+        },
+        {
+          "label": "Rasyonel Temel",
+          "text": "Hukuku dini dogmalardan koparıp, doğrudan \"insan doğası\"na ve \"akla\" dayandırmıştır. Bu, modern laik hukuk anlayışının doğuş anıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Küresel Düzenin Kurucusu",
+      "text": "Devletlerin üzerinde hiçbir üst otorite yokken bile (anarşi durumunda), ortak bir hukuk zemininde buluşabileceklerini göstererek bugünkü uluslararası kurumların (BM, Lahey vb.) yolunu açmıştır."
+    },
+    {
+      "title": "Akılcılık",
+      "text": "Hukuku teolojik bir tartışma olmaktan çıkarıp, rasyonel ve matematiksel bir kesinlikle kurgulamıştır."
+    },
+    {
+      "title": "Barış Tutkusu",
+      "text": "Otuz Yıl Savaşları'nın yıkımını bizzat görmüş bir dahi olarak, insanlığın hayatta kalmasının tek yolunun \"kurallara dayalı bir düzen\" olduğunu savunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hollanda Çıkarları",
+      "text": "\"Özgür Denizler\" teorisi, o dönem yükselen Hollanda Doğu Hindistan Şirketi'nin ticaret yollarını açmak için geliştirilmiş adrese teslim bir teoridir. Yani felsefesi, bazen sömürgeci çıkarlara hizmet etmiştir."
+    },
+    {
+      "title": "Kölelik Çelişkisi",
+      "text": "İnsan haklarından bahsetmesine rağmen, bazı durumlarda (savaş esirliği vb.) köleliği hukuken savunulabilir görmesi, onun modern standartlardaki en büyük çelişkisidir."
+    },
+    {
+      "title": "Uygulama Zorluğu",
+      "text": "Teorileri harikadır ancak \"devletlerin üstünde bir polis gücü\" olmadığı sürece, bu kuralların sadece birer \"temenni\" olarak kalma riski her zaman mevcuttur."
+    }
+  ]
+}

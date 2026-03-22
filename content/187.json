@@ -1,0 +1,77 @@
+{
+  "subtitle": "Ateş, Hareket ve \"Principia\" (1706–1749)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Newton'un Elçisi: Principia Çevirisi",
+      "body": "Émilie'nin bilim dünyasına en büyük ve kalıcı mirası, Isaac Newton'un dev eseri Philosophiae Naturalis Principia Mathematica'yı Latince'den Fransızca'ya çevirmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sadece Bir Çeviri Değil",
+          "text": "O, Newton'un karmaşık geometrik kanıtlarını modern kalkülüs (Leibniz'in yöntemi) diline dökmüş ve esere devasa bir şerh (açıklama) eklemiştir. Bugün Fransa'da hala onun çevirisi standart kabul edilir."
+        },
+        {
+          "label": "Yayılma",
+          "text": "Newton fiziğinin Avrupa ana karasında Descartesçı fiziği yenmesini sağlayan asıl güç, Émilie'nin bu titiz çalışmasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Enerji Tartışması: mv mi, mv² mi?",
+      "body": "O dönemde hareketli bir cismin \"kuvveti\" (enerjisi) üzerine büyük bir tartışma vardı. Newtoncular bunun kütle çarpı hız (mv) olduğunu savunurken, Leibnizciler kütle çarpı hızın karesi (mv²) olduğunu söylüyordu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Deneyci Yaklaşım",
+          "text": "Émilie, Hollandalı fizikçi 's Gravesande'in deneylerini analiz ederek Leibniz'in haklı olduğunu (kinetik enerjinin hızın karesiyle orantılı olduğunu) kanıtladı. Bu, yüzyıllar sonra Einstein'ın E=mc² formülüne giden yolun ilk taşlarından biridir."
+        }
+      ]
+    },
+    {
+      "title": "Institutions de Physique (Fiziğin Kurumları)",
+      "body": "1740'ta yayımlanan bu eserinde, dönemin iki dev rakibi olan Newton ve Leibniz'i uzlaştırmaya çalıştı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Metafizik Temel",
+          "text": "Newton'un \"nedenini açıklayamadığı\" yerçekimi gibi kuvvetlere, Leibniz'in \"Yeter-Sebep İlkesi\" ile felsefi bir zemin aradı. Ona göre bilim, sağlam bir metafizik temel olmadan eksik kalırdı."
+        }
+      ]
+    },
+    {
+      "title": "Ateş ve Işığın Doğası Üzerine",
+      "body": "Fransız Bilimler Akademisi'nin ateşin doğası üzerine açtığı yarışmaya katılan ilk kadındır. Yazısında, ışığın ve ısının aynı tözden geldiğini ve ışığın bir kütlesi olabileceğini öngörerek modern kızılötesi radyasyon kavramına göz kırpmıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Analitik Derinlik",
+      "text": "Karmaşık matematiksel teorileri sadeleştirme ve uygulama konusundaki dehası, Aydınlanma biliminin dilini oluşturmuştur."
+    },
+    {
+      "title": "Kadınların Bilimdeki Yeri",
+      "text": "Bilimin sadece erkeklerin tekelinde olmadığını, en ağır fizik problemlerini çözerek bizzat kanıtlamıştır."
+    },
+    {
+      "title": "Cesaret",
+      "text": "Döneminin otoriter bilim çevrelerine karşı kendi özgün fikirlerini savunmaktan çekinmemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Voltaire Gölgesi",
+      "text": "Tarih boyunca uzun süre sadece \"Voltaire'in sevgilisi\" olarak anılmış, özgün bilimsel katkıları ancak 20. yüzyılın sonunda tam anlamıyla keşfedilmiştir."
+    },
+    {
+      "title": "Sınıfsal Sınırlar",
+      "text": "Başarısı, asil bir aileden gelmesi ve muazzam bir kütüphaneye, özel hocalara erişebilmesiyle mümkün olmuştur; bu da onun dehasını biraz \"saraylı\" bir çerçeveye hapseder."
+    },
+    {
+      "title": "Erken Kayıp",
+      "text": "42 yaşında doğum yaparken ölmesi, bilim dünyası için en verimli çağında büyük bir potansiyelin yok olması anlamına gelmiştir."
+    }
+  ]
+}

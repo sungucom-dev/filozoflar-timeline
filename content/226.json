@@ -1,0 +1,94 @@
+{
+  "subtitle": "Özgürlük, Fayda ve Gelişim (1806–1873)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Nitelikli Faydacılık: \"Mutsuz bir Sokrates mi, Mutlu bir Domuz mu?\"",
+      "body": "Mill, Bentham'ın \"tüm hazlar eşittir\" fikrine şiddetle karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yüksek ve Alçak Hazlar",
+          "text": "Zihinsel, estetik ve ahlaki hazlar; bedensel hazlardan niteliksel olarak üstündür."
+        },
+        {
+          "label": "Meşhur Aforizma",
+          "text": "\"Mutsuz bir insan olmak, mutlu bir domuz olmaktan; mutsuz bir Sokrates olmak, mutlu bir budala olmaktan iyidir.\""
+        }
+      ]
+    },
+    {
+      "title": "Özgürlük Üstüne (On Liberty) ve Zarar İlkesi",
+      "body": "Mill'in siyaset felsefesindeki en büyük mirası, bireysel özgürlüğün sınırlarını çizdiği \"Zarar İlkesi\"dir (Harm Principle).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tek Meşru Müdahale",
+          "text": "Devlet veya toplum, bir bireyin özgürlüğüne ancak o birey başkalarına zarar veriyorsa müdahale edebilir. Bireyin kendi iyiliği (fiziksel veya ahlaki), onun özgürlüğünü kısıtlamak için yeterli bir sebep değildir."
+        },
+        {
+          "label": "Çoğunluğun Tiranlığı",
+          "text": "Mill, sadece devletten değil, toplumun \"gelenek ve görenek\" baskısından da korkar. Aykırı fikirler, toplumun gelişimi için hayati önemdedir."
+        }
+      ]
+    },
+    {
+      "title": "Kadınların Köleleştirilmesi (The Subjection of Women)",
+      "body": "Harriet Taylor Mill ile birlikte olgunlaştırdığı bu eser, liberalizmin o dönemdeki en radikal uygulamasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fırsat Eşitliği",
+          "text": "Kadınların toplumsal hayattan dışlanmasının sadece kadınlara değil, tüm insanlığa yapılmış bir \"beyin israfı\" olduğunu savunur."
+        },
+        {
+          "label": "Yasal Reform",
+          "text": "Kadınların oy hakkı, mülkiyet hakkı ve eğitim hakkı için parlamentoda fiilen savaşan ilk büyük erkek filozoftur."
+        }
+      ]
+    },
+    {
+      "title": "Temsili Hükümet ve Eğitim",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yetkinlik",
+          "text": "Demokrasiyi savunsa da, \"bilgisiz çoğunluğun\" yönetimi ele geçirmesinden çekinmiştir. Bu yüzden eğitimli bireylerin oylarının daha ağırlıklı olduğu bir model önermiştir."
+        },
+        {
+          "label": "Kendi Kendini İnşa",
+          "text": "Mill için hayatın amacı sadece \"mutlu olmak\" değil, bireyin kendi karakterini bir sanat eseri gibi özgürce geliştirmesidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Liberalizmin Vicdanı",
+      "text": "Özgürlüğü sadece ekonomik bir hak olmaktan çıkarıp, bireysel gelişim ve kendini gerçekleştirme meselesine dönüştürmüştür."
+    },
+    {
+      "title": "Esneklik",
+      "text": "Katı faydacılığı (Bentham) ve katı laissez-faire ekonomisini yumuşatarak, sosyal adalete ve işçi haklarına (kooperatifçilik gibi) kapı açmıştır."
+    },
+    {
+      "title": "Mantık ve Bilim",
+      "text": "Mantık Sistemi adlı eseriyle tümevarım yöntemini bilimsel bir zemine oturtmuş, modern bilimsel metodolojinin temellerine katkı sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Paternalizm ve Sömürgecilik",
+      "text": "Hindistan Ofisi'nde çalışmış olması ve \"geri kalmış\" toplumların ancak \"aydınlanmış bir despotizm\" ile yönetilebileceğini savunması, evrensel özgürlükçü imajıyla ciddi bir çelişki oluşturur."
+    },
+    {
+      "title": "Ölçme Problemi",
+      "text": "Hazları \"niteliksel\" olarak ayırması dâhiyane olsa da, bu hazların nasıl ölçüleceği ve kimin hangi hazzın daha üstün olduğuna karar vereceği konusunda boşluklar barındırır."
+    },
+    {
+      "title": "İyimserlik",
+      "text": "İnsanların rasyonel bir tartışma ortamında her zaman \"doğruyu\" bulacağına dair beslediği iyimserlik, irrasyonel kitle hareketleri karşısında bazen naif kalabilir."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Kuşku, Sözlük ve Vicdanın Mutlaklığı (1647–1706)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Dictionnaire Historique et Critique (Tarihsel ve Eleştirel Sözlük)",
+      "body": "Bayle'in 1697'de yayımlanan bu dev eseri, modern ansiklopediciliğin atasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dipnotların Gücü",
+          "text": "Bayle, maddelerin içine zararsız bilgiler koyarken, asıl yıkıcı eleştirilerini devasa dipnotlara saklamıştır. Okur, bir peygamberin hayatını okurken dipnotta o anlatının mantıksal çelişkileriyle yüzleşir."
+        },
+        {
+          "label": "Hataların Sergisi",
+          "text": "Sözlük, \"hakikatten\" ziyade insanların düştüğü \"hataların\" bir dökümüdür. Bayle'e göre tarih, insanlığın saçmalıklarının bir geçididir."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Şüphecilik ve Akıl-İman Ayrımı",
+      "body": "Bayle, aklın dini dogmaları kanıtlayamayacağını, aksine onları darmadağın ettiğini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zayıf Akıl",
+          "text": "Akıl, hataları bulmakta ustadır ama hakikati inşa etmekte acizdir. Bu yüzden din, akıl üstü (veya akıl dışı) bir alandır."
+        },
+        {
+          "label": "Felsefi Fırtına",
+          "text": "Kötülük problemini (Tanrı iyiyse neden kötülük var?) o kadar sert işlemiştir ki, Leibniz bu eleştirilere cevap vermek için meşhur \"Teodise\"sini yazmak zorunda kalmıştır."
+        }
+      ]
+    },
+    {
+      "title": "\"Erdemli Ateist\" Paradoksu",
+      "body": "Dönemi için atom bombası etkisi yaratan en radikal fikri budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ahlak ve İnanç",
+          "text": "Bayle, bir insanın ahlaklı olması için dindar olması gerekmediğini savunur. \"Ateistlerden oluşan bir toplum, pekala barışçıl ve erdemli olabilir\" diyerek, ahlakın kaynağını ilahi emirlerden çıkarıp insani vicdana indirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Mutlak Hoşgörü ve \"Hatalı Vicdan\"",
+      "body": "Bayle, zorlamanın imkansızlığını şöyle gerekçelendirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zorlamaya Hayır",
+          "text": "İnancın bir akıl yürütme değil, bir \"ikna\" meselesi olduğunu söyler. Kimse bir başkasını (hatta yanlış bir şeye inansa bile) zorla doğru yola sokamaz."
+        },
+        {
+          "label": "Hatalı Vicdan",
+          "text": "Eğer bir kişi samimiyetle yanlış bir şeye inanıyorsa, onun vicdanı o an için onun hakikatidir ve devletin veya kilisenin buna müdahale hakkı yoktur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Aydınlanma'nın Kaynağı",
+      "text": "Ansiklopedistlerin ve Fransız devrimcilerinin düşünsel temelini atmıştır. Eleştirel düşünceyi bir yöntem haline getirmiştir."
+    },
+    {
+      "title": "Laikliğin Temeli",
+      "text": "Din ve devlet işlerini, vicdan özgürlüğü temelinde kesin olarak ayırmanın felsefi gerekçelerini sunmuştur."
+    },
+    {
+      "title": "Enformasyon Devrimi",
+      "text": "Bilginin sadece kabul edilmesini değil, kaynaklarının ve doğruluğunun sorgulanması gerektiğini (tarih eleştirisi) öğretmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yıkıcı Ama İnşa Etmeyen",
+      "text": "Bayle her şeyi eleştirir ama yerine yeni bir şey koymaz. Onun şüpheciliği, insanı bir tür \"zihinsel felce\" sürükleyebilir."
+    },
+    {
+      "title": "Gizli Niyetler",
+      "text": "Yazılarındaki ironi ve karmaşıklık, onun gerçekten neye inandığını anlamayı imkansız kılar. Bazıları onu gizli bir ateist, bazıları ise imanı korumak için aklı feda eden bir \"fidéist\" (imancı) olarak görür."
+    },
+    {
+      "title": "Kaotik Yapı",
+      "text": "Eserleri (özellikle sözlüğü) daldan dala atlayan, sistematik bir bütünlükten yoksun bir yapıdadır; bu da tutarlı bir dünya görüşü kurmayı zorlaştırır."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "subtitle": "Ben, Karşı-Ben ve Mutluluk (1762–1814)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bilim Öğretisi (Wissenschaftslehre)",
+      "body": "Fichte'nin tüm felsefesinin kalbi buradadır. O, felsefeyi her türlü şüphenin ötesinde, sarsılmaz tek bir temel üzerine oturtmak istemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutlak Ben (Das Ich)",
+          "text": "Fichte'ye göre başlangıçta sadece \"Ben\" vardır. Ama bu \"Ben\", sizin veya benim bireysel psikolojik benliğimiz değil; evrensel ve aktif bir \"Saf Bilinç\"tir."
+        },
+        {
+          "label": "Eylem Olarak Varoluş",
+          "text": "\"Ben\" durağan bir şey değildir, bir eylemdir. \"Ben\" kendi üzerine düşünerek kendini var eder (Tez). Ancak kendini tam olarak tanıyabilmek için karşısına bir engel, bir \"Ben-Olmayan\" (Doğa/Dünya) koyar (Antitez). Sonuçta \"Ben\", bu engeli aşarak ve onu kendi ahlaki amaçları için şekillendirmeyi öğrenerek gerçek özgürlüğüne kavuşur (Sentez)."
+        }
+      ]
+    },
+    {
+      "title": "Özgürlük ve Ahlak",
+      "body": "Fichte için \"düşünmek\" eylemden sonra gelir. Önemli olan \"bilmek\" değil, \"yapmak\"tır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vicdanın Sesi",
+          "text": "Ahlak, Ben'in kendi özgürlüğünü gerçekleştirmesidir. Dış dünya sadece bizim ahlaki ödevlerimizi yerine getirebileceğimiz bir \"antrenman sahası\"dır."
+        },
+        {
+          "label": "Radikal Özerklik",
+          "text": "İnsan tamamen özgür olmalıdır; çünkü insan, kendi dünyasını bizzat kendi bilinciyle kuran bir varlıktır."
+        }
+      ]
+    },
+    {
+      "title": "Alman Milletine Söylevler",
+      "body": "Napolyon'un işgali altındaki Berlin'de verdiği bu dersler, modern milliyetçiliğin en temel metinlerinden biri kabul edilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kültürel Diriliş",
+          "text": "Alman halkını, Fransız etkisinden kurtulup kendi özgün dillerine ve kültürlerine (Herder'in izinde) dönmeye çağırmıştır."
+        },
+        {
+          "label": "Eğitim Devrimi",
+          "text": "Milletin kurtuluşunun, bireyleri \"toplumsal bir bütünün parçası\" olarak yetiştiren yeni bir eğitim sistemiyle mümkün olacağını savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Ateizm Tartışması (Atheismusstreit)",
+      "body": "Fichte, Tanrı'yı kişisel bir varlık olarak değil, dünyadaki \"Ahlaki Düzen\" olarak tanımladığı için Jena Üniversitesi'ndeki görevinden istifa etmek zorunda kalmıştır. Onun için kutsal olan, aklın ve vicdanın o sarsılmaz işleyişidir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Diyalektiğin Mimarı",
+      "text": "Tez-Antitez-Sentez üçlemesini (Hegel ile meşhur olsa da) ilk kez sistemli bir şekilde kullanan ve Hegel'in o devasa sistemine giden yolu açan kişidir."
+    },
+    {
+      "title": "Aktif Özne",
+      "text": "İnsanı dış dünyanın pasif bir kurbanı olmaktan çıkarıp, kendi gerçekliğini inşa eden \"yaratıcı bir aktör\" konumuna yükseltmiştir."
+    },
+    {
+      "title": "Hukuk ve Hak Kuramı",
+      "text": "Mülkiyet ve hak kavramlarını, bireylerin birbirlerinin özgürlüğünü tanıma zorunluluğu üzerine kurarak modern hukuk felsefesine katkı sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Solipsizm Riski",
+      "text": "Dünyayı ve doğayı sadece \"Ben\"in bir yansıması veya engeli olarak görmesi, dış gerçekliğin nesnel değerini küçümsemesine yol açabilir."
+    },
+    {
+      "title": "Siyasi Milliyetçiliğin Tehlikesi",
+      "text": "Kültürel birliği savunurken kullandığı ateşli dil, daha sonraki yüzyıllarda Alman üstünlükçülüğü ve dışlayıcı milliyetçilikler tarafından suistimal edilmeye açık bir zemin bırakmıştır."
+    },
+    {
+      "title": "Anlaşılmazlık",
+      "text": "Kant'tan bile daha ağır ve karmaşık bir üslup kullanması, fikirlerinin bazen mistik bir sis perdesi arkasında kalmasına neden olmuştur."
+    }
+  ]
+}

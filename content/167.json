@@ -1,0 +1,83 @@
+{
+  "subtitle": "Zekâ, İhtiyat ve Dünyevi Bilgelik (1601–1658)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Agudeza (Keskin Zekâ): Düşüncenin Kılıcı",
+      "body": "Gracián için zekâ sadece bir araç değil, bir estetik ve bir güç biçimidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kavramcılık (Conceptismo)",
+          "text": "Az sözle çok şey anlatma sanatıdır. Gracián'a göre bir düşünce ne kadar yoğun ve özlü ise o kadar değerlidir."
+        },
+        {
+          "label": "Bağlantı Kurma",
+          "text": "Zekâ, birbiriyle ilgisiz görünen şeyler arasındaki gizli uyumu veya zıtlığı aniden görebilme yeteneğidir."
+        }
+      ]
+    },
+    {
+      "title": "Oráculo Manual: Dünyevi Bilgelik El Kitabı",
+      "body": "En ünlü eseri, hayatta başarılı olmak ve rakipler arasından sıyrılmak için yazılmış 300 aforizmadan oluşur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gizem ve Diskrepsiyon",
+          "text": "\"Herkesin sizi tam olarak anlamasına izin vermeyin.\" Ona göre bir miktar gizem, saygıyı ve hayranlığı besler."
+        },
+        {
+          "label": "Zamanlama",
+          "text": "\"Her şeyin bir mevsimi vardır.\" Haklı olmak yetmez, haklılığı ne zaman ve nasıl göstereceğiniz başarınızı belirler."
+        },
+        {
+          "label": "Maske ve Gerçeklik",
+          "text": "İnsanların göründüğü gibi olmadığını bilir ve \"görünme sanatını\" (ostentación) bir silah olarak kullanmayı öğretir."
+        }
+      ]
+    },
+    {
+      "title": "El Criticón: Hayatın Üç Çağı",
+      "body": "Bu devasa alegorik romanında, insan hayatını bir yolculuk olarak tasvir eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Desengaño (Uyanış/Hayal Kırıklığı)",
+          "text": "Hayatın başında her şey parlaktır; ancak gerçek bilgelik, dünyanın sahteliğini görüp \"uyanmakla\" (desengaño) başlar."
+        },
+        {
+          "label": "Doğa vs. Kültür",
+          "text": "İnsan doğuştan bir \"vahşi\"dir; ancak eğitim, sanat ve bilgelik sayesinde \"kişi\" (persona) haline gelir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojik Realizm",
+      "text": "İnsan doğasının karanlık ve bencil yönlerini maskelemeden, olduğu gibi kabul ederek en dürüst analizleri yapmıştır."
+    },
+    {
+      "title": "Aforizma Sanatı",
+      "text": "Nietzsche ve Schopenhauer gibi devleri derinden etkilemiştir. Schopenhauer, onun eserini \"hayat boyu yanınızdan ayırmamanız gereken bir rehber\" olarak tanımlamıştır."
+    },
+    {
+      "title": "Pratik Etik",
+      "text": "Felsefeyi havada asılı duran ideallerden çekip almış; onu sokakta, sarayda ve iş hayatında uygulanabilir bir stratejiye dönüştürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kötümserlik",
+      "text": "Dünyayı o kadar çok \"kurtlar sofrası\" ve \"aldatmacalar sahnesi\" olarak görür ki; güven, sevgi ve karşılıksız iyilik gibi kavramlar onun sisteminde neredeyse imkansız hale gelir."
+    },
+    {
+      "title": "Elitizm",
+      "text": "Bilgeliğin sadece \"seçkin ve zeki\" azınlığa mahsus olduğunu savunur; bu da felsefesini kitlesel bir kurtuluştan ziyade, bireysel bir \"zafer yolu\" yapar."
+    },
+    {
+      "title": "Yanıltıcılık Riski",
+      "text": "Öğütleri bazen kurnazlık ile dürüstlük arasındaki o ince çizgiyi o kadar çok zorlar ki, takipçilerini manipülatif birer \"makyaveliste\" dönüştürebilir."
+    }
+  ]
+}

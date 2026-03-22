@@ -1,0 +1,79 @@
+{
+  "subtitle": "Atomlar, Duyular ve \"Etin\" Savunması (1592–1655)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Epikürcü Atomculuğun Dönüşü",
+      "body": "Orta Çağ boyunca atomculuk, \"Tanrı'yı dışladığı\" gerekçesiyle reddedilmişti. Gassendi bu algıyı yıktı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrısal Mimari",
+          "text": "Evrenin en küçük parçacıklardan (atomlardan) oluştuğunu savundu ancak bu atomların Tanrı tarafından yaratıldığını ve bir düzene sokulduğunu ekledi."
+        },
+        {
+          "label": "Boşluk (Vakum)",
+          "text": "Aristotelesçi \"doğa boşluktan nefret eder\" anlayışına karşı çıkarak, atomların hareket edebilmesi için mutlak bir boşluğun var olması gerektiğini kanıtlamaya çalıştı."
+        }
+      ]
+    },
+    {
+      "title": "\"Ey Et!\" (O Caro!): Descartes ile Büyük Kapışma",
+      "body": "Gassendi, Descartes'ın Meditasyonlar'ına yazdığı itirazlarla meşhurdur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bedenin Reddi İmkansızdır",
+          "text": "Descartes'ın \"Düşünüyorum, öyleyse varım\" diyerek ruhu bedenden tamamen ayırmasına şiddetle karşı çıktı. Descartes ona \"Ey Zihin!\" diye hitap ettiğinde, Gassendi ona \"Ey Et!\" diye karşılık vererek, insanın biyolojik ve fiziksel varlığının düşünceden ayrılamayacağını savundu."
+        },
+        {
+          "label": "Duyuların Önceliği",
+          "text": "Zihinde olan her şeyin önce duyularda olması gerektiğini (Ampirizm) savunarak, Descartes'ın \"doğuştan gelen fikirler\" teorisini sarstı."
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel Gözlemci: Merkür ve Ses Hızı",
+      "body": "Gassendi sadece bir felsefeci değil, aynı zamanda titiz bir gözlemciydi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Merkür Geçişi",
+          "text": "1631'de Merkür'ün Güneş'in önünden geçişini gözlemleyen ve Kepler'in tahminlerini doğrulayan ilk kişidir."
+        },
+        {
+          "label": "Ses Hızı",
+          "text": "Sesin hızını ölçmeye çalışmış ve ses hızının perdeden (frekanstan) bağımsız olduğunu fark etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Atomik Teorinin Meşrulaşması",
+      "text": "Maddenin parçacıklı yapısını savunarak Kimya ve Fizik bilimlerinin Skolastik etkiden kurtulmasını sağlamıştır."
+    },
+    {
+      "title": "Ilımlı Şüphecilik",
+      "text": "Ne \"hiçbir şey bilinemez\" diyen radikal şüphecilere ne de \"her şeyi kesin bilirim\" diyen rasyonalistlere katılmıştır; \"deneyle doğrulanabilir bilgi\"nin peşinden gitmiştir."
+    },
+    {
+      "title": "Hümanist Yaklaşım",
+      "text": "Antik Yunan ahlakını (Epikürcülüğü) acıdan kaçınma ve huzur arayışı olarak yeniden yorumlayarak seküler bir etik anlayışına kapı açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistem Eksikliği",
+      "text": "Descartes gibi her şeyi kapsayan, kaskatı bir sistem kuramamıştır; fikirleri daha çok eleştiri ve gözlem odaklı kalmıştır."
+    },
+    {
+      "title": "Uzlaştırmacı Tavır",
+      "text": "Atomculuğu Hristiyanlıkla birleştirme çabası, bazen felsefi tutarlılığından ödün vermesine veya teolojik açıklamalara sığınmasına neden olmuştur."
+    },
+    {
+      "title": "Etki Alanı",
+      "text": "Newton ve Locke üzerinde devasa bir etkisi olsa da, tarih kitaplarında çoğu zaman rakiplerinin (Descartes ve Hobbes) gölgesinde kalmıştır."
+    }
+  ]
+}

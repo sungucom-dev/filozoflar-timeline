@@ -1,0 +1,81 @@
+{
+  "subtitle": "Ansiklopedi ve Canlı Madde (1713–1784)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Encyclopédie: Bilginin İhtilali",
+      "body": "Diderot ve d'Alembert öncülüğünde hazırlanan 28 ciltlik bu devasa eser, Aydınlanma'nın \"İncil\"idir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zanaatın Onuru",
+          "text": "Diderot, sadece soyut felsefeyi değil; matbaacılıktan dokumacılığa kadar tüm teknik sanatları (mekanik sanatlar) ansiklopediye dahil etmiştir. Bilginin el emeğiyle birleşmesini kutsamıştır."
+        },
+        {
+          "label": "Sistemli Eleştiri",
+          "text": "Kilisenin ve sarayın tepkisini çekmemek için bazı maddeleri \"zararsız\" yazmış, ancak okuru başka bir maddeye yönlendirerek (çapraz referans) dogmaları zekice çürütmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Duyarlı Madde: D'Alembert'in Rüyası",
+      "body": "La Mettrie'nin \"insan-makine\" fikrini daha organik ve dinamik bir noktaya taşımıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Canlı Evren",
+          "text": "Diderot'ya göre madde ölü değildir; her zerrede bir \"duyarlılık\" (sensibilité) vardır. Bir yumurta nasıl canlı bir civciv oluyorsa, madde de uygun organizasyonla bilince dönüşebilir."
+        },
+        {
+          "label": "Süreklilik",
+          "text": "Evren sabit bir yaratım değil, sürekli bir oluş ve bozuluş halindeki büyük bir organizmadır."
+        }
+      ]
+    },
+    {
+      "title": "İkiyüzlülüğün Anatomisi: Rameau'nun Yeğeni",
+      "body": "Bu eserinde toplumun ahlaki çürümesini ve parazitliğini deşifre eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Diyalog",
+          "text": "Toplumun \"saygın\" değerleri ile sokaktaki \"bohem\" gerçeklik arasındaki çatışmayı anlatır. Diderot, insanın içindeki o karanlık ve dürüst olmayan sesleri konuşturarak ahlakın ne kadar kırılgan olduğunu göstermiştir."
+        }
+      ]
+    },
+    {
+      "title": "Sanat Eleştirmenliğinin Doğuşu: Salonlar",
+      "body": "Diderot, Louvre'daki sergileri eleştirerek modern sanat eleştirmenliğini başlatmıştır. Resimlerin sadece \"ne\" anlattığına değil, ruhumuzda hangi \"duyguları\" uyandırdığına odaklanmıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilginin Demokratikleşmesi",
+      "text": "Ansiklopedi aracılığıyla bilginin tek bir zümrenin elinden çıkıp tüm topluma yayılmasını sağlamıştır."
+    },
+    {
+      "title": "Modern Roman ve Sanat",
+      "text": "Roman tekniğiyle (örneğin Kaderci Jacques) ve sanat eleştirileriyle estetiği bambaşka bir boyuta taşımıştır."
+    },
+    {
+      "title": "Cesaret ve Sadakat",
+      "text": "Hapis yatsa da, tüm baskılara ve sansüre rağmen Ansiklopedi projesini 25 yıl boyunca bırakmamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Felsefi Belirsizlik",
+      "text": "Diderot tek bir sistemin adamı değildir; bir gün deist, ertesi gün ateist, başka bir gün panteist gibi görünebilir. Bu \"akışkanlık\" bazen fikirlerinin netleşmesini zorlaştırır."
+    },
+    {
+      "title": "Duygusallığın Kurbanı",
+      "text": "Yazılarında bazen mantıktan çok duygularına ve coşkularına teslim olur, bu da akademik ciddiyetini bazı çevrelerde gölgeleyebilir."
+    },
+    {
+      "title": "Kraliçeye Bağımlılık",
+      "text": "Rus Çariçesi Büyük Katerina ile olan yakın dostluğu ve ondan aldığı maddi destek, \"özgür düşünür\" kimliği ile \"saray danışmanı\" rolü arasında bir tezat yaratmıştır."
+    }
+  ]
+}

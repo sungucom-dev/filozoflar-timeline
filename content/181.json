@@ -1,0 +1,79 @@
+{
+  "subtitle": "Sistem, Mantık ve Ortak Fayda (1679–1754)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Leibniz-Wolff Sistemi: Dağınıklıktan Düzene",
+      "body": "Leibniz fikirlerini mektuplara ve kısa makalelere serpiştirmişti. Wolff ise bu fikirleri devasa bir ansiklopedik yapıya kavuşturdu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Matematiksel Yöntem",
+          "text": "Felsefenin de matematik kadar kesin olması gerektiğini savundu. Her kavram tanımlanmalı, her yargı bir kanıta dayanmalıydı."
+        },
+        {
+          "label": "Yeter-Sebep İlkesi",
+          "text": "Evrendeki her şeyin neden öyle olduğuna dair bir \"yeter-sebep\" vardır. Bu rasyonalizm, her türlü gizemi ve mucizeyi mantık süzgecinden geçirmeye çalışır."
+        }
+      ]
+    },
+    {
+      "title": "Felsefenin Almancalaşması",
+      "body": "Wolff'un en büyük devrimlerinden biri, felsefeyi sadece Latince bilen seçkinlerin elinden alıp halka indirmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Terminoloji",
+          "text": "Bugün Almancada kullanılan pek çok felsefi terimi (bilinç, dikkat, kendinde olan gibi) o icat etti veya sistemleştirdi."
+        },
+        {
+          "label": "Halkın Aydınlanması",
+          "text": "Felsefe sadece profesörler için değil, devlet adamları ve sıradan vatandaşlar için de \"mutluluğa giden yol\" olmalıydı."
+        }
+      ]
+    },
+    {
+      "title": "Pratik Felsefe ve \"Mükemmellik\"",
+      "body": "Wolff'a göre ahlakın ve siyasetin amacı \"Mükemmellik\"tir (Vollkommenheit).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Görev ve Refah",
+          "text": "İnsanın görevi, hem kendisini hem de başkalarını daha mükemmel hale getirmektir."
+        },
+        {
+          "label": "Aydınlanmış Mutlakiyet",
+          "text": "Devletin görevi, vatandaşlarının maddi ve manevi refahını (sağlık, eğitim, ahlak) sağlamaktır. Bu fikir, Büyük Friedrich gibi hükümdarların \"halkın ilk hizmetkarı\" olma vizyonunu şekillendirmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Akademik Disiplin",
+      "text": "Alman üniversite sistemini rasyonel bir temele oturtmuş, felsefeyi ciddi ve sistemli bir bilim haline getirmiştir."
+    },
+    {
+      "title": "Düşünce Özgürlüğü",
+      "text": "\"Çinlilerin Ahlakı Üzerine\" verdiği bir konferansta, vahiy olmadan da (sadece akılla) ahlaklı olunabileceğini savunduğu için sürgün edilmiş, ancak bu duruşuyla akademik özgürlüğün sembolü olmuştur."
+    },
+    {
+      "title": "Hukuk ve Siyaset",
+      "text": "Modern hukuk devletinin (Rechtsstaat) ve refah devletinin ilk teorik temellerini atmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dogmatizm",
+      "text": "Her şeyi mantıksal tanımlara sığdırmaya çalışması, deneyin ve yaratıcılığın alanını daraltmıştır. (Kant bu yüzden onu \"dogmatizmin en büyük temsilcisi\" olarak eleştirir)."
+    },
+    {
+      "title": "Pedantik Üslup",
+      "text": "Eserleri o kadar ayrıntılı ve \"tanım-kanıt-sonuç\" düzenindedir ki, okuması bazen ruhsuz bir matematik kitabı kadar yorucu olabilir."
+    },
+    {
+      "title": "Aşırı İyimserlik",
+      "text": "Tıpkı Leibniz gibi, her şeyin rasyonel bir açıklamasının olduğunu ve dünyanın sürekli mükemmelleştiğini savunması, hayatın kaotik ve trajik yanlarını görmezden gelmesine neden olmuştur."
+    }
+  ]
+}

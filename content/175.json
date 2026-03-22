@@ -1,0 +1,79 @@
+{
+  "subtitle": "Bilginin Sınır Tanımayan Dehası (1646–1684)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Yedi Dilin Mucizesi\" (Oraculum Septilingue)",
+      "body": "Elena, çocukluğundan itibaren olağanüstü bir dil yeteneği sergilemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Poliglot Bir Zekâ",
+          "text": "Latince ve Yunancada ustalaşmanın yanı sıra İbranice, İspanyolca, Fransızca ve Arapçayı mükemmel düzeyde konuşabiliyordu."
+        },
+        {
+          "label": "Klasik Eğitim",
+          "text": "Aristoteles felsefesi, teoloji, matematik ve astronomi alanlarında dönemin en büyük hocalarından dersler aldı. Aynı zamanda yetenekli bir müzisyen ve besteciydi."
+        }
+      ]
+    },
+    {
+      "title": "Teolojiden Felsefeye: Akademik Direniş",
+      "body": "Elena aslında teoloji (ilahiyat) alanında doktora yapmak istemişti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kilise Engeli",
+          "text": "Dönemin Kilise otoriteleri, \"bir kadının teoloji öğretmesinin sessiz kalma emrine aykırı olduğu\" gerekçesiyle buna şiddetle karşı çıktı."
+        },
+        {
+          "label": "Uzlaşma",
+          "text": "Uzun tartışmalar sonunda, Elena'nın Felsefe alanında doktora yapmasına izin verildi. Bu, kadınların entelektüel kapasitesinin resmen tanınması yolundaki ilk büyük hukuki ve akademik zaferdir."
+        }
+      ]
+    },
+    {
+      "title": "25 Haziran 1678: Tarihi Savunma",
+      "body": "Doktora savunması o kadar büyük bir ilgi gördü ki, üniversite binası kalabalığı almadığı için tören Padova Katedrali'ne taşındı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aristoteles Analizi",
+          "text": "Elena, Aristoteles'in zor metinlerini rastgele seçilen pasajlar üzerinden o kadar derinlemesine analiz etti ki, jüri hayranlık içinde kaldı."
+        },
+        {
+          "label": "Defne Tacı ve Yüzük",
+          "text": "Savunmanın ardından ona felsefe doktoru unvanı, kafasına defne tacı, parmağına yüzük ve omuzlarına ermin kürkü takılarak verildi."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Cam Tavanın Kırılması",
+      "text": "Yüzyıllardır süren \"kadınlar felsefe yapamaz\" ön yargısını akademik bir tescille yerle bir etmiştir."
+    },
+    {
+      "title": "Hümanist İdeal",
+      "text": "Bilgiyi sadece bir uzmanlık alanı olarak değil, ahlak, sanat ve bilimle harmanlanmış bütünsel bir \"insan olma\" projesi olarak görmüştür."
+    },
+    {
+      "title": "İlham Kaynağı",
+      "text": "Onun başarısı, daha sonra Laura Bassi ve Maria Gaetana Agnesi gibi 18. yüzyılın büyük kadın bilim insanlarına giden yolu açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İstisnai Durum",
+      "text": "Elena'nın başarısı, genel bir kadın hakları hareketinden ziyade, asil bir aileye mensup olmasının ve babasının (Venedik Prokuratörü) siyasi gücünün desteğiyle mümkün olan \"istisnai\" bir durumdu."
+    },
+    {
+      "title": "Sessiz Hayat",
+      "text": "Doktorasını aldıktan sonra akademik bir kariyer yapmak veya ders vermek yerine, vaktinin çoğunu hayır işlerine ve dinsel tefekküre (Benediktin rahibesi olarak) adamıştır. Bu, onun potansiyelinin tam olarak kullanılmadığı hissini yaratır."
+    },
+    {
+      "title": "Eser Azlığı",
+      "text": "Kendi düşüncelerini içeren özgün eserlerden ziyade, çeviriler ve söylevler bırakmıştır. Onun dehası \"üretimden\" çok \"kapsama ve temsil\" üzerindeydi."
+    }
+  ]
+}

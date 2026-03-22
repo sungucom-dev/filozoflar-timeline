@@ -1,0 +1,49 @@
+{
+  "subtitle": "Üç Hal Yasası ve Pozitif Din (1798–1857)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Üç Hal Yasası (Loi des trois états)",
+      "body": "Comte'a göre hem insan zihni hem de toplumlar tarih boyunca üç zorunlu aşamadan geçer.",
+      "ordered": true,
+      "items": [
+        {"label": "Teolojik Aşama (Çocukluk)", "text": "Olaylar tanrılar, ruhlar veya doğaüstü güçlerle açıklanır. (Fetizim, Politeizm, Monoteizm)."},
+        {"label": "Metafizik Aşama (Gençlik)", "text": "Doğaüstü varlıkların yerini \"doğa\", \"töz\" veya \"mutlak akıl\" gibi soyut kavramlar alır. (Geçiş aşamasıdır)."},
+        {"label": "Pozitif Aşama (Olgunluk)", "text": "İnsan artık \"neden\"i (özü) aramayı bırakır ve sadece \"nasıl\"ı (olgular arası ilişkileri/yasaları) gözlemleyerek bilime ulaşır."}
+      ]
+    },
+    {
+      "title": "Bilimler Hiyerarşisi ve Sosyoloji",
+      "body": "Comte, bilimleri en genelden en karmaşığa doğru bir piramit gibi dizer: Matematik → Astronomi → Fizik → Kimya → Biyoloji → Sosyoloji.",
+      "ordered": false,
+      "items": [
+        {"label": "Sosyoloji (Sosyal Fizik)", "text": "Comte için bu \"Bilimlerin Kraliçesi\"dir. Toplumu tıpkı bir organizma gibi inceleyen, onun statik (düzen) ve dinamik (ilerleme) yasalarını bulan en üstün disiplindir."}
+      ]
+    },
+    {
+      "title": "İnsanlık Dini ve Özgecilik (Altruisme)",
+      "body": "Hayatının sonlarına doğru Comte, rasyonel bir toplumu ayakta tutmak için dinsel bir duyguya ihtiyaç olduğunu fark etti ve \"İnsanlık Dini\"ni kurdu.",
+      "ordered": false,
+      "items": [
+        {"label": "Tanrı Yerine İnsanlık", "text": "Tapınılacak şey Tanrı değil, \"Büyük Varlık\" yani insanlığın bütünüdür."},
+        {"label": "Özgecilik (Altruism)", "text": "Bu kavramı bizzat Comte icat etmiştir. \"Başkası için yaşamak\" ilkesini toplumsal ahlakın temeli yapar. Kendine has bayramları, takvimi ve hatta \"pozitif azizleri\" olan bir sistem kurgulamıştır."}
+      ]
+    },
+    {
+      "title": "Düzen ve İlerleme (Ordre et Progrès)",
+      "body": "Brezilya bayrağında hala yazılı olan bu slogan, Comte'un siyasi vizyonudur. Ona göre \"İlerleme, düzenin gelişmesidir.\" Kaosa ve devrime karşıdır; değişim ancak bilimsel bir düzen içinde gerçekleşmelidir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {"title": "Sosyolojinin Özerkliği", "text": "Toplumsal olayların da doğa olayları gibi yasaları olduğunu söyleyerek modern sosyal bilimlerin bilimsel zeminini oluşturmuştur."},
+    {"title": "Bilimsel Yöntem", "text": "Metafizik spekülasyonları bir kenara itip \"gözlem ve deney\" vurgusuyla modern bilimsel düşüncenin popülerleşmesini sağlamıştır."},
+    {"title": "Toplumsal Dayanışma", "text": "Bireyciliğe karşı toplumsal bütünlüğü ve \"özgeciliği\" savunarak sosyal dayanışma kavramını güçlendirmiştir."}
+  ],
+  "weaknesses": [
+    {"title": "Pozitivist Kilise", "text": "Kendi sistemini o kadar mutlaklaştırmıştır ki, son dönemindeki \"Pozitif Din\" çalışmaları pek çok rasyonel takipçisi (başta J.S. Mill) tarafından \"delilik\" olarak görülmüştür."},
+    {"title": "Özgürlük Karşıtlığı", "text": "Toplumu uzmanların (sosyolog-rahiplerin) yönettiği kaskatı bir hiyerarşi içinde kurgulaması, bireysel özgürlükleri ve demokrasiyi tamamen dışlamasına yol açmıştır."},
+    {"title": "Tarihsel Determinizm", "text": "Toplumların mutlaka kendi çizdiği üç aşamadan geçeceğine dair sarsılmaz inancı, tarihin farklı seyirlerini ve rastlantısallığını ıskalar."}
+  ]
+}

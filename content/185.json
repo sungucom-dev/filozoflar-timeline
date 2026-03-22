@@ -1,0 +1,79 @@
+{
+  "subtitle": "Toprak, Kan ve \"Laissez-Faire\" (1694–1774)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tableau Économique (Ekonomik Tablo)",
+      "body": "1758'de yayımlanan bu tablo, iktisat tarihinin ilk grafiksel modelidir. Quesnay, toplumun ekonomik yapısını üç sınıfa ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üretken Sınıf (Classe Productive)",
+          "text": "Çiftçiler ve balıkçılar. Sadece onlar doğadan yeni bir değer (net ürün) çıkarırlar."
+        },
+        {
+          "label": "Kısır Sınıf (Classe Stérile)",
+          "text": "Tüccarlar, zanaatkarlar ve sanayiciler. Onlar sadece var olan maddeyi şekillendirir veya taşırlar; yeni bir değer yaratmazlar."
+        },
+        {
+          "label": "Mülkiyet Sahibi Sınıf (Classe des Propriétaires)",
+          "text": "Toprak sahipleri, kral ve kilise. Üretilen net üründen pay alan asalak ama gerekli sınıftır."
+        }
+      ]
+    },
+    {
+      "title": "Kan Dolaşımı Metaforu",
+      "body": "Quesnay, Kral XV. Louis'nin şahsi hekimiydi. Tıptaki \"kan dolaşımı\" (William Harvey) keşfini ekonomiye uyarladı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ekonomik Dolaşım",
+          "text": "Eğer para (kan) sınıflar arasında engelsizce akarsa toplum sağlıklıdır. Eğer bir yerde birikirse veya engellenirse toplum hastalanır. Bu, makroekonomik dengenin tarihteki ilk tanımıdır."
+        }
+      ]
+    },
+    {
+      "title": "Laissez-Faire, Laissez-Passer (Bırakınız Yapsınlar, Bırakınız Geçsinler)",
+      "body": "Bu meşhur slogan genellikle Adam Smith ile anılsa da, kökeni Quesnay ve arkadaşlarına (Fizyokratlar) dayanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğal Düzen (Ordre Naturel)",
+          "text": "Ekonomi, insanların koyduğu yapay yasalarla değil, Tanrı vergisi doğal yasalarla yönetilmelidir. Devlet müdahalesi, bu doğal akışı bozan bir \"pıhtılaşma\"dır."
+        },
+        {
+          "label": "Tek Vergi",
+          "text": "Madem tek üretken alan topraktır, o halde devlet sadece topraktan gelen \"net ürün\" üzerinden tek bir vergi almalıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Makroekonominin Doğuşu",
+      "text": "Ekonomiyi parçalar halinde değil, bir bütün (sistem) olarak inceleyen ilk kişidir. Adam Smith ondan çok etkilenmiş ve ona bir eserini ithaf etmeyi düşünmüştür."
+    },
+    {
+      "title": "Serbest Ticaret",
+      "text": "Merkantilizmin (devletçi korumacılık) o boğucu duvarlarını yıkarak serbest ticaretin felsefi temellerini atmıştır."
+    },
+    {
+      "title": "Bilimsel Yaklaşım",
+      "text": "Ekonomiyi \"ahlak\" veya \"siyaset\"in bir alt dalı olmaktan çıkarıp, kendi yasaları olan bağımsız bir \"bilim\" haline getirmeye çalışmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sanayiyi Küçümsemek",
+      "text": "Sanayiyi ve ticareti \"kısır\" olarak nitelendirmesi, sanayi devriminin kapıda olduğu bir çağda yapılabilecek en büyük hataydı. Katma değerin sadece toprakta olduğunu sanması onun en büyük yanılgısıdır."
+    },
+    {
+      "title": "Aydınlanmış Despotizm",
+      "text": "Ekonomide özgürlüğü savunsa da siyasette mutlak monarşiyi savunmuştur. Ona göre doğal yasaları uygulayacak güçlü, tek bir hükümdar şarttır."
+    },
+    {
+      "title": "Aşırı Basitleştirme",
+      "text": "Toplumu sadece üç sınıfa ve para akışını tek bir tabloya sığdırmaya çalışması, ekonomik hayatın o karmaşık ve psikolojik yönlerini ihmal etmesine neden olmuştur."
+    }
+  ]
+}

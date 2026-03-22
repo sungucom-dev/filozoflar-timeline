@@ -1,0 +1,90 @@
+{
+  "subtitle": "Biricik, Hayaletler ve Mülkiyet (1806–1856)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Der Einzige und sein Eigentum (Biricik ve Mülkiyeti)",
+      "body": "1844'te yayımlanan bu eser, felsefede bir nihilist bomba etkisi yaratmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Biricik (Der Einzige)",
+          "text": "Birey, herhangi bir kavramın (örneğin \"insan\"ın) bir örneği değildir. O, tanımlanamaz, sınırlandırılamaz ve kıyaslanamaz olan \"Biricik\"tir. \"Benim üzerimde hiçbir şey yoktur!\""
+        },
+        {
+          "label": "Kendi-Mülkiyeti (Eigenheit)",
+          "text": "Özgürlük bir bağıştır, oysa \"kendi-mülkiyeti\" bireyin kendi iradesiyle aldığı bir şeydir. Stirner için hak yoktur, sadece güç ve irade vardır."
+        }
+      ]
+    },
+    {
+      "title": "\"Hayaletler\" (Spooks / Gespenster)",
+      "body": "Stirner'e göre insanlar yüzyıllarca Tanrı'nın kulu olmaktan kaçıp, bu sefer de \"İnsanlık\", \"Devlet\", \"Özgürlük\" veya \"Adalet\" gibi soyut kavramların kulu olmuşlardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Soyutun Tiranlığı",
+          "text": "Bu kavramlar zihnimize yerleşmiş \"hayaletlerdir.\" Eğer bir fikir benim üzerimde bir otorite kuruyorsa, o bir hayalettir ve yok edilmelidir."
+        },
+        {
+          "label": "Feuerbach Eleştirisi",
+          "text": "Feuerbach Tanrı'yı öldürmüş ama yerine \"İnsanlık\" adında yeni bir Tanrı koymuştur. Stirner'e göre bu, sadece efendinin ismini değiştirmektir."
+        }
+      ]
+    },
+    {
+      "title": "Egoistlerin Birliği (Verein von Egoisten)",
+      "body": "Peki, her birey sadece kendi çıkarını düşünürse toplum nasıl ayakta kalır? Stirner \"toplum\" yerine \"birlik\" önerir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gönüllü Ortaklık",
+          "text": "Bu birlik, kutsal bir görev veya yasal bir zorunluluk değil, bireylerin kendi çıkarları için geçici ve gönüllü olarak bir araya gelmesidir. Fayda bittiği anda birlik dağılır."
+        }
+      ]
+    },
+    {
+      "title": "İsyan vs. Devrim",
+      "body": "Stirner devrimlere mesafelidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Devrim",
+          "text": "Mevcut düzeni yıkıp yerine yeni bir düzen (yeni bir hayalet) kurar."
+        },
+        {
+          "label": "İsyan (Empörung)",
+          "text": "Bireyin kendi içsel yükselişidir. Kurulu bir düzen hedeflemez, bireyin kendini hiçbir düzene ait hissetmemesi ve kendi yasasını kendisinin koymasıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İdeoloji Deşifresi",
+      "text": "Her türlü ideolojinin (sol veya sağ fark etmeksizin) bireyi nasıl bir \"araç\" haline getirdiğini dâhiyane bir keskinlikle göstermiştir."
+    },
+    {
+      "title": "Varoluşçuluğun Öncüsü",
+      "text": "İnsanın kendi anlamını kendisinin yaratması ve hiçbir genel geçer kalıba sığmaması fikriyle Kierkegaard, Nietzsche ve Sartre'a giden yolu açmıştır."
+    },
+    {
+      "title": "Bireysel Özgürlüğün Uç Sınırı",
+      "text": "Anarşizmi sadece siyasi bir karşı çıkıştan çıkarıp \"ontolojik bir başkaldırı\" seviyesine taşımıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Bireycilik",
+      "text": "Toplumsal işbirliğinin, empatinin ve ortak kültürel değerlerin insan psikolojisi ve hayatta kalma üzerindeki hayati rolünü tamamen görmezden gelmiştir."
+    },
+    {
+      "title": "Güç Tapıncı",
+      "text": "\"Hak yoktur, güç vardır\" mantığı, zayıfın güçlü tarafından ezilmesini felsefi olarak meşrulaştıran vahşi bir orman kanununa kapı aralayabilir."
+    },
+    {
+      "title": "Pratik İmkansızlık",
+      "text": "Stirner'in dünyasında sürekli bir \"birlik\" ve \"ayrılık\" döngüsü, istikrarlı bir uygarlığın veya kalıcı bir sosyal adaletin kurulmasını imkansız kılar."
+    }
+  ]
+}

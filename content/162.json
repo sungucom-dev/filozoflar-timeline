@@ -1,0 +1,90 @@
+{
+  "subtitle": "Bilimin Koordinatörü ve Sayıların Keşişi (1588–1648)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bilimsel İletişim Ağı (17. Yüzyılın WhatsApp'ı)",
+      "body": "Mersenne, bugün bildiğimiz bilimsel dergiler ve akademiler kurulmadan önce, o işlevi tek başına yerine getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mektup Trafiği",
+          "text": "Avrupa'nın dört bir yanındaki dâhilerle mektuplaşmış, birinin buluşunu diğerine aktarmış, tartışmalar başlatmış ve eleştirileri iletmiştir."
+        },
+        {
+          "label": "Hami ve Koruyucu",
+          "text": "Descartes'ın Meditasyonlar'ını basılmadan önce dönemin büyük filozoflarına (Hobbes, Gassendi vb.) gönderip itirazlarını toplayan ve Descartes'ın bunlara cevap vermesini sağlayan odur."
+        }
+      ]
+    },
+    {
+      "title": "Mersenne Asalları (Matematiğin Yıldızları)",
+      "body": "Matematik dünyasında adı bugün hala bir sayı sınıfıyla yaşamaktadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Formül",
+          "text": "Mn = 2n − 1 biçimindeki sayılara Mersenne sayıları denir. Eğer bu sayı asalsa, buna \"Mersenne Asalı\" adı verilir."
+        },
+        {
+          "label": "Önemi",
+          "text": "Bugün bilgisayarların gücünü test etmek için hala bu devasa asal sayılar aranmaktadır."
+        }
+      ]
+    },
+    {
+      "title": "Harmonie Universelle (Akustiğin Temeli)",
+      "body": "Mersenne, müzik teorisini ve akustiği bilimsel bir temele oturtan kişidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Titreşim Yasaları",
+          "text": "Gerilmiş bir telin frekansının; telin uzunluğu, gerginliği ve yoğunluğu ile olan ilişkisini matematiksel olarak formüle etmiştir."
+        },
+        {
+          "label": "Müzik ve Matematik",
+          "text": "Müziği sadece bir sanat değil, evrensel bir matematiksel uyumun parçası olarak görmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Ilımlı Şüphecilik",
+      "body": "Mersenne, döneminin radikal şüphecilerine karşı bilimi savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fenomenalizm",
+          "text": "Nesnelerin \"özünü\" bilemesek de, onların nasıl davrandığını ve yasalarını deneyle ölçebileceğimizi savunarak modern bilimsel tutuma öncülük etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kolektif Bilimin Doğuşu",
+      "text": "Bilimin \"yalnız dâhilerin\" işi değil, bir \"iletişim\" işi olduğunu kanıtlamış; bilimsel topluluğun (scientific community) ilk tohumlarını atmıştır."
+    },
+    {
+      "title": "Akustiğin Öncüsü",
+      "text": "Ses fiziği konusundaki çalışmaları bugün hala modern akustiğin başlangıç noktası kabul edilir."
+    },
+    {
+      "title": "Dengeleyici Rol",
+      "text": "Bir din adamı olarak, yeni doğan mekanik bilimi teolojiyle çatıştırmadan savunabilmiş, Galileo gibi isimlerin fikirlerini Fransa'da yaymıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kendi Eserlerinin Gölgesi",
+      "text": "Başkalarının fikirlerini yaymak için o kadar çok enerji harcamıştır ki, kendi özgün dehası çoğu zaman mektup arkadaşları (Descartes, Pascal) tarafından gölgelenmiştir."
+    },
+    {
+      "title": "Karışık İlgi Alanları",
+      "text": "Simyadan müziğe, matematikten teolojiye kadar her şeyle ilgilenmesi, bazı çalışmalarının sistematik bir bütünlükten yoksun kalmasına neden olmuştur."
+    },
+    {
+      "title": "Teolojik Sınırlar",
+      "text": "Ne kadar modern olsa da, kilisenin dogmalarıyla çelişmemek adına bazı bilimsel sonuçlarda temkinli (veya bazen kısıtlayıcı) davranmak zorunda kalmıştır."
+    }
+  ]
+}

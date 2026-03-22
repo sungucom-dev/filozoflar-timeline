@@ -1,0 +1,75 @@
+{
+  "subtitle": "Doğrudan Gerçekçilik ve Ortak Duyu (1710–1796)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Fikirler Teorisinin Reddi (Against the Way of Ideas)",
+      "body": "Reid'e göre Descartes'tan Hume'a kadar gelen tüm modern felsefe büyük bir hata üzerine kuruludur: \"Zihin, dış dünyadaki nesneleri değil, sadece o nesnelerin zihindeki kopyalarını (fikirlerini) bilir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zihinsel Hapishane",
+          "text": "Reid, bu \"fikirler teorisi\"nin insanı dış dünyadan kopardığını ve kaçınılmaz olarak şüpheciliğe sürüklediğini söyler."
+        },
+        {
+          "label": "Doğrudan Algı",
+          "text": "Bir elmaya baktığınızda, zihninizde bir \"elma resmi\" görmezsiniz; doğrudan elmayı görürsünüz. Zihin ve nesne arasında hiçbir \"fikir\" perdesi yoktur."
+        }
+      ]
+    },
+    {
+      "title": "Ortak Duyu İlkeleri (Common Sense)",
+      "body": "Reid için sağduyu, sadece \"halkın basit düşünceleri\" değildir; o, Tanrı (veya Doğa) tarafından zihnimize yerleştirilmiş, kanıt gerektirmeyen temel ilkelerdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kuşku Duyulamazlar",
+          "text": "\"Dış dünya vardır\", \"Geçmişte olanlar gerçekten olmuştur\", \"Diğer insanların da zihinleri vardır\" gibi önermeler kanıtlanamaz ama bunlara inanmadan yaşamak imkansızdır."
+        },
+        {
+          "label": "Yaşamın Kanunu",
+          "text": "Hume felsefe odasında dünyadan şüphe edebilir, ama kapıdan dışarı çıktığında o da sağduyuya teslim olur. Reid, felsefenin yaşamla uyumlu olması gerektiğini savunur."
+        }
+      ]
+    },
+    {
+      "title": "Zihin Yetileri (Powers of the Mind)",
+      "body": "Reid, zihni pasif bir \"izlenim alıcısı\" olarak değil, aktif bir güç olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğuştan Donanım",
+          "text": "Zihnimiz boş bir levha (Tabula Rasa) değildir; verileri anlamlandırmak için önceden kurulmuş \"yargı yetilerine\" sahiptir. Bu yönüyle Reid, Kant'ın \"kategoriler\" fikrinin en önemli habercilerinden biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Şüpheciliğe Panzehir",
+      "text": "Felsefeyi kendi içine kapalı bir labirent olmaktan çıkarıp, insanı tekrar dış dünyaya ve gerçekliğe bağlamıştır."
+    },
+    {
+      "title": "Pragmatik Temeller",
+      "text": "William James ve Amerikan pragmatizminin en derin köklerinden biridir. \"Doğru olan, işe yarayan ve yaşanabilir olandır\" fikrinin tohumlarını atmıştır."
+    },
+    {
+      "title": "Modern Psikolojiye Etki",
+      "text": "Zihnin aktif yetileri üzerine yaptığı vurgu, bilişsel psikolojinin ve modern algı teorilerinin önünü açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kolaycılık Suçlaması",
+      "text": "Bazı eleştirmenler, Reid'in zor felsefi sorulara \"Bu sağduyuya aykırıdır, o halde yanlıştır\" diyerek kestirip attığını ve derin analitik süreçlerden kaçındığını savunurlar."
+    },
+    {
+      "title": "Dogmatizm Riski",
+      "text": "\"Ortak duyu ilkeleri\"nin ne olduğu ve sınırları tam olarak net değildir; bu da her türlü yerleşik inancın \"sağduyu\" adı altında sorgulanamaz hale gelmesine yol açabilir."
+    },
+    {
+      "title": "Hume'un Derinliğini Iskalamak",
+      "text": "Hume'un şüpheciliği mantıksal bir zorunluluktan doğuyordu; Reid ise bu mantıksal sorunu çözmek yerine, onu pratik gerekçelerle reddetmeyi seçmiştir."
+    }
+  ]
+}

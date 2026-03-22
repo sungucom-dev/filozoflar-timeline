@@ -1,0 +1,90 @@
+{
+  "subtitle": "Eşitlik Tutkusu ve Özgürlüğün Kırılganlığı (1805–1859)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Eşitlik Koşulu (Egalité des Conditions)",
+      "body": "Tocqueville için demokrasi sadece bir yönetim biçimi değil, toplumsal bir \"durum\"dur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Durdurulamaz Güç",
+          "text": "Tarihin akışını \"koşulların eşitlenmesi\" olarak görür. Aristokrasinin dikey hiyerarşisinin yıkılıp her şeyin yataylaştığı bu süreci tanrısal ve kaçınılmaz bir akış olarak tanımlar."
+        },
+        {
+          "label": "Eşitlik vs. Özgürlük",
+          "text": "İnsanların eşitliği özgürlüğe tercih edebileceği konusunda uyarır: \"Demokratik uluslar özgürlüğü severler ama eşitliğe taparlar.\" Eşitlik uğruna özgürlükten vazgeçme eğilimi, onun en büyük korkusudur."
+        }
+      ]
+    },
+    {
+      "title": "Çoğunluğun Tahakkümü (Tyranny of the Majority)",
+      "body": "Demokrasinin içindeki en büyük paradoksu keşfetmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Düşünce Üzerindeki Baskı",
+          "text": "Fiziksel baskıdan daha tehlikeli olan, \"toplumsal dışlanma\" korkusuyla bireyin düşüncesinin çoğunluk tarafından ezilmesidir. Günümüzün \"iptal kültürü\" (cancel culture), Tocqueville'in 19. yüzyılda gördüğü o hayalettir."
+        },
+        {
+          "label": "Sıradanlaşma Tehlikesi",
+          "text": "Çoğunluğun beğenisine uymayan her aykırı sesin zamanla silinip gitmesi, toplumun entelektüel bir çölleşmeye girmesine neden olur."
+        }
+      ]
+    },
+    {
+      "title": "Yumuşak Despotizm (Soft Despotism)",
+      "body": "Geleceğin otoriterliğini, kanlı bir diktatörlük olarak değil, \"şefkatli bir vasi\" olarak hayal etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bürokratik Kafes",
+          "text": "Devletin, vatandaşların her ihtiyacını karşılayan ama onları sürekli bir \"çocukluk\" evresinde tutan devasa, düzenli ve sessiz bir güce dönüşmesidir."
+        },
+        {
+          "label": "Bireycilik (Individualism)",
+          "text": "İnsanların kendi küçük özel alanlarına çekilip toplumsal meselelerden kopması, bu yumuşak despotizmin en büyük yakıtıdır."
+        }
+      ]
+    },
+    {
+      "title": "Panzehir: Sivil Toplum ve Dernekleşme",
+      "body": "Tocqueville, Amerika'da bu karanlık tabloya karşı bir umut görmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gönüllü Birlikler",
+          "text": "İnsanların bir araya gelerek kurduğu dernekler, dini cemaatler ve yerel yönetimler; devlet ile birey arasında birer \"tampon bölge\" oluşturur. Özgürlük, ancak bu yerel ve sivil katılım alanlarında korunabilir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sosyolojik Deha",
+      "text": "Veri ve gözleme dayalı analizleriyle, modern siyaset biliminin kurucularından biri olmuştur. Amerikan ve Fransız toplumları arasındaki farkları cerrah titizliğiyle ortaya koymuştur."
+    },
+    {
+      "title": "Kehanet Gücü",
+      "text": "Amerika ve Rusya'nın bir gün dünyanın kaderini ellerinde tutacak iki dev olacağını (Soğuk Savaş'tan yüzyıl önce) öngörmüştür."
+    },
+    {
+      "title": "Dengeleyici Bakış",
+      "text": "Ne körü körüne bir demokrasi düşmanı ne de her şeyi onaylayan bir demokrasi aşığıdır; o, demokrasinin potansiyelini ve risklerini aynı anda gören bir \"denge insanı\"dır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aristokratik Önyargı",
+      "text": "Eşitlik sürecini kaçınılmaz görse de, aristokrasinin \"nitelik\" ve \"bağımsız ruh\" anlayışına duyduğu özlem, bazen demokratik kitlelere karşı küçümseyici bir tona bürünmesine neden olmuştur."
+    },
+    {
+      "title": "Sömürgecilik Çelişkisi",
+      "text": "Kendi ülkesinde özgürlük ve demokrasiyi savunurken, Fransa'nın Cezayir'deki sert sömürge politikalarını (ulusun bekası adına) desteklemesi, felsefesindeki en büyük etik gediklerden biridir."
+    },
+    {
+      "title": "Ekonomik Boyut",
+      "text": "Demokrasiyi daha çok siyasi ve sosyal bir durum olarak ele almış, sanayi devriminin yarattığı sınıf çatışmalarını ve ekonomik eşitsizlikleri Marx kadar derinlemesine görememiştir."
+    }
+  ]
+}

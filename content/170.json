@@ -1,0 +1,75 @@
+{
+  "subtitle": "Canlı Madde ve \"Yanan Dünya\" (1623–1673)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Vitalist Materyalizm: Doğa Ölü Bir Makine Değildir",
+      "body": "Descartes ve Hobbes evreni ruhsuz bir makine olarak görürken, Cavendish buna şiddetle karşı çıktı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kendi Kendini Yöneten Madde",
+          "text": "Ona göre madde sadece dışarıdan bir kuvvetle hareket eden \"ölü\" bir yığın değildir. Madde; duyarlı, canlı ve rasyoneldir."
+        },
+        {
+          "label": "Doğa Ana",
+          "text": "Evreni, her parçası birbirine bağlı, düşünen ve hisseden devasa bir organizma olarak tanımladı. Bu, bugünkü \"Gai Hipotezi\"ne göz kırpan çok erken bir seziştir."
+        }
+      ]
+    },
+    {
+      "title": "The Blazing World (Yanan Dünya): İlk Feminist Bilimkurgu",
+      "body": "1666'da yayımlanan bu eser, fantezi ve felsefeyi birleştiren eşsiz bir ütopyadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Başka Bir Boyut",
+          "text": "Kuzey Kutbu'ndan geçilerek ulaşılan başka bir dünyayı anlatır. Orada konuşan hayvanlar, bitki insanlar ve gelişmiş teknolojiler vardır."
+        },
+        {
+          "label": "Mutlak Özgürlük",
+          "text": "Kitapta kendisini bu dünyanın \"İmparatoriçesi\" ilan ederek, gerçek dünyada kadınlara tanınmayan entelektüel ve siyasi gücü hayal gücüyle fethetmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel Yönteme Eleştiri: Mikroskopların Ötesi",
+      "body": "Cavendish, Royal Society (Kraliyet Cemiyeti) toplantısına davet edilen ilk kadındır. Ancak dönemin yükselen deneysel bilimine şüpheyle bakmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duyuların Sınırı",
+          "text": "Mikroskop ve teleskopların doğanın gerçek yüzünü değil, sadece \"çarpıtılmış görüntülerini\" sunduğunu savundu. Hakikate ulaşmanın yolunun sadece teknolojik aletler değil, derin felsefi tefekkür olduğunu vurguladı."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Cinsiyet Duvarlarını Yıkmak",
+      "text": "Dönemin tüm sosyal baskılarına rağmen kendi adıyla kitaplar yayımlayarak kadınların bilim ve felsefe yapabileceğini kanıtlamıştır."
+    },
+    {
+      "title": "Bütünsel Doğa Algısı",
+      "text": "Mekanikleşen dünyaya karşı \"doğanın canlılığını\" savunması, modern ekolojik düşüncenin erken bir nüvesidir."
+    },
+    {
+      "title": "Özgünlük",
+      "text": "Kimsenin öğrencisi olmayı kabul etmemiş, kendi felsefi sistemini tamamen kendi okumaları ve gözlemleriyle inşa etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistem Dışı Kalmak",
+      "text": "Formal bir eğitim almadığı için eserleri bazen dağınık, çelişkili ve akademik terminolojiden uzak kalmıştır."
+    },
+    {
+      "title": "Sınıf Kibri",
+      "text": "Aristokrat kimliği, fikirlerinin halk tabanına yayılmasını engellemiş; bazen \"Deli Madge\" olarak anılmasına yol açan eksantrik davranışları dehasının önüne geçmiştir."
+    },
+    {
+      "title": "Deneyi Reddetmek",
+      "text": "Dönemin deneysel bilimsel devrimine (Boyle, Hooke vb.) karşı takındığı sert tutum, bazı bilimsel gerçekleri (mikroskobik dünyanın önemi gibi) ıskalamasına neden olmuştur."
+    }
+  ]
+}

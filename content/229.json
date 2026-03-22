@@ -1,0 +1,85 @@
+{
+  "subtitle": "Mülkiyet, Karşılıklılık ve Adalet (1809–1865)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Mülkiyet Hırsızlıktır!\" (La propriété, c'est le vol!)",
+      "body": "1840 tarihli Mülkiyet Nedir? kitabındaki bu cümle, tarihin en meşhur siyasi sloganlarından biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hırsızlık Olan Mülkiyet",
+          "text": "Başkasının emeği üzerinden elde edilen, çalışmadan kazanılan (faiz, kira, kâr) mülkiyettir."
+        },
+        {
+          "label": "Meşru Olan \"Zilyetlik\" (Possession)",
+          "text": "Bir insanın kendi emeğiyle işlediği toprak, kullandığı alet veya oturduğu ev hırsızlık değildir; bu, özgürlüğün garantisidir."
+        }
+      ]
+    },
+    {
+      "title": "Mutualizm (Karşılıklılık)",
+      "body": "Proudhon'un ekonomik çözümüdür. Kapitalizme ve devletçi sosyalizme bir alternatiftir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Adil Değişim",
+          "text": "İşçilerin, ürettikleri malın tam karşılığını (emek-değer üzerinden) aldığı bir sistemdir."
+        },
+        {
+          "label": "Halk Bankası",
+          "text": "Faizsiz kredi veren bir banka kurmaya çalışmıştır. Amacı, sermaye sahiplerinin tekelini kırarak işçilerin kendi üretim araçlarına sahip olmalarını sağlamaktır."
+        }
+      ]
+    },
+    {
+      "title": "Anarşi Düzendir",
+      "body": "Onun meşhur \"Anarşi\" kavramı kaos demek değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Otorite Karşıtlığı",
+          "text": "\"İnsanın insan tarafından yönetilmesi, hangi isim altında olursa olsun, baskıdır.\""
+        },
+        {
+          "label": "Aşağıdan Yukarıya Federasyon",
+          "text": "Devlet gibi merkezi ve dikey bir yapı yerine; mahallelerin, atölyelerin ve toplulukların gönüllü olarak birleştiği yatay bir \"federalizm\" savunur."
+        }
+      ]
+    },
+    {
+      "title": "Marx ile Büyük Kopuş",
+      "body": "Proudhon, şiddetli devrimlere ve mülkiyetin devlet elinde toplanmasına karşıydı; bunun sadece \"efendinin adını değiştirmek\" olduğunu savunuyordu.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Anarşizmin Temeli",
+      "text": "Devlet dışı bir sosyalizm modelini ilk kez sistemli hale getirmiş, Bakunin ve Kropotkin gibi isimlere yolu açmıştır."
+    },
+    {
+      "title": "Özyönetim Vizyonu",
+      "text": "Fabrikaların ve işletmelerin bizzat orada çalışanlar tarafından yönetilmesi fikriyle modern kooperatifçilik ve sendikacılığın ilham kaynağı olmuştur."
+    },
+    {
+      "title": "Hümanist Adalet",
+      "text": "Adaleti tanrısal veya devletsel bir lütuf değil, insanların birbirine olan \"karşılıklı borcu\" olarak tanımlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Toplumsal Muhafazakârlık",
+      "text": "Kadın hakları konusunda Wollstonecraft veya Harriet Taylor Mill'in fersah fersah gerisindeydi. Kadının yerinin ev olduğunu savunacak kadar ataerkil görüşlere sahipti."
+    },
+    {
+      "title": "Teorik Karışıklık",
+      "text": "Çelişkileri bir \"sentez\"de birleştirmek yerine, onları yan yana tutmaya çalışması (diyalektik anlayışı), Marx tarafından \"küçük burjuva kafa karışıklığı\" olarak sertçe eleştirilmiştir."
+    },
+    {
+      "title": "Karanlık Notlar",
+      "text": "Özel günlüklerinde yer alan bazı ırkçı ve antisemitik ifadeler, onun özgürlükçü felsefesine büyük bir gölge düşürmektedir."
+    }
+  ]
+}

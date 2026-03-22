@@ -1,0 +1,90 @@
+{
+  "subtitle": "İzlenimler, Alışkanlık ve Şüphe (1711–1776)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İzlenimler ve İdeler: Zihnin Hammaddesi",
+      "body": "Hume'a göre zihnimizde doğuştan gelen hiçbir fikir yoktur. Her şey deneyimle başlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İzlenimler",
+          "text": "Duyularımızla aldığımız canlı ve güçlü verilerdir (bir elmanın tadı, bir acı hissi)."
+        },
+        {
+          "label": "İdeler (Fikirler)",
+          "text": "Bu izlenimlerin zihnimizdeki sönük kopyalarıdır (elmayı hatırlamak). Bir fikrin gerçek olup olmadığını anlamak için onun hangi \"izlenime\" dayandığını sormalıyız. Eğer karşılığı yoksa (örneğin \"töz\" veya \"ruh\"), o sadece boş bir kelimedir."
+        }
+      ]
+    },
+    {
+      "title": "Nedenselliğin Yıkımı: \"Güneş Yarın Doğacak mı?\"",
+      "body": "Hume'un felsefe dünyasına bıraktığı en büyük bomba budur. Biz evrende \"neden-sonuç\" ilişkisi gördüğümüzü sanırız, oysa gördüğümüz sadece \"ardışıklıktır.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilardo Topları",
+          "text": "Bir topun diğerine çarpıp onu hareket ettirdiğini bin kez görsek de, bu bize \"zorunlu bir bağ\" vermez. Sadece A'nın ardından B'nin geldiğini görürüz."
+        },
+        {
+          "label": "Alışkanlık",
+          "text": "\"Neden\" dediğimiz şey, zihnimizin geçmiş deneyimlerden dolayı geleceğe dair kurduğu bir beklenti ve alışkanlıktır. Güneşin yarın doğacağından emin olmamız mantıksal bir zorunluluk değil, psikolojik bir güvendir."
+        }
+      ]
+    },
+    {
+      "title": "Benliğin İnkârı: \"Demet Teorisi\"",
+      "body": "Hume içimize baktığımızda sabit bir \"ben\" bulamayacağımızı savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Algı Demeti",
+          "text": "\"Ben\" dediğimiz şey, hızla birbirini izleyen farklı algıların (mutluluk, sıcaklık, düşünce) bir demetinden ibarettir. Bir tiyatro sahnesi gibidir; oyuncular (algılar) sürekli değişir ama sahnenin kendisi (sabit benlik) bir yanılsamadır."
+        }
+      ]
+    },
+    {
+      "title": "Ahlak ve Duygular: \"Akıl Tutkuların Kölesidir\"",
+      "body": "Hume, ahlakın akılla değil, duygularla ilgili olduğunu söyler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sempati",
+          "text": "İyi veya kötü, akli bir çıkarım değil; başkalarının mutluluğuna veya acısına duyduğumuz doğal \"sempati\" hissidir."
+        },
+        {
+          "label": "Olan/Olması Gereken (Hume'un Giyotini)",
+          "text": "Bir şeyin \"nasıl olduğu\"ndan (olgulardan), \"nasıl olması gerektiği\"ne (değerlere) mantıksal bir geçiş yapılamayacağını savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Eleştirel Düşünce",
+      "text": "İnsan zihninin sınırlarını o kadar net çizmiştir ki, kendisinden sonraki tüm felsefe (özellikle Kant ve Pozitifizm) onun sorduğu sorulara cevap vermek zorunda kalmıştır."
+    },
+    {
+      "title": "Psikolojik Yaklaşım",
+      "text": "Felsefeyi metafizik spekülasyonlardan kurtarıp, insan doğasının deneysel incelenmesine (bilişsel psikolojinin öncülüğü) dönüştürmüştür."
+    },
+    {
+      "title": "Hoşgörü ve Din Eleştirisi",
+      "text": "Doğal Din Üzerine Diyaloglar ile mucizelere ve dinsel dogmalara karşı en sarsıcı rasyonel itirazları getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Şüphecilik (Skeptisizm)",
+      "text": "Eğer nedensellik yoksa, bilim nasıl mümkün olabilir? Hume'un şüpheciliği, bilimin temellerini o kadar sarsmıştır ki, günlük yaşamı sürdürmek bile \"mantıksız\" hale gelebilir (Hume bunu \"felsefeden çıkıp tavla oynayarak\" çözer)."
+    },
+    {
+      "title": "Endüksiyon (Tümevarım) Problemi",
+      "text": "Geçmişin geleceğe rehberlik edemeyeceğini söyleyerek, her türlü bilimsel yasanın aslında sadece \"olasılık\" olduğunu savunması, kesin bilgi arayanları hayal kırıklığına uğratmıştır."
+    },
+    {
+      "title": "Tutuculuk",
+      "text": "Ahlakı \"alışkanlık ve geleneklere\" dayandırması, radikal toplumsal değişimlerin önünü tıkayabilecek muhafazakâr bir siyasete zemin hazırlayabilir."
+    }
+  ]
+}

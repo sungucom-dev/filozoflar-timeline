@@ -1,0 +1,94 @@
+{
+  "subtitle": "Akılcı Adalet ve Yaşam Hakkı (1738–1794)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Dei delitti e delle pene (Suçlar ve Cezalar Üzerine)",
+      "body": "1764'te yayımlanan bu eser, hukuk dünyasında bir atom bombası etkisi yarattı. Beccaria, hukuku dinsel \"günah\" kavramından koparıp toplumsal \"fayda\" kavramına bağladı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Toplumsal Sözleşme",
+          "text": "İnsanlar topluma girerken özgürlüklerinin sadece küçük bir parçasını devlete verirler. Bu yüzden devletin bireyi keyfi olarak öldürme veya ona işkence etme hakkı yoktur."
+        },
+        {
+          "label": "Kanunilik İlkesi",
+          "text": "Suç ve ceza ancak yasalarla belirlenebilir; hakimler yasaları yorumlayamaz, sadece uygularlar."
+        }
+      ]
+    },
+    {
+      "title": "İşkence ve İdam Karşıtlığı",
+      "body": "Beccaria, işkenceyi ve ölüm cezasını rasyonel olarak reddeden ilk büyük figürdür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İşkencenin Mantıksızlığı",
+          "text": "İşkence bir hakikat aracı değildir; \"kasları güçlü olan suçlunun beraat etmesini, bünyesi zayıf olan masumun ise suçlanmasını\" sağlayan bir dayanıklılık testidir."
+        },
+        {
+          "label": "İdamın Caydırıcılığı",
+          "text": "İdamın anlık ve vahşi etkisi, suçluyu caydırmakta uzun süreli \"kürek mahkumiyeti\" (veya hapis) kadar etkili değildir. Devlet, cinayeti yasaklayıp kendisi cinayet (idam) işleyerek çelişkiye düşmemelidir."
+        }
+      ]
+    },
+    {
+      "title": "Cezanın Üç Altın Kuralı",
+      "body": "Caydırıcılığın cezanın \"şiddetinde\" değil, başka unsurlarda olduğunu savunur.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Hızlılık",
+          "text": "Suç ile ceza arasındaki süre ne kadar kısa olursa, zihin bu ikisini o kadar güçlü bağlar."
+        },
+        {
+          "label": "Kesinlik",
+          "text": "Bir suçun cezalandırılacağının kesin olması, cezanın ağırlığından çok daha caydırıcıdır."
+        },
+        {
+          "label": "Orantılılık",
+          "text": "Ceza, işlenen suçun topluma verdiği zararla orantılı olmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Suçu Önlemek, Cezalandırmaktan İyidir",
+      "body": "Beccaria için asıl hedef ceza vermek değil, suçun işlenmesini engellemektir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eğitim ve Aydınlanma",
+          "text": "Suçu azaltmanın yolu daha ağır cezalar değil, halkın eğitilmesi ve yasaların herkes tarafından anlaşılabilir (açık ve seçik) olmasıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Hukukun Temeli",
+      "text": "Masumiyet karinesi, savunma hakkı ve kanunilik ilkesi gibi bugün kutsal sayılan hukuk normlarının mimarıdır."
+    },
+    {
+      "title": "Barbarlığın Sonu",
+      "text": "Avrupa'da işkencenin yasaklanmasını ve idam cezasının tartışmaya açılmasını (Hatta Toskana'da tamamen kaldırılmasını) sağlayan asıl güçtür."
+    },
+    {
+      "title": "Faydacı Mantık",
+      "text": "Hukuku duygusal intikamdan arındırıp, toplumsal barışı koruyan teknik bir araca dönüştürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Matematiksel Bakış",
+      "text": "Suç ve cezayı bir denklem gibi görmesi, insanın psikolojik derinliğini ve her suçun kendine has özel şartlarını (hafifletici nedenler vb.) bazen ihmal etmesine yol açar."
+    },
+    {
+      "title": "Caydırıcılığa Fazla Güven",
+      "text": "İnsanın her zaman rasyonel bir \"kar-zarar\" hesabı yaparak suç işlediğini varsayması, tutkuyla veya çaresizlikle işlenen suçları açıklamakta zayıf kalabilir."
+    },
+    {
+      "title": "Pietro Verri'nin Katkısı",
+      "text": "Beccaria'nın tembel ve çekingen karakteri nedeniyle, kitabın pek çok fikrinin ve düzenlemesinin Pietro Verri'ye ait olduğu gerçeği, onun dehasının \"kolektif\" bir ürün olduğunu gösterir."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subtitle": "Saf Akıl, Ödev ve Kopernik Devrimi (1724–1804)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Epistemolojik Devrim: Bilginin Sınırları",
+      "body": "Kant, David Hume'un kendisini \"dogmatik uykusundan uyandırdığını\" söyler. Hume nedenselliği yıktığında, bilim de sarsılmıştı. Kant bunu dâhiyane bir fikirle çözdü.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fenomen ve Numen",
+          "text": "Biz dünyayı olduğu gibi (kendinde şey / noumenon) değil, zihnimizin filtrelerinden geçtiği haliyle (görüngü / phenomenon) algılarız."
+        },
+        {
+          "label": "Zihnin Kalıpları",
+          "text": "Uzay, zaman ve nedensellik dışarıda bulunan nesneler değil, zihnimizin içine yerleştirilmiş \"gözlüklerdir.\" Bilgi, duyulardan gelen hammaddenin zihindeki 12 Kategori tarafından işlenmesiyle oluşur."
+        }
+      ]
+    },
+    {
+      "title": "Ahlakın Yasası: Kategorik Buyruk",
+      "body": "Kant, ahlakı ne Tanrı korkusuna ne de (Hutcheson ve Smith'in dediği gibi) değişken duygulara dayandırır. Ahlak, Saf Akıl'ın bir gereğidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ödev Ahlakı",
+          "text": "Bir eylem, sadece \"ödev\" duygusuyla yapıldığında ahlakidir. Sonucu ne olursa olsun, niyet önemlidir."
+        },
+        {
+          "label": "Kategorik Buyruk",
+          "text": "\"Öyle bir ilkeye göre hareket et ki, bu ilke aynı zamanda evrensel bir yasa haline gelebilsin.\" Yani, yalan söylemeden önce şunu sor: \"Dünyadaki herkes yalan söyleseydi ne olurdu?\" Eğer sistem çöküyorsa, o eylem ahlaksızdır."
+        }
+      ]
+    },
+    {
+      "title": "Aydınlanma Nedir?: Sapere Aude!",
+      "body": "Kant'a göre Aydınlanma, \"insanın kendi suçuyla düşmüş olduğu bir ergin olmama durumundan kurtulmasıdır.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aklını Kullanma Cesareti Göster",
+          "text": "İnsan, bir başkasının (kilise, kral, kitap) rehberliğine ihtiyaç duymadan kendi aklıyla düşünmeye başlamalıdır. Ancak bu, mutlak bir başkaldırı değil; \"kamusal alanda özgürce düşün, ama görevini yerine getirirken itaat et\" diyen bir dengedir."
+        }
+      ]
+    },
+    {
+      "title": "Estetik ve Amaçlılık: Yargı Yetisinin Eleştirisi",
+      "body": "Doğadaki o muazzam düzeni (fizik) ve insanın özgürlüğünü (ahlak) nasıl birleştireceğiz? Cevap: Estetik.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yüce ve Güzel",
+          "text": "Sanat eseri, karşılıksız bir haz verir. Doğadaki güzellik, bize evrenin sanki bir \"amacı\" varmış gibi hissettirir; bu da doğa ile özgürlük arasındaki köprüdür."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Felsefenin Temeli",
+      "text": "Kant'tan sonra gelen her filozof (Hegel, Schopenhauer, Nietzsche) ya ona bir cevap yazmış ya da onun çizdiği sınırlar içinde kalmıştır."
+    },
+    {
+      "title": "İnsan Onuru",
+      "text": "İnsanı asla bir \"araç\" olarak değil, her zaman bir \"amaç\" olarak görmemiz gerektiğini söyleyerek modern insan haklarının en güçlü felsefi zeminini kurmuştur."
+    },
+    {
+      "title": "Barış Vizyonu",
+      "text": "Ebedi Barış Üzerine denemesiyle, bugünkü Birleşmiş Milletler tarzı uluslararası bir örgütlenmenin ilk hayalini kurmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Katılık",
+      "text": "Onun ahlak yasası bazen insan doğasına aykırı derecede serttir. (Örneğin; bir katilden saklanan dostunuzun yerini, \"yalan söylemek evrensel bir yasa olamaz\" diyerek söylemeniz gerektiğini savunan yorumları mevcuttur)."
+    },
+    {
+      "title": "Erişilmez \"Kendinde Şey\"",
+      "text": "Gerçekliğin özünü asla bilemeyeceğimizi söylemesi, insanı bir \"zihinsel hapishane\" içine bırakır ve metafizik merakı tatminsiz bırakır."
+    },
+    {
+      "title": "Kuru Üslup",
+      "text": "Yazıları o kadar ağır ve tekniktir ki, \"Alman profesör dili\"nin o boğucu geleneğini adeta o başlatmıştır."
+    }
+  ]
+}

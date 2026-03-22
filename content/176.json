@@ -1,0 +1,86 @@
+{
+  "subtitle": "Monadlar ve Önceden Kurulmuş Uyum (1646–1716)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Monadoloji: Evrenin Atomları Ruhsaldır",
+      "body": "Leibniz, maddenin sonuna kadar bölünebileceğini reddeden atomculara ve maddeyi sadece yer kaplayan bir yığın gören Kartezyenlere karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Monad",
+          "text": "Evrenin temel yapı taşı fiziksel değil, ruhsal birer kuvvettir. Monadlar bölünemez, yok edilemez ve \"penceresizdir\" (dışarıdan hiçbir şey içeri giremez veya içeriden dışarı çıkamaz)."
+        },
+        {
+          "label": "Yansıma",
+          "text": "Her bir monad, tüm evreni kendi bakış açısından yansıtan küçük bir aynadır."
+        }
+      ]
+    },
+    {
+      "title": "Önceden Kurulmuş Uyum (Harmonia Praestabilita)",
+      "body": "Eğer monadların pencereleri yoksa, birbirleriyle nasıl etkileşime girerler? Ruh ve beden nasıl uyum içindedir?",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İki Saat Metaforu",
+          "text": "Leibniz, Tanrı'yı evrenin başındaki \"Yüce Saatçi\" olarak görür. Ruh ve beden, birbirini etkilediği için değil; Tanrı tarafından en başta birbirine mükemmel şekilde ayarlanmış iki saat gibi aynı anda hareket ettikleri için uyumludurlar."
+        }
+      ]
+    },
+    {
+      "title": "Mümkün Dünyaların En İyisi (Teodise)",
+      "body": "Dünyadaki bunca kötülük varken Tanrı nasıl iyi olabilir?",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Matematiksel Seçim",
+          "text": "Tanrı, sonsuz sayıdaki mümkün dünya senaryosu içinden, \"en az kötülükle en çok iyiliğin\" elde edilebileceği dünyayı seçmiştir. Kötülük, bütünsel bir uyumun içindeki küçük bir gölge veya bir resimdeki kontrast gibidir. (Bu fikir daha sonra Voltaire tarafından Candide eserinde fena halde alaya alınacaktır)."
+        }
+      ]
+    },
+    {
+      "title": "Matematik ve Mantık: Kalkülüsün Doğuşu",
+      "body": "Newton ile girdiği o meşhur öncelik kavgasının diğer tarafıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Diferansiyel ve İntegral",
+          "text": "Bugün kullandığımız matematiksel sembollerin (dx/dy gibi) neredeyse tamamı Leibniz'e aittir."
+        },
+        {
+          "label": "Binary (İkilik) Sistem",
+          "text": "0 ve 1 sistemini geliştirerek modern bilgisayar mantığının temelini atmıştır. Evrensel bir dil (Characteristica Universalis) hayal ederek, tüm tartışmaların \"Hadi hesaplayalım!\" denilerek çözülmesini istemiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Evrensel Metot",
+      "text": "Matematiği, mantığı ve felsefeyi tek bir çatı altında birleştirme çabası, modern bilimsel bütünlüğün en büyük ilhamıdır."
+    },
+    {
+      "title": "Süreklilik İlkesi",
+      "text": "\"Doğa sıçrama yapmaz\" (Natura non facit saltus) diyerek evrendeki her şeyin bir süreklilik içinde olduğunu savunması, kalkülüsün ve biyolojik evrimin zeminidir."
+    },
+    {
+      "title": "Hukuk ve Diplomasi",
+      "text": "Mezhepler arası barışı ve Avrupa birliğini savunan erken dönem bir siyasi vizyonerdir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Metafizik",
+      "text": "Monadlar gibi duyularla asla doğrulanamayacak bir temel birim üzerine her şeyi inşa etmesi, onu ampiristlerin (deneycilerin) kolay bir hedefi haline getirmiştir."
+    },
+    {
+      "title": "Kötülük Problemi",
+      "text": "Dünyadaki acıları \"en iyi dünya\" senaryosuyla meşrulaştırmaya çalışması, gerçek insani trajediler karşısında bazen duygusuz ve akademik bir savunma gibi kalmıştır."
+    },
+    {
+      "title": "Dağınıklık",
+      "text": "O kadar çok şeyle ilgilenmiş ve o kadar çok mektup yazmıştır ki, fikirleri binlerce sayfalık dağınık metinler arasına yayılmıştır."
+    }
+  ]
+}

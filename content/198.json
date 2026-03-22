@@ -1,0 +1,75 @@
+{
+  "subtitle": "Doğa Sistemi ve Zincirsiz Akıl (1723–1789)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Système de la Nature (Doğa Sistemi)",
+      "body": "1770'te yayımlanan bu eser, \"Ateistlerin İncili\" olarak bilinir. O dönemde o kadar büyük bir şok yaratmıştır ki, Voltaire bile bu kitabın \"fazla ileri gittiğini\" söyleyerek d'Holbach'ı eleştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Madde ve Hareket",
+          "text": "D'Holbach'a göre evrende maddeden ve onun ezeli hareketi dışında hiçbir şey yoktur. \"Ruh\" dediğimiz şey, vücudun işleyişinden başka bir şey değildir."
+        },
+        {
+          "label": "Nedensellik Zinciri",
+          "text": "Evren, kırılmaz bir sebep-sonuç zinciriyle bağlıdır. Tesadüf yoktur, sadece bizim bilmediğimiz nedenler vardır."
+        }
+      ]
+    },
+    {
+      "title": "Dinin Kökeni: Korku ve Cehalet",
+      "body": "D'Holbach, dinin insanların doğa olayları karşısındaki korkusundan ve bilgisizliğinden doğduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zihin Hapishanesi",
+          "text": "Ona göre din, tiranların halkı köleleştirmek için kullandığı bir araçtır. İnsanlar \"öte dünya\" ile korkutulurken, bu dünyadaki haklarından vazgeçmeye ikna edilirler."
+        },
+        {
+          "label": "Seküler Ahlak",
+          "text": "Ahlakın dine ihtiyacı yoktur. Erdemli olmak için bir Tanrı'ya değil, \"toplumun mutluluğuna katkı sağlamanın kendi çıkarımıza olduğunu\" anlamaya ihtiyacımız vardır."
+        }
+      ]
+    },
+    {
+      "title": "Evrensel Determinizm",
+      "body": "İnsanın özgür iradesi olduğu fikrine şiddetle karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Düşen Taş ve İnsan",
+          "text": "\"Havada uçan bir toz zerresi de, bir imparatorun kararları da aynı fizik yasalarına tabidir.\" İnsan, doğanın içinde bir varlıktır ve fiziksel dürtülerinin (haz ve acı) dışına çıkamaz."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Düşünce Özgürlüğünün Sınırı",
+      "text": "Tabu olan her şeyi (Tanrı, ruh, kralın ilahi hakkı) açıkça tartışmaya açarak Aydınlanma'nın entelektüel sınırlarını en uç noktaya taşımıştır."
+    },
+    {
+      "title": "Bilimsel Dünya Görüşü",
+      "text": "Evreni doğaüstü güçlerden arındırıp tamamen fiziksel yasalarla açıklama çabası, modern bilimsel materyalizmin temel taşıdır."
+    },
+    {
+      "title": "Hümanist Ateizm",
+      "text": "İnsanın mutluluğunu gökyüzünden yeryüzüne indirmiş; adaleti ve refahı toplumsal bir görev olarak tanımlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Özgürlüğün Yok Oluşu",
+      "text": "Katı determinizmi (belirlenimcilik), insanın değişim yaratma gücünü ve ahlaki sorumluluğunu açıklamakta büyük zorluklar yaratır. Eğer her şey önceden belirlenmişse, \"iyilik\" yapmanın ne anlamı kalır?"
+    },
+    {
+      "title": "İndirgemecilik",
+      "text": "Sanatı, aşkı ve bilinci sadece \"atomların çarpışması\" olarak görmesi, insan deneyiminin öznel zenginliğini ve anlam arayışını tatmin etmekten uzaktır."
+    },
+    {
+      "title": "Seçkinci Devrim",
+      "text": "Halkın cehaletine o kadar çok vurgu yapmıştır ki, bazen halkı \"kurtarılması gereken bir sürü\" olarak gören elitist bir tavır takınmıştır."
+    }
+  ]
+}

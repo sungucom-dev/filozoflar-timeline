@@ -1,0 +1,85 @@
+{
+  "subtitle": "Mantığın İsyancısı ve Şematik Dünyanın Mimarı (1515–1572)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Aristoteles'e Büyük Başkaldırı",
+      "body": "Ramus'un akademik kariyeri, 1536 yılında verdiği o meşhur ve sarsıcı tezle başlar: \"Aristoteles'in söylediği her şey uydurmadır!\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dogma Yıkıcılığı",
+          "text": "Bin yıllık Aristoteles otoritesini tek bir hamlede reddetmiştir. Ona göre Aristoteles'in mantığı (Organon) gereksiz bir labirentten başka bir şey değildir."
+        },
+        {
+          "label": "Sadelik Tutkusu",
+          "text": "Karmaşık tasım (syllogism) kurallarını çöpe atıp, mantığın tek amacının \"açık ve anlaşılır düşünmek\" olduğunu savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Ramist Yöntem: Dikotomi (İkili Bölünme)",
+      "body": "Ramus, bilginin bir ağaç gibi sürekli ikiye bölünerek (dichotomy) organize edilmesi gerektiğini savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şematik Zihin",
+          "text": "Bir konuyu önce ikiye böler, sonra o iki parçayı da kendi içinde ikiye böler... Bu yöntem, karmaşık bilgilerin öğrenciler tarafından kolayca ezberlenmesini sağlamıştır."
+        },
+        {
+          "label": "Görsel Mantık",
+          "text": "Ramus, mantığı \"duyulan\" bir tartışma sanatı olmaktan çıkarıp, kağıt üzerinde \"görülen\" bir şema haline getirmiştir. Bugün kullandığımız pek çok akış şemasının atasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Diyalektik ve Retoriğin Ayrılması",
+      "body": "Ramus, klasik eğitim sistemini (Trivium) temelinden sarsan bir cerrahi müdahale yapmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Görev Bölümü",
+          "text": "Diyalektiği (mantığı) sadece \"bulma ve düzenleme\" ile sınırlamıştır. Retoriği (hitabeti) ise sadece \"süsleme ve üslup\" alanına hapsetmiştir."
+        },
+        {
+          "label": "Etki",
+          "text": "Bu ayrım, felsefeyi daha \"teknik ve kuru\" bir hale getirirken, bilimsel dilin daha doğrudan ve sadeleşmesine de kapı açmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Trajik Son: Aziz Bartolomeu Yortusu Katliamı",
+      "body": "Ramus sadece bir mantıkçı değil, aynı zamanda bir Protestan (Huguenot) idi. 1572 yılındaki o kanlı katliamda, akademik rakiplerinin de kışkırtmasıyla feci şekilde can vermiştir. O, fikirleri uğruna sadece kürsüsünü değil, hayatını da feda etmiştir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Eğitimin Demokratikleşmesi",
+      "text": "Bilgiyi şemalaştırarak daha kolay öğrenilebilir hale getirmiş, eğitimin sadece bir avuç seçkinin değil, geniş kitlelerin ulaşabileceği bir yapıya kavuşmasını sağlamıştır."
+    },
+    {
+      "title": "Yöntem Bilinci",
+      "text": "Descartes'ın meşhur \"Yöntem\"ine giden yolun taşlarını döşemiştir. Zihnin disipline edilmesi gerektiğini vurgulamıştır."
+    },
+    {
+      "title": "Matematiksel Yaklaşım",
+      "text": "Mantığı matematiksel bir kesinlik ve görsel bir düzenle ele alması, modern bilişim ve organizasyon teorilerinin öncülüdür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Basitleştirme",
+      "text": "Her şeyi \"ikiye bölerek\" açıklama takıntısı, hayatın ve düşüncenin o karmaşık ve çok boyutlu yapısını bazen göz ardı etmesine neden olmuştur. \"Ramizm\" bazen \"ezberciliğin\" bir başka adı haline gelmiştir."
+    },
+    {
+      "title": "Derinlik Kaybı",
+      "text": "Aristoteles'i yıkarken, onun sunduğu o muazzam metafizik derinliği ve nüansları da beraberinde götürmüştür."
+    },
+    {
+      "title": "Kaskatı Disiplin",
+      "text": "Kurduğu sistem o kadar \"kapalı\" bir yapıdadır ki, yeni ve şemaya uymayan fikirlere pek alan tanımaz."
+    }
+  ]
+}

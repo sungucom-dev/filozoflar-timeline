@@ -1,0 +1,75 @@
+{
+  "subtitle": "Sosyallik ve Görevlerin Uyumu (1632–1694)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Socialitas (Sosyallik): İnsanın Temel İhtiyacı",
+      "body": "Pufendorf, Hobbes'un \"insan insanın kurdudur\" karamsarlığı ile Grotius'un \"insan doğuştan sosyaldir\" iyimserliğini sentezler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Acizlik ve İhtiyaç",
+          "text": "İnsan tek başına hayatta kalamayacak kadar acizdir (imbecillitas), ancak başkalarıyla iş birliği yapabilecek kadar akıllıdır."
+        },
+        {
+          "label": "Hukukun Temeli",
+          "text": "Doğa hukukunun en temel kuralı, \"insanın sosyal bir varlık olarak başkalarıyla barış içinde yaşaması\"dır. Hukuk, Tanrı'dan ziyade bu dünyevi zorunluluktan doğar."
+        }
+      ]
+    },
+    {
+      "title": "De Jure Naturae et Gentium (Doğa ve Uluslar Hukuku Üzerine)",
+      "body": "1672'de yayımlanan bu devasa eser, modern hukuk sistemlerinin el kitabı olmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Devletin Doğuşu",
+          "text": "Devletin, insanların bir araya gelip iki aşamalı bir sözleşme yapmasıyla oluştuğunu savunur: Önce bir \"toplum\" kurmak, sonra bu toplumu yönetecek bir \"hükümet\" belirlemek."
+        },
+        {
+          "label": "Görevler Hiyerarşisi",
+          "text": "İnsanın görevlerini üçe ayırır: Tanrı'ya karşı görevler, kendine karşı görevler ve başkalarına karşı görevler. Bu, bireysel ahlak ile toplumsal hukuku birleştiren bir yapıdır."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Onuru (Dignitas)",
+      "body": "Pufendorf, modern \"insan onuru\" kavramını hukuki bir zeminde tanımlayan ilk düşünürlerden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eşitlik",
+          "text": "Her insan, sırf \"insan olduğu için\" doğuştan gelen bir onura sahiptir ve bu onur her türlü siyasi otoritenin önündedir. Bu fikir, yaklaşık bir asır sonra Kant'ın ahlak felsefesinin kalbine yerleşecektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Hukukun Laikleşmesi",
+      "text": "Hukuku teolojiden (ilahiyattan) ayırarak, rasyonel ve her inançtan insanın kabul edebileceği evrensel bir bilim haline getirmiştir."
+    },
+    {
+      "title": "Modern Müfredat",
+      "text": "Fikirleri Avrupa çapında tüm hukuk fakültelerinde okutulmuş; Amerikan Bağımsızlık Bildirgesi'ni yazan isimleri (Jefferson vb.) derinden etkilemiştir."
+    },
+    {
+      "title": "Denge Siyaseti",
+      "text": "Özgürlük ile otoriteyi, birey ile toplumu uzlaştıran makul bir orta yol bulmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Görev Odaklılık",
+      "text": "Haklardan (rights) ziyade görevlere (duties) odaklanması, bireyin devlet karşısındaki konumunu bazen fazla \"itaatkar\" bir hale getirebilir."
+    },
+    {
+      "title": "Devlet Otoritesine Bağlılık",
+      "text": "Her ne kadar doğal haklardan bahsetse de, toplumsal düzeni korumak adına mutlakiyetçi yönetimlere (özellikle İsveç ve Prusya saraylarına) yakın durmuş ve bazen onların politikalarını meşrulaştırmıştır."
+    },
+    {
+      "title": "Karmaşık Üslup",
+      "text": "Eserleri o kadar kapsamlı ve ayrıntılıdır ki, Leibniz gibi çağdaşları tarafından bazen \"ayrıntılarda boğulmakla\" eleştirilmiştir."
+    }
+  ]
+}

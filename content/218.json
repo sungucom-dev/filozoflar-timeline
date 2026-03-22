@@ -1,0 +1,85 @@
+{
+  "subtitle": "İroni, Fragman ve Evrensel Şiir (1772–1829)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Romantik İroni (Romantische Ironie)",
+      "body": "Schlegel için ironi sadece bir şaka değil, en yüksek felsefi duruştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yarat ve Yık",
+          "text": "Sanatçı bir eser yaratır (coşku), sonra o eserin dışına çıkıp ona tepeden bakar ve onun sınırlılığını fark eder (ironi)."
+        },
+        {
+          "label": "Sonsuz Oyun",
+          "text": "İnsan sürekli bir şeyler inşa eder ama evrenin sonsuzluğu karşısında bu yaptıklarının bir \"oyun\" olduğunu bilmelidir. İroni, bizi kendi ciddiyetimizin hapishanesinden kurtaran o özgürleştirici güçtür."
+        }
+      ]
+    },
+    {
+      "title": "Fragman (Parça) Felsefesi",
+      "body": "Schlegel, devasa ve kapalı felsefi sistemlerden nefret ederdi. Ona göre hakikat o kadar büyüktür ki, ancak \"parçalar\" (fragmanlar) halinde ifade edilebilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tamamlanmamışlık",
+          "text": "Bir fragman, kendi içinde bir bütündür ama aynı zamanda başka düşüncelere açılan bir kapıdır. Tıpkı bir kirpi gibi; dışarıya karşı kapalı ama her yöne oklar fırlatan bir yapı."
+        },
+        {
+          "label": "Okuyucunun Katılımı",
+          "text": "Fragman, okuyucuyu düşünmeye zorlar. Yazar her şeyi söylemez; boşlukları okuyucunun doldurmasını bekler."
+        }
+      ]
+    },
+    {
+      "title": "İlerlemeci Evrensel Şiir (Progressive Universalpoesie)",
+      "body": "Schlegel'in meşhur 116. Fragmanı'nda tanımladığı bu kavram, Romantizm'in manifestosudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sınırları Yıkmak",
+          "text": "Şiir; felsefe, retorik, sanat ve hayat ile birleşmelidir."
+        },
+        {
+          "label": "Sonsuz Oluş",
+          "text": "Bu şiir asla \"tamamlanmış\" değildir. O sürekli \"oluş\" halindedir (becoming). Sanatçı, dünyayı her an yeniden hayal etmeli ve genişletmelidir."
+        }
+      ]
+    },
+    {
+      "title": "Filoloji ve Tarih",
+      "body": "Schlegel sadece bir edebiyatçı değil, aynı zamanda Hint-Avrupa dilleri üzerine yaptığı çalışmalarla (Sanskritçe tutkusu) dilbilimin temellerini atanlardandır. Geç döneminde ise daha muhafazakâr bir çizgiye kaymış, Katolikliğe geçerek felsefeyi tarihsel ve dini bir düzleme oturtmaya çalışmıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Eleştirinin Doğuşu",
+      "text": "Eleştiriyi sadece bir \"değerlendirme\" değil, eseri yeniden yaratan bir \"sanat dalı\" haline getirmiştir."
+    },
+    {
+      "title": "Açık Yapı",
+      "text": "Sanatın ve düşüncenin \"asla bitmemesi\" gerektiğini savunarak, modern ve post-modern sanatın (meta-kurmaca, kolaj vb.) önünü açmıştır."
+    },
+    {
+      "title": "Kültürlerarası Vizyon",
+      "text": "Doğu ve Batı bilgeliği arasında (Sanskrit çalışmalarıyla) kurduğu köprüler, Avrupa merkezli bakış açısını esnetmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistemsizlik",
+      "text": "Fragmanlara olan takıntısı, bazen düşüncelerinin \"dağınık\" ve \"uçucu\" kalmasına neden olmuştur. Bir şeyi tam olarak inşa etmeden diğerine geçmesi, takip edilmesini zorlaştırır."
+    },
+    {
+      "title": "Radikal Değişimler",
+      "text": "Gençliğindeki o isyancı ve özgürlükçü Romantik ruhun, yaşlılığında yerini kaskatı bir Katolik muhafazakârlığa bırakması, birçok takipçisi tarafından bir \"hayal kırıklığı\" olarak görülür."
+    },
+    {
+      "title": "Aşırı Entelektüalizm",
+      "text": "İronisi ve teorileri o kadar sofistike ve kurgusaldır ki; bazen hayatın o kaba, duygusal ve çıplak gerçekliğinden kopuk bir \"zihin oyununa\" dönüşebilir."
+    }
+  ]
+}

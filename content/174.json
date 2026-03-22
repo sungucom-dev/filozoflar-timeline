@@ -1,0 +1,75 @@
+{
+  "subtitle": "Vesilecilik ve Tanrısal Görüş (1638–1715)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Okasyonalizm (Vesilecilik): Gerçek Neden Tanrı'dır",
+      "body": "Malebranche, fiziksel nesnelerin birbirini etkileyemeyeceğini savunur. Bir bilardo topu diğerine çarptığında onu hareket ettiren şey ilk top değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vesile (Occasion)",
+          "text": "Bir topun diğerine çarpması, Tanrı'nın o noktada ikinci topu hareket ettirmesi için sadece bir \"vesile\"dir."
+        },
+        {
+          "label": "Tek Fail",
+          "text": "Evrendeki tek gerçek güç Tanrı'dır. Doğa yasaları, Tanrı'nın iradesinin düzenli ve sürekli tekrarlanmasından başka bir şey değildir."
+        }
+      ]
+    },
+    {
+      "title": "\"Her Şeyi Tanrı'da Görmek\"",
+      "body": "Locke zihnin boş bir levha olduğunu söylerken, Malebranche bilginin kaynağını tamamen farklı bir yere koyar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zihinsel Vizyon",
+          "text": "Biz nesnelerin kendisini değil, Tanrı'daki \"ideal\" suretlerini görürüz. Zihnimiz Tanrı'ya o kadar yakındır ki, bilgilerimiz doğrudan ilahi olandan gelir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu yaklaşım, Platon'un idealar dünyasını Kartezyen fizik ile birleştirme çabasıdır."
+        }
+      ]
+    },
+    {
+      "title": "De la recherche de la vérité (Hakikatin Araştırılması)",
+      "body": "En büyük eseri olan bu kitapta, zihnimizin düştüğü hataları analiz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duyuların Aldatıcılığı",
+          "text": "Duyular bize nesnelerin \"hakikatini\" değil, sadece bedenimizi korumamız için gerekli olan \"faydalı\" bilgileri verir. Gerçek bilgi için akla ve Tanrı'ya yönelmek şarttır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Zihin-Beden Sorununa Çözüm",
+      "text": "Descartes'ın bıraktığı o büyük boşluğu (ruh bedeni nasıl hareket ettirir?) ilahi bir müdahaleyle açıklayarak dönemi için en tutarlı teolojik-felsefi sistemi kurmuştur."
+    },
+    {
+      "title": "Psikolojiye Katkı",
+      "text": "Duyguların ve algıların işleyişi üzerine yaptığı derin analizler, daha sonra Hume ve Berkeley gibi devleri etkilemiştir."
+    },
+    {
+      "title": "Zarafet ve Üslup",
+      "text": "Fransız felsefe dilini en duru ve estetik şekilde kullanan yazarlardan biridir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İnsan Özgürlüğü Çıkmazı",
+      "text": "Eğer her şeyin tek nedeni Tanrı ise, insanın eylemlerinden sorumlu olması ve \"özgür iradesi\" nasıl mümkün olabilir? Bu soru onun sistemindeki en büyük gediktir."
+    },
+    {
+      "title": "Aşırı Teosantrizm (Tanrı Merkezcilik)",
+      "text": "Bilimi ve doğayı o kadar çok Tanrı'ya bağlamıştır ki, bu durum bağımsız bilimsel araştırmaların alanını daraltma riski taşır."
+    },
+    {
+      "title": "Mistisizme Kayış",
+      "text": "Akılcı bir sistem kurmaya çalışırken, sonunda her şeyi \"ilahi bir vizyona\" bağlaması, rasyonalistleri tam anlamıyla tatmin etmemiştir."
+    }
+  ]
+}

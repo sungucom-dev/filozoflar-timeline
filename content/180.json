@@ -1,0 +1,86 @@
+{
+  "subtitle": "Ahlak Duyusu ve Evrensel Harmoni (1671–1713)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Moral Sense (Ahlak Duyusu): İçsel Pusula",
+      "body": "Shaftesbury'ye göre ahlak, ne tanrısal bir korkuya ne de bencil bir çıkar hesabına dayanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğuştan Gelen Beğeni",
+          "text": "Tıpkı güzel bir tabloyu veya uyumlu bir melodiği gördüğümüzde aldığımız o doğal haz gibi, erdemli bir davranışı gördüğümüzde de içsel bir onay duyarız."
+        },
+        {
+          "label": "Güzellik ve İyilik",
+          "text": "\"Güzellik ve iyilik birdir\" der. Ahlak, ruhun kendi içindeki ve evrenle olan uyumudur. Erdem, insanın kendi doğasına en uygun olanı yapmasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Mandeville ve Hobbes'a Reddiye",
+      "body": "Shaftesbury, döneminin o meşhur \"insan bencildir\" ekolüne en zarif savaşı açan kişidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sosyal Dürtü",
+          "text": "İnsanın sadece bencil değil, aynı zamanda doğal olarak \"sosyal\" ve \"şefkatli\" bir varlık olduğunu savunur. Toplum, zorla yapılan bir sözleşme değil, insanın doğal eğilimlerinin bir sonucudur."
+        },
+        {
+          "label": "Analiz",
+          "text": "Mandeville \"özel kusurlar kamusal yarardır\" derken, Shaftesbury \"özel erdemler evrensel harmoniye hizmet eder\" diyerek yanıt verir."
+        }
+      ]
+    },
+    {
+      "title": "Sensus Communis: Ortak Duygu ve Mizah",
+      "body": "Ona göre hakikati bulmanın yolu sadece kaskatı mantık değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mizahın Gücü",
+          "text": "\"Ciddiyet bazen hatanın maskesidir\" diyerek, fikirlerin doğruluğunu test etmek için \"mizah ve alay\" (raillery) yöntemini önerir. Eğer bir fikir alay edildiğinde yıkılıyorsa, içinde bir sahtelik barındırıyor demektir. Hakikat ise gülümseme karşısında bile dimdik durur."
+        }
+      ]
+    },
+    {
+      "title": "Deizm ve Doğal Din",
+      "body": "Shaftesbury, dogmatik dinin yerine \"doğal bir hayranlık\" koyar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrenin Mimarı",
+          "text": "Tanrı'yı cezalandıran bir yargıç değil, evrendeki o muazzam uyumu kuran \"Yüce Sanatçı\" olarak görür. Dindarlık, bu kozmik sanatı takdir etmek ve ona uyum sağlamaktır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Estetik ve Ahlakın Birleşimi",
+      "text": "Sanat ve ahlakı birbirine bağlayarak, Alman İdealizmi (Schiller, Goethe) ve Romantizm akımlarının en büyük ilham kaynağı olmuştur."
+    },
+    {
+      "title": "Pozitif İnsan Tanımı",
+      "text": "İnsanın içindeki \"iyi\" potansiyeli vurgulayarak, modern psikolojideki hümanist yaklaşımların felsefi temelini atmıştır."
+    },
+    {
+      "title": "Hoşgörü ve Centilmenlik",
+      "text": "Felsefeyi kavgadan çıkarıp bir \"beyefendi sohbeti\" kıvamına getirmiş, nezaketi bir erdem olarak tanımlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aristokratik İyimserlik",
+      "text": "Onun \"doğal uyum\" ve \"ahlak duyusu\" fikirleri, açlık ve sefalet içinde yaşayan halk tabakası için fazla \"pembe\" ve elitist bir dünya görüşü olarak kalabilir."
+    },
+    {
+      "title": "Kötülük Problemi",
+      "text": "Evrendeki her şeyi \"uyum\" olarak görmesi, dünyadaki gerçek acıları ve trajedileri açıklamakta zorlanmasına neden olur."
+    },
+    {
+      "title": "Yöntemsel Belirsizlik",
+      "text": "Ahlakı bir \"beğeni\" ve \"duyu\" meselesi yapması, nesnel ahlaki kuralların nasıl belirleneceği konusunda bir belirsizlik yaratır (Zevkler tartışılır mı?)."
+    }
+  ]
+}

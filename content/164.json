@@ -1,0 +1,90 @@
+{
+  "subtitle": "Herkese, Her Şeyi, Her Şekilde Öğretmek (1592–1670)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Didactica Magna (Büyük Didaktika)",
+      "body": "Comenius'un bu başyapıtı, modern pedagojinin anayasasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pansofizm (Evrensel Bilgelik)",
+          "text": "\"Herkese her şeyi öğretmek\" (Omnes, omnia, omnino) ilkesini savunur. Bilginin parçalı değil, bir bütün olması gerektiğini ve bu bütünün her insana ulaştırılması gerektiğini söyler."
+        },
+        {
+          "label": "Doğal Yöntem",
+          "text": "Öğrenmenin bir işkence değil, doğanın akışına uygun (kolaydan zora, somuttan soyuta) bir süreç olması gerektiğini vurgular."
+        }
+      ]
+    },
+    {
+      "title": "Orbis Sensualium Pictus (Resimli Dünya)",
+      "body": "Çocuklar için hazırlanan tarihin ilk resimli ders kitabıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Görsel Hafıza",
+          "text": "Kelimelerin sadece kuru tanımlarla değil, resimlerle ve duyularla öğrenilmesi gerektiğini keşfetmiştir."
+        },
+        {
+          "label": "Devrim",
+          "text": "Bu kitap, eğitimin \"ezberci\" yapısından \"görsel ve duyusal\" yapısına geçişin miladıdır."
+        }
+      ]
+    },
+    {
+      "title": "Eğitimde Fırsat Eşitliği",
+      "body": "Kendi yüzyılı için inanılmaz radikal bir duruş sergilemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kız Çocukları ve Yoksullar",
+          "text": "Eğitimin cinsiyet veya sınıf ayrımı gözetmeksizin evrensel olması gerektiğini savunmuştur."
+        },
+        {
+          "label": "Anadil Eğitimi",
+          "text": "Latincenin kutsallığına karşı, çocukların önce kendi ana dillerini, sonra yabancı dilleri öğrenmesi gerektiğini söylemiştir."
+        }
+      ]
+    },
+    {
+      "title": "Barış İçin Eğitim",
+      "body": "Comenius, Otuz Yıl Savaşları nedeniyle ömrünü sürgünde geçirmiş biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Kardeşlik",
+          "text": "Ona göre savaşların nedeni cehalettir. Eğer tüm insanlar aynı evrensel bilgilerle donatılırsa, aralarındaki çatışmalar sona erecek ve dünya bir \"ışık krallığına\" dönüşecektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Pedagojinin Temeli",
+      "text": "Sınıf sistemi, ders kitapları, resimli eğitim ve yaşa göre müfredat gibi bugün kanıksadığımız her şeyin mucididir."
+    },
+    {
+      "title": "Hümanizmin Zirvesi",
+      "text": "Eğitimi bir \"insan hakları\" meselesi olarak konumlandırarak demokratik eğitimin temellerini atmıştır."
+    },
+    {
+      "title": "Bütüncül Bakış",
+      "text": "Bilgiyi sadece uzmanlaşmak için değil, \"iyi bir insan\" olmak için gerekli bir araç olarak görmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Ansiklopedik Tutku",
+      "text": "\"Her şeyi herkese öğretme\" tutkusu, müfredatın aşırı yüklenmesine ve derinlik kaybına neden olabilir."
+    },
+    {
+      "title": "Dini Temeller",
+      "text": "Ne kadar modern olursa olsun, tüm sistemini teolojik bir amaç üzerine (Tanrı'yı bilmek) kurmuştur. Bu durum, laik eğitim anlayışı için bazı kısıtlamalar yaratabilir."
+    },
+    {
+      "title": "Trajik Yalnızlık",
+      "text": "Fikirleri o kadar ileriydi ki, yaşadığı dönemde tam anlamıyla uygulanma şansı bulamadı; gerçek etkisi 19. ve 20. yüzyıllarda hissedildi."
+    }
+  ]
+}

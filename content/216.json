@@ -1,0 +1,90 @@
+{
+  "subtitle": "Diyalektik, Tin ve Tarihin Sonu (1770–1831)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Diyalektik Yöntem: Çelişkinin Gücü",
+      "body": "Hegel denince akla gelen ilk şey diyalektiktir. Ancak o bunu basit bir formüle indirgemez; o buna \"Aufhebung\" (Aşarak Muhafaza Etme) der.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Süreç",
+          "text": "Bir fikir (Tez), kendi içindeki çelişkiyi doğurur (Antitez). Bu iki zıtlık çatışır ve sonunda her ikisini de kapsayan ama her ikisinden de üstün olan daha yüksek bir birliğe (Sentez) ulaşılır."
+        },
+        {
+          "label": "Hareket",
+          "text": "Gerçeklik durağan değildir; çelişki, tarihin ve düşüncenin motorudur. Çelişki yoksa, yaşam ve ilerleme de yoktur."
+        }
+      ]
+    },
+    {
+      "title": "Mutlak Tin (Weltgeist): Evrenin Kendini Tanıma Hikayesi",
+      "body": "Hegel'in felsefesinde her şeyin temelinde \"Geist\" (Tin/Ruh/Akıl) yatar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tarihsel Yürüyüş",
+          "text": "Tarih, \"Tin\"in kendi özgürlüğünün bilincine varma sürecidir. Başlangıçta Tin kendinden habersizdir; sanat, din ve felsefe aracılığıyla adım adım kendini tanır."
+        },
+        {
+          "label": "Dünya Tarihsel Bireyler",
+          "text": "Napolyon gibi figürler, \"Tin\"in amacına hizmet eden araçlardır. Hegel, Napolyon'u Jena'da gördüğünde onu \"at sırtındaki Dünya Ruhu\" olarak tanımlamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Efendi-Köle Diyalektiği: Tanınma Savaşı",
+      "body": "Fenomenoloji kitabının en meşhur kısmıdır. İnsan bilincinin nasıl oluştuğunu anlatır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanınma Arzusu",
+          "text": "İki bilinç karşılaştığında, her biri diğeri tarafından \"özgür bir varlık\" olarak tanınmak ister. Bu bir ölüm-kalım savaşına döner."
+        },
+        {
+          "label": "Paradoks",
+          "text": "Savaşı kazanan \"Efendi\", kaybeden \"Köle\" olur. Ancak zamanla köle, çalışarak ve doğayı dönüştürerek dünyayı ve kendini tanırken; efendi, kölenin emeğine bağımlı hale gelerek gerçek özgürlüğünü yitirir. Sonuçta özgürlük, kölenin emeğinden doğar."
+        }
+      ]
+    },
+    {
+      "title": "Devlet ve Özgürlük",
+      "body": "Hegel için devlet, \"yeryüzündeki tanrısal bir fikir\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Etik Yaşam (Sittlichkeit)",
+          "text": "Özgürlük, sadece bireyin canının istediğini yapması değildir. Gerçek özgürlük, bireyin rasyonel yasaları olan bir devletin parçası olmasıyla mümkündür. Devlet, bireysel çıkarlar ile toplumsal birliğin sentezidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Tarihsel Bakış Açısı",
+      "text": "Fikirlerin, sanatın ve hukukun zamandan bağımsız olmadığını; her şeyin bir tarihsel gelişim ürünü olduğunu kanıtlayarak modern sosyal bilimleri (Sosyoloji, Tarih, Siyaset Bilimi) başlatmıştır."
+    },
+    {
+      "title": "Diyalektik Mantık",
+      "text": "Statik mantığı yıkıp süreci ve değişimi merkeze koyarak Marx'tan varoluşçuluğa kadar tüm modern felsefeyi etkilemiştir."
+    },
+    {
+      "title": "Bütünsel Sentez",
+      "text": "O zamana kadar parçalanmış olan tüm bilgi alanlarını tek bir sistem altında birleştirme cesaretini göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Obskürantizm (Anlaşılmazlık)",
+      "text": "Yazıları o kadar ağır ve terimlere boğulmuştur ki, Schopenhauer gibi rakipleri onu \"saf bir şarlatanlık ve kelime salatası\" ile suçlamıştır."
+    },
+    {
+      "title": "Devlet Tapıncı",
+      "text": "Prusya Devleti'ni \"tarihin zirvesi\" gibi görmesi, onun totaliter rejimlerin felsefi babası olarak suçlanmasına (örneğin Karl Popper tarafından) yol açmıştır."
+    },
+    {
+      "title": "Teleolojik Yanılgı",
+      "text": "Tarihin mutlaka rasyonel bir sona doğru gittiğini savunması, tarihteki anlamsız acıları ve rastlantıları açıklamakta zorlanır."
+    }
+  ]
+}

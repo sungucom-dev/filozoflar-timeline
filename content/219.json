@@ -1,0 +1,94 @@
+{
+  "subtitle": "Doğa, Özdeşlik ve Sanatın Gücü (1775–1854)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Doğa Felsefesi (Naturphilosophie)",
+      "body": "Schelling'in Fichte'den koptuğu ve felsefeye en büyük katkısını yaptığı yer burasıdır. Fichte için doğa sadece bir \"engel\" iken, Schelling için doğa canlı bir organizmadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ruh ve Doğa",
+          "text": "\"Doğa görünür ruhtur; ruh ise görünmez doğadır.\" Yani taş, bitki, hayvan ve insan; hepsi aynı \"Mutlak Ruh\"un farklı aşamalardaki tezahürleridir."
+        },
+        {
+          "label": "Organik Bütünlük",
+          "text": "Evren ölü bir makine değil, sürekli kendini yaratan, kutupluluk (artı-eksi) ve çekim yasalarıyla hareket eden bir bütündür."
+        }
+      ]
+    },
+    {
+      "title": "Özdeşlik Felsefesi (Identitätsphilosophie)",
+      "body": "Burada Schelling, özne (düşünen) ve nesne (düşünülen) arasındaki ayrımı tamamen ortadan kaldırmaya çalışır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutlak Kayıtsızlık",
+          "text": "Evrenin temelinde ne sadece \"Ben\" ne de sadece \"Doğa\" vardır. Temelde, bu ikisinin birbirinden ayrılmadığı bir \"Özdeşlik Noktası\" bulunur."
+        },
+        {
+          "label": "Entelektüel Sezgi",
+          "text": "Bu birliği rasyonel mantıkla değil, ancak bir tür sezgiyle kavrayabiliriz."
+        }
+      ]
+    },
+    {
+      "title": "Sanat: Felsefenin Organonu",
+      "body": "Schelling için felsefenin zirvesi mantık değil, sanattır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Estetik İdealizm",
+          "text": "Bilinçli eylem (ruh) ile bilinçsiz üretim (doğa) arasındaki uyum en mükemmel haliyle sanat eserinde birleşir. Sanat, \"mutlak olanı\" bize somut bir şekilde gösteren tek aynadır."
+        },
+        {
+          "label": "Dâhi",
+          "text": "Sanatçı, doğanın yaratıcı gücünü bilinçli bir akılla birleştiren bir \"kanaldır.\""
+        }
+      ]
+    },
+    {
+      "title": "Pozitif ve Negatif Felsefe (Geç Dönem)",
+      "body": "Hegel öldükten sonra Berlin'e çağrılan yaşlı Schelling, Hegel'in sistemini \"boş\" bulmuş ve kendi yeni sistemini kurmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Negatif Felsefe",
+          "text": "Akılla yapılan, neyin \"mümkün\" olduğunu söyleyen geleneksel felsefe (Hegel dahil)."
+        },
+        {
+          "label": "Pozitif Felsefe",
+          "text": "Varoluşun nedenini ve \"gerçeği\" (mitoloji ve vahiy yoluyla) açıklamaya çalışan felsefe. Bu dönemiyle Kierkegaard ve varoluşçuluğu derinden etkilemiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Doğanın İtibarı",
+      "text": "Modern ekolojik düşüncenin ve organik dünya görüşünün felsefi temellerini atmış; doğayı bir sömürü nesnesi olmaktan kurtarmıştır."
+    },
+    {
+      "title": "Romantizmin Ruhu",
+      "text": "Novalis, Hölderlin ve Coleridge gibi şairleri derinden etkileyerek sanatın felsefi bir otorite kazanmasını sağlamıştır."
+    },
+    {
+      "title": "Bilinçdışının Keşfi",
+      "text": "Freud'dan çok önce, doğada ve insanda \"bilinçsiz\" bir yaratıcı gücün varlığını vurgulamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sürekli Değişim",
+      "text": "Schelling o kadar çok fikir değiştirmiştir ki, \"tek bir Schelling felsefesi\"nden bahsetmek imkansızdır. Bu durum takipçilerini ve ciddiyetini zaman zaman sarsmıştır."
+    },
+    {
+      "title": "Mistisizme Kayış",
+      "text": "Bazı argümanları rasyonel zeminden o kadar uzaklaşır ki, felsefeden çok bir tür teolojiye veya \"entelektüel büyücülüğe\" dönüşür."
+    },
+    {
+      "title": "Hegel Karşısındaki Mağlubiyet",
+      "text": "Hegel'in sistemli ve kaskatı mantığı karşısında, Schelling'in sezgisel ve şiirsel yaklaşımı akademik dünyada uzun süre \"amatörce\" görülmüştür."
+    }
+  ]
+}

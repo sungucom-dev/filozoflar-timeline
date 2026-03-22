@@ -1,0 +1,94 @@
+{
+  "subtitle": "Bilgi, Güç ve Zihnin Putları (1561–1626)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Scientia Potentia Est (Bilgi Güçtür)",
+      "body": "Bacon'ın felsefesi tek bir amaca hizmet eder: İnsan hayatını iyileştirmek.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğaya Hükmetmek",
+          "text": "Ona göre doğa, sadece ona itaat edilerek (yasalarını öğrenerek) fethedilebilir. Bilgi, skolastiklerin yaptığı gibi sadece \"tartışmak\" için değil, icat yapmak ve insanlığı acıdan kurtarmak içindir."
+        },
+        {
+          "label": "Faydacılık",
+          "text": "Bilim, meyve vermelidir. Eğer bir teori insanlığa pratik bir yarar sağlamıyorsa, o sadece boş bir kelime yığınıdır."
+        }
+      ]
+    },
+    {
+      "title": "Zihin Putları (Idola): Algının Prangaları",
+      "body": "Bacon, doğru bilgiye ulaşmadan önce zihnin önündeki engelleri (putları) temizlememiz gerektiğini savunur. Dört ana put tanımlamıştır.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Tribus (Soy Putları)",
+          "text": "İnsan doğasından gelen yanılsamalar (duyularımızın bizi yanıltması)."
+        },
+        {
+          "label": "Specus (Mağara Putları)",
+          "text": "Kişisel eğitimimiz, mizaç ve alışkanlıklarımızdan kaynaklanan dar bakış açıları."
+        },
+        {
+          "label": "Fori (Pazar Putları)",
+          "text": "Dilin yanlış kullanımı ve kelimelerin yarattığı kargaşa."
+        },
+        {
+          "label": "Theatri (Tiyatro Putları)",
+          "text": "Geçmişteki felsefi sistemlerin ve yanlış dogmaların zihnimizde yarattığı hayali sahneler."
+        }
+      ]
+    },
+    {
+      "title": "Tümevarım Yöntemi (Induction)",
+      "body": "Aristoteles'in genelden özele giden (tümdengelim) mantığına karşı, Bacon özelden genele giden (tümevarım) yöntemini getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Deney ve Gözlem",
+          "text": "Önce veriler toplanmalı, karşılaştırılmalı ve ancak o zaman genel bir yasaya varılmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Yeni Atlantis: Teknolojik Ütopya",
+      "body": "Bacon, Yeni Atlantis adlı eserinde bilim insanları tarafından yönetilen ideal bir toplum hayal etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Süleyman'ın Evi",
+          "text": "Bu hayali adada, bugünkü araştırma üniversitelerine veya laboratuvarlara benzeyen bir kurum tüm toplumun refahı için çalışır. Bilim, dinin yerini alan bir toplumsal kurtuluş aracıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Bilimin Temeli",
+      "text": "Deney ve gözlemi merkeze alarak, bugün içinde yaşadığımız teknolojik medeniyetin zihinsel yakıtını sağlamıştır."
+    },
+    {
+      "title": "Eleştirel Düşünce",
+      "text": "\"Putlar\" teorisiyle, insanın kendi önyargılarının farkına varması gerektiğini söyleyen ilk derinlikli epistemolojik analizi yapmıştır."
+    },
+    {
+      "title": "İyimserlik ve İlerleme",
+      "text": "İnsanlığın bilgi yoluyla sürekli ileriye gidebileceğine dair o büyük \"Modernite\" inancını kurmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Matematik İhmali",
+      "text": "Doğayı gözlemlemeyi savunmuş ancak matematiğin (Galileo veya Descartes'ın aksine) bilimin dili olduğunu tam olarak kavrayamamıştır. Onun bilimi biraz fazla \"niteliksel\" kalmıştır."
+    },
+    {
+      "title": "Ahlaki Çelişkiler",
+      "text": "Hayatı boyunca rüşvet ve siyasi entrikalarla suçlanmış, \"bilgi güçtür\" derken şahsi gücü için etik sınırları zorlamıştır."
+    },
+    {
+      "title": "Doğanın Araçsallaştırılması",
+      "text": "Doğayı sadece \"fethedilecek bir köle\" olarak görmesi, bugün yaşadığımız ekolojik krizlerin felsefi kökenlerinden biri olarak eleştirilir."
+    }
+  ]
+}

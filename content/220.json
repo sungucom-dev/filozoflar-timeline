@@ -1,0 +1,53 @@
+{
+  "subtitle": "İsteme, Tasarım ve Merhamet (1788–1860)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Dünya İsteme ve Tasarımdır (Die Welt als Wille und Vorstellung)",
+      "body": "Schopenhauer'e göre dünya iki katmanlıdır.",
+      "ordered": false,
+      "items": [
+        {"label": "Tasarım Olarak Dünya", "text": "Bizim algıladığımız, özne-nesne ilişkisi içindeki, zaman ve mekâna bağlı görüngüler dünyasıdır. Bu sadece bir \"perde\"dir (Maya'nın Örtüsü)."},
+        {"label": "İsteme Olarak Dünya", "text": "Perdenin arkasındaki asıl gerçekliktir. Bu \"İsteme\" rasyonel değildir; kördür, amaçsızdır, durmak bilmez ve tatmin edilemez bir \"hayatta kalma ve üreme\" dürtüsüdür. Taşın düşmesinden insanın hırslarına kadar her şey bu devasa İrade'nin tezahürüdür."}
+      ]
+    },
+    {
+      "title": "Yaşamın Sarkacı: Acı ve Can Sıkıntısı",
+      "body": "Schopenhauer için varoluş trajik bir döngüdür.",
+      "ordered": false,
+      "items": [
+        {"label": "Arzu ve Acı", "text": "İsteme sürekli bir şeyler ister. Bir arzu karşılanmadığında \"acı\" çekeriz."},
+        {"label": "Tatmin ve Can Sıkıntısı", "text": "Arzu karşılandığında ise haz uzun sürmez, yerini hemen boğucu bir \"can sıkıntısına\" bırakır. Sonra yeni bir arzu doğar. Hayat bu iki uç arasında gidip gelen mutsuz bir sarkaçtır."}
+      ]
+    },
+    {
+      "title": "Kurtuluş Yolları: Sanat ve Çilecilik",
+      "body": "Bu anlamsız ve acı dolu döngüden çıkış için üç kapı önerir.",
+      "ordered": false,
+      "items": [
+        {"label": "Estetik Teselli (Geçici Kurtuluş)", "text": "Sanata (özellikle müziğe) baktığımızda, bireysel isteklerimizi unutur ve saf birer gözlemci oluruz. Müzik, İrade'nin doğrudan kopyasıdır ve bizi bu dünyadan kısa süreliğine koparır."},
+        {"label": "Merhamet Etiği", "text": "Diğer canlıların da aynı kör \"İsteme\"nin kurbanı olduğunu fark ettiğimizde, onlara karşı derin bir acıma ve özdeşlik (merhamet) duyarız."},
+        {"label": "İstençsizlik (Kalıcı Kurtuluş)", "text": "Hint bilgeliğine yakınlaşarak, \"İsteme\"yi kendi içinde öldürmek (çilecilik/asketizm). Arzu etmeyi bırakmak, \"nirvana\"ya benzer bir sessizliğe ulaşmaktır."}
+      ]
+    },
+    {
+      "title": "Kadınlar, Aşk ve Kinizm",
+      "body": "Schopenhauer'in özel hayatı ve bazı görüşleri oldukça tartışmalıdır.",
+      "ordered": false,
+      "items": [
+        {"label": "Cinsel Aşkın Metafiziği", "text": "Aşkın o \"yüce\" duygularının aslında türün devamını sağlamak için \"İsteme\"nin bize kurduğu bir tuzak olduğunu savunur."},
+        {"label": "Hegel Düşmanlığı", "text": "Hegel'i \"akıl hastası\" ve \"şarlatan\" olarak niteler. Berlin Üniversitesi'nde derslerini Hegel ile aynı saate koymuş, kimse gelmeyince felsefe dünyasına küsmüştür."}
+      ]
+    }
+  ],
+  "strengths": [
+    {"title": "Psikolojinin Öncüsü", "text": "Freud'dan çok önce \"bilinçaltı\", \"bastırma\" ve \"cinsel dürtülerin gücü\" gibi kavramların temelini atmıştır."},
+    {"title": "Doğu-Batı Sentezi", "text": "Avrupa merkezli düşünceye Budizm ve Hinduizm'in derinliğini katarak felsefenin ufkunu genişletmiştir."},
+    {"title": "Sanata Etkisi", "text": "Wagner, Nietzsche, Tolstoy, Kafka ve Borges gibi dev isimleri derinden etkileyerek modern sanatın ve edebiyatın ruhunu şekillendirmiştir."}
+  ],
+  "weaknesses": [
+    {"title": "Aşırı Karamsarlık", "text": "Dünyadaki güzelliği, sevinci ve rasyonel ilerlemeyi tamamen \"İrade'nin tuzağı\" diyerek reddetmesi, hayatın pozitif yönlerini görmezden gelen bir önyargı yaratabilir."},
+    {"title": "Kişisel Tutarsızlık", "text": "Çileciliği ve mal mülk hırsından vazgeçmeyi savunurken, kendisinin oldukça konforlu, mülkiyetine düşkün ve hırslı bir hayat sürmesi sıkça eleştirilmiştir."},
+    {"title": "Mizojini (Kadın Düşmanlığı)", "text": "Kadınlar hakkındaki uç ve aşağılayıcı görüşleri, felsefesinin evrensel iddiasına gölge düşüren kişisel bir hınç olarak değerlendirilir."}
+  ]
+}

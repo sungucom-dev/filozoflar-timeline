@@ -1,0 +1,75 @@
+{
+  "subtitle": "Var Olmak Algılanmaktır (1685–1753)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Esse est Percipi (Var Olmak Algılanmaktır)",
+      "body": "Berkeley'in tüm felsefesi bu tek cümlede özetlenebilir. Ona göre \"madde\" dediğimiz şey, zihnimizdeki duyumların (renk, şekil, sertlik) toplamından başka bir şey değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Maddesizcilik (Immaterialism)",
+          "text": "Locke nesneleri \"birincil\" (gerçek) ve \"ikincil\" (algısal) niteliklere ayırmıştı. Berkeley ise tüm niteliklerin zihinde olduğunu söyler. Bir elma, onun kırmızılığı, tadı ve sertliğidir; bunlar zihninizden çıktığında geriye \"elma\" diye bir şey kalmaz."
+        },
+        {
+          "label": "Paradoks",
+          "text": "Eğer odadan çıkarsanız ve odayı kimse görmüyorsa, oda yok mu olur?"
+        }
+      ]
+    },
+    {
+      "title": "Tanrı: Evrensel Gözlemci",
+      "body": "\"Peki ben bakmadığımda dünya neden hala yerinde duruyor?\" sorusuna Berkeley'in cevabı teolojiktir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sürekli Algı",
+          "text": "Evren, Tanrı'nın zihnindeki bir tasavvurdur. Biz bakmasak bile Tanrı her şeyi her an algıladığı için dünya varlığını sürdürür. Doğa yasaları, Tanrı'nın bizim zihnimizde yarattığı düzenli işaretlerdir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, bilimi reddetmek değil, bilimi \"Tanrı'nın zihnindeki düzeni okuma çabası\" olarak yeniden tanımlamaktır."
+        }
+      ]
+    },
+    {
+      "title": "Soyut Fikirlere Karşı Savaş",
+      "body": "Berkeley, \"insan\" veya \"üçgen\" gibi genel ve soyut fikirlerin olmadığını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nominalizm",
+          "text": "Zihnimizde sadece \"belirli\" bir insan veya \"belirli\" bir üçgen canlanabilir. Soyutlama bir yanılsamadır; dilin yarattığı bir karmaşadır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ampirizmin Zirvesi",
+      "text": "Locke'un başlattığı deneyciliği en uç noktasına (mantıksal sonucuna) götürerek, bilginin sınırlarını sadece \"deneyim\" ile çizmiştir."
+    },
+    {
+      "title": "Modern Fizik Sezgileri",
+      "text": "Maddenin kendi başına bir \"öz\" olmadığı, sadece \"ilişkiler ve algılar\" toplamı olduğu fikri; yüzyıllar sonra kuantum fiziğindeki \"gözlemci etkisi\" tartışmalarına (Heisenberg, Bohr) ilham vermiştir."
+    },
+    {
+      "title": "Dil Analizi",
+      "text": "Kelimelerin bizi nasıl yanılttığına dair uyarıları, 20. yüzyıl dil felsefesinin (Wittgenstein) öncüsü sayılır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Solipsizm (Tekbencilik) Riski",
+      "text": "Her şey benim algımdaysa, \"öteki insanların\" gerçekten var olduğunu nasıl bilebilirim? Berkeley bu sorunu Tanrı ile çözmeye çalışsa da, bu felsefi bir kaçış olarak eleştirilmiştir."
+    },
+    {
+      "title": "Maddeyi Yok Saymak",
+      "text": "Taşın gerçek olduğunu kanıtlamak için ona tekme atan Dr. Johnson gibi; Berkeley'in sistemi, gündelik hayattaki fiziksel direnci ve nesnelliği açıklamakta çok \"ince\" ve \"uçucu\" kalır."
+    },
+    {
+      "title": "Aşırı Teosantrizm",
+      "text": "Tüm sistemi kurtarmak için son kertede Tanrı'ya sığınması, rasyonel ve laik bir felsefe arayanları tatmin etmemiştir."
+    }
+  ]
+}

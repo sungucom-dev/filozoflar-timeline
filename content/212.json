@@ -1,0 +1,86 @@
+{
+  "subtitle": "Üretim, Bilim ve Yeni Hristiyanlık (1760–1825)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Üreticiler (Les Industriels) vs. Parazitler (Les Oisifs)",
+      "body": "Saint-Simon'a göre toplumun en büyük sorunu, hiçbir şey üretmeyenlerin her şeye sahip olmasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üreticiler",
+          "text": "Sadece fabrika işçileri değil; girişimciler, bilim insanları, sanatçılar ve bankacılar da bu sınıfa dâhildir. Toplumun motoru onlardır."
+        },
+        {
+          "label": "Parazitler",
+          "text": "Soylular, ruhban sınıfı ve çalışmadan yaşayan toprak sahipleri. Saint-Simon için bu sınıf, topluma yük olan \"ölü bir ağırlıktır.\""
+        }
+      ]
+    },
+    {
+      "title": "Saint-Simon Meseli (Meşhur Paradoks)",
+      "body": "Düşüncesinin radikalliğini anlatmak için şu meşhur örneği vermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Uzmanlar Olmazsa",
+          "text": "\"Fransa bir gecede en iyi 50 bilim insanını, 50 sanatçısını, 50 mühendisini ve 50 bankacısını kaybederse; ülke çöker. Ama bir gecede tüm kraliyet ailesini, saray görevlilerini ve yüksek rütbeli din adamlarını kaybederse; bu üzücü olur ama devletin işleyişi zerre zarar görmez.\""
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel ve Teknik Yönetim (Teknokrasi)",
+      "body": "Ona göre siyaset, \"insanların yönetimi\" değil, \"eşyanın idaresi\" haline gelmelidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Uzmanların İktidarı",
+          "text": "Toplumu politikacılar değil, rasyonel planlar yapan mühendisler ve bilim insanları yönetmelidir. Verimlilik ve organizasyon, siyasi çekişmelerin yerini almalıdır."
+        },
+        {
+          "label": "Ortak Hedef",
+          "text": "Tüm toplumun enerjisi tek bir amaç etrafında toplanmalıdır: En yoksul sınıfın koşullarını iyileştirmek."
+        }
+      ]
+    },
+    {
+      "title": "Yeni Hristiyanlık (Nouveau Christianisme)",
+      "body": "Hayatının sonunda, rasyonel endüstriyel topluma bir \"ruh\" kazandırmak için seküler bir din önermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Kardeşlik",
+          "text": "Dinin tek bir kuralı olmalıdır: \"Birbirinizi kardeşçe sevin.\" Ancak bu sevgi, dua ederek değil, bilimle ve üretimle yoksulluğu yenerek kanıtlanmalıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sosyolojinin Doğuşu",
+      "text": "Toplumu bilimsel bir inceleme nesnesi olarak kurgulamasıyla Auguste Comte'a ilham vermiş ve modern sosyolojinin temellerini atmıştır."
+    },
+    {
+      "title": "Planlı Ekonomi",
+      "text": "Devletin ekonomiyi rasyonel bir şekilde planlaması gerektiği fikriyle, hem kapitalizmin büyük projelerini (Süveyş Kanalı gibi) hem de sosyalizmin planlama modellerini etkilemiştir."
+    },
+    {
+      "title": "Liyakat Vurgusu",
+      "text": "Soyluluğun ve imtiyazın yerine \"yetenek ve üretim\" odaklı bir toplumu savunması, modern modernleşme süreçlerinin ana fikridir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Teknokratik Elitizm",
+      "text": "Halkın kendi kendini yönetme becerisini küçümsemiş; tüm kararları \"uzmanların\" eline bırakarak demokratik katılımı devre dışı bırakmıştır."
+    },
+    {
+      "title": "Sınıf Çatışmasını Iskalama",
+      "text": "Patronları ve işçileri aynı \"üreticiler\" sınıfında toplaması, bu iki grup arasındaki çıkar çatışmalarını (Marx'ın daha sonra vurgulayacağı gibi) görmezden gelmesine neden olmuştur."
+    },
+    {
+      "title": "Ütopik Yapı",
+      "text": "Önerdiği reformlar bazen pratik siyasetten o kadar uzaktır ki, takipçileri (Saint-Simoncular) zamanla neredeyse dini bir kült haline gelmişlerdir."
+    }
+  ]
+}

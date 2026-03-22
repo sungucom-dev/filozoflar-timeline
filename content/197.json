@@ -1,0 +1,79 @@
+{
+  "subtitle": "Sempati, Emek ve Görünmez El (1723–1790)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "The Theory of Moral Sentiments (Ahlaki Duygular Kuramı)",
+      "body": "Smith'in ilk büyük eseridir ve ekonomi teorisinin ruhunu burada aramak gerekir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sempati (Empati)",
+          "text": "Smith'e göre insan doğuştan bencildir ama aynı zamanda başkalarının duygularını paylaşma (sempati) yeteneğine sahiptir."
+        },
+        {
+          "label": "Tarafsız Gözlemci",
+          "text": "İçimizde bizi denetleyen hayali bir \"tarafsız gözlemci\" vardır. Ahlak, sadece yasalarla değil, bu içsel gözlemcinin onayıyla şekillenir."
+        }
+      ]
+    },
+    {
+      "title": "The Wealth of Nations (Ulusların Zenginliği)",
+      "body": "1776'da yayımlanan bu eser, modern dünyanın anayasası gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İş Bölümü",
+          "text": "Zenginliğin kaynağı ne altın ne de topraktır; asıl kaynak \"Emek\"tir. Meşhur \"iğne fabrikası\" örneğiyle, iş bölümünün üretkenliği nasıl binlerce kat artırdığını kanıtlamıştır."
+        },
+        {
+          "label": "Görünmez El (Invisible Hand)",
+          "text": "Birey kendi çıkarını kovalarken, farkında olmadan toplumun genel refahına hizmet eder. \"Akşam yemeğimizi kasabın veya fırıncının yardımseverliğinden değil, kendi çıkarlarını gözetmelerinden bekleriz.\""
+        }
+      ]
+    },
+    {
+      "title": "Devletin Rolü ve Serbest Piyasa",
+      "body": "Smith, merkantilizmin (devletçi korumacılık) kısıtlamalarına karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Laissez-Faire",
+          "text": "Devlet ekonomiye müdahale etmemelidir. Devletin üç temel görevi vardır: Savunma, adalet ve piyasanın tek başına yapamayacağı altyapı hizmetleri (yollar, okullar)."
+        },
+        {
+          "label": "Doğal Özgürlük Sistemi",
+          "text": "Herkesin kendi emeğini ve sermayesini en iyi gördüğü şekilde kullanmasına izin verildiğinde, kaynaklar en verimli şekilde dağılır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ekonominin Bilimselleşmesi",
+      "text": "Ekonomiyi ahlaktan, siyasetten ve tarihten koparmadan ama kendi yasaları olan bağımsız bir disiplin olarak kurmuştur."
+    },
+    {
+      "title": "Refahın Demokratikleşmesi",
+      "text": "Zenginliği sadece kralların hazinesi olarak değil, \"halkın tükettiği malların bolluğu\" olarak tanımlayarak bakış açısını değiştirmiştir."
+    },
+    {
+      "title": "Hümanist Kapitalizm",
+      "text": "Sanılanın aksine Smith vahşi bir kapitalist değildir; tekellere karşıdır ve işçilerin ücretlerinin yükselmesini savunur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yabancılaşmayı Sezmek",
+      "text": "İş bölümünün üretkenliği artırırken, işçiyi \"aptallaştıracağını\" ve onu rutin bir parçaya dönüştüreceğini fark etmiş (Marx'tan önce) ama buna eğitim dışında güçlü bir çözüm sunamamıştır."
+    },
+    {
+      "title": "Değer Teorisi",
+      "text": "\"Emek-değer\" teorisi (bir şeyin değerini harcanan emek belirler) daha sonra Ricardo ve Marx tarafından geliştirilecek olsa da, modern iktisatta bazı boşluklar barındırdığı görülmüştür."
+    },
+    {
+      "title": "Yanlış Anlaşılma",
+      "text": "Sadece \"bencilliği\" öven bir figür olarak resmedilmesi, onun \"Ahlaki Duygular\" kitabındaki toplumsal sempati vurgusunun unutulmasına neden olmuştur."
+    }
+  ]
+}

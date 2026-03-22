@@ -1,0 +1,94 @@
+{
+  "subtitle": "Ben Ne Biliyorum? (1533–1592)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Les Essais (Denemeler): Bir \"Deneme\" Olarak Hayat",
+      "body": "Montaigne'den önce yazarlar \"hakikati\" anlatırdı; Montaigne ise sadece \"kendini\" anlatmaya başladı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Denemek (Essayer)",
+          "text": "Eserinin adı \"deneme\" yani \"tecrübe etmek/tartmak\" anlamına gelir. O, bir konuyu sonuca bağlamaya çalışmaz; o konu hakkındaki kendi düşüncelerini \"dener\"."
+        },
+        {
+          "label": "Ayna Olarak Yazar",
+          "text": "\"Benim kitabımın konusu benim\" der. Ancak onu okuduğumuzda aslında kendimizi buluruz."
+        }
+      ]
+    },
+    {
+      "title": "Que sais-je? (Ben ne biliyorum?): Radikal Şüphecilik",
+      "body": "Montaigne, döneminin dinsel bağnazlığına ve akademik kibrine karşı meşhur sorusunu bir mühür gibi kullanmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Terazi Logosu",
+          "text": "Bir terazinin iki kefesini de boş ve dengede tutan o meşhur amblemi; hiçbir fikrin mutlak olarak diğerinden üstün olamayacağını simgeler."
+        },
+        {
+          "label": "Hoşgörü",
+          "text": "Eğer hiçbir şeyden emin olamazsak, başkalarının fikirlerini de \"yanlış\" diye damgalayıp onları yakmaya veya öldürmeye hakkımız kalmaz. Bu, laikliğin ve hoşgörünün en derin felsefi köküdür."
+        }
+      ]
+    },
+    {
+      "title": "İnsanlık Durumu (La Condition Humaine)",
+      "body": "Ona göre her insan, insanlığın tüm özelliklerini kendi içinde taşır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kusurların Kabulü",
+          "text": "Montaigne bize bağırsak sorunlarından, korkularından, cinsel yetersizliklerinden ve hayal kırıklıklarından bahseder. Bu sıradanlık, insanı \"tanrılaştıran\" Rönesans kibrine (Pico della Mirandola gibi) indirilmiş bir darbedir."
+        },
+        {
+          "label": "Doğa ile Uyum",
+          "text": "\"En yüksek tahtta da otursak, oturduğumuz kendi kıçımızdır\" diyerek makamların ve unvanların geçiciliğini hatırlatır."
+        }
+      ]
+    },
+    {
+      "title": "Eğitim ve Dostluk",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ezberciliğe Karşı",
+          "text": "Çocukların \"iyi doldurulmuş kafalar\" yerine \"iyi organize edilmiş zihinler\" ile eğitilmesini savunmuştur. Ona göre eğitim, bir kap kaba doldurmak değil, bir ateşi yakmaktır."
+        },
+        {
+          "label": "Etienne de La Boétie",
+          "text": "Hayatının en büyük trajedisi dostu La Boétie'nin ölümüydü. Aralarındaki o meşhur dostluğu açıklarken sadece şunu diyebilmiştir: \"Çünkü o oydu, çünkü ben bendim.\""
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bireyin Keşfi",
+      "text": "Modern \"Ben\" algısının temelini atmıştır. Bireyin kendi tecrübesini otoriteden (kilise, gelenek) üstün tutmasını sağlamıştır."
+    },
+    {
+      "title": "Psikolojinin Öncüsü",
+      "text": "İnsanın iç dünyasını, tutarsızlıklarını ve duygularını bir bilim insanı titizliğiyle (ama bir sanatçı diliyle) analiz etmiştir."
+    },
+    {
+      "title": "Modern Üslup",
+      "text": "Akademik jargon yerine konuşma diliyle yazarak felsefeyi herkesin anlayabileceği bir dost sohbetine dönüştürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Görecelik",
+      "text": "\"Herkesin doğrusu kendine\" anlayışı, bazen zulme veya yanlışa karşı net bir duruş sergilemeyi zorlaştırabilir."
+    },
+    {
+      "title": "Muhafazakâr Eylemsizlik",
+      "text": "Madem hiçbir şeyden emin olamayız, o halde \"her şeyi olduğu gibi bırakalım\" diyerek kurulu düzeni ve gelenekleri (hatalı olsalar bile) koruma eğilimi göstermiştir."
+    },
+    {
+      "title": "Dağınıklık",
+      "text": "Kitabı belirli bir planı olmayan, sürekli daldan dala atlayan bir yapıdadır; bu da sistematik düşünmeyi sevenler için yorucu olabilir."
+    }
+  ]
+}

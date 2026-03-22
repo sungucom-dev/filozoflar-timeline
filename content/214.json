@@ -1,0 +1,79 @@
+{
+  "subtitle": "Sempati, Çeviri ve Direniş (1764–1822)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Lettres sur la sympathie (Sempati Üzerine Mektuplar)",
+      "body": "Sophie'nin en özgün ve kalıcı eseri, Adam Smith'in Ahlaki Duygular Kuramı'nı Fransızca'ya çevirirken ona eklediği sekiz mektuptur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Smith'i Aşmak",
+          "text": "O, sadece bir çevirmen değildi. Smith'in \"sempati\" (başkalarının acısını hissetme) kavramını almış, ancak onu daha sosyal ve siyasi bir zemine oturtmuştur. Smith sempatiyi bireysel bir yeti olarak görürken, Sophie bunu toplumsal adaletin temeli olarak kurgulamıştır."
+        },
+        {
+          "label": "Acının Eşitliği",
+          "text": "Ona göre toplumsal eşitsizliğin kaynağı, zenginlerin fakirlerin acısına karşı duyarsızlaşmasıdır. Adalet, bu \"duygusal kopuşu\" eğitim ve yasalarla tamir etmektir."
+        }
+      ]
+    },
+    {
+      "title": "Avrupa'nın Entelektüel Karargâhı: Hôtel des Monnaies",
+      "body": "Sophie'nin kurduğu salon, dönemin en parlak zihinlerinin buluşma noktasıydı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Devrimci Diplomasi",
+          "text": "Thomas Jefferson, Thomas Paine, Adam Smith (fikren) ve Condorcet burada bir araya gelirdi. Bu salon, Amerikan ve Fransız devrim fikirlerinin birbirine karıştığı, cumhuriyetçiliğin \"teorik laboratuvarı\" gibi çalışmıştır."
+        },
+        {
+          "label": "Kadın Zekâsı",
+          "text": "Salonunda kadınların sadece birer \"süs\" değil, tartışmaların merkezindeki \"rasyonel aktörler\" olmasını sağlamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Terör Dönemi ve Hayatta Kalma Sanatı",
+      "body": "Kocası Condorcet, Jacobinler tarafından aranırken ve sonunda hapiste ölürken, Sophie muazzam bir direnç göstermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ressam Filozof",
+          "text": "Mal varlığına el konulduğunda, kızını ve saklanan kocasını geçindirmek için bir dükkân açmış ve minyatür portreler çizerek hayatını kazanmıştır."
+        },
+        {
+          "label": "Fikri Sadakat",
+          "text": "Kocasının vasiyeti olan İnsan Zihninin İlerlemesi Üzerine Tarihsel Bir Tablo eserini ölümünden sonra o yayımlatmış ve Condorcet'nin mirasını dünyaya tanıtmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Duyguların Rasyonalizasyonu",
+      "text": "Ahlakı sadece soyut kurallara (Kant gibi) değil, biyolojik ve sosyal bir gerçeklik olan \"sempati\"ye dayandırarak modern sosyolojinin kapısını aralamıştır."
+    },
+    {
+      "title": "Kültürel Arabuluculuk",
+      "text": "Anglo-Sakson ampirizmini (Smith, Hume) Fransız rasyonalizmiyle birleştirerek Avrupa düşünce tarihine muazzam bir esneklik kazandırmıştır."
+    },
+    {
+      "title": "Sivil Cesaret",
+      "text": "Hem bir soylu olarak devrimin yanında yer alma hem de devrimin vahşetine karşı durma dürüstlüğünü göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "\"Eş\" Kimliğine Hapsolma",
+      "text": "Tarih boyunca uzun süre sadece Condorcet'nin karısı ve mirasını koruyan kişi olarak görülmüş, kendi özgün felsefesi (Sempati Mektupları) ancak yakın zamanda hak ettiği ilgiyi görmeye başlamıştır."
+    },
+    {
+      "title": "Sınıfsal Sınırlılık",
+      "text": "Toplumsal eşitsizliği \"sempati eksikliği\" ile açıklama çabası, meselenin sert ekonomik ve yapısal kökenlerini (Marx'ın daha sonra vurgulayacağı gibi) biraz hafife alan bir \"aristokratik iyimserlik\" barındırabilir."
+    },
+    {
+      "title": "Yayınlanma Gecikmesi",
+      "text": "En önemli fikirlerini çeviri notları ve mektuplar şeklinde bırakması, onun bağımsız bir filozof olarak sistemleşmesini zorlaştırmıştır."
+    }
+  ]
+}

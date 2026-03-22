@@ -1,0 +1,79 @@
+{
+  "subtitle": "Ortaklık, Eşitlik ve Siyasal Haklar (1807–1858)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "The Enfranchisement of Women (Kadınların Siyasal Hakları)",
+      "body": "1851'de yayımlanan bu makale, Harriet Taylor'ın en özgün ve güçlü metnidir. Uzun süre J.S. Mill'e atfedilse de, Mill bu eserin tamamen Harriet'a ait olduğunu bizzat belirtmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Oy Hakkı Bir Gerekliliktir",
+          "text": "Kadınların oy hakkını sadece bir \"lütuf\" değil, bir adalet meselesi olarak savunur. Eğer kadınlar vergi veriyor ve yasalara itaat ediyorsa, o yasaların yapımında da söz sahibi olmalıdırlar."
+        },
+        {
+          "label": "Doğal Yetenek vs. Sosyal Engel",
+          "text": "Kadınların \"doğası gereği\" siyasetten anlamadığı iddiasını reddeder. Birine yüzmeyi yasaklayıp sonra onun yüzemediğini söylemek ne kadar saçmaysa, kadını eğitimden mahrum bırakıp \"aklı ermez\" demek de o kadar saçmadır."
+        }
+      ]
+    },
+    {
+      "title": "Liberalizmin Ruhu: On Liberty (Özgürlük Üstüne)",
+      "body": "J.S. Mill, bu meşhur kitabı Harriet'a ithaf etmiş ve kitabın her satırının ikisinin ortak düşüncesi olduğunu söylemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bireyin Özerkliği",
+          "text": "Kitabın temel fikri olan \"başkasına zarar vermediği sürece birey mutlak özgürdür\" ilkesinde, Harriet'ın toplumsal baskılara ve geleneklerin tiranlığına karşı olan sert duruşunun izleri vardır."
+        },
+        {
+          "label": "Fikir Özgürlüğü",
+          "text": "Harriet, aykırı fikirlerin susturulmasının sadece o bireye değil, tüm topluma yapılmış bir kötülük olduğuna inanıyordu."
+        }
+      ]
+    },
+    {
+      "title": "Evlilikte Eşitlik ve Mülkiyet Hakları",
+      "body": "Harriet, döneminin evlilik yasalarını bir \"kölelik sözleşmesi\" olarak görüyordu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yasal Kişilik",
+          "text": "Kadının evlendiği anda yasal kişiliğini yitirmesine ve tüm mülkiyetinin kocasına geçmesine şiddetle karşı çıkmıştır. Boşanma yasalarının kolaylaştırılmasını ve kadının ekonomik bağımsızlığını savunmuştur."
+        },
+        {
+          "label": "Ev İçi Şiddet",
+          "text": "O dönemde pek bahsedilmeyen ev içi şiddet konusunu gündeme getirmiş ve yasaların kadını korumadaki yetersizliğini eleştirmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefi İşbirliği",
+      "text": "Bir kadının felsefi bir sistemin inşasında ne kadar merkezi bir rol oynayabileceğini, dönemin tüm engellerine rağmen kanıtlamıştır."
+    },
+    {
+      "title": "Radikal Liberalizm",
+      "text": "J.S. Mill'in daha \"ılımlı\" olan görüşlerini daha radikal ve eşitlikçi bir çizgiye çekmiş; liberalizmi sadece devlet-birey ilişkisinden çıkarıp aile-birey ilişkisine sokmuştur."
+    },
+    {
+      "title": "Hukuki Vizyon",
+      "text": "Bugün modern aile hukukunun temelini oluşturan pek çok ilkeyi (eşit mülkiyet, velayet hakları vb.) o dönemde formüle etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Gölgede Kalmışlık",
+      "text": "Kendi adına çok az eser yayımlaması (toplumsal baskılar ve cinsiyetçilik nedeniyle), onun bağımsız bir filozof olarak hakkıyla tanınmasını bir asır geciktirmiştir."
+    },
+    {
+      "title": "Seçkinci Pozisyon",
+      "text": "Eleştirileri daha çok orta ve üst sınıf kadınların yasal sorunlarına odaklanmıştır; işçi sınıfı kadınlarının yaşadığı ağır sanayi sömürüsüne dair analizleri daha geri plandadır."
+    },
+    {
+      "title": "J.S. Mill Güzellemesi",
+      "text": "Mill'in Harriet'a olan aşırı hayranlığı, Harriet'ın gerçek entelektüel katkısını bazen \"bir aşk hikayesinin parçası\" gibi romantize ederek felsefi değerini perdelemiştir."
+    }
+  ]
+}

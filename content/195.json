@@ -1,0 +1,71 @@
+{
+  "subtitle": "Heykel ve Duyumun Evrimi (1714–1780)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Mermer Heykel Deneyi",
+      "body": "Condillac'ın en ünlü düşünce deneyi, Duyumlar Üzerine İnceleme (1754) eserinde yer alır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Canlanan Heykel",
+          "text": "Dışarıdan hiçbir bilgisi olmayan, mermerden bir heykel hayal edelim. Bu heykele sırasıyla duyuları (önce koku, sonra işitme, tat, görme ve en son dokunma) tek tek verdiğimizi düşünelim."
+        },
+        {
+          "label": "Duyumdan Bilince",
+          "text": "Condillac, sadece \"gül kokusu\" alan bir heykelin bile dikkat, bellek ve karşılaştırma yetilerini (yani zihni) nasıl geliştireceğini adım adım açıklar. Heykel için \"var olmak\", \"duyumlamaktır\"."
+        }
+      ]
+    },
+    {
+      "title": "Dönüşüme Uğramış Duyum (Sensation Transformée)",
+      "body": "Locke, duyumun yanında bir de zihnin kendi \"refleksion\" (düşünme) yetisi olduğunu söylüyordu. Condillac buna karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tek Kaynak",
+          "text": "Ona göre bellek, \"geçmiş bir duyumun devam etmesi\"dir; karşılaştırma ise \"iki duyumu aynı anda hissetmek\"tir. Zihnin tüm karmaşık işlemleri aslında sadece kılık değiştirmiş duyumlardır."
+        }
+      ]
+    },
+    {
+      "title": "Dil: \"Analitik Bir Yöntem\"",
+      "body": "Condillac'a göre dil sadece bir iletişim aracı değil, düşünmenin ta kendisidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Cebir Olarak Dil",
+          "text": "Düşünmek, duyumları parçalarına ayırmak ve yeniden birleştirmektir. İyi kurgulanmış bir dil, tıpkı matematik (cebir) gibi hatasız bir düşünce sistemi kurmamızı sağlar."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojinin Bilimselleşmesi",
+      "text": "Zihinsel süreçleri gözlemlenebilir duyumlara indirgeyerek, deneysel psikolojinin ve davranışçılığın kapısını aralamıştır."
+    },
+    {
+      "title": "Eğitim Reformu",
+      "text": "Bilginin \"basitten karmaşığa\" doğru, duyusal deneyimlerle inşa edilmesi gerektiğini savunarak pedagojide devrim yaratmıştır."
+    },
+    {
+      "title": "İdeoloji Akımı",
+      "text": "Fransız Aydınlanması'nın son evresi olan \"İdeologlar\" (Destutt de Tracy vb.) grubunun en büyük ilham kaynağı olmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İndirgemecilik",
+      "text": "İnsan zihnini sadece duyumlara tepki veren \"pasif bir alıcı\" konumuna indirgemesi, yaratıcılığı ve zihnin aktif yapısını (Kant'ın vurgulayacağı gibi) ıskalamasına neden olur."
+    },
+    {
+      "title": "Biyolojik Boşluk",
+      "text": "Duyumun fiziksel olarak nasıl \"bilince\" dönüştüğünü açıklarken biyolojik verilerden ziyade mantıksal kurgulara (heykel deneyi gibi) dayanması bir eksikliktir."
+    },
+    {
+      "title": "Solipsizm Tehlikesi",
+      "text": "Her şey duyumsa, dış dünyanın gerçekten var olduğunu nasıl bilebiliriz? Condillac bu sorunu \"dokunma\" duyusuna (direnç hissi) aşırı vurgu yaparak aşmaya çalışsa da eleştirilerden kurtulamamıştır."
+    }
+  ]
+}

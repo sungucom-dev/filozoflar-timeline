@@ -1,0 +1,83 @@
+{
+  "subtitle": "İradi Çaba ve \"Direnç\" (1766–1824)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Le Fait Primitif (Birincil Olgu): \"Çaba Gösteriyorum, O Halde Varım\"",
+      "body": "Descartes'ın \"Düşünüyorum\"u ile Condillac'ın \"Hissediyorum\"u arasına Biran, kendi sarsılmaz temelini koyar: İradi Çaba (l'effort volontaire).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ego ve Direnç",
+          "text": "Biran'a göre kendimizi \"ben\" olarak hissetmemiz, vücudumuzun ataletine veya dış dünyanın direncine karşı gösterdiğimiz o içsel kas gücü ve irade hamlesiyle başlar. \"Ben\", karşılaştığı engelde kendini bulur."
+        },
+        {
+          "label": "İlişkisel Bilinç",
+          "text": "Bilinç, pasif bir ekran değil; bir kuvvetin (irade) bir dirence (vücut/madde) çarpmasıyla oluşan kıvılcımdır."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Hayatının Üç Evresi",
+      "body": "Biran, hayatının sonlarına doğru insanın gelişimini üç farklı \"hayat\" veya \"evreyi\" temsil eden katmanlara ayırmıştır.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Hayvani Hayat (Vie Animale)",
+          "text": "Duyumların, pasif alışkanlıkların ve bedensel dürtülerin yönettiği evre. Burada \"ben\" henüz tam uyanmamıştır."
+        },
+        {
+          "label": "İnsani Hayat (Vie Humaine)",
+          "text": "İradenin, çabanın ve özgürlüğün devreye girdiği, insanın kendi eylemlerinin merkezi olduğu evre."
+        },
+        {
+          "label": "Ruhani Hayat (Vie de l'Esprit)",
+          "text": "Çabanın ötesine geçildiği, bir tür içsel huzur ve ilahi olanla kurulan mistik ilişki evresi."
+        }
+      ]
+    },
+    {
+      "title": "Alışkanlıkların Diyalektiği",
+      "body": "Ünlü eseri Alışkanlığın Düşünce Üzerindeki Etkisi'nde alışkanlığı ikiye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pasif Alışkanlıklar",
+          "text": "Tekrarlandıkça etkisini yitiren duyumlar (örneğin sürekli duyulan bir gürültüye alışmak)."
+        },
+        {
+          "label": "Aktif Alışkanlıklar",
+          "text": "Tekrarlandıkça gelişen ve kolaylaşan yetenekler (örneğin bir enstrüman çalmak)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojinin Özerkliği",
+      "text": "Felsefeyi soyut mantık oyunlarından kurtarıp, bizzat hissedilen içsel tecrübenin (introspeksiyon) analizi haline getirmiştir."
+    },
+    {
+      "title": "Bedenin Keşfi",
+      "text": "Bedenimizi sadece dışarıdan görülen bir nesne değil, içeriden hissedilen bir \"direnç merkezi\" olarak tanımlayarak beden felsefesinin (Merleau-Ponty vb.) önünü açmıştır."
+    },
+    {
+      "title": "Varoluşçuluğun Kökleri",
+      "text": "İnsanın kendi varlığını \"eylem\" ve \"karar\" üzerinden kurduğu fikriyle, Kierkegaard ve Sartre gibi isimlere giden yolu hazırlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İçselcilik",
+      "text": "Dış dünyayı ve toplumsal dinamikleri, bireyin o derin \"içsel günlüğü\" kadar ciddiye almadığı eleştirilebilir."
+    },
+    {
+      "title": "Sistem Eksikliği",
+      "text": "Yazıları genellikle parça parça, günlükler ve notlar halindedir; bu da onun fikirlerini Kant veya Hegel gibi devasa, kapalı bir sistem haline getirmesini zorlaştırmıştır."
+    },
+    {
+      "title": "Kararsızlık",
+      "text": "Siyaset (Napolyon sonrası dönemde milletvekilliği yapmıştır) ile derin felsefi içe bakış arasında sürekli bir gerilim yaşamış, bu da düşüncelerinin son aşamasında bir tür mistisizme kaymasına neden olmuştur."
+    }
+  ]
+}

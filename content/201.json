@@ -1,0 +1,86 @@
+{
+  "subtitle": "Tiyatro, Eleştiri ve Hoşgörü (1729–1781)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Nathan der Weise (Bilge Nathan) ve Yüzük Meseli",
+      "body": "Lessing'in vasiyeti sayılan bu oyun, dinler arası hoşgörünün dünya edebiyatındaki en büyük anıtıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yüzük Meseli",
+          "text": "Bir babanın (Tanrı), hangisinin gerçek olduğunu kimsenin bilemediği üç özdeş yüzüğü (Yahudilik, Hristiyanlık, İslam) üç oğluna bırakmasını anlatır."
+        },
+        {
+          "label": "Kanıt Erdemdir",
+          "text": "Lessing'e göre \"gerçek\" dini, onun tarihsel iddiaları değil, o dinin mensuplarının sergilediği sevgi ve erdem belirler. Eğer yüzüğün (dinin) gücü sahibini sevimli ve nazik kılıyorsa, o yüzük gerçektir."
+        }
+      ]
+    },
+    {
+      "title": "Laokoon: Sanatın Sınırları",
+      "body": "Baumgarten'in estetiğini somut bir sanat analizine taşımıştır. Ünlü Laokoon heykelinden yola çıkarak edebiyat ve plastik sanatlar arasındaki farkı çizmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mekân vs. Zaman",
+          "text": "Resim ve heykel \"mekânda\" (bir anlık görüntü), şiir ve edebiyat ise \"zamanda\" (bir olay akışı) var olur. Bir ressamın çığlığı resmetmesi çirkindir, ama bir şair o acıyı kelimelerle ebedi bir trajediye dönüştürebilir."
+        }
+      ]
+    },
+    {
+      "title": "Die Erziehung des Menschengeschlechts (İnsan Soyunun Eğitimi)",
+      "body": "Bu eserinde dini, insanlığın gelişimindeki bir \"eğitim süreci\" olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşamalı Vahiy",
+          "text": "Dinler, çocukluktan yetişkinliğe geçen insanlığın okul kitaplarıdır. Önce korku ve ödül (Eski Ahit), sonra sevgi (Yeni Ahit) gelmiştir."
+        },
+        {
+          "label": "Aklın Erginliği",
+          "text": "Son aşamada insanlık, dine ihtiyaç duymadan sadece \"akıl ve ahlak\" ile iyilik yapacağı o \"Ebedi Müjde\" çağına ulaşacaktır."
+        }
+      ]
+    },
+    {
+      "title": "Dramaturji ve Eleştiri: Hamburgische Dramaturgie",
+      "body": "Alman tiyatrosunu Aristotelesçi köklere döndürerek ama onu \"insancıl\" kılarak yeniden inşa etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Acıma ve Korku",
+          "text": "Trajedinin amacının sadece korkutmak değil, izleyicide \"insani bir acıma/empati\" uyandırmak olduğunu savunmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Düşünce Özgürlüğü Şövalyesi",
+      "text": "Kilisenin en katı sansürlerine karşı durmuş, dini dogmaları tarihsel eleştiriye açarak (Reimarus tartışması) modern teolojinin önünü açmıştır."
+    },
+    {
+      "title": "Milli Edebiyatın Doğuşu",
+      "text": "Alman edebiyatını Fransız etkisinden kurtararak Goethe ve Schiller gibi devlerin yetişeceği o \"fırtına ve coşku\" zeminini hazırlamıştır."
+    },
+    {
+      "title": "Radikal Hoşgörü",
+      "text": "Hoşgörüyü sadece bir \"tahammül\" değil, aktif bir \"insanlık sevgisi\" olarak tanımlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kışkırtıcılık",
+      "text": "Tartışmayı o kadar çok seviyordu ki, bazen hakikati bulmaktan ziyade \"muarızını yenmek\" için kalem oynattığı eleştirilmiştir."
+    },
+    {
+      "title": "Teolojik Muğlaklık",
+      "text": "O kadar çok farklı perspektifi savunmuştur ki, sonunda neye inandığı (Panteist mi, Deist mi, Hristiyan mı?) hala tartışma konusudur. (Jacobi onun gizli bir Spinozacı olduğunu iddia etmiştir)."
+    },
+    {
+      "title": "Trajik Yalnızlık",
+      "text": "Hayatının sonunda hem muhafazakar kilise hem de bazı radikal Aydınlanmacılar tarafından yalnız bırakılmış, yoksulluk içinde ölmüştür."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "subtitle": "Duyumsama, Canlı Evren ve Ütopya (1568–1639)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Duyumculuk (Sensualism) ve Öz-Bilgi",
+      "body": "Campanella, bilginin kökenini soyut mantık oyunlarında değil, doğrudan deneyimde ve duyularda arar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hissetmek Bilmektir",
+          "text": "Ona göre her türlü bilgi, duyularla başlar. Hatta zihin bile bir tür \"incelmiş duyudur\"."
+        },
+        {
+          "label": "Öz-Farkındalık (Notitia Sui)",
+          "text": "Bilginin en temel hali, varlığın kendi kendisini duyumsamasıdır. Dış dünyayı bilmeden önce, kendimizi \"hissederiz\". Bu, Descartes'ın \"cogito\"suna giden yolda duyusal bir öncüldür."
+        }
+      ]
+    },
+    {
+      "title": "Evrensel Duyarlılık (Panpsychism)",
+      "body": "Campanella, evrende ölü veya ruhsuz hiçbir madde olmadığına inanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Canlı Madde",
+          "text": "Taşlardan yıldızlara kadar her şey duyar, hisseder ve kendi varlığını koruma (self-preservation) arzusuna sahiptir."
+        },
+        {
+          "label": "Sempatik Bağ",
+          "text": "Evren, her parçası birbiriyle görünmez iplerle ve hislerle bağlı devasa bir canlı organizmadır."
+        }
+      ]
+    },
+    {
+      "title": "Güneş Ülkesi (La città del Sole)",
+      "body": "Hapishanede yazdığı bu başyapıt, Platon'un Devlet'inden sonraki en önemli toplumsal tasarım denemesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Teokratik Komünizm",
+          "text": "Özel mülkiyetin, ailenin ve paranın olmadığı; her şeyin ortak paylaşıldığı bir toplumdur."
+        },
+        {
+          "label": "Yönetim Üçlüsü",
+          "text": "Ülkenin başında \"Güneş\" (Hoh) adlı filozof-rahip-kral bulunur. Ona üç yardımcı eşlik eder: Pon (Güç/Ordu), Sin (Bilgelik/Bilim) ve Mor (Sevgi/Üretim)."
+        },
+        {
+          "label": "Eğitim Duvarları",
+          "text": "Şehrin yedi katlı duvarları tüm bilimsel bilgilerle resmedilmiştir; çocuklar şehri gezerken her şeyi duvarlardan öğrenirler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Direniş",
+      "text": "Engizisyon işkenceleri ve otuz yıllık hapis hayatı boyunca yazmaya devam etmesi, insan iradesinin ve düşünce özgürlüğünün en büyük sembollerinden biridir."
+    },
+    {
+      "title": "Bilimsel Savunuculuk",
+      "text": "Çağdaşı Galileo'yu kiliseye karşı savunan ilk ve en cesur isimlerden biridir. İnanç ile bilimsel gözlemin ayrı yollardan aynı hakikate varacağını savunmuştur."
+    },
+    {
+      "title": "Bütüncül Doğa Algısı",
+      "text": "Doğayı sömürülecek bir nesne değil, canlı bir özne olarak görmesi, modern ekolojik felsefelerin erken bir fısıltısıdır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Ütopyanın Karanlık Yüzü",
+      "text": "\"Güneş Ülkesi\", her ne kadar adalet vaat etse de, bireysel özgürlüğün tamamen yok edildiği, her saatin devlet tarafından planlandığı \"totaliter\" bir yapı sunar."
+    },
+    {
+      "title": "Astroloji Takıntısı",
+      "text": "Bilimsel dehasına rağmen, her şeyi yıldızların konumuna bağlayan aşırı bir astrolojik determinizmden kurtulamamıştır; bu da felsefesini bazen rasyonaliteden uzaklaştırır."
+    },
+    {
+      "title": "Siyasi Safdillik",
+      "text": "İspanya kralını tüm dünyayı yönetecek \"evrensel hükümdar\" olmaya ikna etmeye çalışması gibi çıkışları, onun bazen teorik hayalleriyle sert politik gerçekler arasındaki dengeyi kuramadığını gösterir."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "subtitle": "Ay'ın Kaşifi ve Düşüncenin Silahşörü (1619–1655)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bilimkurgunun Atası: \"Öteki Dünyalar\"",
+      "body": "Cyrano, Jules Verne'den yüzyıllar önce insanların başka dünyalara nasıl gidebileceğini hayal etmiştir. Başyapıtları Ay Devletleri ve İmparatorlukları ile Güneş Devletleri ve İmparatorlukları, edebiyat tarihindeki ilk modern bilimkurgu örnekleridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Roket Teknolojisi Sezgisi",
+          "text": "Ay'a gitmek için havai fişeklerden oluşan bir mekanizma (bir tür roket) kullanmayı hayal etmiştir."
+        },
+        {
+          "label": "Ses Kaydı Öngörüsü",
+          "text": "Ay'daki insanların \"konuşan kitaplar\" kullandığını anlatır ki bu, günümüzdeki sesli kitapların veya plakların inanılmaz derecede erken bir tasviridir."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Materyalizm ve Libertenizm",
+      "body": "Cyrano, Pierre Gassendi'nin öğrencisiydi ve onun atomcu, deneyci fikirlerini en uç noktaya taşıdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ateizm ve Şüphe",
+          "text": "Dönemin dinsel dogmalarına, mucizelere ve ruhun ölümsüzlüğü fikrine gizli bir mizah ve keskin bir mantıkla saldırdı. Ona göre evren, Tanrı'nın bir eseri değil, maddenin sonsuz hareketidir."
+        },
+        {
+          "label": "İnsan Merkezciliğin Reddi",
+          "text": "İnsanın evrenin merkezi olmadığını, hatta Ay'daki varlıklar için bizim \"tuhaf hayvanlar\" olduğumuzu söyleyerek insani kibri yerle bir etmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Felsefi Bir Silahşör: Epikürcü Yaşam",
+      "body": "Onun için felsefe sadece bir kitap işi değil, bir yaşam tarzıydı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özgürlük Tutkusu",
+          "text": "Hiçbir otoriteye (ne krala ne kiliseye) boyun eğmemeyi hayat felsefesi edinmiştir."
+        },
+        {
+          "label": "Maddesel Ruh",
+          "text": "Ruhu, bedenden ayrı ilahi bir töz olarak değil, bedenin çok ince bir formu (fiziksel bir süreç) olarak görmüştür."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Hayal Gücünün Özgürleşmesi",
+      "text": "Bilimsel gerçekleri (Kopernik evreni, atomculuk) kurguyla birleştirerek, zor fikirlerin geniş kitlelere ulaşmasını sağlamıştır."
+    },
+    {
+      "title": "Dogma Yıkıcılığı",
+      "text": "Döneminin en sert sansür mekanizmalarına rağmen, hiciv yoluyla dinin ve otoritenin saçmalıklarını teşhir etmiştir."
+    },
+    {
+      "title": "Modernitenin Habercisi",
+      "text": "Teknolojik icatları (roket, ses kaydı, ampul benzeri aydınlatma) hayal ederek geleceğin dünyasını kurgulamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistem Eksikliği",
+      "text": "O bir Descartes veya Hobbes gibi sistematik bir felsefe kurmamış; fikirlerini hikayelerin ve oyunların içine serpiştirmiştir."
+    },
+    {
+      "title": "Öfke ve Düello",
+      "text": "Karakterindeki hırçınlık ve sürekli kavgaya meyilli yapısı, fikirlerinin ciddiyetinin bazen \"macera\" gölgesinde kalmasına neden olmuştur."
+    },
+    {
+      "title": "Edebi Perde",
+      "text": "Tarih boyunca gerçek felsefi kimliği, Rostand'ın yarattığı romantik \"romantik kahraman\" imajının altında ezilmiştir."
+    }
+  ]
+}

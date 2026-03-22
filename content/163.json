@@ -1,0 +1,79 @@
+{
+  "subtitle": "Doğa Durumu ve Ejderha'nın Doğuşu (1588–1679)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Doğa Durumu: Herkesin Herkese Karşı Savaşı",
+      "body": "Hobbes, devleti ve yasaları aradan çıkardığımızda geriye ne kaldığını hayal eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Homo Homini Lupus",
+          "text": "\"İnsan insanın kurdudur.\" İnsanlar doğuştan eşit ama aynı zamanda doğuştan bencildir. Herkesin her şey üzerinde hakkı olduğu bu durumda, hiç kimse güvende değildir."
+        },
+        {
+          "label": "Kısa ve Acımasız Hayat",
+          "text": "Yasasız bir ortamda yaşam; \"yalnız, yoksul, iğrenç, vahşi ve kısa\"dır. Bu sürekli ölüm korkusu, insanı akıl yoluyla bir \"sözleşme\" yapmaya zorlar."
+        }
+      ]
+    },
+    {
+      "title": "Leviathan: Mutlak Güç ve Güvenlik",
+      "body": "1651'de yayımlanan Leviathan, modern siyasetin en güçlü metaforudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Toplumsal Sözleşme",
+          "text": "İnsanlar hayatta kalmak için tüm haklarını ve güçlerini tek bir kişiye veya kurula (Egemen) devrederler. Karşılığında ise tek bir şey isterler: Güvenlik."
+        },
+        {
+          "label": "Ölümlü Tanrı",
+          "text": "Leviathan (Kutsal Kitap'taki dev deniz canavarı), devleti simgeler. O, parçalanamaz, tartışılamaz ve mutlak bir güçtür. Egemen, yasaların üstündedir çünkü huzuru sağlayan tek otorite odur."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Bir Makinedir (Mekanizm)",
+      "body": "Hobbes, Galileo'nun fizik yasalarını insan zihnine uygulamıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Arzular ve İtimler",
+          "text": "Ruh diye bir şey yoktur; sadece hareket halindeki madde vardır. Sevgi, bir şeye doğru \"çekilme\"; nefret ise bir şeyden \"itilme\" hareketidir."
+        },
+        {
+          "label": "Seküler Siyaset",
+          "text": "Siyaseti Tanrı'nın iradesinden değil, doğrudan insanın \"hayatta kalma içgüdüsünden\" (biyolojik mekanizmadan) türetmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Siyasetin Temeli",
+      "text": "Devletin meşruiyetini \"Tanrı'dan\" değil, \"halkın rızasından\" (sözleşmeden) alan ilk büyük sistemdir."
+    },
+    {
+      "title": "Gerçekçilik",
+      "text": "İnsan doğasının karanlık yanlarını görmezden gelmeyerek, siyaseti ütopyalar üzerine değil, gerçek korkular üzerine kurmuştur."
+    },
+    {
+      "title": "İç Barış Tutkusu",
+      "text": "İngiliz İç Savaşı'nın yıkımını gördüğü için, en kötü düzenin bile düzensizlikten (kaostan) iyi olduğunu savunarak istikrarın önemini vurgulamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tiranlığa Kapı Açmak",
+      "text": "Egemenin gücünü o kadar mutlak kılmıştır ki, halkın zulme karşı direnme hakkını (can güvenliği tehdit edilmedikçe) elinden almıştır."
+    },
+    {
+      "title": "Kötümser İnsan Tasavvuru",
+      "text": "İnsanı sadece korku ve çıkarla hareket eden bir makineye indirgemesi, insanın iş birliği, empati ve fedakarlık gibi yönlerini ihmal eder."
+    },
+    {
+      "title": "Dini Bastırmak",
+      "text": "Leviathan'ın hem kılıcı hem de asayı (dini otoriteyi) elinde tutması, vicdan özgürlüğünü devletin kontrolüne sokar."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Tutku, Falanster ve Medeniyet Eleştirisi (1772–1837)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tutkulu Cazibe (Attraction Passionnée)",
+      "body": "Fourier'nin sisteminin merkezinde \"Newtoncu fizik\" değil, bir \"sosyal fizik\" yatar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "12 Temel Tutku",
+          "text": "İnsanı yöneten 5 duyusal, 4 ruhsal ve 3 \"dağıtıcı\" (entrika, çeşitlilik, birlik) tutku olduğunu savunur."
+        },
+        {
+          "label": "Bastırma Değil, Uyum",
+          "text": "Ona göre toplumsal kötülüklerin nedeni insanın bu tutkularının \"medeniyet\" tarafından bastırılmasıdır. Eğer tutkular serbest bırakılır ve doğru organize edilirse, kaos değil muazzam bir \"Uyum\" (Harmonie) doğacaktır."
+        }
+      ]
+    },
+    {
+      "title": "Falanster (Phalanstère): Ortak Yaşam Sarayı",
+      "body": "Fourier, ideal toplum birimi olarak tam 1620 kişiden oluşan devasa komünler önermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mimaride Özgürlük",
+          "text": "Falansterler, hem tarımın hem sanatın hem de eğitimin iç içe geçtiği, bireyin her ihtiyacının karşılandığı devasa saraylardır."
+        },
+        {
+          "label": "İş Bölümü ve Oyun",
+          "text": "Fourier'de kimse bütün gün aynı işi yapmaz. İnsanlar tutkularına göre gruplara (serilere) ayrılır ve günde birkaç kez iş değiştirirler. Hatta \"pis işleri\", çamurla oynamayı seven çocuklardan oluşan \"Küçük Gruplar\" (Petites Hordes) neşeyle yapar."
+        }
+      ]
+    },
+    {
+      "title": "Medeniyet Eleştirisi ve Feminizm",
+      "body": "Fourier, yaşadığı dönemi (\"Medeniyet\" evresi) ikiyüzlülük ve ticaretin yarattığı bir karmaşa olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Feminizm",
+          "text": "\"Kadın Hakları\" terimini ilk kullananlardan biridir. Ona göre, bir toplumun genel gelişim düzeyi, kadınlara verilen özgürlük seviyesiyle ölçülür. Monogamiye ve kadının eve hapsedilmesine şiddetle karşı çıkmıştır."
+        },
+        {
+          "label": "Ticaret Karşıtlığı",
+          "text": "Tüccarları, üretici ile tüketici arasına giren \"asalaklar\" olarak görmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Kozmik Kehanetler ve \"Vahşi\" Hayal Gücü",
+      "body": "Onu Saint-Simon veya Marx'tan ayıran en ilginç yönü, geleceğe dair inanılmaz öngörüleridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğanın Dönüşümü",
+          "text": "Uyum çağına geçildiğinde, Kuzey Kutbu'nun ısınacağını, okyanusların \"limonata\" tadına bürüneceğini ve insanların hizmetine girecek \"anti-aslanlar\" veya \"anti-balinalar\"ın evrimleşeceğini iddia etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Çalışmanın İnsanileşmesi",
+      "text": "İşin sadece bir geçim kaynağı değil, bir zevk olması gerektiği fikriyle modern iş psikolojisini ve yabancılaşma teorilerini derinden etkilemiştir."
+    },
+    {
+      "title": "Kooperatifçilik",
+      "text": "Falanster fikri, bugün hala yaşayan pek çok kooperatif ve komün hareketinin (örneğin İsrail'deki Kibbutzlar) ilham kaynağı olmuştur."
+    },
+    {
+      "title": "Toplumsal Eleştiri",
+      "text": "Burjuva ahlakının, evliliğin ve ticaretin gizli kalmış tutarsızlıklarını dâhiyane bir ironiyle deşifre etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Pratikten Kopukluk",
+      "text": "Toplumu dönüştürmek için sınıf savaşımı veya siyasi eylem yerine, bir gün zengin bir hayırseverin çıkıp ilk falansteri kurmasını beklemiştir (ki her öğle vakti bu hayali bağışçıyı kapısında beklemiştir)."
+    },
+    {
+      "title": "Aşırı Determinizm",
+      "text": "Tutkuları matematiksel bir kesinlikle (tam 1620 kişi gibi) sayılara dökme çabası, insan doğasının kaotik yapısını fazla sistematize etmeye çalışmaktır."
+    },
+    {
+      "title": "Eksantriklik",
+      "text": "Doğa üzerine yaptığı çılgınca tahminler, ciddi ekonomik ve sosyal eleştirilerinin bazen \"deli saçması\" olarak görülüp ciddiye alınmamasına neden olmuştur."
+    }
+  ]
+}

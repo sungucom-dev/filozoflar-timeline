@@ -1,0 +1,81 @@
+{
+  "subtitle": "Siyasi Adalet ve Aklın Egemenliği (1756–1836)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Enquiry Concerning Political Justice (Siyasi Adalete İlişkin Bir Araştırma)",
+      "body": "1793'te yayımlanan bu eser, Godwin'i bir gecede İngiltere'nin en ünlü ve en \"tehlikeli\" düşünürü yaptı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yönetim Bir Engeldir",
+          "text": "Godwin'e göre hükümet, insanın kendi aklını kullanma yetisini felç eden bir kurumdur. \"En iyi yönetim, en az yöneten değil, sonunda kendini gereksiz kılan yönetimdir.\""
+        },
+        {
+          "label": "İnsanın Yetkinleşebilirliği (Perfectibility)",
+          "text": "İnsan doğuştan kötü değildir; çevresi ve yasalar tarafından bozulur. Akıl özgür bırakılırsa, insanlık sonsuz bir gelişim kapasitesine sahiptir."
+        }
+      ]
+    },
+    {
+      "title": "Özel Mülkiyet ve Eşitsizliğin Reddi",
+      "body": "Godwin, mülkiyet haklarını \"doğal\" bulmaz; onları adaletsizliğin kaynağı olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İhtiyaç İlkesi",
+          "text": "Bir mal, ona en çok ihtiyacı olana aittir. Birinin fazladan bir ekmeği varsa ve diğeri açsa, o ekmek aç olanın hakkıdır. Bu, proto-sosyalist ve anarşist düşüncenin en erken biçimlerinden biridir."
+        },
+        {
+          "label": "Evlilik Eleştirisi",
+          "text": "Evliliği, \"mülkiyetin en kötü biçimi\" ve iki insanın birbirini köleleştirdiği \"yasal bir tekel\" olarak tanımlamıştır (ironik bir şekilde daha sonra Mary Wollstonecraft ile evlenecektir)."
+        }
+      ]
+    },
+    {
+      "title": "\"Siyasi\" Değil, \"Felsefi\" Devrim",
+      "body": "Godwin, Fransız Devrimi'nin şiddetinden dehşete düşmüştü.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şiddetsiz Dönüşüm",
+          "text": "Toplumun silahlarla değil, bireysel tartışma, okuma ve ikna yoluyla değişmesi gerektiğini savundu. Akıl bir kez gerçeği gördüğünde, tiranlığın yalanları artık ayakta kalamazdı."
+        }
+      ]
+    },
+    {
+      "title": "Caleb Williams: Felsefenin Romanı",
+      "body": "Fikirlerini sadece teorik kitaplarda bırakmamış, Caleb Williams adlı romanıyla sınıfsal adaletsizliği ve güç mekanizmalarının bireyi nasıl ezdiğini sürükleyici bir gerilimle anlatmıştır. Bu eser, \"ilk psikolojik polisiye\" örneklerinden biri kabul edilir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Anarşizmin Felsefi Temeli",
+      "text": "Devletin olmadığı bir düzenin kaos değil, aksine \"üstün bir akıl düzeni\" olabileceğini ilk kez sistemli bir şekilde kanıtlamaya çalışmıştır."
+    },
+    {
+      "title": "Bireysel Özerklik",
+      "text": "İnsanın kendi kararlarını verme yetisine duyduğu sarsılmaz güven, modern liberalizmin ve özgürlükçü düşüncenin en uç sınırlarını belirlemiştir."
+    },
+    {
+      "title": "Entelektüel Miras",
+      "text": "Mary Wollstonecraft ile olan birlikteliği ve kızları Mary Shelley üzerindeki etkisi, dünya edebiyatını ve felsefesini kalıcı olarak değiştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Rasyonalizm",
+      "text": "İnsanı neredeyse \"duygusuz bir hesap makinesi\" gibi kurgulamıştır. Aşkın, tutkunun ve irrasyonel dürtülerin toplumsal hayattaki devasa rolünü büyük oranda ıskalamıştır."
+    },
+    {
+      "title": "Uygulanamaz Ütopya",
+      "text": "Hükümetin ve mülkiyetin sadece \"ikna yoluyla\" ortadan kalkacağını düşünmesi, güç dengelerini ve tarihsel dinamikleri fazla hafife alan bir yaklaşımdır."
+    },
+    {
+      "title": "Tutarsızlık Eleştirisi",
+      "text": "Hayatı boyunca savunduğu \"evlilik karşıtlığı\" gibi radikal fikirlerinden, toplumsal baskılar (ve Mary Wollstonecraft'ın hamileliği) nedeniyle geri adım atması, radikal takipçileri tarafından bir hayal kırıklığı olarak görülmüştür."
+    }
+  ]
+}

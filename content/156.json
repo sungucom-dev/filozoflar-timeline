@@ -1,0 +1,86 @@
+{
+  "subtitle": "Sınırsız Evren ve Tanrısal Işık (1548–1600)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Sonsuz Evren ve Dünyaların Çokluğu",
+      "body": "Kopernik Güneş'i merkeze koymuştu ama evrenin hala \"sabit yıldızlar küresi\" ile sınırlı olduğunu sanıyordu. Bruno bu küreyi parçaladı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Merkezsiz Evren",
+          "text": "Ona göre evren sonsuzdur ve bu yüzden tek bir merkezi (Dünya veya Güneş) olamaz. Her yıldız bir güneştir ve her güneşin etrafında bizimki gibi yaşam barındıran dünyalar olabilir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu düşünce, insanın evrendeki \"ayrıcalıklı\" konumuna indirilmiş en büyük darbeydi."
+        }
+      ]
+    },
+    {
+      "title": "Panteizm: Her Şeyde Var Olan Tanrı",
+      "body": "Bruno, Tanrı'yı evrenin dışında, bir tahtta oturan bir yargıç olarak görmeyi reddetti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Anima Mundi (Dünya Ruhu)",
+          "text": "Tanrı evrenin kendisidir, doğanın içindeki yaşam gücüdür. \"Tanrı maddeden ayrı değildir; o, maddenin içindeki yaratıcı enerjidir\" diyerek panteist bir evren tasarımı sundu."
+        },
+        {
+          "label": "Madde ve Ruh",
+          "text": "Ona göre madde ölü değildir, her atom tanrısal bir kıvılcım taşır."
+        }
+      ]
+    },
+    {
+      "title": "Hafıza Sanatı ve Büyü (Mnemonics)",
+      "body": "Bruno sadece bir astronom değil, aynı zamanda gizemli bir \"bellek ustası\" idi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Lullian Çarkları",
+          "text": "Zihinde karmaşık geometrik şekiller ve semboller kullanarak devasa bilgileri depolama ve birleştirme yöntemleri geliştirdi. Bu yöntemi bir tür \"doğal büyü\" olarak görüyordu."
+        }
+      ]
+    },
+    {
+      "title": "\"Ölüm Kararımı Okurken Siz Benden Daha Çok Korkuyorsunuz\"",
+      "body": "Sekiz yıl süren hapis ve işkence dolu bir yargılanma sürecinden sonra, Engizisyon onu kazığa bağlanarak yakılmaya mahkûm etti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Susmayan Hakikat",
+          "text": "1600 yılında Roma'da Campo de' Fiori meydanında yakılırken, dilini konuşamasın diye bir demirle bağlamışlardı. Ancak o, son anına kadar bakışlarıyla cellatlarına meydan okudu. Bugün o meydanda, karanlığa karşı bilginin simgesi olarak heykeli yükselir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Zihinsel Kurtuluş",
+      "text": "Evrenin sonsuzluğu fikriyle insan zihnini Orta Çağ'ın dar kalıplarından çıkarmış, modern kozmolojiye giden yolu felsefi olarak açmıştır."
+    },
+    {
+      "title": "Cesaretin Simgesi",
+      "text": "Düşünce özgürlüğü için canını feda ederek, bilim ve felsefe dünyası için sarsılmaz bir etik kutup yıldızı olmuştur."
+    },
+    {
+      "title": "Bütüncül Bakış",
+      "text": "Din, bilim ve felsefeyi \"sonsuzluk\" kavramı altında birleştirme çabası, evrene duyulan hayranlığı (kozmik huşuyu) yeniden canlandırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Bilimsel Değil, Mistik",
+      "text": "Bruno modern bir astronom değildir. Görüşleri teleskop gözlemlerine veya matematiksel hesaplara değil, mistik sezgilere ve Hermetik felsefeye dayanır. (Bu yüzden Galileo'dan ayrılır)."
+    },
+    {
+      "title": "Hırçın Kişilik",
+      "text": "Tıpkı Paracelsus gibi, gittiği her yerde (Londra, Paris, Cenevre) akademik çevrelerle ve krallarla kavga etmiş; fikirlerini yaymak yerine düşman kazanmıştır."
+    },
+    {
+      "title": "Belirsiz Teoloji",
+      "text": "Panteizmi o kadar ileri götürmüştür ki, Hristiyanlığın temel dogmalarını (teslis, cisimleşme vb.) tamamen anlamsız kılmış, bu da onu Engizisyon için \"kaçınılmaz bir hedef\" haline getirmiştir."
+    }
+  ]
+}

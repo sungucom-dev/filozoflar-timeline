@@ -1,0 +1,85 @@
+{
+  "subtitle": "Sonsuz İlerleme ve Eşitlik (1743–1794)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Esquisse (İnsan Zihninin İlerlemesi Üzerine Tarihsel Bir Tablo)",
+      "body": "Condorcet'nin vasiyeti sayılan bu eser, tarihin bir \"sürekli gelişim\" hikayesi olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "On Aşamalı Tarih",
+          "text": "İnsanlık tarihini 10 aşamaya ayırır. İlk dokuz aşama (avcı-toplayıcılıktan Fransız Devrimi'ne kadar) geçilmiştir."
+        },
+        {
+          "label": "Onuncu Aşama (Gelecek)",
+          "text": "Condorcet'ye göre bu aşamada üç büyük hedef gerçekleşecektir: Uluslar arası eşitsizliğin yok olması, sınıflar arası eşitliğin sağlanması ve insan zihninin/bedeninin gerçek \"mükemmelliği.\" Hatta tıbbın ilerlemesiyle yaşamın sonsuza dek uzayabileceğini bile hayal etmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Sosyal Matematik ve Seçim Paradoksu",
+      "body": "Bir matematikçi olarak, toplumsal kararların rasyonel bir temele oturması gerektiğini savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Condorcet Paradoksu",
+          "text": "Seçmenlerin bireysel tercihleri mantıklı olsa bile, grup tercihlerinin \"döngüsel\" ve tutarsız olabileceğini matematiksel olarak kanıtlamıştır. Örneğin: A > B, B > C iken grubun C > A diyebilmesi."
+        },
+        {
+          "label": "Jüri Teoremi",
+          "text": "Eğer bir gruptaki her bireyin doğru karar verme olasılığı p > 0.5 ise, grup genişledikçe grubun doğru karar verme olasılığı 1'e yaklaşır."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Eşitlikçi: Kadın Hakları ve Kölelik",
+      "body": "Condorcet, döneminin çok ötesinde bir sosyal adalet savunucusudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kadınların Vatandaşlığı",
+          "text": "1790'da yazdığı makaleyle, kadınların siyasi haklardan mahrum bırakılmasının bir \"zorbalık\" olduğunu savunmuştur. Eğer bir varlık düşünebiliyor ve ahlaki yargılarda bulunabiliyorsa, cinsiyeti ne olursa olsun haklara sahiptir."
+        },
+        {
+          "label": "Kölelik Karşıtlığı",
+          "text": "\"Siyahların Dostları Derneği\" üyesi olarak köleliğin derhal kaldırılması için savaşmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Kamu Eğitimi",
+      "body": "Modern, laik ve herkese eşit eğitim sisteminin ilk kapsamlı planını hazırlamıştır. Eğitimi, bir \"ayrıcalık\" değil, bir \"kamu görevi\" ve özgürlüğün teminatı olarak görmüştür.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Gelecek Vizyonu",
+      "text": "İnsan haklarını, eğitimde fırsat eşitliğini ve uluslararası barışı sadece birer \"dilek\" değil, tarihin kaçınılmaz bir sonucu olarak kurgulamıştır."
+    },
+    {
+      "title": "Siyasetin Bilimselleşmesi",
+      "text": "İstatistik ve olasılık kuramlarını toplumsal sorunlara uygulayarak modern sosyal bilimlerin ve kamuoyu araştırmalarının önünü açmıştır."
+    },
+    {
+      "title": "Ahlaki Tutarlılık",
+      "text": "Kendi sınıfının (aristokrasinin) imtiyazlarını reddedip, ezilenlerin ve kadınların haklarını en tehlikeli anlarda bile savunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İyimserlik (Ütopizm)",
+      "text": "İnsanlığın \"sonsuz mükemmelliğine\" olan inancı, tarihin karanlık döngülerini ve insanın yıkıcı doğasını (irrasyonaliteyi) fazla hafife almasına neden olmuştur. (Hücresinde öldüğü devrim, onun bu iyimserliğini acı bir şekilde test etmiştir)."
+    },
+    {
+      "title": "Rasyonalist Kibirlilik",
+      "text": "Her şeyi matematiksel bir kesinlikle çözebileceğine inanması, geleneğin ve toplumsal duyguların gücünü bazen ıskalamasına yol açmıştır."
+    },
+    {
+      "title": "Siyasi Saflık",
+      "text": "Saf bir dürüstlükle hareket etmesi, devrimin o kaygan ve kanlı siyasetinde (Jacobinlerle olan mücadelesinde) hayatta kalmasını imkansız kılmıştır."
+    }
+  ]
+}

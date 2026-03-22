@@ -1,0 +1,90 @@
+{
+  "subtitle": "Akıl, Eşitlik ve Radikal Cumhuriyetçilik (1737–1809)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Common Sense (Sağduyu): Bir Kıtanın Uyanışı",
+      "body": "1776'da yayımlanan bu 49 sayfalık broşür, Amerikan Devrimi'nin asıl kıvılcımıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Krallık Saçmalıktır",
+          "text": "Paine, kalıtsal monarşiyi \"absürt\" bir sistem olarak tanımlar. \"Kral\" dediği şeyin aslında halktan çalınmış bir ayrıcalık olduğunu söyler."
+        },
+        {
+          "label": "Toplum vs. Devlet",
+          "text": "Toplumu ihtiyaçlarımızın bir sonucu (iyi), devleti ise kötülüklerimizin bir sonucu (gerekli bir şer) olarak görür. Devleti dizginlemek, toplumun özgürlüğü için şarttır."
+        }
+      ]
+    },
+    {
+      "title": "The Rights of Man (İnsan Hakları)",
+      "body": "Edmund Burke'ün Fransız Devrimi'ne saldırısına karşı yazdığı bu eser, modern insan haklarının manifestosudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesiller Arası Egemenlik",
+          "text": "Paine'in en radikal fikirlerinden biridir: \"Yaşayanların dünya üzerinde egemenlik hakkı vardır.\" Ölülerin (geçmiş nesillerin) koyduğu yasalar, yaşayanları bağlayamaz."
+        },
+        {
+          "label": "Doğal Haklar",
+          "text": "Siyasi hakların temelinde Tanrı vergisi doğal hakların yattığını ve hiçbir hükümetin bu hakları ihlal edemeyeceğini savunur."
+        }
+      ]
+    },
+    {
+      "title": "Agrarian Justice (Toprakta Adalet): Sosyal Devletin Tohumu",
+      "body": "Paine sadece siyasi değil, ekonomik bir devrimcidir de.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ortak Mülkiyet",
+          "text": "Dünyanın başlangıçta insanlığın ortak mülkü olduğunu, özel mülkiyetin ise tarımla beraber gelen bir \"gasp\" olduğunu savunur."
+        },
+        {
+          "label": "Vatandaşlık Payı",
+          "text": "Toprak sahiplerinin topluma bir \"yer kirası\" borçlu olduğunu söyler. Bu fonla 21 yaşına gelen her gence bir sermaye, 50 yaşını geçen her yaşlıya ise emekli maaşı bağlanmasını önerir. Bu, modern \"Evrensel Temel Gelir\" fikrinin ilk ciddi teorisidir."
+        }
+      ]
+    },
+    {
+      "title": "The Age of Reason (Akıl Çağı): Deizm ve Din Eleştirisi",
+      "body": "Ömrünün sonunda yazdığı bu kitap, onun Amerika'da \"istenmeyen adam\" ilan edilmesine neden olmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Benim Kendi Zihnim Benim Kilisedir",
+          "text": "Kurumsal dinlere ve mucizelere karşı çıkar. Deist bir Tanrı inancını savunur; Tanrı'nın kitabının İncil değil, \"Doğa\" olduğunu söyler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dili Demokratikleştirmesi",
+      "text": "Felsefeyi Latince ve ağır terimlerden kurtarıp, gemicilerin ve çiftçilerin anlayacağı bir güce dönüştürmüştür."
+    },
+    {
+      "title": "Sosyal Güvenlik Vizyonu",
+      "text": "Refah devletinin ve sosyal adaletin felsefi temellerini yüzyıllar öncesinden atmıştır."
+    },
+    {
+      "title": "Tutarlılık",
+      "text": "Fikirleri uğruna hapse girmeyi, idam edilme riskini (Fransa'da) ve dışlanmayı göze almıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Basitleştirme",
+      "text": "Karmaşık siyasi süreçleri ve geleneklerin gücünü bazen fazla küçümsemiş, \"akıl her şeyi bir anda çözer\" naifliğine kapılmıştır."
+    },
+    {
+      "title": "Kavgacı Üslup",
+      "text": "Dost biriktirmek yerine düşman kazanma konusunda \"uzman\" olmuştur. George Washington'a yazdığı ağır mektup gibi eylemleri, onun siyasi etkisini kendi elleriyle baltalamıştır."
+    },
+    {
+      "title": "İyimserlik Körlüğü",
+      "text": "Devrimlerin şiddete ve teröre (Fransız Devrimi'nde olduğu gibi) dönüşebileceği gerçeğini başlangıçta öngörememiştir."
+    }
+  ]
+}

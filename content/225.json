@@ -1,0 +1,43 @@
+{
+  "subtitle": "Görev, Ulus ve İnsanlık (1805–1872)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Haklar Değil, Ödevler (Doveri dell'uomo)",
+      "body": "Mazzini, Fransız Devrimi'nin getirdiği \"İnsan Hakları\" kavramını eksik bulur.",
+      "ordered": false,
+      "items": [
+        {"label": "Bencilliğe Karşı", "text": "Sadece haklarını arayan insanın bencilce davranacağını savunur. Ona göre gerçek özgürlük, bireyin topluma, vatana ve insanlığa karşı \"Ödevlerini\" yerine getirmesiyle başlar."},
+        {"label": "Sorumluluk Ahlakı", "text": "\"İnsanlığın ilerlemesi, hakların talep edilmesiyle değil, görevlerin ifa edilmesiyle mümkündür.\""}
+      ]
+    },
+    {
+      "title": "Tanrı ve Halk (Dio e Popolo)",
+      "body": "Mazzini'nin milliyetçiliği laik bir siyasetten ziyade, neredeyse dini bir görevdir.",
+      "ordered": false,
+      "items": [
+        {"label": "Kutsal Misyon", "text": "Ulusların, Tanrı tarafından yeryüzünde bir görevi yerine getirmek için kurulduğuna inanır. İtalya'nın görevi ise Avrupa'ya yeni bir \"üçüncü Roma\" (halkın Roması) ruhuyla liderlik etmektir."},
+        {"label": "Halkın İradesi", "text": "Hükümdarların veya diplomatların değil, bizzat halkın devrimci iradesinin birliği kurması gerektiğini savunur."}
+      ]
+    },
+    {
+      "title": "Genç İtalya ve Genç Avrupa",
+      "body": "Mazzini, sadece bir düşünür değil, bir örgütçüdür.",
+      "ordered": false,
+      "items": [
+        {"label": "Giovine Italia", "text": "40 yaş altı gençlerden oluşan, gizli ama dinamik bir cemiyet kurarak İtalyan birliğini aşağıdan yukarıya örgütlemeye çalıştı."},
+        {"label": "Evrensel Kardeşlik", "text": "Milliyetçiliği \"dışlayıcı\" değildir. Her ulusun kendi birliğini kurması gerektiğini, ancak bu birliğin sonunda \"Genç Avrupa\" (Avrupa Federasyonu) idealine hizmet etmesi gerektiğini savunur."}
+      ]
+    }
+  ],
+  "strengths": [
+    {"title": "Ahlaki Pusula", "text": "Siyaseti bir güç mücadelesinden çıkarıp, onu bir \"etik görev\" haline getirmiştir. İtalyan birliğinin \"ruhu\" olmuş, Garibaldi ve Cavour gibi isimlere ilham vermiştir."},
+    {"title": "Kozmopolit Milliyetçilik", "text": "Ulusal bağımsızlık ile evrensel insanlık idealini (Avrupa Birliği'nin erken bir vizyonu gibi) birleştirmeyi başarmıştır."},
+    {"title": "İradenin Zaferi", "text": "Bitmek bilmeyen sürgünlere, başarısız darbe girişimlerine ve yoksulluğa rağmen davasından bir milim bile sapmaması, devrimci iradenin en büyük örneklerinden biridir."}
+  ],
+  "weaknesses": [
+    {"title": "Aşırı İdealizm", "text": "Mazzini bir \"eylem adamı\" olmaya çalışsa da, planladığı neredeyse tüm ayaklanmalar kanlı bir başarısızlıkla sonuçlanmıştır. \"Realpolitik\" dünyasının sertliğini bazen romantik hayalleriyle gölgelediği söylenir."},
+    {"title": "Sınıf Çatışmasını Reddetmesi", "text": "Marx ile girdiği tartışmalarda, işçi sınıfının sorunlarını \"ulusal birlik\" içinde eritmeye çalışmış; bu da emek hareketinin dinamiklerini tam olarak kavrayamamasına yol açmıştır."},
+    {"title": "Dini Dil", "text": "Siyaseti bu kadar yoğun bir \"dini retorik\" (şehadet, kutsal görev vb.) ile anlatması, daha seküler ve rasyonel düşünen müttefikleriyle arasının açılmasına neden olmuştur."}
+  ]
+}

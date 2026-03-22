@@ -1,0 +1,79 @@
+{
+  "subtitle": "Doğa Tarihi ve Zamanın Derinliği (1707–1788)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Histoire Naturelle (Doğa Tarihi)",
+      "body": "Buffon'un 1749'da yayımlamaya başladığı bu eser, döneminin en çok okunan bilimsel ansiklopedisidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bütünsel Bakış",
+          "text": "Doğayı sadece bir sınıflandırma (Linné gibi) olarak görmemiş; jeolojiden antropolojiye, zoolojiden kozmolojiye kadar her şeyi bir bütün içinde anlatmıştır."
+        },
+        {
+          "label": "Üslup",
+          "text": "Bilimi sadece uzmanlar için değil, edebiyat tadında geniş kitleler için yazmıştır. \"Üslup insanın kendisidir\" sözü ona aittir."
+        }
+      ]
+    },
+    {
+      "title": "Yeryüzünün Yaşı: \"Dünyanın Dönemleri\"",
+      "body": "Buffon, kilisenin \"Dünya 6000 yaşındadır\" iddiasına bilimsel bir deneyle meydan okumuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Soğuma Deneyi",
+          "text": "Farklı boyutlardaki metal küreleri ısıtıp soğuma sürelerini ölçerek, Dünya'nın ergimiş bir kütleden yaşanabilir hale gelmesi için yaklaşık 75.000 yıl geçmesi gerektiğini hesaplamıştır."
+        },
+        {
+          "label": "Gizli Tahmin",
+          "text": "Özel notlarında bu sürenin milyonlarca yıl olabileceğini sezmiş, ancak engizisyon korkusuyla bunu yayınlamamıştır. Bu, \"derin zaman\" kavramının ilk adımıdır."
+        }
+      ]
+    },
+    {
+      "title": "Canlıların Değişimi ve \"Dejenerasyon\"",
+      "body": "Darwin'den bir asır önce, türlerin sabit olmadığını fark etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçsel Kalıp (Moule Intérieur)",
+          "text": "Canlıların çevreye uyum sağlarken değiştiklerini, ancak bir \"içsel kalıbı\" koruduklarını savundu."
+        },
+        {
+          "label": "Amerikan Dejenerasyonu",
+          "text": "İklimin canlıları şekillendirdiğine o kadar inanıyordu ki, Amerika'nın nemli havasının hayvanları ve insanları \"küçülttüğünü\" ve \"zayıflattığını\" iddia etmiştir (Bu durum Thomas Jefferson ile büyük bir bilimsel tartışmaya yol açmıştır)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Biyolojinin Tarihselleşmesi",
+      "text": "Canlıları sadece \"ne olduklarıyla\" değil, \"nasıl değiştiklerini\" ve \"geçmişlerini\" de hesaba katarak incelemiş; evrim fikrinin zeminini hazırlamıştır."
+    },
+    {
+      "title": "Antropolojinin Doğuşu",
+      "text": "İnsan türünü doğanın bir parçası olarak incelemiş, ırkların iklim ve beslenme sonucu oluşan \"varyasyonlar\" olduğunu savunmuştur."
+    },
+    {
+      "title": "Büyük Veri",
+      "text": "Döneminin tüm doğa bilgisini tek bir devasa külliyatta toplayarak bilim dünyasına paha biçilemez bir kaynak bırakmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Linné Düşmanlığı",
+      "text": "Carl Linnaeus'un taksonomisini (sınıflandırma sistemi) \"yapay\" bularak reddetmiştir. Doğanın sınıflara ayrılamayacak kadar kaotik olduğunu savunması, bazen bilimsel düzenin kurulmasını zorlaştırmıştır."
+    },
+    {
+      "title": "Gözlem-Spekülasyon Dengesi",
+      "text": "Muazzam sezgileri olsa da, bazen yeterli veri olmadan (Amerikan dejenerasyonu gibi) çok iddialı teoriler kurmuş ve yanılmıştır."
+    },
+    {
+      "title": "Kilise ile Uzlaşma",
+      "text": "Radikal fikirlerini yayınladıktan sonra kilisenin tepkisi üzerine geri adım atmış ve \"her şeyi kutsal kitaba uygun görüyorum\" diyerek bir tür otosansür uygulamıştır."
+    }
+  ]
+}

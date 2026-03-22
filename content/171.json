@@ -1,0 +1,86 @@
+{
+  "subtitle": "Tanrı, Doğa ve Geometrik Mutluluk (1632–1677)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Deus Sive Natura (Tanrı ya da Doğa)",
+      "body": "Spinoza'nın en radikal devrimi \"Töz\" (Substance) anlayışıdır. Ona göre evrende tek bir töz vardır; o da Tanrı'dır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Panteizm ve Panenteizm",
+          "text": "Tanrı evrenin yaratıcısı değil, evrenin kendisidir. Tanrı doğanın dışındaki bir \"usta\" değil, doğanın içindeki \"öz\"dür."
+        },
+        {
+          "label": "Sonsuz Sıfatlar",
+          "text": "Tanrı sonsuz sıfatlara sahiptir ama biz insanlar bunlardan sadece ikisini bilebiliriz: Düşünce ve Uzam (Beden). Bu, ruh ve bedenin aslında aynı madalyonun iki farklı yüzü olduğu anlamına gelir."
+        }
+      ]
+    },
+    {
+      "title": "Ethica: Geometrik Yöntemle Kanıtlanmış Ahlak",
+      "body": "Spinoza en büyük eseri Ethica'yı bir felsefe kitabı gibi değil, bir geometri kitabı gibi yazmıştır (More Geometrico).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanımlar ve Aksiyomlar",
+          "text": "Duygulardan siyasete kadar her şeyi tıpkı üçgenin iç açıları gibi matematiksel bir zorunlulukla açıklar."
+        },
+        {
+          "label": "Özgür İrade Yanılsaması",
+          "text": "Ona göre insan özgür değildir; sadece onu etkileyen nedenlerin farkında olmadığı için kendini özgür sanır. Gerçek özgürlük, bu \"zorunluluğun\" bilgisidir."
+        }
+      ]
+    },
+    {
+      "title": "Conatus: Var Olma Çabası",
+      "body": "Her varlığın temel itkisi, kendi varlığını sürdürme ve güçlendirme çabasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sevinç ve Keder",
+          "text": "Gücümüzü artıran her şey \"sevinç\", azaltan her şey ise \"keder\"dir. Ahlak, kederli duygulardan (nefret, korku) arınıp, aklın rehberliğinde etkin bir sevinç durumuna geçmektir."
+        }
+      ]
+    },
+    {
+      "title": "Siyasal Hoşgörü ve Demokrasi",
+      "body": "Spinoza sadece bir mistik değil, aynı zamanda modern laik demokrasinin ilk savunucularındandır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vicdan Özgürlüğü",
+          "text": "1670'de yayımlanan Teolojik-Politik İnceleme ile devletin asıl amacının \"özgürlük\" olduğunu savunmuş ve din kitaplarının rasyonel bir tarih süzgecinden geçirilmesi gerektiğini söyleyerek modern eleştiriyi başlatmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bütünlük",
+      "text": "Ruh ve bedeni birleştirerek psikiyatri ve nörolojinin (özellikle Damasio gibi isimlerin vurguladığı gibi) felsefi temelini atmıştır."
+    },
+    {
+      "title": "Korkudan Özgürleşme",
+      "text": "Tanrı'yı ödül ve ceza veren bir yargıç olmaktan çıkarıp, evrensel bir düzen olarak tanımlayarak insanı dinsel korkulardan özgürleştirmiştir."
+    },
+    {
+      "title": "Cesaret",
+      "text": "Toplumu ve dini otoriteleri karşısına alma pahasına (havradan aforoz edilmiş, suikast girişimine uğramıştır) hakikatinden asla ödün vermemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Katı Determinizm",
+      "text": "Her şeyi matematiksel bir zorunluluğa bağlaması, bireysel sorumluluk ve toplumsal değişim iradesi için çok dar bir alan bırakır."
+    },
+    {
+      "title": "Soyut Mutluluk",
+      "text": "Önerdiği \"Tanrı'nın Entelektüel Sevgisi\" yolu, sadece çok yüksek düzeyde felsefe yapabilen seçkin bir kitle için ulaşılabilirdir; halkın gerçek dertlerine dokunmakta zorlanabilir."
+    },
+    {
+      "title": "Duyguların Mekanikleşmesi",
+      "text": "Duyguları birer \"çizgi veya düzlem\" gibi incelemesi, insan yaşantısının o kaotik ve öngörülemez zenginliğini bazen ıskalamasına neden olur."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "subtitle": "Varlığın Asaleti ve Akışın Felsefesi (1571–1636)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Varlığın Asaleti (Asâletü'l-Vücûd)",
+      "body": "Sadra, felsefede \"Mahiyet\" (öz) ve \"Vücut\" (varlık) arasındaki o kadim kavgayı bitirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Varlık Esastır",
+          "text": "Ona göre gerçek olan \"insanlık\" (mahiyet) fikri değil, \"var olmanın\" kendisidir. Mahiyetler sadece zihnimizin varlığı sınırlamak için uydurduğu gölgelerdir. Her şey varlıktan ibarettir ve her şey o tek gerçeğin farklı yoğunluktaki yansımalarıdır."
+        }
+      ]
+    },
+    {
+      "title": "Varlığın Derecelenmesi (Teşkîkü'l-Vücûd)",
+      "body": "Varlık tektir ama bir \"ışık\" gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yoğunluk Farkı",
+          "text": "Güneş ışığı da ışıktır, bir mumun alevi de. İkisi de aynı mahiyettedir ama birinin nuru diğerinden daha yoğundur. Molla Sadra'ya göre taş da vardır, insan da, melek de; ancak onların farkı \"varlık yoğunluklarındaki\" mertebedir."
+        }
+      ]
+    },
+    {
+      "title": "Cevherî Hareket (el-Hareketü'l-Cevheriyye)",
+      "body": "Sadra'nın felsefede yaptığı en büyük devrim budur. Aristoteles'ten beri değişim sadece nesnelerin dış özelliklerinde (rengi, kokusu, yeri) sanılırdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özde Akış",
+          "text": "Sadra, değişimin nesnenin bizzat \"özünde\" (cevherinde) gerçekleştiğini savunur. Evren her an yeniden yaratılmakta ve varlık seviyesini yükseltmektedir. Bu, evrenin durağan bir yapı değil, mutlak bir \"oluş\" süreci olduğunun kanıtıdır."
+        }
+      ]
+    },
+    {
+      "title": "Akıl, Âkil ve Ma'kûlün Birliği",
+      "body": "Bilgi teorisinde (epistemoloji) devrim yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilinçli Bütünlük",
+          "text": "Bir şeyi bilmek, o şeye dışarıdan bakmak değildir. Bilgi sürecinde; bilen (özne), bilinen (nesne) ve bilginin kendisi (eylem) tek bir varlık seviyesinde birleşir. Bilgi, ruhun varlık derecesini artıran bir eylemdir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Muazzam Sentez",
+      "text": "İslam felsefesindeki o birbiriyle çatışan tüm akımları (Meşşai, İşraki, Kelam, Tasavvuf) tek bir çatı altında toplamayı başarmıştır."
+    },
+    {
+      "title": "Dinamik Evren Tasavvuru",
+      "text": "\"Cevherî Hareket\" fikriyle, modern süreç felsefesine ve hatta bazı kuantum teorisi yorumlarına yüzyıllar öncesinden selam göndermiştir."
+    },
+    {
+      "title": "Ruhun Tekâmülü",
+      "text": "Ölümden sonrasını ve ruhun yolculuğunu, hayal gücü ile rasyonel ontolojiyi birleştirerek benzersiz bir şekilde açıklar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Metafizik",
+      "text": "O kadar soyut ve derin bir dille yazar ki, fikirlerinin pratik sosyal hayat veya siyaset üzerindeki etkileri (İran'daki etkisi hariç) sınırlı kalmıştır."
+    },
+    {
+      "title": "Dogmatik Çatışma",
+      "text": "Yaşadığı dönemde geleneksel ulema tarafından fikirleri \"fazla mistik\" ve \"felsefi\" bulunduğu için dışlanmış, ömrünün bir kısmını sürgünde geçirmek zorunda kalmıştır."
+    },
+    {
+      "title": "Anlaşılma Zorluğu",
+      "text": "Dokuz ciltlik başyapıtı Esfâr (Dört Sefer), uzmanlaşmamış bir zihin için aşılması neredeyse imkansız bir entelektüel labirenttir."
+    }
+  ]
+}

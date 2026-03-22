@@ -1,0 +1,75 @@
+{
+  "subtitle": "Çevre, Çıkar ve Eğitimin Gücü (1715–1771)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"L'éducation peut tout\" (Eğitim Her Şeyi Yapabilir)",
+      "body": "Helvétius'un en sarsıcı iddiası, insanlar arasındaki zekâ ve ahlak farklarının doğuştan değil, tamamen çevresel faktörlerden kaynaklandığıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Genetik Eşitlik",
+          "text": "Ona göre tüm insanlar (fiziksel bir engel yoksa) benzer bir zihinsel potansiyelle doğarlar. Birini dâhi, diğerini sıradan yapan şey aldığı eğitim ve maruz kaldığı tesadüflerdir."
+        },
+        {
+          "label": "Demokratik Umut",
+          "text": "Bu fikir, aristokrasinin \"soylu kan\" iddiasını yerle bir eden ve her bireyin doğru şartlar altında yükselebileceğini savunan devrimci bir temeldir."
+        }
+      ]
+    },
+    {
+      "title": "Özçıkarcı Ahlak ve Yasalar",
+      "body": "Helvétius, insanı harekete geçiren tek gücün \"haz arayışı ve acıdan kaçış\" olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bencillikten Kamu Yararına",
+          "text": "İnsan doğal olarak bencildir; ancak akıllı bir yasa koyucu, bireyin kişisel çıkarını toplumun genel çıkarıyla birleştirmelidir."
+        },
+        {
+          "label": "Ödül ve Ceza",
+          "text": "Ahlak bir vaaz meselesi değil, bir \"yasama\" meselesidir. İnsanları erdemli yapmanın yolu, erdemli davranmayı onlar için \"kârlı\" hale getiren yasalar yapmaktır."
+        }
+      ]
+    },
+    {
+      "title": "\"De l'esprit\" Skandalı",
+      "body": "1758'de yayımlanan bu kitap, o kadar büyük bir fırtına kopardı ki; hem Papa hem de Paris Parlamentosu tarafından kınandı ve yakıldı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Neden Tehlikeliydi?",
+          "text": "Çünkü ruhu tamamen maddeye indirgiyor, ahlakı dinden koparıp siyasete bağlıyor ve mutlakiyetçi yönetimin dayandığı tüm \"ilahi\" temelleri sarsıyordu."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Faydacılığın (Utilitarizm) Temeli",
+      "text": "Jeremy Bentham ve James Mill üzerinde derin izler bırakmış, \"en büyük sayı için en büyük mutluluk\" ilkesine giden yolu döşemiştir."
+    },
+    {
+      "title": "Radikal Eşitlikçilik",
+      "text": "Irk, sınıf veya cinsiyet farkı gözetmeksizin eğitimin gücünü vurgulaması, modern pedagojinin ve fırsat eşitliği kavramının en erken savunularındandır."
+    },
+    {
+      "title": "Seküler Sosyoloji",
+      "text": "Ahlakı ve insan davranışını ilahiyattan arındırıp, sosyal çevre ve yasalar çerçevesinde inceleyen modern sosyal bilimlerin öncüsüdür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Basitleştirme",
+      "text": "İnsanı sadece dış etkilere tepki veren pasif bir \"makine\" gibi görmesi, içsel motivasyonu, iradeyi ve biyolojik farklılıkları tamamen yok sayar."
+    },
+    {
+      "title": "Totaliter Potansiyel",
+      "text": "\"Eğitim her şeyi yapabilir\" ve \"insan yasalarla şekillendirilir\" fikri, bireyi devletin elinde bir hamura dönüştürme riski taşır. (Nitekim 20. yüzyılın bazı baskıcı ideolojileri bu fikri suistimal etmiştir)."
+    },
+    {
+      "title": "Hazzın Sığlığı",
+      "text": "Her türlü insani eylemi (kahramanlık, aşk, sanat) sadece \"haz ve çıkar\" ile açıklamaya çalışması, insan ruhunun karmaşıklığını ıskalamasına neden olur."
+    }
+  ]
+}

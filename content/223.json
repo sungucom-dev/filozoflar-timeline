@@ -1,0 +1,81 @@
+{
+  "subtitle": "Projeksiyon, İnsan ve \"Sen Ne Yiyorsan Osun\" (1804–1872)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Din ve Projeksiyon Teorisi",
+      "body": "Feuerbach'ın başyapıtı Hristiyanlığın Özü (1841), modern ateizmin ve din psikolojisinin temel taşıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrı İnsanın Aynasıdır",
+          "text": "\"Tanrı insanı değil, insan Tanrı'yı kendi suretinde yaratmıştır.\" İnsan, kendisinde bulunan en iyi nitelikleri alır, bunları sonsuzlaştırır ve kendi dışına, hayali bir varlığa (Tanrı) yansıtır."
+        },
+        {
+          "label": "Yabancılaşma",
+          "text": "İnsan Tanrı'ya ne kadar çok şey verirse, kendine o kadar az şey kalır. Kendi özünü Tanrı'da kutsallaştırırken, yeryüzündeki gerçek varlığını yoksullaştırır."
+        }
+      ]
+    },
+    {
+      "title": "İdealizmden Materyalizme: \"Gerçek İnsan\"",
+      "body": "Hegel \"Ruh\" diyerek gerçeği soyutlaştırırken, Feuerbach \"Beden\" ve \"Duyum\" der.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duyu Organlarının Hakikati",
+          "text": "Gerçek olan düşünce değil, duyumsanabilir olandır. Bir şeyi ancak görüyorsak, dokunuyorsak veya tadıyorsak o gerçektir."
+        },
+        {
+          "label": "\"Sen Ne Yiyorsan Osun\"",
+          "text": "Bu meşhur (ve ironik) sözüyle Feuerbach, insanın ruhsal durumunun bile maddi koşullara ve beslenmeye bağlı olduğunu savunacak kadar ileri giden bir materyalizmi benimsemiştir."
+        }
+      ]
+    },
+    {
+      "title": "\"Ben\" ve \"Sen\": Sosyal Varoluş",
+      "body": "Feuerbach, bireyin tek başına bir hiç olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İlişkisel Öz",
+          "text": "İnsanlık, ancak \"Ben\" ve \"Sen\" arasındaki birliktelikte var olur. Sevgi ve dostluk, teolojik bir kurgu değil, insanın toplumsal özünün en gerçek tezahürüdür. Din yerine \"insan sevgisi\" (insanlık dini) gelmelidir."
+        }
+      ]
+    },
+    {
+      "title": "Teolojiden Antropolojiye Dönüş",
+      "body": "Onun için felsefenin tek bir görevi vardır: Metafiziğin sisleri arasında kaybolmuş insanı, kendi doğal ve toplumsal gerçekliğine geri döndürmek. \"Teolojinin gizi antropolojidir.\"",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Marx'a Giden Köprü",
+      "text": "Hegel'in idealizmini yıkarak Marx ve Engels'in \"diyalektik materyalizm\"ine giden felsefi yolu açan asıl kişidir. Marx, \"Hepimiz bir dönem Feuerbachçıydık,\" demiştir."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Dini bir inanç meselesinden ziyade bir \"insan ihtiyacı\" ve \"psikolojik yansıtma\" olarak incelemesi, Freud ve modern din psikolojisi için ufuk açıcı olmuştur."
+    },
+    {
+      "title": "Hümanizm",
+      "text": "İnsanı bir araç değil, en yüksek değer olarak konumlandırarak seküler hümanizmin temel taşlarını döşemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kaba Materyalizm",
+      "text": "Bazı argümanları (beslenme-karakter ilişkisi gibi) o kadar \"kaba\" bir materyalizme kayar ki, insanın kültürel ve tarihsel karmaşıklığını basitleştirme riski taşır."
+    },
+    {
+      "title": "Siyaset Eksikliği",
+      "text": "Dini sadece zihinsel bir \"yansıtma\" olarak görmüş; ancak dinin arkasındaki ekonomik ve siyasi güç yapılarını (Marx'ın daha sonra yapacağı gibi) yeterince analiz edememiştir."
+    },
+    {
+      "title": "Pasif İnsan Modeli",
+      "text": "İnsanı duyumların alıcısı olarak görürken, insanın dünyayı değiştirme ve dönüştürme (praksis) gücünü Hegel kadar dinamik kurgulayamamıştır."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "subtitle": "Mutluluğun Muhasebesi ve Panoptikon (1748–1832)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Fayda İlkesi: \"En Büyük Mutluluk\"",
+      "body": "Bentham'a göre doğa, insanı iki egemen efendinin yönetimine bırakmıştır: Acı ve Haz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ahlakın Ölçütü",
+          "text": "Bir eylemin iyi veya kötü olması, o eylemin toplumun toplam mutluluğunu artırıp artırmadığına bağlıdır."
+        },
+        {
+          "label": "Doğal Haklara İtiraz",
+          "text": "Thomas Paine ve Beccaria'nın aksine, \"doğal haklar\" kavramını \"tekerlekli sandalyedeki saçmalık\" (nonsense upon stilts) olarak niteler. Haklar sadece yasalarla var olur."
+        }
+      ]
+    },
+    {
+      "title": "Mutluluk Kalkülüsü (Felicific Calculus)",
+      "body": "Bentham, ahlakı bir matematik problemine dönüştürmüştür. Bir hazzın değerini 7 değişkene göre hesaplamayı önerir.",
+      "ordered": true,
+      "items": [
+        {"label": "Yoğunluk (Intensity)", "text": "Hazzın ne kadar güçlü hissedildiği."},
+        {"label": "Süre (Duration)", "text": "Hazzın ne kadar sürdüğü."},
+        {"label": "Kesinlik (Certainty)", "text": "Hazzın gerçekleşme ihtimali."},
+        {"label": "Yakınlık (Propinquity)", "text": "Hazzın ne kadar yakın gelecekte gerçekleşeceği."},
+        {"label": "Verimlilik (Fecundity)", "text": "Başka hazlar doğurma potansiyeli."},
+        {"label": "Saflık (Purity)", "text": "Acıyla karışık olmaması."},
+        {"label": "Kapsam (Extent)", "text": "Kaç kişiyi etkilediği."}
+      ]
+    },
+    {
+      "title": "Panoptikon: Görünmez Gözetim",
+      "body": "Bentham'ın en meşhur ve tartışmalı projesi, \"Panoptikon\" adını verdiği hapishane tasarımıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Denetim Mimarisi",
+          "text": "Merkezde bir kule ve etrafında hücrelerin olduğu dairesel bir yapı. Mahkumlar, kuledeki gardiyanın kendilerini her an izliyor olabileceğini bilirler ama izlenip izlenmediklerini göremezler."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Bu \"görünmez denetim\", bireyin kendi kendisini disipline etmesini sağlar. Bu fikir, modern gözetim toplumunun ve Michel Foucault'nun analizlerinin temelidir."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Sosyal Reformlar",
+      "body": "Bentham döneminin çok ilerisinde bir vizyona sahipti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hayvan Hakları",
+          "text": "\"Akıl yürütebiliyorlar mı? Konuşabiliyorlar mı? Hayır, ama acı çekebiliyorlar mı?\" diyerek hayvan haklarını savunmuştur."
+        },
+        {
+          "label": "Bireysel Özgürlükler",
+          "text": "Kadın haklarını, boşanma özgürlüğünü ve o dönemde suç sayılan eşcinselliğin dekriminalize edilmesini savunarak modern liberalizmin kapılarını aralamıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Somut Hedef",
+      "text": "Ahlakı ve siyaseti \"gökyüzünden\" indirip, ölçülebilir ve denetlenebilir bir zemine (toplumsal refah) oturtmuştur."
+    },
+    {
+      "title": "Yasal Kodifikasyon",
+      "text": "Yasaların karmaşık geleneklerden kurtarılıp, herkesin anlayabileceği net birer \"kod\" haline getirilmesi gerektiğini savunarak modern hukuk sistemlerini etkilemiştir."
+    },
+    {
+      "title": "Pragmatik Adalet",
+      "text": "Cezanın amacının \"kısasa kısas\" değil, toplum için \"en az acı, en çok fayda\" olması gerektiğini savunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Çoğunluğun Zorbalığı",
+      "text": "\"En büyük sayı için en büyük mutluluk\" ilkesi, bir azınlığın haklarının çoğunluğun mutluluğu için feda edilmesine teorik olarak kapı açabilir."
+    },
+    {
+      "title": "Hazların Niteliği",
+      "text": "Bentham için \"tavla oynamakla şiir okumak\" arasında, verdikleri haz miktarı aynıysa hiçbir fark yoktur. Bu \"niceliksel\" bakış, insan ruhunun derinliğini ıskalar."
+    },
+    {
+      "title": "Duygusal Kuraklık",
+      "text": "İnsanı sadece bir \"haz-acı makinesi\" olarak görmesi, fedakarlık, onur ve aşk gibi rasyonel hesaplara sığmayan değerleri açıklamada yetersiz kalır."
+    }
+  ]
+}

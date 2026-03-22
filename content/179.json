@@ -1,0 +1,79 @@
+{
+  "subtitle": "Arılar, Lüks ve İkiyüzlülük (1670–1733)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "The Fable of the Bees (Arılar Fablası)",
+      "body": "Mandeville'in tüm felsefesi tek bir temel şiire dayanır: Homurdanan Kovan veya Dürüstleşen Sahtekarlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özel Kusurlar, Kamusal Yararlar",
+          "text": "Mandeville, bir kovanın (toplumun) ancak arılar bencil, hırslı ve lüks düşkünü olduğunda geliştiğini anlatır. Arılar bir anda \"dürüst ve kanaatkar\" olmaya karar verdiklerinde, kovan çöker; ticaret durur, sanat ölür ve yoksulluk başlar."
+        },
+        {
+          "label": "Paradoks",
+          "text": "Toplumun refahı, bireylerin \"günahları\" (açgözlülük, kibir, kıskançlık) sayesinde ayakta kalır. Terzi, insanların kibri sayesinde; avukat, insanların kavgacılığı sayesinde ekmek yer."
+        }
+      ]
+    },
+    {
+      "title": "Lüks ve Ekonomik Dinamizm",
+      "body": "Dönemin ahlakçıları lüksü \"çürüme\" olarak görürken, Mandeville onu \"istihdam\" olarak görmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tüketim Toplumu",
+          "text": "Eğer zenginler görkemli saraylar yaptırmaz ve lüks ipekler giymezse, binlerce zanaatkar işsiz kalır."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu fikir, yüzyıllar sonra Keynes tarafından \"Tasarruf Paradoksu\" olarak adlandırılacak olan ekonomik düşüncenin en erken tohumudur."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Doğasının Mekanikliği",
+      "body": "Mandeville, insanı \"kendini kandıran bir hayvan\" olarak tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Erdem Maskesi",
+          "text": "Ona göre erdem dediğimiz şey, sadece toplumun bizi övmesi için taktığımız bir maskedir. İnsanlar \"iyi\" oldukları için değil, \"saygınlık\" kazanmak için erdemli davranırlar."
+        },
+        {
+          "label": "Kibrin Faydası",
+          "text": "Toplumsal düzeni sağlayan şey sevgi değil, insanların birbirlerine üstünlük kurma çabasıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ekonomik Analiz",
+      "text": "Modern serbest piyasa ekonomisinin ve \"Görünmez El\" (Adam Smith) kavramının felsefi altyapısını kurmuştur."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "İnsan eylemlerinin arkasındaki gizli motivasyonları (özellikle kibri) çıplak bir şekilde deşifre etmiştir."
+    },
+    {
+      "title": "Kendiliğinden Düzen",
+      "text": "Toplumsal düzenin merkezi bir otorite veya \"yüce erdemler\" tarafından değil, bireysel çıkarların plansız çarpışmasıyla oluştuğunu fark etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Ahlakı Yok Saymak",
+      "text": "Erdemi sadece bir \"ikiyüzlülük\" olarak görmesi, samimi fedakarlığı ve toplumsal dayanışmanın manevi boyutunu tamamen ıskalar."
+    },
+    {
+      "title": "Aşırı Basitleştirme",
+      "text": "Her türlü gelişmeyi sadece \"kusurlara\" bağlaması, iş birliğinin ve dürüstlüğün ticaret üzerindeki (güven inşası gibi) olumlu etkilerini görmezden gelir."
+    },
+    {
+      "title": "Kışkırtıcı Dil",
+      "text": "Fikirlerini o kadar sert ve alaycı bir dille sunmuştur ki, döneminde \"Yeryüzünün Şeytanı\" ilan edilmiş ve eserleri yakılmıştır."
+    }
+  ]
+}

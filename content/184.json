@@ -1,0 +1,75 @@
+{
+  "subtitle": "Ahlak Duyusu ve En Büyük Mutluluk (1694–1746)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Moral Sense (Ahlak Duyusu): Doğuştan Gelen Onay",
+      "body": "Hutcheson, Hobbes ve Mandeville'in \"insan özünde bencildir\" iddiasına karşı en sert ve sistemli itirazı yapmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beş Duyunun Ötesinde",
+          "text": "Tıpkı görme veya işitme gibi, insanın bir de \"ahlak duyusu\" vardır. Bu duyu, bir iyilik gördüğümüzde bize otomatik olarak haz verir, bir kötülük gördüğümüzde ise bizi rahatsız eder."
+        },
+        {
+          "label": "Çıkarsız Erdem",
+          "text": "Birine yardım eden birini gördüğümüzde ondan bir çıkarımız olmasa bile takdir ederiz. Bu, ahlakın hesapçı değil, duyusal ve doğal olduğunun kanıtıdır."
+        }
+      ]
+    },
+    {
+      "title": "\"En Büyük Sayı İçin En Büyük Mutluluk\"",
+      "body": "Bu meşhur ilke genellikle Bentham ile anılsa da, onu ilk formüle eden Hutcheson'dır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eylem Ölçütü",
+          "text": "Bir eylemin ne kadar erdemli olduğunu anlamak için o eylemin ne kadar çok insana ne kadar büyük bir mutluluk getirdiğine bakılmalıdır."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, ahlakı mistik bir alandan çıkarıp toplumsal bir fayda ve matematiksel bir tartım alanına taşıyan devrimci bir adımdır."
+        }
+      ]
+    },
+    {
+      "title": "Hayırseverlik (Benevolence)",
+      "body": "Hutcheson'a göre insan doğasının temel motoru sadece \"kendini sevme\" (self-love) değildir; bir de \"başkalarını sevme\" (benevolence) motoru vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğal Sempati",
+          "text": "İnsanlar başkalarının acısını hissetme ve onları mutlu etme kapasitesiyle doğarlar. Toplum, bu doğal hayırseverlik bağlarıyla ayakta durur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İskoç Aydınlanması'nın Temeli",
+      "text": "Adam Smith'e \"sempati\" kavramını, David Hume'a ise ahlakın duygulara dayalı olduğu fikrini miras bırakmıştır."
+    },
+    {
+      "title": "Demokratik Ahlak",
+      "text": "Erdemi özel bir eğitim veya asalet meselesi olmaktan çıkarıp, her sıradan insanın kalbindeki doğal bir yetenek olarak tanımlamıştır."
+    },
+    {
+      "title": "Utilitarizm'in (Faydacılık) Tohumu",
+      "text": "Mutluluğu toplumsal bir hedef haline getirerek modern siyaset ve ekonomi düşüncesinin önünü açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Duyguya Aşırı Güven",
+      "text": "Ahlakı sadece bir \"duyu\" ve \"beğeni\" meselesi yapması, nesnel ahlaki doğruların rasyonel bir temelde (neden-sonuç ilişkisiyle) tartışılmasını zorlaştırır."
+    },
+    {
+      "title": "Kötülüğün İhmali",
+      "text": "İnsan doğasını o kadar \"iyi\" ve \"hayırsever\" resmetmiştir ki, tarihteki sistematik zulümleri ve insanın yıkıcı karanlığını açıklamakta bazen naif kalabilir."
+    },
+    {
+      "title": "Teolojik Dayanak",
+      "text": "Her ne kadar laik bir ahlak kurmaya çalışsa da, bu \"ahlak duyusunu\" içimize Tanrı'nın yerleştirdiğini söyleyerek son tahlilde yine ilahi bir tasarıma sığınmıştır."
+    }
+  ]
+}

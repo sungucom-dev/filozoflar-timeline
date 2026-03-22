@@ -1,0 +1,86 @@
+{
+  "subtitle": "Mutlak Egemenlik ve Düzenin Sınırları (1530–1596)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Egemenlik (Souveraineté): Devletin Ruhu",
+      "body": "Bodin'in en büyük mirası, egemenlik kavramını ilk kez sistemli bir şekilde tanımlamasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutlak ve Sürekli Güç",
+          "text": "Ona göre egemenlik, bir devletin \"mutlak, bölünemez ve sürekli\" gücüdür. Egemen, yasaların üstündedir çünkü yasayı yapan odur."
+        },
+        {
+          "label": "Kaosa Çözüm",
+          "text": "Mezhep savaşlarının yıktığı Fransa'da Bodin, barışı korumanın tek yolunun, tartışılmaz bir merkezi otorite (Kral) olduğunu savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Les Six Livres de la République (Devletin Altı Kitabı)",
+      "body": "Bu devasa eser, modern siyaset biliminin anayasası gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ailenin Önemi",
+          "text": "Bodin için devlet, bireylerden değil, ailelerden oluşur. Devlet, ailelerin adil bir şekilde yönetildiği bir topluluktur."
+        },
+        {
+          "label": "Sınırlar",
+          "text": "Her ne kadar egemenlik \"mutlak\" olsa da, Bodin hükümdarın iki şeye uyması gerektiğini söyler: Tanrısal/Doğal Yasalar ve Özel Mülkiyetin Dokunulmazlığı. Kral, halkın onayını almadan yeni vergi koyamaz."
+        }
+      ]
+    },
+    {
+      "title": "Ekonomi: Paranın Miktar Teorisi",
+      "body": "Bodin sadece bir hukukçu değil, aynı zamanda ilk modern ekonomistlerden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Enflasyon Analizi",
+          "text": "İspanya'dan gelen altın ve gümüşün fiyatları neden artırdığını analiz etmiş; paranın bollaşmasının fiyatları yükselttiğini keşfetmiştir. Bu, ekonomideki \"Miktar Teorisi\"nin ilk ifadesidir."
+        }
+      ]
+    },
+    {
+      "title": "Colloquium Heptaplomeres: Gizli Hoşgörü",
+      "body": "Bodin'in en ilginç ve uzun süre gizli kalan eseri, yedi farklı inançtan (Katolik, Yahudi, Müslüman vb.) insanın bir araya gelip tartıştığı bir diyalogdur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Din Dışı Barış",
+          "text": "Kitabın sonunda kimse inancını değiştirmez ama herkes barış içinde yaşamaya devam eder. Bu, dinin siyasetten ayrılması ve \"vicdan özgürlüğü\" için atılmış çok erken ve cesur bir adımdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Devletin Temeli",
+      "text": "Devletin şahıslardan (kralın şahsı) bağımsız, kalıcı ve hukuki bir kurum olduğu fikrini yerleştirmiştir."
+    },
+    {
+      "title": "Siyasal Laikliğin Önü",
+      "text": "Egemenliği dinsel otoriteden koparıp hukuki bir zemine oturtarak, modern laik devletlerin zihinsel altyapısını kurmuştur."
+    },
+    {
+      "title": "Hukuki Disiplin",
+      "text": "Siyaseti sadece \"güç oyunları\" (Machiavelli) olmaktan çıkarıp, \"hukuk ve adalet\" çerçevesine sokmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Mutlakiyetçilik Riski",
+      "text": "Egemenliği o kadar yüksek ve bölünemez kılmıştır ki, bu durum totaliter rejimlerin veya mutlak monarşilerin en büyük meşruiyet aracı haline gelmiştir."
+    },
+    {
+      "title": "Büyü ve Cadılık",
+      "text": "Modern bir devlet kuramcısı olmasına rağmen, Démonomanie des Sorciers (Büyücülerin Şeytani Çılgınlığı) adlı kitabıyla cadıların yakılmasını hararetle savunmuştur. Bu, onun dehasındaki o karanlık ve \"geleneksel\" yarıktır."
+    },
+    {
+      "title": "Çelişkili Sınırlar",
+      "text": "Egemenliğin hem \"mutlak\" olduğunu söyleyip hem de onu \"doğal yasalarla\" sınırlamaya çalışması, teorisinde mantıksal boşluklar yaratmıştır."
+    }
+  ]
+}

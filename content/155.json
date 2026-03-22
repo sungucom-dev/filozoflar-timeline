@@ -1,0 +1,83 @@
+{
+  "subtitle": "Varlık, Birey ve Egemenliğin Kökeni (1548–1617)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Varlığın Birliği (Metafizik Münazaralar)",
+      "body": "Suárez'in Disputationes Metaphysicae eseri, felsefe tarihinin en etkili kitaplarından biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Öz ve Varoluş",
+          "text": "Aquinas'ın aksine, öz ile varoluşun gerçekte değil, sadece zihinde ayrılabileceğini savunur. Bir şey \"varsa\", o şey zaten kendi özüyle vardır. Bu fikir, felsefeyi \"soyut kategorilerden\" çıkarıp \"somut varlıklara\" odaklamıştır."
+        },
+        {
+          "label": "Varlık Kavramı",
+          "text": "Varlık kavramının hem Tanrı hem de yaratılanlar için (farklı derecelerde olsa da) ortak bir anlam taşıdığını söyleyerek, evrenin rasyonel olarak anlaşılabilirliğinin önünü açmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Bireyselleşme Prensibi",
+      "body": "Suárez, \"Bir şeyi 'o şey' yapan nedir?\" sorusuna devrimci bir cevap verir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Birey Tözdür",
+          "text": "Ona göre bir şey, maddesi veya formu sayesinde değil, bizzat kendi \"varlığı\" sayesinde bireydir. Her şey kendi başına bir \"bireysel töz\"dür."
+        },
+        {
+          "label": "Özneye Giden Yol",
+          "text": "Bu vurgu, Orta Çağ'ın \"tümel\" kavramlarından modern felsefenin \"birey/özne\" odaklı yapısına geçişi sağlamıştır. Descartes'ın \"Düşünüyorum, öyleyse varım\" demesine giden yolu Suárez temizlemiştir."
+        }
+      ]
+    },
+    {
+      "title": "Hukuk ve Halkın Egemenliği (De Legibus)",
+      "body": "Suárez, siyaset felsefesinde mutlakiyetçiliğe karşı tarihin en sağlam duruşlarından birini sergilemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gücün Kaynağı",
+          "text": "Egemenlik Tanrı'dan gelir, ancak doğrudan krala değil, halka verilir. Halk, bu gücü toplumsal bir sözleşme ile yöneticiye devreder."
+        },
+        {
+          "label": "Direnme Hakkı",
+          "text": "Eğer bir kral zalimleşirse veya halkın ortak iyiliğine aykırı davranırsa, halkın o yöneticiye karşı direnme ve hatta onu görevden alma hakkı vardır."
+        },
+        {
+          "label": "Uluslararası Hukuk (Jus Gentium)",
+          "text": "Tüm insanlığın ortak bir topluluk olduğunu ve ulusların kendi aralarındaki ilişkileri belirleyen bir \"insanlık hukuku\" olması gerektiğini savunarak, modern uluslararası hukukun temellerini atmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Köprü Olmak",
+      "text": "Orta Çağ Scholasticism'ini modern felsefeye (Descartes, Spinoza, Leibniz) taşıyan ana köprüdür. O olmasaydı, modern metafizik bu kadar sağlam bir zeminde yükselemezdi."
+    },
+    {
+      "title": "Hukuk Devleti",
+      "text": "Egemenliği halka dayandıran ve \"uluslararası hukuk\" kavramını geliştiren vizyonu, bugünkü demokrasi ve insan hakları evreninin erken ama çok güçlü bir fısıltısıdır."
+    },
+    {
+      "title": "Analitik Titizlik",
+      "text": "Ele aldığı konuları o kadar derinlemesine ve her açıdan inceler ki, eserleri yüzyıllar boyunca üniversitelerin ana ders kitabı olmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Detaycılık",
+      "text": "Barok dönemin ruhuna uygun olarak, felsefesi bazen o kadar çok ayrım ve alt başlık içerir ki, ana düşüncenin ışığı bu kavramsal ormanın içinde kaybolabilir."
+    },
+    {
+      "title": "Kurumsal Bağlılık",
+      "text": "Bir Cizvit rahibi olarak felsefesini her zaman teoloji ile uyumlu tutma çabası, bazı konularda aklın tam özgürlüğünü kısıtlamış olabilir."
+    },
+    {
+      "title": "Hantal Yapı",
+      "text": "Modern felsefenin \"kısa ve vurucu\" üslubuna kıyasla, Suárez'in binlerce sayfalık sistemi, bugünün hızlı dünyasında \"fazla ağır\" ve \"geleneksel\" kalabilir."
+    }
+  ]
+}

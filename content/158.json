@@ -1,0 +1,98 @@
+{
+  "subtitle": "Mercekler, Hareket ve Matematiksel Evren (1564–1642)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Teleskop ve Gökyüzünün Yıkılan Kusursuzluğu",
+      "body": "Galileo teleskopu icat etmedi ama onu gökyüzüne çeviren ve gördüklerini bilimsel birer kanıta dönüştüren ilk kişiydi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Jüpiter'in Uyduları",
+          "text": "Dünya dışında başka bir gök cisminin etrafında dönen uyduları keşfederek, \"her şey Dünya'nın etrafında döner\" dogmasını yıktı."
+        },
+        {
+          "label": "Venüs'ün Safhaları",
+          "text": "Venüs'ün tıpkı Ay gibi evreleri olduğunu görerek, Kopernik'in güneş merkezli modelini matematiksel ve gözlemsel olarak doğruladı."
+        },
+        {
+          "label": "Ay'ın Dağları ve Güneş Lekeleri",
+          "text": "Gökyüzünün Aristoteles'in dediği gibi \"pürüzsüz ve kusursuz\" olmadığını, aksine Dünya gibi \"kusurlu\" ve değişken olduğunu ispatladı."
+        }
+      ]
+    },
+    {
+      "title": "Hareketin Yasaları: Aristo'yu Düşüren Deneyler",
+      "body": "Galileo, sadece gökyüzünü değil, yeryüzündeki hareket anlayışını da kökten değiştirdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Serbest Düşme Yasası",
+          "text": "Ağırlıkları ne olursa olsun, sürtünmesiz ortamda tüm cisimlerin aynı hızla düştüğünü kanıtladı."
+        },
+        {
+          "label": "Eğik Düzlem Deneyleri",
+          "text": "Hareketin ivmeli olduğunu ve alınan yolun zamanın karesiyle orantılı olduğunu matematikselleştirdi."
+        },
+        {
+          "label": "Eylemsizlik (Atalet) İlkesi",
+          "text": "Bir cismin, dışarıdan bir kuvvet etki etmedikçe durumunu (hareket veya sükunet) koruma eğiliminde olduğunu fark ederek Newton'un birinci yasasına zemin hazırladı."
+        }
+      ]
+    },
+    {
+      "title": "Evrenin Dili: Matematik",
+      "body": "Galileo'nun en büyük felsefi devrimi, bilimi niteliklerden (sıcak, soğuk, ağır) niceliklere (sayı, ölçü, ağırlık) kaydırmasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Matematiksel Evren",
+          "text": "\"Evren denen o devasa kitap, matematik diliyle yazılmıştır. Karakterleri üçgenler, daireler ve diğer geometrik şekillerdir.\""
+        }
+      ]
+    },
+    {
+      "title": "\"E Pur Si Muove\" (Yine de Dönüyor)",
+      "body": "1632'de yayımladığı İki Büyük Dünya Sistemi Hakkında Diyalog kitabı, kilisenin sabrını taşırdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yargılanma",
+          "text": "1633'te engizisyon önünde \"Dünya'nın güneş etrafında döndüğü\" fikrinden vazgeçmeye zorlandı."
+        },
+        {
+          "label": "Hapis ve Sessiz Direniş",
+          "text": "Ömrünün son yıllarını ev hapsinde geçirdi. Efsaneye göre mahkemeden çıkarken yere vurup \"E pur si muove\" (Yine de dönüyor) demiştir. Fiziksel olarak hapsedilse de, düşünceleri tüm Avrupa'ya yayılarak modern bilimi başlatmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Yöntemin Doğuşu",
+      "text": "Deney, gözlem ve matematiği birleştirerek spekülatif felsefeyi \"modern bilim\" haline getirmiştir."
+    },
+    {
+      "title": "Dogma Karşıtlığı",
+      "text": "Otoriteye (Aristoteles veya Kilise) değil, veriye güvenilmesi gerektiğini göstererek zihinsel bir devrim başlatmıştır."
+    },
+    {
+      "title": "Halkla İletişim",
+      "text": "Eserlerini Latince yerine halkın konuştuğu İtalyanca yazarak bilimi üniversite duvarlarının dışına taşımıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Diplomatik Hatalar",
+      "text": "Arkadaşı olan Papa VIII. Urban'ı kitabındaki \"Simplicio\" (Aptal) karakteriyle özdeşleştirilmesi, onun mahkumiyetini hızlandıran gereksiz bir kişisel çatışma yaratmıştır."
+    },
+    {
+      "title": "Gelgitler Teorisi",
+      "text": "Dünya'nın hareketini kanıtlamak için savunduğu \"gelgitlerin sadece Dünya'nın dönüşünden kaynaklandığı\" teorisi yanlıştı (Ay'ın etkisini reddetmişti)."
+    },
+    {
+      "title": "Matematiksel Soyutlama",
+      "text": "Doğayı o kadar çok matematikselleştirdi ki, bazen fenomenlerin altındaki \"nedenleri\" değil, sadece \"nasıl\" olduklarını açıklamakla yetindi (bu durum daha sonra Newton tarafından tamamlanacaktır)."
+    }
+  ]
+}

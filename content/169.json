@@ -1,0 +1,83 @@
+{
+  "subtitle": "Olasılık, Boşluk ve Kalbin Mantığı (1623–1662)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Matematik ve Bilimde Bir Devrimci",
+      "body": "Pascal, daha reşit bile değilken bilim dünyasını sarsmaya başladı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pascal Üçgeni",
+          "text": "Binom katsayılarını içeren bu ünlü sayı dizisi, olasılık teorisinin ve modern istatistiğin doğuşunu sağladı."
+        },
+        {
+          "label": "Hesap Makinesi (Pascaline)",
+          "text": "Babasının vergi hesaplarına yardım etmek için icat ettiği dişli çarklı mekanizma, bugünkü bilgisayarların en uzak atasıdır."
+        },
+        {
+          "label": "Hidrolik ve Boşluk",
+          "text": "Toriçelli'nin deneylerini geliştirerek, atmosfer basıncını kanıtladı ve \"Pascal Yasası\" ile hidrolik sistemlerin (frenler, krikolar vb.) temelini attı."
+        }
+      ]
+    },
+    {
+      "title": "Pascal'ın Kumarı (The Wager)",
+      "body": "Matematiksel olasılık zekasını teolojiye uyguladı. Ona göre Tanrı'nın varlığı kanıtlanamazdı ama üzerine bahis oynanabilirdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bahis",
+          "text": "Eğer Tanrı'ya inanırsanız ve O varsa, sonsuz kazanç elde edersiniz. Eğer yoksa, pek bir şey kaybetmezsiniz. Ancak inanmazsanız ve O varsa, sonsuz kayıp yaşarsınız."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Bu mantıkla Pascal, rasyonel bir insanın Tanrı'ya inanmasının \"en kârlı seçenek\" olduğunu savundu."
+        }
+      ]
+    },
+    {
+      "title": "Pensées (Düşünceler): İnsanın İhtişamı ve Sefaleti",
+      "body": "Pascal'a göre insan, evrenin en zayıf ama en onurlu varlığıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Düşünen Kamış",
+          "text": "\"İnsan bir kamış gibidir, doğadaki en zayıf şeydir; ama o, düşünen bir kamıştır.\" Evren onu ezse bile, insan ezildiğinin farkındadır; evren ise hiçbir şeyin farkında değildir."
+        },
+        {
+          "label": "İki Uçurum",
+          "text": "İnsan, mikrokozmosun hiçliği ile makrokozmosun sonsuzluğu arasında sıkışmış bir varlıktır. Bu durum insanda dinmek bilmeyen bir huzursuzluk ve eğlenceye (divertissement) kaçış isteği yaratır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Olasılık Teorisi",
+      "text": "Kumar ve belirsizlik üzerine kurduğu matematiksel yapı, bugün modern ekonomiden kuantum fiziğine kadar her yerdedir."
+    },
+    {
+      "title": "Deneysel Titizlik",
+      "text": "Descartes'ın aksine, fizik dünyasının sadece akılla değil, somut deneylerle (barometre deneyleri gibi) anlaşılabileceğini kanıtlamıştır."
+    },
+    {
+      "title": "Edebi ve Felsefi Derinlik",
+      "text": "Düşünceler, varoluşçuluğun (Kierkegaard, Heidegger) en erken ve en sarsıcı öncülüdür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Akıldan Kaçış",
+      "text": "Yaşadığı mistik bir deneyimden (\"Ateş Gecesi\") sonra bilimi ve matematiği \"beyhude\" bularak tamamen terk etmesi, bilim tarihi için büyük bir kayıp olarak görülür."
+    },
+    {
+      "title": "Aşırı Karamsarlık",
+      "text": "İnsan doğasını sadece \"günahkarlık\" ve \"çaresizlik\" üzerinden okuması, insan azmini ve dünyevi mutluluğu fazlasıyla gölgeler."
+    },
+    {
+      "title": "Cizvit Karşıtlığı",
+      "text": "Taşra Mektupları ile girdiği dinsel tartışmalar, dehasını bazen dönemin kısır mezhep kavgalarına (Jansenizm) hapsetmiştir."
+    }
+  ]
+}

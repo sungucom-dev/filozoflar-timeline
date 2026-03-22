@@ -1,0 +1,94 @@
+{
+  "subtitle": "Akıl, Eğitim ve Erdem (1759–1797)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "A Vindication of the Rights of Woman (Kadın Haklarının Gerekçelendirilmesi)",
+      "body": "1792'de yayımlanan bu eser, feminizmin en temel metni kabul edilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğa Değil, Terbiye",
+          "text": "Kadınların erkeklerden daha \"zayıf\" veya \"yüzeysel\" görünmesinin sebebinin biyoloji değil, onlara verilen (veya verilmeyen) kısıtlı eğitim olduğunu savunmuştur."
+        },
+        {
+          "label": "Süs Bebeği Olmaya İtiraz",
+          "text": "Kadınların sadece erkekleri eğlendirmek için tasarlanmış \"güzel çiçekler\" veya \"süslü köleler\" olarak yetiştirilmesine şiddetle karşı çıkar. Ona göre bir kadın, her şeyden önce bağımsız bir insan olmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Rousseau Eleştirisi: \"Sophie\"ye Karşı Bir Savaş",
+      "body": "Wollstonecraft'ın en büyük hedefi, hayranlık duyduğu ama kadınlar konusundaki görüşlerinden nefret ettiği Jean-Jacques Rousseau'ydu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Cinsiyete Göre Eğitim Mi?",
+          "text": "Rousseau'nun Emile kitabındaki \"Sophie\" karakterine (erkeğe itaat etmek üzere yetiştirilen kadın modeli) ağır eleştiriler getirir. Eğer akıl evrenselse, eğitimin de cinsiyeti olamaz."
+        },
+        {
+          "label": "Evliliğin Dönüşümü",
+          "text": "Evliliği, duygusal bir kölelik veya mülkiyet ilişkisi olarak değil, iki rasyonel varlığın kurduğu bir \"arkadaşlık ve ortaklık\" olarak yeniden kurgular."
+        }
+      ]
+    },
+    {
+      "title": "Cumhuriyetçilik ve Fransız Devrimi",
+      "body": "Paine ve Condorcet gibi o da devrimin ateşli bir savunucusuydu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Siyasal Haklar",
+          "text": "Kadınların sadece aile içinde değil, kamusal ve siyasal alanda da temsil edilme hakkı olduğunu savunmuştur."
+        },
+        {
+          "label": "Yoksulluk ve Sınıf",
+          "text": "Sadece kadınların değil, tüm ezilenlerin haklarını savunmuş; aristokrasinin \"soylu kan\" iddiasını aklın önünde bir engel olarak görmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Trajik ve Devrimci Bir Hayat",
+      "body": "Hayatı, savunduğu fikirler kadar cesur ve çalkantılıydı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özerklik Arayışı",
+          "text": "Bir kadın olarak kendi geçimini yazarlık yaparak sağlayan ilk isimlerden biridir."
+        },
+        {
+          "label": "Miras",
+          "text": "38 yaşında, kızı Mary Shelley'yi doğurduktan kısa süre sonra lohusa hummasından hayatını kaybetmesi, bilim ve felsefe dünyası için muazzam bir kayıp olmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefi Zemin",
+      "text": "Kadın haklarını \"merhamet\" veya \"duygu\" üzerinden değil, doğrudan \"Aydınlanma aklı\" ve \"evrensel insan hakları\" üzerinden temellendirmiştir."
+    },
+    {
+      "title": "Eğitim Reformu",
+      "text": "Modern pedagojinin, kız çocuklarının fiziksel ve zihinsel gelişimini erkeklerle eşit düzeyde ele alması gerektiğini savunarak devrim yaratmıştır."
+    },
+    {
+      "title": "Cesaret",
+      "text": "Kadınların konuşmasının bile ayıp sayıldığı bir çağda, Avrupa'nın en güçlü erkek filozoflarına isim vererek meydan okumuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Burjuva Odaklılık",
+      "text": "Eleştirileri daha çok orta sınıf kadınların eğitimi üzerinedir; işçi sınıfı kadınlarının yaşadığı ağır ekonomik sömürüye dair analizleri daha sınırlıdır."
+    },
+    {
+      "title": "Duygusallığı Küçümseme",
+      "text": "Kadınların \"mantıklı\" olabilmesi için \"duygusallıktan\" tamamen arınması gerektiği yönündeki katı vurgusu, bazen kadınlık deneyiminin diğer boyutlarını ihmal eder görünmesine yol açabilir."
+    },
+    {
+      "title": "İtibarsızlaştırma Süreci",
+      "text": "Ölümünden sonra eşi Godwin'in yazdığı dürüst biyografi (evlilik dışı ilişkileri ve intihar girişimlerini anlatan), fikirlerinin 19. yüzyıl boyunca \"ahlaksızlık\" etiketiyle bastırılmasına neden olmuştur."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subtitle": "Doğal İyilik ve Genel İrade (1712–1778)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Medeniyet Eleştirisi: \"İnsan Özgür Doğar ama Her Yerde Zincire Vurulmuştur\"",
+      "body": "Rousseau'nun şöhreti, bir yarışma için yazdığı Bilimler ve Sanatlar Üzerine Söylev ile başladı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yozlaşma",
+          "text": "Bilim ve sanatın gelişmesinin ahlakı iyileştirmediğini, aksine lüksü ve ikiyüzlülüğü artırarak insanı \"kendi doğasından\" kopardığını iddia etti."
+        },
+        {
+          "label": "Mülkiyetin Laneti",
+          "text": "Ona göre eşitsizliğin kaynağı mülkiyettir. \"Bir toprak parçasının etrafını çitle çevirip 'burası benimdir' diyen ilk kişi, medeni toplumun (ve tüm kötülüklerin) gerçek kurucusudur.\""
+        }
+      ]
+    },
+    {
+      "title": "Toplum Sözleşmesi ve Genel İrade (Volonté Générale)",
+      "body": "Zincirleri kırmak mümkün değilse, onları nasıl \"meşru\" kılabiliriz? Rousseau'nun cevabı demokratik bir sözleşmedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Genel İrade",
+          "text": "Bu, bireysel çıkarların toplamı değil, toplumun \"ortak iyiliği\" için olan iradedir. Halkın bizzat kendisi yasa yapıcı olmalıdır."
+        },
+        {
+          "label": "Doğrudan Demokrasi",
+          "text": "Rousseau, halkın temsilciler (parlamento) aracılığıyla yönetilmesini \"kölelik\" olarak görür. Egemenlik bölünemez ve devredilemez; egemen olan halkın kendisidir."
+        }
+      ]
+    },
+    {
+      "title": "Emile: Doğal Eğitim",
+      "body": "Modern pedagojinin temel taşıdır. Çocukları \"küçük yetişkinler\" olarak değil, kendi doğaları içinde görmeyi önerir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Negatif Eğitim",
+          "text": "Çocuğa bilgi yüklemek yerine, onun hatalarından ve doğadan öğrenmesine izin verilmelidir. Onu toplumun kalıplarına sokmak yerine, \"doğal insan\" olarak kalması sağlanmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Duyguların Üstünlüğü ve Din",
+      "body": "Rousseau, Voltaire'in soğuk rasyonalizmine karşı \"vicdanın sesini\" koyar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kalbin Dini",
+          "text": "Tanrı'yı kanıtlarla değil, doğanın güzelliği karşısında duyduğumuz o içsel coşkuyla buluruz. Bu \"Savoie'lı Papazın İnanç Bildirisi\", modern deizmin ve kişisel inancın en duygusal savunmalarından biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Halk Egemenliği",
+      "text": "Fransız Devrimi'nin ve modern demokrasinin en büyük ilham kaynağı olmuştur. \"Eşitlik\" kavramını siyasetin merkezine yerleştirmiştir."
+    },
+    {
+      "title": "Doğa Sevgisi",
+      "text": "Modern ekolojik bilincin ve Romantizm akımının (Goethe, Wordsworth vb.) önünü açmış; insanın doğayla olan kopukluğunu teşhis etmiştir."
+    },
+    {
+      "title": "Çocukluk Keşfi",
+      "text": "Eğitimi cezadan ve ezberden kurtarıp, çocuğun gelişimsel ihtiyaçlarına odaklanan bir sürece dönüştürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Totalitarizm Riski",
+      "text": "\"Genel İrade\" kavramı o kadar kutsal ve bölünmezdir ki, topluma uymayan bireyin \"özgür olması için zorlanması\" gerektiğini söyler. Bu fikir, Robespierre'den modern diktatörlüklere kadar pek çok baskı rejimine (istemeden de olsa) dayanak olmuştur."
+    },
+    {
+      "title": "Kişisel Tutarsızlık",
+      "text": "Eğitim üzerine devrimci bir kitap (Emile) yazarken, kendi beş çocuğunu da yetimhaneye bırakmış olması, onun samimiyetine dair tarihteki en büyük gölge olmuştur."
+    },
+    {
+      "title": "Kadın Bakışı",
+      "text": "Siyasal eşitlikten bahsederken kadınları kamusal alanın dışında, sadece erkeğe hizmet eden ve \"evcil\" varlıklar olarak kurgulaması, Aydınlanma'nın evrensel iddialarıyla çelişir."
+    }
+  ]
+}

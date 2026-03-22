@@ -1,0 +1,83 @@
+{
+  "subtitle": "Duyuların Zaferi ve Maddenin Dansı (1509–1588)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Iuxta Propria Principia (Kendi İlkelerine Göre)",
+      "body": "Telesio'nun başyapıtı olan De Rerum Natura Iuxta Propria Principia (Nesnelerin Doğası Üzerine: Kendi İlkelerine Göre), modern bilime giden yolun manifestosudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aristoteles Reddi",
+          "text": "Aristoteles'in \"form\", \"öz\" veya \"erek\" gibi soyut kavramlarının doğayı açıklamakta yetersiz olduğunu savunur."
+        },
+        {
+          "label": "Sadece Duyular",
+          "text": "Bilginin tek kaynağı duyulardır. Telesio'ya göre doğa, sadece duyular yoluyla ve kendi fiziksel yasalarıyla incelenmelidir; teoloji veya metafizik bu işe karıştırılmamalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Evrenin Üç Ana Aktörü",
+      "body": "Telesio, evreni karmaşık formlarla değil, iki aktif ve bir pasif ilkeyle açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sıcaklık (Isı)",
+          "text": "Aktif, genleşen, incelten ve hayat veren ilke. Gökyüzünün ve güneşin doğasıdır."
+        },
+        {
+          "label": "Soğukluk",
+          "text": "Aktif, daralan, katılaştıran ve hareketsiz kılan ilke. Yeryüzünün doğasıdır."
+        },
+        {
+          "label": "Madde (Materia)",
+          "text": "Bu iki gücün üzerinde savaştığı pasif, kütlesel zemin. Evren, sıcaklık ile soğukluğun madde üzerindeki bitmek bilmeyen kavgasından ibarettir."
+        }
+      ]
+    },
+    {
+      "title": "Ruhun Maddeselliği: Spiritus",
+      "body": "Telesio, psikoloji tarihini de sarsmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hisseden Madde",
+          "text": "Ona göre ruh, vücudun içinde dolaşan çok ince ve sıcak bir maddedir (spiritus). Bu ruh, dış dünyadan gelen etkileri hisseder."
+        },
+        {
+          "label": "Haz ve Acı",
+          "text": "Tüm ahlakı haz (hayatı koruma) ve acı (hayatı tehdit etme) üzerine kurmuştur. Bu yaklaşım, daha sonra Thomas Hobbes ve Spinoza gibi devleri derinden etkileyecektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Deneyciliğin Öncüsü",
+      "text": "Felsefeyi spekülasyondan kurtarıp \"doğa araştırması\" haline getirmiş; Francis Bacon'ın \"doğayı sorgulama\" metodunun zihinsel babalığını yapmıştır."
+    },
+    {
+      "title": "Özerk Bilim",
+      "text": "Bilimi teolojinin hizmetçisi olmaktan çıkarıp, ona kendi kuralları olan bir alan yaratmıştır."
+    },
+    {
+      "title": "İlham Kaynağı",
+      "text": "Tommaso Campanella ve Giordano Bruno gibi isimlerin \"canlı doğa\" anlayışına giden yolu açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Basitleştirme",
+      "text": "Her şeyi sadece \"sıcak ve soğuk\" çatışmasına indirgemesi, doğanın o muazzam kimyasal ve matematiksel karmaşıklığını tam olarak açıklayamaz."
+    },
+    {
+      "title": "Matematik Eksikliği",
+      "text": "Doğayı gözlemlemiş olsa da, bu gözlemleri Galilei gibi matematiksel bir dile dökememiş; \"niteliksel\" bir fizikçi olarak kalmıştır."
+    },
+    {
+      "title": "Çelişkili Teoloji",
+      "text": "Bir yandan her şeyi maddi nedenlerle açıklarken, diğer yandan kilise baskısından kaçınmak için insanın \"ilahî bir ruha\" da sahip olduğunu ekleyerek kendi sisteminde bir yarık oluşturmuştur."
+    }
+  ]
+}

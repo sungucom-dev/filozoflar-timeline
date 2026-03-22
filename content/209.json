@@ -1,0 +1,86 @@
+{
+  "subtitle": "Eşitlik, Adalet ve Giyotin (1748–1793)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Déclaration des droits de la femme et de la citoyenne (Kadın ve Kadın Yurttaş Hakları Bildirgesi)",
+      "body": "1791'de yayımlanan bu eser, 1789'daki meşhur \"İnsan ve Yurttaş Hakları Bildirgesi\"ne dâhiyane ve sert bir cevaptır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ayna Etkisi",
+          "text": "Gouges, orijinal bildirgedeki her bir maddeyi alıp \"erkek\" yerine \"kadın\" (veya her ikisini) koyarak yeniden yazmıştır. Amacı, devrimin sözde \"evrensel\" haklarının sadece erkekleri kapsadığını deşifre etmektir."
+        },
+        {
+          "label": "Doğuştan Özgürlük",
+          "text": "Birinci maddesi şöyledir: \"Kadın özgür doğar ve erkeklerle haklar bakımından eşit yaşar.\""
+        }
+      ]
+    },
+    {
+      "title": "Sosyal Sözleşme ve Evlilik",
+      "body": "Gouges, Jean-Jacques Rousseau'nun kadınları evine hapseden anlayışına karşı çıkmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Medeni Ortaklık",
+          "text": "Evliliği, tarafların mülkiyet ve çocuk hakları konusunda eşit olduğu bir \"sosyal sözleşme\" olarak yeniden tanımlamayı önermiştir."
+        },
+        {
+          "label": "Gayrimeşru Çocuklar",
+          "text": "Dönemi için devrimci bir adım olan, evlilik dışı doğan çocukların da yasal haklara sahip olması gerektiğini savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Kölelik Karşıtlığı ve İnsanlık",
+      "body": "Onun adaleti sadece cinsiyetle sınırlı değildi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Siyahların Hakları",
+          "text": "Zamore et Mirza adlı tiyatro oyunuyla, sömürgelerdeki köleliğin dehşetini sahneye taşımış ve köleliğin derhal kaldırılmasını talep etmiştir. Bu yüzden dönemin güçlü \"koloni lobisi\" tarafından büyük baskı görmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Giyotindeki Duruş",
+      "body": "Robespierre'in \"Terör Dönemi\"ne ve devrimin şiddete evrilmesine karşı sesini yükseltmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Teröre İtiraz",
+          "text": "Kral XVI. Louis'nin idamına karşı çıkmış (kan dökülmesine karşı olduğu için), Robespierre'i \"tiranlaşmakla\" suçlamıştır. Bu cesareti, 1793 yılında onun da giyotine gönderilmesine neden olmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Tutarlı Eşitlikçilik",
+      "text": "Aydınlanma'nın \"herkes eşittir\" ilkesindeki o meşhur \"istisnaları\" (kadınlar, siyahlar, yoksullar) ilk kez sistemli bir şekilde sorgulamıştır."
+    },
+    {
+      "title": "Siyasal Katılım",
+      "text": "Siyasetin sadece erkeklerin alanı olmadığını, kadınların da yasa yapma ve yönetim süreçlerinde bizzat yer alması gerektiğini savunarak modern demokrasinin ufkunu genişletmiştir."
+    },
+    {
+      "title": "Korkusuzluk",
+      "text": "Fikirleri uğruna hem aristokrasiyi hem de devrimci hükûmeti karşısına alacak kadar büyük bir sivil cesaret örneği sergilemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasal Yalnızlık",
+      "text": "Ne kraliyetçiler ne de radikal Jacobinler onu tam olarak kabul etmiştir. Bu \"arada kalmışlık\", fikirlerinin hayattayken uygulanma şansını azaltmıştır."
+    },
+    {
+      "title": "Tiyatro ve Politika Arasındaki Çatışma",
+      "text": "Bazı eleştirmenler, siyasi fikirlerini tiyatro oyunları üzerinden yaymaya çalışmasını o dönem için \"fazla duygusal\" veya \"yeterince teorik değil\" diye eleştirmiştir."
+    },
+    {
+      "title": "Unutulmuşluk",
+      "text": "Ölümünden sonra neredeyse iki yüzyıl boyunca tarih kitaplarından silinmiş, değeri ancak 20. yüzyılın ikinci yarısında tam anlamıyla teslim edilmiştir."
+    }
+  ]
+}

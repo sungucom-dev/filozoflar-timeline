@@ -1,0 +1,83 @@
+{
+  "subtitle": "Verum-Factum ve Tarihin Spiral Akışı (1668–1744)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Verum Esse Ipsum Factum (Gerçek, Yapılanın Kendisidir)",
+      "body": "Vico'nun epistemolojik devrimi budur. Ona göre doğayı Tanrı yaratmıştır, bu yüzden doğanın iç işleyişini sadece Tanrı bilebilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İnsan Yapımı Hakikat",
+          "text": "İnsan ise tarihi, dili, yasaları ve dinleri bizzat kendisi yaratmıştır. Bu yüzden insan zihni için en \"açık ve seçik\" bilgi, fizik değil, Tarih ve Sosyolojidir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu fikir, doğa bilimlerinin otoritesine karşı sosyal bilimlerin (humanities) bağımsızlık ilanıdır."
+        }
+      ]
+    },
+    {
+      "title": "Scienza Nuova (Yeni Bilim): Tarihin Üç Çağı",
+      "body": "Vico, insanlık tarihinin çizgisel bir ilerleme değil, spiral bir döngü (corsi e ricorsi) izlediğini savunur. Her ulus üç aşamadan geçer.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Tanrılar Çağı",
+          "text": "İnsanların devler gibi olduğu, korkuyla mitolojiyi ve dini yarattığı, dilin şiirsel ve dinsel olduğu dönem."
+        },
+        {
+          "label": "Kahramanlar Çağı",
+          "text": "Soyluların ve savaşçıların hüküm sürdüğü, aristokratik cumhuriyetlerin kurulduğu, destanların (Homeros gibi) yazıldığı dönem."
+        },
+        {
+          "label": "İnsanlar Çağı",
+          "text": "Aklın ve eşitliğin hakim olduğu, yasaların demokratikleştiği ama aynı zamanda \"aklın barbarlığı\" ile duyguların kuruduğu dönem. Bu çağın sonunda toplum yozlaşır ve tekrar başa (Ricorso) döner."
+        }
+      ]
+    },
+    {
+      "title": "Şiirsel Bilgelik (Poetic Wisdom)",
+      "body": "Vico'ya göre ilk insanlar rasyonel değil, \"duygusal ve hayalperest\" varlıklardı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mitoloji Olarak Tarih",
+          "text": "Mitler saçma masallar değil, antik insanın dünyayı anlama biçimidir. Zeus'un şimşeği, ilk insanın gök gürültüsünden duyduğu korkunun cisimleşmiş halidir."
+        },
+        {
+          "label": "Dilin Önemi",
+          "text": "Bir toplumun tarihini anlamak için önce onun kelimelerinin ve metaforlarının kökenine inmek gerekir (etimoloji)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Tarihselcilik (Historicism)",
+      "text": "Olayların ve fikirlerin ancak yaşandıkları dönemin şartları içinde anlaşılabileceğini söyleyerek modern tarihçiliğin temelini atmıştır."
+    },
+    {
+      "title": "Kültürel Antropoloji",
+      "text": "Dini, dili ve hukuku tek bir bütün (kültür) olarak incelemiş; Marx'tan Joyce'a kadar pek çok düşünürü etkilemiştir."
+    },
+    {
+      "title": "Descartes Eleştirisi",
+      "text": "İnsanı sadece \"düşünen bir zihin\" (matematiksel bir nokta) olarak görmeyi reddedip, onu \"hisseden, hayal kuran ve yaratan\" bir tarihsel varlık olarak konumlandırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Döngüsel Karamsarlık",
+      "text": "Tarihin sürekli başa dönen bir spiral olduğunu savunması, modern \"ilerleme\" (progress) inancına aykırıdır ve bazen kaderci bir bakış yaratabilir."
+    },
+    {
+      "title": "Anlaşılmaz Üslup",
+      "text": "Yeni Bilim o kadar karmaşık, dağınık ve karanlık bir dille yazılmıştır ki, yaşadığı dönemde neredeyse hiç anlaşılamamıştır. Gerçek değeri bir asır sonra keşfedilmiştir."
+    },
+    {
+      "title": "Etimolojik Zorlamalar",
+      "text": "Kelimelerin kökenlerinden tarihsel sonuçlar çıkarırken bazen aşırıya kaçmış ve bilimsel olmayan zorlama yorumlar yapmıştır."
+    }
+  ]
+}

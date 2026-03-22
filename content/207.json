@@ -1,0 +1,79 @@
+{
+  "subtitle": "Dil, Volksgeist ve İnsanlık (1744–1803)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Volksgeist (Halkın Ruhu)",
+      "body": "Herder'in dünya düşünce mirasına bıraktığı en etkili kavram budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kültürel Özgünlük",
+          "text": "Bir milleti millet yapan şey genetik veya siyasi sınırlar değil; dili, mitolojisi, türküleri ve gelenekleridir. Her halkın kendine has bir \"ruhu\" vardır ve bu ruh o halkın yaratımlarında nefes alır."
+        },
+        {
+          "label": "Çoğulculuk",
+          "text": "Herder'e göre \"en iyi kültür\" diye bir şey yoktur. Her kültür, insanlığın o devasa mozaiğinde yer alan ve yeri doldurulamaz bir parçadır. Bu, modern Kültürel Görecelik kavramının ilk güçlü savunmasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Dil ve Düşünce Birliği",
+      "body": "Hocası Hamann'dan etkilenerek, dilin sadece bir \"araç\" olmadığını savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dilin Evi",
+          "text": "Dil, düşüncenin kabıdır. Bir halkın dilini anlamadan onun dünyayı nasıl gördüğünü anlayamazsınız. Dil, o halkın tarihsel tecrübesinin ve duygularının yaşayan arşividir."
+        },
+        {
+          "label": "Edebiyat ve Şiir",
+          "text": "Gerçek edebiyat, saraylardaki yapay taklitler değil, halkın ağzındaki türküler ve masallardır. Bu fikir, Grimm Kardeşler'den tutun da tüm dünya folklor araştırmalarına kadar devasa bir yolu açmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Organik Tarih Anlayışı",
+      "body": "Herder, tarihi Condorcet gibi sadece çizgisel bir \"ilerleme\" olarak görmez.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Büyüme ve Çürüme",
+          "text": "Tarih, tıpkı bir bitki veya insan ömrü gibi organik bir süreçtir. Her dönemin kendi amaçları ve kendi \"mükemmelliği\" vardır. Orta Çağ'ı sadece \"karanlık\" diyerek kestirip atmak, bir ağacın köklerini yok saymak kadar saçmadır."
+        },
+        {
+          "label": "İnsanlık (Humanität)",
+          "text": "Tarihin nihai amacı \"İnsanlık\"tır. Ancak bu, tek tip bir insanlık değil, her halkın kendi potansiyelini en üst seviyeye taşımasıyla oluşan evrensel bir armonidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Çok Kültürlülük",
+      "text": "Batı merkezli kibri sarsarak, \"ilkel\" denilen halkların da muazzam bir kültürel derinliğe sahip olduğunu göstermiştir."
+    },
+    {
+      "title": "Dilbilim ve Antropoloji",
+      "text": "Dilin toplumsal ve zihinsel inşadaki rolünü vurgulayarak modern sosyal bilimlerin temelini atmıştır."
+    },
+    {
+      "title": "Romantik Coşku",
+      "text": "Akıl ile duygu arasındaki köprüyü kurmuş; sanatı ve tarihi yaşayan, nefes alan bir süreç olarak tanımlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Milliyetçilik Riski",
+      "text": "Her ne kadar kendisi barışçıl bir \"kültürel milliyetçiliği\" savunsa da, fikirleri daha sonraki yüzyıllarda dışlayıcı ve saldırgan siyasi milliyetçilikler (özellikle Nasyonal Sosyalizm gibi) tarafından çarpıtılarak kullanılmıştır."
+    },
+    {
+      "title": "Aşırı Görecelik",
+      "text": "\"Her şey kendi içinde iyidir\" mantığı, bazen evrensel ahlak ilkelerinin ve insan haklarının tartışılmasını zorlaştıran bir zemine kayabilir."
+    },
+    {
+      "title": "Sistemsizlik",
+      "text": "Kant gibi kılı kırk yaran bir sistem kurmak yerine, daha sezgisel ve parça parça yazmıştır; bu da fikirlerinin bazen muğlak kalmasına neden olur."
+    }
+  ]
+}

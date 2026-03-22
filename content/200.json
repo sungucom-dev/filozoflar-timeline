@@ -1,0 +1,90 @@
+{
+  "subtitle": "Kafe, Ekonomi ve Acının Mantığı (1728–1797)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Il Caffè: Düşüncenin Kamusal Alanı",
+      "body": "1764-1766 yılları arasında yayımlanan Il Caffè dergisi, İtalya'nın en etkili Aydınlanma yayınıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kahvehane Kültürü",
+          "text": "Dergi, bir kahvehanedeki canlı tartışmaları model almıştır. Amacı, skolastik ve ağır dili bir kenara bırakıp; bilim, ekonomi ve hukuk gibi konuları halkın anlayabileceği, modern ve akıcı bir dille tartışmaktır."
+        },
+        {
+          "label": "Akıl ve Fayda",
+          "text": "Sloganı \"faydalı olanı yaymak\"tı. Verri için felsefe, eğer toplumun refahına ve yasaların iyileşmesine hizmet etmiyorsa boş bir uğraştır."
+        }
+      ]
+    },
+    {
+      "title": "Siyasi Ekonomi: Değer ve Dolaşım",
+      "body": "Verri, Adam Smith ile aynı dönemde, hatta ondan önce modern ekonominin temel ilkelerini formüle etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fiyatın Dinamiği",
+          "text": "Bir malın değerinin sadece \"emek\" ile değil, ihtiyaç (arzu) ve kıtlık (bulunabilirlik) arasındaki oranla belirlendiğini savunmuştur."
+        },
+        {
+          "label": "Serbest Ticaret",
+          "text": "Merkantilizmin yasaklarına karşı çıkmış, paranın hızlı dolaşımının ve ticaretin önündeki engellerin kaldırılmasının toplumun genel zenginliğini artıracağını söylemiştir."
+        }
+      ]
+    },
+    {
+      "title": "Acı ve Haz Teorisi: Psikolojik Temel",
+      "body": "Verri'nin en özgün felsefi katkısı, ahlakı ve mutluluğu duyumlar üzerinden açıklamasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Acının Önceliği",
+          "text": "Ona göre insan hayatının temel durumu \"acı\"dır. Haz veya mutluluk, ancak bir acının sona ermesi veya hafiflemesiyle oluşan geçici bir durumdur."
+        }
+      ]
+    },
+    {
+      "title": "İşkenceye Karşı Savaş: Osservazioni sulla tortura",
+      "body": "Verri, hukuk sistemindeki barbarlığa karşı en sert yazıları kaleme almıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beccaria ile İş Birliği",
+          "text": "Arkadaşı Cesare Beccaria'nın Suçlar ve Cezalar Üzerine kitabını yazması için onu teşvik etmiş, verileri sağlamış ve eserin düzenlenmesine yardım etmiştir."
+        },
+        {
+          "label": "Mantıksal İtiraz",
+          "text": "İşkencenin bir hakikat arama yöntemi olamayacağını, çünkü \"güçlü bir yalancının zayıf bir dürüstten daha kolay kurtulacağını\" savunarak sistemin mantıksızlığını deşifre etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İtalyan Aydınlanması'nın Öncüsü",
+      "text": "İtalya'yı Orta Çağ kalıntısı hukuk ve ekonomi sistemlerinden koparıp Avrupa modernitesine taşıyan en önemli figürdür."
+    },
+    {
+      "title": "Hukuk Reformu",
+      "text": "İşkence ve idam cezası tartışmalarını sadece ahlaki değil, rasyonel ve hukuki bir zemine oturtmuştur."
+    },
+    {
+      "title": "Bütünsel Devlet Adamı",
+      "text": "Fikirlerini sadece kitaplarda bırakmamış, kamu yönetiminde bizzat görev alarak vergi sistemini ve bürokrasiyi modernize etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Karamsar Psikoloji",
+      "text": "Mutluluğu sadece \"acının durması\" olarak tanımlaması, insan hayatındaki yaratıcı ve pozitif coşku kaynaklarını (sanat, aşk, keşif) fazla indirgemeci bir şekilde açıklar."
+    },
+    {
+      "title": "Beccaria'nın Gölgesinde Kalmak",
+      "text": "Tarih boyunca asıl şöhreti Beccaria kazanmış, Verri ise genellikle o büyük eserin \"isimsiz editörü\" veya \"akıl hocası\" olarak arka planda kalmıştır."
+    },
+    {
+      "title": "Seçkinci Reformizm",
+      "text": "Halkın cehaletinden çekinmiş ve reformların aşağıdan yukarıya bir devrimle değil, yukarıdan aşağıya aydınlanmış yöneticiler eliyle yapılması gerektiğini savunmuştur."
+    }
+  ]
+}

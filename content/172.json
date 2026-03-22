@@ -1,0 +1,81 @@
+{
+  "subtitle": "Boş Levha, Doğal Haklar ve Hoşgörü (1632–1704)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tabula Rasa: Bilginin Kaynağı Deneyimdir",
+      "body": "Locke, Descartes ve Spinoza'nın savunduğu \"doğuştan gelen fikirler\" (Tanrı, matematiksel ilkeler vb.) teorisini kökten reddeder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Boş Levha",
+          "text": "İnsan zihni doğduğunda bir Tabula Rasadır (Boş Levhadır). Bilginin iki kaynağı vardır: Duyum (dış dünyadan gelen veriler) ve Refleksion (zihnin bu veriler üzerine düşünmesi)."
+        },
+        {
+          "label": "Nitelikler",
+          "text": "Nesnelerin iki tür niteliği olduğunu söyler. Birincil nitelikler (şekil, hareket, sayı) nesnenin kendisindedir; ikincil nitelikler (renk, koku, tat) ise bizim algımızdadır."
+        }
+      ]
+    },
+    {
+      "title": "İki İnceleme: Siyasetin Sözleşmesi",
+      "body": "Locke, Hobbes'un o karanlık \"Leviathan\"ına karşı modern liberalizmin temellerini atmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğa Durumu",
+          "text": "Hobbes'un aksine, doğa durumunun bir \"savaş\" değil, barışçıl ama \"belirsiz\" bir durum olduğunu savunur. İnsanların doğuştan gelen üç temel hakkı vardır: Yaşam, Özgürlük ve Mülkiyet."
+        },
+        {
+          "label": "Toplumsal Sözleşme",
+          "text": "Devlet, bu hakları korumak için kurulmuş bir \"hakem\"dir. Eğer devlet bu hakları ihlal ederse, halkın direnme ve isyan etme hakkı doğar."
+        }
+      ]
+    },
+    {
+      "title": "Hoşgörü ve Din-Devlet Ayrımı",
+      "body": "Locke, Avrupa'nın mezhep savaşlarından sonra \"Hoşgörü Üzerine Bir Mektup\"u yazarak modern laikliğin önünü açmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vicdan Özgürlüğü",
+          "text": "İnancın zorla dayatılamayacağını, kilisenin ruhani işlerle, devletin ise dünyevi (mülkiyet ve güvenlik) işlerle ilgilenmesi gerektiğini savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Güçler Ayrılığı: İlk Tohumlar",
+      "body": "Modern demokrasilerin temel ilkesi olan güçler ayrılığını ilk kez sistemli hale getiren odur. Yasama ve yürütme güçlerinin farklı ellerde olması gerektiğini söyleyerek, tiranlığın önündeki en büyük engeli tanımlamıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Demokrasi",
+      "text": "ABD Bağımsızlık Bildirgesi'nden Fransız İhtilali'ne kadar, modern dünyanın tüm özgürlükçü hareketlerine zihinsel yakıt sağlamıştır."
+    },
+    {
+      "title": "Eğitim Reformu",
+      "text": "Çocukların \"boş birer levha\" olduğu fikri, eğitimin ve çevrenin insan karakterini şekillendirmedeki hayati önemini ortaya çıkarmıştır."
+    },
+    {
+      "title": "Sağduyu Felsefesi",
+      "text": "Metafizik spekülasyonlar yerine, insan zihninin sınırlarını kabul eden rasyonel ve uygulanabilir bir felsefe sunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dış Dünya Bilmecesi",
+      "text": "Her şeyin duyumlardan geldiğini söylerken, bu duyumların \"arkasındaki\" dış dünyanın gerçekten nasıl bir yer olduğu sorusunu (töz sorunu) cevapsız bırakmıştır (Bu boşluk daha sonra Berkeley ve Hume tarafından doldurulacaktır)."
+    },
+    {
+      "title": "Mülkiyet ve Yerliler",
+      "text": "Mülkiyeti \"emek harcamakla\" tanımlaması, sömürgecilik döneminde yerlilerin topraklarına el konulmasını meşrulaştırmak için kullanılmıştır."
+    },
+    {
+      "title": "Hoşgörünün Sınırı",
+      "text": "Hoşgörüden bahsetmesine rağmen, ateistlerin ve \"başka bir devlete bağlı olan\" Katoliklerin hoş görülmemesi gerektiğini söyleyerek kendi ilkesine sınırlar koymuştur."
+    }
+  ]
+}

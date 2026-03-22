@@ -1,0 +1,90 @@
+{
+  "subtitle": "Dil, İman ve Paradoksların Dansı (1730–1788)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Akıl Dildir\" (Vernunft ist Sprache)",
+      "body": "Hamann'ın Kant'a ve tüm rasyonalistlere attığı en büyük çalım budur. Ona göre \"saf\" bir akıl yoktur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dilin Önceliği",
+          "text": "Akıl, dilden ayrı bir yetenek değil, bizzat dilin kendisidir. Kelimeler olmadan düşünce, beden olmadan ruh gibidir: Görünmez ve yoktur."
+        },
+        {
+          "label": "Eleştiri",
+          "text": "Kant aklı analiz ederken onun dilsel ve tarihsel kökenlerini unutmuştur. Hamann için dil, Tanrı'nın insanla konuştuğu canlı bir araçtır, soyut bir mantık oyunu değil."
+        }
+      ]
+    },
+    {
+      "title": "Metakritik: Saf Aklın Eleştirisinin Eleştirisi",
+      "body": "Hamann, Kant'ın meşhur eserine karşı bir \"Metakritik\" yazarak felsefede yeni bir çığır açmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Parçalanmışlık",
+          "text": "Aydınlanma'nın insanı \"akıl\", \"duygu\", \"irade\" gibi kompartımanlara ayırmasına şiddetle karşı çıkar. İnsan bir bütündür ve hakikat ancak bu bütünlük içinde hissedilebilir."
+        },
+        {
+          "label": "Soyutlama Düşmanlığı",
+          "text": "Genel kavramlar (örneğin \"insanlık\") yaşayan gerçekliği öldürür. Hamann için tek gerçeklik, o anki, buradaki ve tikel olan bireydir."
+        }
+      ]
+    },
+    {
+      "title": "Coincidentia Oppositorum (Zıtlıkların Birliği)",
+      "body": "Hamann için dünya rasyonel bir denklem değil, bir paradokstur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kutsal Cehalet",
+          "text": "Sokrates'in \"tek bildiğim hiçbir şey bilmediğimdir\" sözünü en uç noktaya taşır. Gerçek bilgelik, aklın sınırlarını anlayıp o sınırda \"iman\" ile durmaktır."
+        },
+        {
+          "label": "Tanrı'nın İnişi",
+          "text": "Tanrı'yı yüce bir rasyonel mimar olarak değil, insanlığın kusurlu diline, acılarına ve tarihine \"inen\" bir varlık olarak görür."
+        }
+      ]
+    },
+    {
+      "title": "Oracular Stil: Kehanet Gibi Yazmak",
+      "body": "Hamann'ın yazıları bilerek karanlık, metaforik ve ironiktir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Okura Meydan Okuma",
+          "text": "O, bilgiyi bir paket gibi sunmaz; okurun zihnini sarsmak, onu şüpheye düşürmek ve ancak bu sarsıntıdan sonra bir \"aydınlanma\" (kendi türünde bir aydınlanma) yaşamasını ister."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dilsel Dönüşün Öncüsü",
+      "text": "Felsefeyi dille temellendirmesiyle, 20. yüzyılın dil felsefesine (Wittgenstein, Heidegger) ve hermeneutiğe (yorumbilim) giden yolu bir asır önceden açmıştır."
+    },
+    {
+      "title": "Bireyin Savunusu",
+      "text": "Sistemin içinde eriyen \"insan\" yerine, ete kemiğe bürünmüş, acı çeken ve inanan bireyi merkeze koymuştur."
+    },
+    {
+      "title": "Romantizmin Tohumu",
+      "text": "Herder ve Goethe gibi devleri etkileyerek, Alman Romantizmi'nin o coşkulu ve duygu dolu ruhunu besleyen asıl kaynaktır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Obskürantizm (Karanlıkçılık)",
+      "text": "Yazılarını o kadar çok atıf, metafor ve bilmeceyle doldurmuştur ki, onları anlamak bazen imkansızdır. Bu durum, fikirlerinin geniş kitlelere ulaşmasını engellemiştir."
+    },
+    {
+      "title": "Akıl Karşıtlığı",
+      "text": "Aydınlanma'nın aşırılıklarını eleştirirken bazen aklı tamamen reddetme noktasına gelmesi, her türlü bilimsel ve rasyonel gelişmeyi \"sahte\" görmesine yol açabilecek bir risk taşır."
+    },
+    {
+      "title": "Sistemsizlik",
+      "text": "Hamann sistem kurmayı bir günah olarak gördüğü için, düşünceleri parça parça ve dağınıktır; bu da tutarlı bir doktrin oluşturmayı zorlaştırır."
+    }
+  ]
+}

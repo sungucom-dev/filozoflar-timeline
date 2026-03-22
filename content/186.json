@@ -1,0 +1,85 @@
+{
+  "subtitle": "Akıl, Mücadele ve \"Candide\" (1694–1778)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Écrasez l'infâme! (Alçağı ezin!)",
+      "body": "Voltaire'in hayat felsefesi bu sloganda gizlidir. \"Alçak\" dediği şey, insanların zihnini köleleştiren dinsel bağnazlık ve kurumsal kilise baskısıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hoşgörü Savunusu",
+          "text": "Hoşgörü Üzerine İnceleme adlı eserinde, farklı inançların bir arada yaşamasının toplumsal barış için şart olduğunu savunur. Ona göre, bir dinin olduğu yerde baskı, iki dinin olduğu yerde iç savaş, otuz dinin olduğu yerde ise huzur vardır."
+        },
+        {
+          "label": "Deizm",
+          "text": "Tanrı'yı evreni kuran ve sonra onu kendi yasalarına bırakan \"Yüce Saatçi\" olarak görür. Mucizelere ve dogmalara inanmaz; Tanrı'ya giden yolun vahiyden değil, akıldan geçtiğini söyler."
+        }
+      ]
+    },
+    {
+      "title": "İyimserliğe Darbe: Candide",
+      "body": "Leibniz'in \"mümkün dünyaların en iyisi\" fikrine karşı tarihin en keskin hicvini yazmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pangloss ve Safdillik",
+          "text": "Romanın kahramanı Candide, hocası Pangloss'un \"her şey en iyi amaçlar için olur\" tesellisiyle dünyayı gezer ama her yerde tecavüz, deprem ve savaşla karşılaşır."
+        },
+        {
+          "label": "Bahçemizi Ekip Biçmeliyiz",
+          "text": "Kitabın sonunda Voltaire, büyük metafizik sorularla uğraşmak yerine, somut bir işe odaklanmayı ve dünyayı küçük adımlarla güzelleştirmeyi önerir."
+        }
+      ]
+    },
+    {
+      "title": "İngiliz Hayranlığı ve Bilim",
+      "body": "Fransa'daki baskıdan kaçıp İngiltere'ye gittiğinde Locke'un felsefesi ve Newton'un fiziğiyle tanışmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Felsefi Mektuplar",
+          "text": "İngiltere'deki özgürlük ortamını, din-devlet ayrımını ve bilimsel ilerlemeyi överek Fransız mutlakiyetçiliğine ayna tutmuştur."
+        },
+        {
+          "label": "Newton'un Elçisi",
+          "text": "Newton'un kütleçekim yasalarını Fransa'ya tanıtan ve modern bilimsel zihniyetin yerleşmesini sağlayan kilit isimdir."
+        }
+      ]
+    },
+    {
+      "title": "Calas Olayı ve Adalet Savaşçısı",
+      "body": "Voltaire sadece yazmamış, haksızlığa uğrayanlar için bizzat harekete geçmiştir. Protestan olduğu için haksız yere idam edilen Jean Calas'ın itibarını iade ettirmek için yıllarca mücadele etmiş ve kazanmıştır. Bu, \"kamuoyu\" kavramının modern anlamda doğuşudur.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Düşünce Özgürlüğü",
+      "text": "\"Söylediklerinize katılmıyorum ama onları söyleme hakkınızı ölünceye kadar savunacağım\" anlayışının simgesi olmuştur."
+    },
+    {
+      "title": "Hümanist Miras",
+      "text": "İşkenceye, köleliğe ve keyfi tutuklamalara karşı durarak modern insan haklarının felsefi zeminini hazırlamıştır."
+    },
+    {
+      "title": "Hiciv Sanatı",
+      "text": "Mizahı bir yıkım aracı olarak kullanarak, en ağır dogmaların bile \"gülünç\" duruma düşürüldüğünde etkisini kaybettiğini göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sınıf Elitizmi",
+      "text": "Voltaire, halk tabakasını (\"ayak takımı\") eğitimsiz ve kaba bulur. Ona göre aydınlanma yukarıdan aşağıya, \"Aydınlanmış bir Despot\" (Büyük Friedrich gibi) aracılığıyla gelmelidir. Tam bir demokrat değildir."
+    },
+    {
+      "title": "Antisemitizm",
+      "text": "Bazı yazılarında Yahudilere karşı takındığı sert ve ön yargılı tutum, Aydınlanma'nın evrensellik iddiasıyla çelişen karanlık bir lekedir."
+    },
+    {
+      "title": "Derinliksizlik",
+      "text": "O bir sistem kurucu değildir; fikirleri daldan dala atlar. Ciddiyetten ziyade zekice esprilere ve iğnelemelere odaklanması, bazen felsefi derinliğin kaybolmasına neden olur."
+    }
+  ]
+}

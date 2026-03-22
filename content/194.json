@@ -1,0 +1,71 @@
+{
+  "subtitle": "Estetik ve Duyusal Bilgi (1714–1762)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Estetiğin İsim Babası",
+      "body": "Baumgarten, 1735 yılında yayımlanan eserinde \"Estetik\" terimini modern anlamda ilk kez kullanan kişidir. Yunanca aisthesis (duyusal algı) kelimesinden yola çıkarak felsefede yeni bir disiplin inşa etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Güzellik Bilimi",
+          "text": "Estetiği, \"duyusal bilginin bilimi\" (scientia cognitionis sensitivae) olarak tanımlar. Ona göre güzellik, duyusal algının kendi içindeki mükemmelliğidir."
+        },
+        {
+          "label": "Aklın Küçük Kardeşi",
+          "text": "Wolffçu gelenekte duyular \"bulanık\" kabul edilirken, Baumgarten duyusal bilginin de bir mantığı (analogon rationis) olduğunu söyleyerek onu onurlandırmıştır."
+        }
+      ]
+    },
+    {
+      "title": "\"Aydınlık\" ile \"Bulanık\" Arasındaki Köprü",
+      "body": "Leibniz ve Wolff'a göre sadece matematiksel ve mantıksal olan \"açık ve seçik\"ti. Baumgarten ise sanatın ve duygunun sunduğu o \"yoğun ama bulanık\" bilginin hayatın özü olduğunu fark etti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bütünsel Algı",
+          "text": "Bir tabloya baktığımızda onu parçalara ayırıp analiz etmeyiz; onu bir bütün olarak hissederiz. Baumgarten, bu bütünsel hissin rasyonel analizden aşağı olmadığını savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Sanatçı Bir \"Yaratıcı\" Olarak",
+      "body": "Baumgarten, sanatçıyı sadece doğayı taklit eden bir zanaatkar olarak değil, \"mümkün bir dünyayı\" kendi içinde kuran küçük bir tanrı gibi görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şiirsel Hakikat",
+          "text": "Şiirin ve sanatın kendine has bir doğruluk payı vardır. Bu, mantıksal doğruluktan farklı, \"estetik bir doğruluk\"tur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bağımsız Bir Disiplin",
+      "text": "Sanatı ve güzelliği felsefenin rastgele bir konusu olmaktan çıkarıp, etik ve mantıkla eş değer bir kürsüye taşımıştır."
+    },
+    {
+      "title": "Kant'a Hazırlık",
+      "text": "Immanuel Kant, derslerinde Baumgarten'in metinlerini kullanmış ve onun açtığı bu yoldan giderek Yargı Yetisinin Eleştirisi'ni yazmıştır."
+    },
+    {
+      "title": "Duyuların İadesi",
+      "text": "Batı rasyonalizminin \"küçümsediği\" duyuları ve hayal gücünü felsefi bir meşruiyet zeminine oturtmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Sistematik",
+      "text": "Bir estetikçi olmasına rağmen üslubu hala çok \"Wolffçu\"dur. Güzelliği bile kaskatı tanımlar ve kategorilerle anlatması, sanatın o uçucu ruhunu bazen boğabilir."
+    },
+    {
+      "title": "Bulanıklık Tuzağı",
+      "text": "Duyusal bilgiyi \"aşağı bir bilgi türü\" olarak görmeye devam eden rasyonalist şemadan tam olarak kopamamıştır. Duyuyu hala \"yetersiz bir akıl\" gibi konumlandırması bir çelişkidir."
+    },
+    {
+      "title": "Uygulama Eksikliği",
+      "text": "Teorileri çok güçlüdür ancak somut sanat eserleri üzerinden derinlemesine analizler sunmaktan ziyade soyut tanımlarda kalmıştır."
+    }
+  ]
+}

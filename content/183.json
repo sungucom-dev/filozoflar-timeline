@@ -1,0 +1,94 @@
+{
+  "subtitle": "Yasaların Ruhu ve Özgürlüğün Dengesi (1689–1755)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "L'Esprit des Lois (Yasaların Ruhu)",
+      "body": "1748'de yayımlanan bu dev eser, modern siyasetin anayasasıdır. Montesquieu'ya göre yasalar, sadece \"emirler\" değildir; onlar nesnelerin doğasından kaynaklanan zorunlu ilişkilerdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İklim Teorisi",
+          "text": "İlginç bir yaklaşımla, yasaların ve yönetim biçimlerinin iklimle doğrudan ilişkili olduğunu savunur. Sıcak iklimlerin insanları daha \"uysal\" ve köleliğe yatkın yaparken, soğuk iklimlerin insanlarını daha \"özgürlükçü\" ve savaşçı yaptığını iddia eder."
+        },
+        {
+          "label": "Coğrafi Belirlenimcilik",
+          "text": "Toplumların yapısını sadece idealler değil, toprak yapısı ve nüfus yoğunluğu gibi fiziksel şartlar da belirler."
+        }
+      ]
+    },
+    {
+      "title": "Güçler Ayrılığı: Özgürlüğün Teminatı",
+      "body": "Montesquieu'nun dünya tarihine en büyük mirası budur. O, İngiliz sistemini gözlemleyerek tiranlığın (mutlakiyetçiliğin) ancak güçlerin birbirini dengelemesiyle engellenebileceğini fark etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üç Erkin Bölünmesi",
+          "text": "Yasama, Yürütme ve Yargı güçleri asla tek bir elde toplanmamalıdır."
+        },
+        {
+          "label": "Fren ve Denge (Checks and Balances)",
+          "text": "\"Gücün gücü durdurması gerekir.\" Eğer bu üç güç birleşirse, bireysel özgürlük ölür ve keyfiyet başlar. Bugün neredeyse tüm demokratik anayasalar bu ilke üzerine kuruludur."
+        }
+      ]
+    },
+    {
+      "title": "Yönetim Biçimleri ve İlkeleri",
+      "body": "Her yönetim biçiminin onu ayakta tutan bir \"temel duygusu/ilkesi\" olduğunu söyler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Cumhuriyet",
+          "text": "İlkesi Erdemdir (Yurtseverlik ve eşitlik sevgisi)."
+        },
+        {
+          "label": "Monarşi",
+          "text": "İlkesi Onurdur (Sınıfsal ayrıcalıklar ve itibar)."
+        },
+        {
+          "label": "Despotizm (Zulüm)",
+          "text": "İlkesi Korkudur."
+        }
+      ]
+    },
+    {
+      "title": "Pers Mektupları: Dışarıdan Bakış",
+      "body": "Gençlik eseri olan bu mektup-romanda, Paris'i ziyaret eden iki İranlı üzerinden Fransız toplumunu, kilisesini ve sarayını hicveder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kültürel Görecelik",
+          "text": "\"Biz kimiz?\" sorusunu sormadan önce \"Başkaları bizi nasıl görüyor?\" sorusunu gündeme getirerek Aydınlanma'nın o eleştirel ruhunu başlatmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sosyolojinin Öncüsü",
+      "text": "Yasaları soyut ahlak ilkelerinden çıkarıp toplumsal verilere dayandırması, onu modern sosyolojinin habercisi yapmıştır."
+    },
+    {
+      "title": "Hukuk Devleti",
+      "text": "Yargının bağımsızlığını savunarak, modern adalet sisteminin en güçlü savunucusu olmuştur."
+    },
+    {
+      "title": "Ilımlılık",
+      "text": "Devrimci bir yıkım yerine, reformist bir \"denge ve denetleme\" sistemini önererek sürdürülebilir bir devlet yapısı tasarlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İklim Teorisi Yanılgısı",
+      "text": "Siyasal yapıları sadece \"sıcak-soğuk\" ile açıklamaya çalışması bilimsel olarak zayıf kalmış ve bazen oryantalist (doğuyu küçümseyen) yargılara zemin hazırlamıştır."
+    },
+    {
+      "title": "Sınıfsal Önyargı",
+      "text": "Bir baron olarak, soyluların ayrıcalıklarını koruyan \"onur\" kavramına fazla vurgu yapması, tam anlamıyla bir halk demokrasisinden ziyade \"aristokratik bir özgürlüğü\" savunmasına neden olmuştur."
+    },
+    {
+      "title": "Karmaşıklık",
+      "text": "Eserleri bazen daldan dala atlayan, sistematik bir bütünlükten uzak ve çelişkili gözlemlerle dolu olabilir."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "subtitle": "Şüphe, Akıl ve Geometrik Evren (1596–1650)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Metodik Şüphe ve \"Cogito\"",
+      "body": "Descartes, sarsılmaz bir temel bulmak için her şeyden şüphe ederek işe başlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kötü Cin Deneyi",
+          "text": "\"Ya beni her konuda aldatan kötü bir cin varsa? Ya şu an rüyadaysam?\" diye sorar. Ancak şüphe ederken bile yapamadığı tek bir şey vardır: Şüphe etmek."
+        },
+        {
+          "label": "Altın Formül",
+          "text": "Şüphe etmek, düşünmektir. Düşünmek ise bir \"düşünen özne\"nin varlığını gerektirir. Cogito, ergo sum (Düşünüyorum, öyleyse varım)."
+        }
+      ]
+    },
+    {
+      "title": "Kartezyen Düalizm (Zihin-Beden Ayrımı)",
+      "body": "Descartes evreni iki temel töz (substance) olarak ikiye böler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Res Cogitans (Düşünen Şey)",
+          "text": "Ruh veya zihin. Uzamı yoktur, bölünemez ve özgürdür."
+        },
+        {
+          "label": "Res Extensa (Uzamlı Şey)",
+          "text": "Madde ve beden. Yer kaplar, bölünebilir ve mekanik yasalara tabidir."
+        },
+        {
+          "label": "Epifiz Bezi",
+          "text": "Bu iki tamamen farklı dünyanın (ruh ve beden) insan vücudunda nerede birleştiği sorusuna, beynin ortasındaki minik \"epifiz bezi\"ni işaret ederek cevap vermiştir."
+        }
+      ]
+    },
+    {
+      "title": "Analitik Geometri: Uzayın Sayısallaşması",
+      "body": "Descartes sadece bir filozof değil, matematiği bugünkü haline getiren devdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kartezyen Koordinat Sistemi",
+          "text": "Geometriyi cebirle birleştirerek, her noktayı sayılarla (x, y, z) ifade etmemizi sağlamıştır. Bu keşif olmasaydı, ne modern mühendislik ne de bilgisayar grafikleri mümkün olurdu."
+        }
+      ]
+    },
+    {
+      "title": "Yöntem Üzerine Söylev: Dört Altın Kural",
+      "body": "Doğru bilgiye ulaşmak için şu dört adımı şart koşar.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Apaçıklık",
+          "text": "Doğruluğundan emin olmadığın hiçbir şeyi kabul etme."
+        },
+        {
+          "label": "Analiz",
+          "text": "Karmaşık sorunları çözebileceğin en küçük parçalara böl."
+        },
+        {
+          "label": "Sentez",
+          "text": "En basitinden başlayarak adım adım en karmaşığa yüksel."
+        },
+        {
+          "label": "Kontrol",
+          "text": "Hiçbir şeyi atlamadığından emin olmak için sürekli sayım ve denetim yap."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Öznenin Doğuşu",
+      "text": "İnsanı, dünyayı anlayan ve tanımlayan \"merkezi güç\" (özne) haline getirmiştir."
+    },
+    {
+      "title": "Matematiksel Kesinlik",
+      "text": "Bilimin dilinin matematik olması gerektiğini vurgulayarak rasyonel bir dünya görüşünün temelini atmıştır."
+    },
+    {
+      "title": "Gelenekle Kopuş",
+      "text": "Otoriteye değil, bireyin kendi aklına güvenmesi gerektiğini söyleyerek aydınlanmanın fitilini ateşlemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Düalizm Çıkmazı",
+      "text": "Ruh ve bedeni o kadar sert ayırmıştır ki, bu ikisinin birbirini nasıl etkilediği (etkileşim sorunu) felsefenin hala çözemediği bir düğüm olarak kalmıştır."
+    },
+    {
+      "title": "Kartezyen Döngü",
+      "text": "Tanrı'nın varlığını \"açık ve seçik fikirlere\" dayandırıp, açık ve seçik fikirlerin doğruluğunu \"Tanrı'ya\" dayandırması bir mantık hatası (totoloji) olarak eleştirilmiştir."
+    },
+    {
+      "title": "Hayvan Makineler",
+      "text": "Hayvanların ruhu olmadığını ve onların sadece \"acı hissetmeyen karmaşık makineler\" olduğunu savunması, tarihteki en büyük bilimsel ve ahlaki yanılgılarından biridir."
+    }
+  ]
+}

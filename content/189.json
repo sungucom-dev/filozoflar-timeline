@@ -1,0 +1,75 @@
+{
+  "subtitle": "Madde, Makine ve Haz (1709–1751)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "L'Homme Machine (Makine İnsan)",
+      "body": "1747'de yayımlanan bu eser, Avrupa'da o kadar büyük bir nefret uyandırdı ki La Mettrie hem Fransa'dan hem de Hollanda'dan kaçmak zorunda kaldı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ruhun İnkârı",
+          "text": "Ona göre \"ruh\" diye bir şey yoktur; bu sadece düşünme yetisini ifade eden boş bir kelimedir. Düşünce, beynin tıpkı karaciğerin safra salgılaması gibi gerçekleştirdiği fiziksel bir işlevdir."
+        },
+        {
+          "label": "Biyolojik Otomat",
+          "text": "İnsan, hayvanlardan daha karmaşık bir makinedir. Eğer bir saatin yayları ve çarkları bozulduğunda saat duruyorsa, bedendeki organlar bozulduğunda da yaşam (ve ruh) son bulur."
+        }
+      ]
+    },
+    {
+      "title": "Tıbbi Materyalizm",
+      "body": "La Mettrie bir tıp doktoruydu ve bu fikirlere laboratuvarda, hastaların başında ulaştı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ateş ve Zihin",
+          "text": "Kendi üzerinde yaptığı gözlemlerde, yüksek ateşli olduğu anlarda düşüncelerinin nasıl bozulduğunu fark etti. Eğer ruh bedenden ayrı ve yüce olsaydı, bedensel bir hastalık onun işleyişini bu kadar derinden etkileyemezdi."
+        },
+        {
+          "label": "Bedensel Belirlenimcilik",
+          "text": "Karakterimiz, ahlakımız ve zekâmız; kan dolaşımımızdan, sinir sistemimizden ve yediğimiz gıdalardan ibarettir."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Hedonizm (Hazcılık)",
+      "body": "Eğer öteki dünya ve ruh yoksa, yaşamın amacı nedir?",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutluluk Olarak Haz",
+          "text": "La Mettrie, erdemin bile duyusal bir haz olduğunu savundu. İnsanın doğası gereği acıdan kaçıp hazzı kovalaması gerektiğini, ahlakın ise toplumsal bir \"kullanım kılavuzu\"ndan başka bir şey olmadığını söyledi."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Nörobilimin Öncüsü",
+      "text": "Zihinsel süreçleri doğrudan beyin fonksiyonlarına bağlaması, onu modern nöroloji ve psikiyatrinin en erken savunucularından biri yapmıştır."
+    },
+    {
+      "title": "Dogma Yıkıcılığı",
+      "text": "Ruh ve beden arasındaki o bin yıllık mistik köprüyü yıkarak, insanın tamamen doğa bilimlerinin konusu olmasını sağlamıştır."
+    },
+    {
+      "title": "Tutarlılık",
+      "text": "Materyalizmi hiçbir \"teolojik kaçış yolu\" bırakmadan en uç noktasına kadar götürme cesaretini göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Mekanik İndirgemecilik",
+      "text": "İnsanı sadece bir \"makine\" olarak görmesi, bilincin o öznel derinliğini ve kültürel zenginliğini açıklamakta çok yetersiz kalır."
+    },
+    {
+      "title": "Sorumluluk Sorunu",
+      "text": "Eğer her şey fiziksel bir zorunluluksa, \"suç\" ve \"ceza\" kavramları anlamını yitirir. La Mettrie'nin sistemi, toplumsal bir kaos riski taşıdığı için döneminde çok eleştirilmiştir."
+    },
+    {
+      "title": "Hırçın Üslup",
+      "text": "Fikirlerini o kadar alaycı ve kışkırtıcı bir dille sunmuştur ki, dostu sayılan Büyük Friedrich bile onun \"fazla ileri gittiğini\" düşünmüştür."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "subtitle": "Kutsal, Dindışı ve Ebedi Dönüş (1907–1986)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kutsal ve Dindışı (The Sacred and the Profane)",
+      "body": "Eliade'nin felsefesinin temel direği bu ikiliktir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İki Farklı Dünya",
+          "text": "Dindışı (profane) dünya, sıradan, homojen ve \"boş\" zaman/mekândır. Kutsal (sacred) ise anlamın yoğunlaştığı, gerçekliğin tam olarak tezahür ettiği yerdir."
+        },
+        {
+          "label": "Hierophany (Kutsalın Tezahürü)",
+          "text": "Herhangi bir şey (bir taş, bir ağaç, bir su kaynağı) kutsalın bir parçası haline geldiğinde, o artık sadece bir nesne değil, başka bir dünyaya açılan bir kapıdır."
+        }
+      ]
+    },
+    {
+      "title": "Axis Mundi: Dünyanın Ekseni",
+      "body": "Kutsal mekân, rastgele seçilmiş bir yer değildir; o, evrenin merkezidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dikey Bağlantı",
+          "text": "Dağlar, tapınaklar veya kutsal ağaçlar (Axis Mundi); yerin altını, yeryüzünü ve gökyüzünü birbirine bağlayan \"evrensel direktir.\""
+        },
+        {
+          "label": "Kozmos Yaratmak",
+          "text": "İnsan, kutsal bir alan inşa ettiğinde (bir ev kurmak veya bir şehir açmak gibi), aslında kaosu düzene (kozmos) sokar ve Tanrıların yaratma eylemini taklit eder."
+        }
+      ]
+    },
+    {
+      "title": "Ebedi Dönüş Miti (The Myth of the Eternal Return)",
+      "body": "Eliade'nin en sarsıcı teorilerinden biridir. Geleneksel insanın \"zaman\" algısını açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tarihin Dehşeti",
+          "text": "Geleneksel (arkaik) insan için doğrusal tarih (geçmişten geleceğe akan zaman) anlamsız ve korkutucudur. Bu yüzden insan, ritüeller aracılığıyla \"başlangıçtaki o zamana\" (Illud Tempus) geri döner."
+        },
+        {
+          "label": "Ritüel Olarak Tekrar",
+          "text": "Bir ayin yapıldığında, o ayin \"yeni\" değildir; o, Tanrıların veya ataların ilk başta yaptığı eylemin o andaki tekrarıdır. Bu sayede insan, tarihin yıkıcılığından kaçar."
+        }
+      ]
+    },
+    {
+      "title": "Şamanizm ve Arkaik Teknikler",
+      "body": "Eliade, sadece teorisyen değil, aynı zamanda Doğu ve Batı geleneklerini (özellikle Yoga ve Şamanizm) derinlemesine inceleyen bir araştırmacıdır. Şamanizmi, ruhun \"vecde gelme\" ve gökyüzüne yükselme teknikleri olarak tanımlayarak, bu kadim bilgeliğe akademik saygınlık kazandırmıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dini İçeriden Anlamak",
+      "text": "Dinleri dışarıdan bir sosyolog gibi değil, o inancın içindeki insanın \"ne hissettiğini\" ve \"dünyayı nasıl gördüğünü\" (fenomenoloji) anlamaya çalışarak büyük bir boşluğu doldurmuştur."
+    },
+    {
+      "title": "Evrensel Sembolizm",
+      "text": "Su, ışık, gökyüzü ve yer gibi temel sembollerin tüm kültürlerdeki ortak dinsel dillerini çözerek insanlığın ortak ruhsal mirasını kanıtlamıştır."
+    },
+    {
+      "title": "Modern İnsana Ayna",
+      "text": "Modern insanın \"dinsiz\" görünse bile, aslında nasıl hala kutsal mekânlar (ev, stadyum, müze) ve kutsal zamanlar (yılbaşı, tatiller) yarattığını göstererek sekülerizmin maskesini düşürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Özcü (Essentialist) Bakış",
+      "text": "Bazı eleştirmenler, Eliade'nin dinleri tarihsel ve siyasi bağlamlarından koparıp \"tek bir kutsal öz\" varmış gibi anlatmasını bilimsel olarak \"fazla romantik\" bulurlar."
+    },
+    {
+      "title": "Tarihsel Tartışmalar",
+      "text": "Eliade'nin Romanya'daki gençlik yıllarında aşırı sağcı ve antisemitik hareketlerle (Demir Muhafızlar) olan ilişkisi, ölümünden sonra felsefesine ve akademik tarafsızlığına dair ciddi gölgeler düşürmüştür."
+    },
+    {
+      "title": "Kurgusal Dil",
+      "text": "Bir edebiyatçı da olduğu için (ki muazzam fantastik öyküleri vardır), bilimsel eserlerinde bazen \"kanıt\" yerine \"şiirsel sezgiyi\" koyması, katı akademisyenler tarafından eleştirilmiştir."
+    }
+  ]
+}

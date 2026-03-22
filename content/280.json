@@ -1,0 +1,85 @@
+{
+  "subtitle": "Aura, Tarih ve Pasajlar (1892–1940)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Sanat Eserinin Aurası ve Teknik Yeniden Üretilebilirlik",
+      "body": "Benjamin'in medya teorisine vurduğu en büyük mühür budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aura Nedir?",
+          "text": "Bir sanat eserinin \"şimdi ve burada\" olma benzersizliğidir; onun etrafındaki o kutsal, ulaşılamaz atmosferdir."
+        },
+        {
+          "label": "Auranın Kayboluşu",
+          "text": "Fotoğraf ve sinema gibi tekniklerle sanat eseri milyonlarca kez çoğaltılabilir hale gelince, \"aura\" çöker. Benjamin buna bir yandan üzülürken (geleneğin kaybı), bir yandan da sanatın \"kutsal bir ayin\" olmaktan çıkıp \"politik bir araca\" dönüşme ihtimalini selamlar."
+        }
+      ]
+    },
+    {
+      "title": "Tarih Meleği (Angelus Novus)",
+      "body": "Paul Klee'nin bir tablosundan yola çıkarak geliştirdiği bu imge, modernite eleştirisinin zirvesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İlerleme Fırtınası",
+          "text": "Tarih Meleği, yüzünü geçmişe dönmüştür. Bizim \"ilerleme\" dediğimiz şeyi o, gökyüzüne kadar yükselen bir yıkıntı yığını olarak görür. Melek durup yıkıntıları onarmak ister ama gelecekten esen o şiddetli \"ilerleme fırtınası\" onu durdurulamaz bir şekilde ileriye savurur."
+        },
+        {
+          "label": "Tarihsel Materyalizm",
+          "text": "Benjamin için tarih, galiplerin yazdığı bir başarı öyküsü değil, mağdurların yarım kalmış hayallerinin toplamıdır."
+        }
+      ]
+    },
+    {
+      "title": "Flâneur ve Pasajlar Projesi (Das Passagen-Werk)",
+      "body": "Benjamin'in bitiremediği, binlerce sayfadan oluşan devasa çalışmasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kentin Gözlemcisi",
+          "text": "Flâneur, kalabalıkların içinde ama onlardan ayrı olan, şehrin sokaklarını ve pasajlarını (modern tüketimin ilk mabetlerini) bir metin gibi okuyan kişidir."
+        },
+        {
+          "label": "Metalin ve Camın Ruhu",
+          "text": "Benjamin, Paris pasajlarını modernitenin \"rüya dünyası\" olarak görür. Bu rüyadan uyanmak, ancak o nesnelerin (meta fetişizminin) ardındaki tarihsel gerçeği görmekle mümkündür."
+        }
+      ]
+    },
+    {
+      "title": "Hikâye Anlatıcısı ve Tecrübe",
+      "body": "Tecrübenin Kaybı: Modern dünyada insanların birbirine aktaracak \"tecrübesi\" (Erfahrung) kalmamıştır; yerini anlık \"bilgi\" (Information) ve \"yaşantı\" (Erlebnis) almıştır. Hikâye anlatıcısının ölümü, toplumun ortak hafızasının kaybıdır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kültürel Eleştiri",
+      "text": "Popüler kültürü, modayı ve şehri felsefenin saygın bir konusu haline getirerek kültürel çalışmalar (Cultural Studies) alanını başlatmıştır."
+    },
+    {
+      "title": "Mesihvari Marksizm",
+      "text": "Materyalist tarih anlayışına manevi bir derinlik katarak, devrimi sadece ekonomik bir değişim değil, \"tarihin frenine basmak\" olarak tanımlamıştır."
+    },
+    {
+      "title": "Görsel Hafıza",
+      "text": "Sinemanın ve fotoğrafın toplumsal algıyı nasıl değiştirdiğini anlamak isteyen her kuramcı için hala başvuru kaynağıdır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistem Eksikliği",
+      "text": "Yazıları o kadar fragmanter (parçalı) ve aforizmatiktir ki, bazen neyi savunduğunu netleştirmek (Adorno'nun da sık sık eleştirdiği gibi) oldukça zordur."
+    },
+    {
+      "title": "Pesimizm",
+      "text": "Tarihi bir \"yıkıntılar yığını\" olarak görmesi, bazen eylemi felç eden bir melankoliye dönüşebilir."
+    },
+    {
+      "title": "Mistisizm ve Materyalizm Çatışması",
+      "text": "Yahudi kabalası ile Marksist teoriyi birleştirme çabası, her iki taraftan da \"tutarsızlık\" suçlamaları almasına yol açmıştır."
+    }
+  ]
+}

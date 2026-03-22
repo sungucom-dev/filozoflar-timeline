@@ -1,0 +1,86 @@
+{
+  "subtitle": "Başlangıç Durumu, Perde ve Hakkaniyet (1921–2002)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bilinmezlik Perdesi (Veil of Ignorance)",
+      "body": "Rawls'un siyaset felsefesi tarihine bıraktığı en meşhur \"düşünce deneyi\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Başlangıç Durumu",
+          "text": "Yeni bir toplum kuracağız ve kuralları belirlemek için toplandık. Ancak üzerimizde bir \"bilinmezlik perdesi\" var: kendi cinsiyetimizi, ırkımızı, zekâmızı, zenginlik seviyemizi veya sağlığımızı bilmiyoruz."
+        },
+        {
+          "label": "Rasyonel Seçim",
+          "text": "Rawls'a göre bu durumdaki her rasyonel insan, \"ya en alttakilerden biri olursam?\" korkusuyla, en kötü durumdakilerin bile insanca yaşayabileceği kuralları seçecektir."
+        }
+      ]
+    },
+    {
+      "title": "Adaletin İki Temel İlkesi",
+      "body": "Rawls, o perdenin arkasında insanların iki ilke üzerinde anlaşacağını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eşit Temel Özgürlükler İlkesi",
+          "text": "Herkes için en geniş kapsamlı ifade, vicdan ve siyasi katılım özgürlüğü. (Bu ilke her zaman önceliklidir)."
+        },
+        {
+          "label": "Farklılık İlkesi (Difference Principle)",
+          "text": "Ekonomik eşitsizlikler, ancak toplumun en az avantajlı kesiminin lehine olduğu sürece meşrudur. (Örn: Doktorların çok kazanması, sağlık sistemini iyileştirip yoksullara fayda sağlıyorsa kabul edilebilir)."
+        }
+      ]
+    },
+    {
+      "title": "Düşünsel Denge (Reflective Equilibrium)",
+      "body": "Rawls'un yöntemidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tutarlılık Arayışı",
+          "text": "Genel adalet ilkelerimiz ile somut durumlardaki ahlaki kanaatlerimizi (Örn: \"Kölelik yanlıştır\") birbirine uyumlu hale getirme sürecidir. İlkeler ve kanaatler arasında gidip gelerek bir denge kurarız."
+        }
+      ]
+    },
+    {
+      "title": "Siyasal Liberalizm ve Örtüşen Uzlaşı",
+      "body": "Geç döneminde, modern toplumların \"çoğulcu\" yapısına odaklanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Makul Çoğulculuk",
+          "text": "İnsanlar farklı dinlere veya dünya görüşlerine sahip olabilirler. Önemli olan, bu farklılıkların altında herkesin \"adalet ilkeleri\" üzerinde bir Örtüşen Uzlaşı (Overlapping Consensus) kurabilmesidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Siyaset Felsefesinin Rönesansı",
+      "text": "\"Siyaset felsefesi öldü\" denilen bir çağda, adaleti yeniden akademik ve toplumsal tartışmaların merkezine taşımıştır."
+    },
+    {
+      "title": "Mağdur Odaklılık",
+      "text": "Farklılık İlkesi ile kapitalizmin vahşi doğasına ahlaki bir sınır çizmiş, sosyal devletin felsefi temelini güçlendirmiştir."
+    },
+    {
+      "title": "Hakkaniyet",
+      "text": "Adaleti sadece \"yasalara uymak\" değil, \"hakkaniyet\" (fırsat ve durum eşitliği) olarak tanımlayarak çıtayı yükseltmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Libertaryen Eleştiri (Nozick)",
+      "text": "Robert Nozick, Rawls'un \"Farklılık İlkesi\"ni, insanların meşru yollarla kazandıklarına el koyan bir \"hırsızlık\" olarak nitelemiştir."
+    },
+    {
+      "title": "Komüniteryen Eleştiri (Sandel)",
+      "text": "Michael Sandel, Rawls'un \"yükümlülüklerinden arınmış soyut birey\" (perdenin arkasındaki insan) modelinin gerçek dışı olduğunu, insanın bağları ve toplumu olmadan tanımlanamayacağını savunmuştur."
+    },
+    {
+      "title": "Fazla İyimserlik",
+      "text": "Eleştirmenler, gerçek dünyada güç sahiplerinin o \"bilinmezlik perdesi\"ne hiç ihtiyaç duymadan kuralları kendi lehlerine koymaya devam ettiğini söylerler."
+    }
+  ]
+}

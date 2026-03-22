@@ -1,0 +1,85 @@
+{
+  "subtitle": "Yapısalcılık, Mit ve Mutfak (1908–2009)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yapısalcılık: Yüzeyin Altındaki Düzen",
+      "body": "Lévi-Strauss için önemli olan bir kültürün \"ne\" yaptığı değil, bunu \"nasıl bir sistem\" içinde yaptığıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bağıntısal Anlam",
+          "text": "Bir öğe (bir akraba, bir yemek, bir mit kahramanı) tek başına bir anlam ifade etmez. Anlam, o öğenin sistemdeki diğer öğelerle olan ilişkisinden (farkından) doğar."
+        },
+        {
+          "label": "Bilinçdışı Yapılar",
+          "text": "İnsanlar bu yapıları bilerek kurmazlar; zihnimiz dünyayı otomatik olarak belirli şablonlara (yapılara) göre organize eder."
+        }
+      ]
+    },
+    {
+      "title": "İkili Karşıtlıklar (Binary Oppositions)",
+      "body": "Zihnimizin en temel çalışma prensibi her şeyi zıtlıklar üzerinden anlamlandırmaktır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğa vs. Kültür",
+          "text": "Lévi-Strauss'a göre tüm insan kültürü bu ikilem üzerine kuruludur. Çiğ olan \"doğa\"dır, pişmiş olan ise \"kültür\"."
+        },
+        {
+          "label": "Mutfak Üçgeni",
+          "text": "Yemek pişirme yöntemlerini (haşlama, kızartma, tütsüleme) bile doğa ve kültür arasındaki o ince dengenin bir dili olarak görür."
+        }
+      ]
+    },
+    {
+      "title": "Yaban Düşünce: Brikolaj (Bricolage)",
+      "body": "\"İlkel\" denilen insanın zihninin, modern insandan daha az gelişmiş olmadığını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Brikolaj (Brikol)",
+          "text": "Yaban düşünce, elindeki sınırlı malzemeleri (doğadaki bitkiler, hayvanlar, taşlar) kullanarak evreni açıklayan devasa sistemler kurar. Bu bir \"el yordamı\" ustalığıdır."
+        },
+        {
+          "label": "Mühendis vs. Brikolaj",
+          "text": "Mühendis yeni araçlar icat ederken, \"brikolaj\" yapan yaban düşünce eski parçaları yeni anlamlarla birleştirir. Her iki düşünce biçimi de eşit derecede karmaşık ve mantıklıdır."
+        }
+      ]
+    },
+    {
+      "title": "Mitolojilerin Matematiği",
+      "body": "Mitleri \"müzik\" gibi görür. Bir mitin anlamı hikâyenin sonunda değil, hikâyenin içindeki tüm varyasyonların (mitemlerin) oluşturduğu yapıda gizlidir. Mitlerin amacı, toplumun çözemediği temel çelişkileri (yaşam/ölüm, yerli/yabancı gibi) sembolik olarak \"çözmek\" veya uzlaştırmaktır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Irkçılık Karşıtlığı",
+      "text": "\"Yaban\" ve \"Uygur\" ayrımını yıkarak, tüm kültürlerin aynı zihinsel kapasiteye ve karmaşıklığa sahip olduğunu bilimsel olarak kanıtlamıştır."
+    },
+    {
+      "title": "Hümanizm Eleştirisi",
+      "text": "İnsanı \"evrenin efendisi\" olarak gören anlayışı sarsmış; insanı doğanın ve dilin (yapının) bir parçası olarak konumlandırmıştır."
+    },
+    {
+      "title": "Disiplinlerarası Etki",
+      "text": "Edebiyattan sosyolojiye, psikolojiden bilgisayar bilimine kadar her alanı \"yapısal analiz\" ile tanıştırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tarihin İhmali",
+      "text": "Yapıları o kadar \"değişmez\" ve \"statik\" görür ki; toplumsal değişimi, devrimleri ve tarihin akışını açıklamakta yetersiz kalır."
+    },
+    {
+      "title": "Öznelliğin Kaybı",
+      "text": "İnsan iradesini ve bireysel eylemi \"yapının bir ürünü\" olarak indirgediği için \"Anti-Hümanist\" olmakla suçlanmıştır."
+    },
+    {
+      "title": "Soyutlama",
+      "text": "Analizleri bazen o kadar matematiksel ve soyut hale gelir ki, incelenen kültürün o canlı ve etli-kemikli gerçekliği formüllerin arasında kaybolabilir."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Fark, Rizom ve Arzu Makineleri (1925–1995)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Fark ve Tekrar (Différence et Répétition)",
+      "body": "Deleuze'ün Batı metafiziğine vurduğu en büyük darbe, \"Aynı\"nın hegemonyasını yıkmaktır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Temsile Karşı",
+          "text": "Platon'dan beri felsefe, her şeyi bir \"asıl\"ın kopyası olarak gördü. Deleuze ise Fark'ın kendisinin asıl olduğunu savunur. Bir şey başka bir şeye \"benzediği\" için değil, kendi içindeki eşsiz farkı nedeniyle vardır."
+        },
+        {
+          "label": "Tekrarın Gücü",
+          "text": "Tekrar, aynının geri gelmesi değil, her seferinde yeni bir farkın ortaya çıkmasıdır. Hayat, sürekli kendini tekrarlayarak yenilenen bir fark üretme sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Rizom (Kök-Sap) vs. Ağaçsı Düşünce",
+      "body": "Düşünme biçimimizi kökten değiştiren o meşhur metafor.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ağaçsı Düşünce",
+          "text": "Batı felsefesi \"ağaç\" gibidir; bir kökü (temel), dalları (disiplinler) ve hiyerarşisi vardır. Yukarıdan aşağıya iner."
+        },
+        {
+          "label": "Rizom",
+          "text": "Çimen veya zencefil gibi yatay yayılır. Başı veya sonu yoktur, her nokta her noktaya bağlanabilir. Bir yerden kopsa bile başka bir yerden filizlenir. Deleuze'e göre gerçek hayat ve düşünce bir rizomdur; merkezsiz, hiyerarşisiz ve her yöne açık."
+        }
+      ]
+    },
+    {
+      "title": "Organsız Beden (CsO) ve Arzu Makineleri",
+      "body": "Guattari ile birlikte yazdıkları Anti-Ödipus'ta psikanalize savaş açarlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Arzu Üretimdir",
+          "text": "Arzu bir \"eksiklik\" (Lacan'ın dediği gibi) değil, bir \"üretim\"dir. İnsanlar birer \"arzu makinesi\"dir ve sürekli dünyaya bağlanarak yeni akışlar yaratırlar."
+        },
+        {
+          "label": "Organsız Beden (Corps sans Organes)",
+          "text": "Bu, bedenin yokluğu değil, bedenin üzerindeki kaskatı organizasyonun (hiyerarşinin, işlevlerin) reddidir. Bedenin, arzunun özgürce akabileceği, henüz tanımlanmamış o saf potansiyel halidir."
+        }
+      ]
+    },
+    {
+      "title": "Oluş (Devenir)",
+      "body": "Deleuze için \"olmak\" kaskatı ve ölü bir kavramdır. Asıl olan Oluş'tur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çizgisel Olmayan Kimlik",
+          "text": "\"Kadın-oluş\", \"hayvan-oluş\", \"moleküler-oluş\"... Bu, gerçekten bir hayvana dönüşmek değil, o varlığın akışına, hızına ve yaşama biçimine girmektir. İnsan, sabit bir öz değil, sürekli bir eşikten diğerine geçen bir akıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Özgürleştirici Düşünce",
+      "text": "İnsanı kaskatı kimliklerden, ailevi saplantılardan (Ödipus kompleksinden) ve devletin hiyerarşik yapısından kurtaracak muazzam bir kavramsal cephanelik sunmuştur."
+    },
+    {
+      "title": "Disiplinlerarası Köprü",
+      "text": "Sinema, edebiyat (Kafka, Proust) ve resim (Bacon) analizleriyle felsefenin sadece \"filozoflara\" ait olmadığını kanıtlamıştır."
+    },
+    {
+      "title": "Olumlama Felsefesi",
+      "text": "Nietzsche'nin izinden giderek, yaşamı tüm sancıları ve neşesiyle \"evetleyen\", kederi reddeden dinamik bir duruş sergilemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Terminoloji Labirenti",
+      "text": "Yarattığı kavramlar (deterritorialization, lines of flight, molar/molecular vb.) o kadar yenidir ki, felsefesi bazen sadece \"seçilmişlerin\" anlayabileceği kapalı bir dile dönüşme riski taşır."
+    },
+    {
+      "title": "Siyasi Belirsizlik",
+      "text": "\"Arzunun özgürleşmesi\" fikri, bazen kapitalizmin her şeyi tüketime dahil eden akışkan yapısıyla (istemeden de olsa) paralellik gösterdiği gerekçesiyle eleştirilmiştir."
+    },
+    {
+      "title": "Aşırı Akışkanlık",
+      "text": "Her şeyi \"oluş\" ve \"akış\" üzerinden okumak, somut siyasi eylemler için gereken \"durma ve karar verme\" anlarını zayıflatabilir."
+    }
+  ]
+}

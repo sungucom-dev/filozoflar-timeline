@@ -1,0 +1,85 @@
+{
+  "subtitle": "Bilinç, Yönelimsellik ve Paranteze Alma (1859–1938)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yönelimsellik (Intentionality)",
+      "body": "Husserl'e göre bilinç, boş bir kap veya pasif bir ayna değildir. Bilinç her zaman \"bir şeyin bilincidir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dinamik Yönelim",
+          "text": "Düşünürken, severken veya bakarken, bilincimiz her zaman bir nesneye yönelir."
+        },
+        {
+          "label": "Noesis ve Noema",
+          "text": "Husserl bu süreci ikiye ayırır: Noesis (yönelme eylemi, yani düşünme biçimi) ve Noema (yönelinen nesne, yani düşüncenin içeriği). Bu ikisi birbirinden ayrılamaz bir bütündür."
+        }
+      ]
+    },
+    {
+      "title": "Fenomenolojik İndirgeme ve Epoché (Paranteze Alma)",
+      "body": "Husserl, dünyayı olduğu gibi kabul eden \"doğal tavrı\" bir kenara bırakmamızı ister.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Epoché",
+          "text": "Dış dünyanın gerçekten var olup olmadığına dair yargımızı geçici olarak askıya almaktır. Dünyayı bir \"parantez içine\" alırız."
+        },
+        {
+          "label": "Saf Fenomen",
+          "text": "Paranteze aldığımızda elimizde kalan şey, bilincimizde beliren o saf \"görüntü\"dür (fenomen). Amacımız, bu fenomenin arkasındaki değişmez \"özü\" (eidos) bulmaktır."
+        }
+      ]
+    },
+    {
+      "title": "Yaşam-Dünyası (Lebenswelt)",
+      "body": "Husserl'in son döneminde geliştirdiği ve koca bir sosyoloji geleneğini etkileyen kavramdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilimin Öncesi",
+          "text": "Bilim, dünyayı matematiksel formüllere indirgemeden önce, hepimizin içinde yaşadığı, paylaştığı ve tecrübe ettiği bir \"birincil dünya\" vardır."
+        },
+        {
+          "label": "Kriz",
+          "text": "Modern bilim, bu \"yaşam dünyasını\" unutmuş ve dünyayı soyut bir denklemler yığınına çevirmiştir. Husserl felsefeyi, insanı yeniden bu anlam dünyasına döndürecek olan \"kesin bir bilim\" olarak kurgular."
+        }
+      ]
+    },
+    {
+      "title": "Transandantal Benlik",
+      "body": "Her şeyi paranteze aldığımızda (hatta kendi biyolojik kimliğimizi bile), tüm tecrübeleri izleyen, organize eden o \"saf gözlemci\" kalır. Bu, tecrübenin merkezindeki Transandantal Ego'dur.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sarsılmaz Temel",
+      "text": "Felsefeye matematiksel bir kesinlik ve disiplin kazandırmış; psikolojizm (mantığı psikolojiye indirgemek) tehlikesine karşı rasyonaliteyi kurtarmıştır."
+    },
+    {
+      "title": "Devasa Miras",
+      "text": "Heidegger, Sartre, Merleau-Ponty ve hatta modern sosyoloji (Schutz) onun açtığı fenomenoloji kapısından geçmiştir."
+    },
+    {
+      "title": "Tecrübenin Onuru",
+      "text": "İnsanın doğrudan deneyimini küçümseyen kaskatı bilimciliğe karşı, \"yaşanan tecrübenin\" hakkını teslim etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Solipsizm (Tekbencilik) Riski",
+      "text": "Her şeyi bilince ve \"ego\"ya indirgediğinde, \"başka insanların\" ve \"dış dünyanın\" gerçekliğini kanıtlamakta oldukça zorlanmıştır."
+    },
+    {
+      "title": "Dilin ve Tarihin İhmali",
+      "text": "Saf özlerin peşinde koşarken, dilin ve tarihsel arka planın bilincimizi nasıl şekillendirdiğini (Heidegger'in daha sonra eleştireceği gibi) başlangıçta yeterince görememiştir."
+    },
+    {
+      "title": "Okuma Zorluğu",
+      "text": "Üslubu o kadar teknik ve \"kurudur\" ki, fikirleri ne kadar derin olursa olsun, geniş kitlelere ulaşması her zaman zor olmuştur."
+    }
+  ]
+}

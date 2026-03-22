@@ -1,0 +1,94 @@
+{
+  "subtitle": "Anlamak, Yaşam ve Tarihsellik (1833–1911)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Doğa Bilimleri vs. Tinin Bilimleri (Geisteswissenschaften)",
+      "body": "Dilthey'ın felsefeye en büyük mirası, bilimler arasında yaptığı o meşhur ayrımdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Açıklamak (Erklären)",
+          "text": "Doğa bilimlerinin yöntemidir. Dışsal gözlemle, neden-sonuç ilişkileri kurarak genel yasalar bulmaya çalışır."
+        },
+        {
+          "label": "Anlamak (Verstehen)",
+          "text": "Beşerî bilimlerin (Tarih, Sosyoloji, Edebiyat) yöntemidir. İnsanın eylemlerini, amaçlarını ve hislerini \"içeriden\", yaşanmış tecrübe üzerinden kavramayı hedefler."
+        }
+      ]
+    },
+    {
+      "title": "Yaşanmış Tecrübe (Erlebnis) ve İfade",
+      "body": "Dilthey için felsefenin çıkış noktası \"saf akıl\" değil, \"hayat\"tır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hayatın Akışı",
+          "text": "Hayat, parçalanamaz bir bütündür. İnsan, bu hayatın içinde biriktirdiği tecrübelerle (Erlebnis) dünyayı anlamlandırır."
+        },
+        {
+          "label": "Anlamın Dışsallaşması",
+          "text": "İnsan, iç dünyasını sanat, hukuk, din ve tarih aracılığıyla \"ifade\" eder. Biz de bu ifadeleri yorumlayarak (hermeneutik) o insanın veya dönemin ruhuna ulaşırız."
+        }
+      ]
+    },
+    {
+      "title": "Hermeneutik Döngü (The Hermeneutic Circle)",
+      "body": "Anlamanın nasıl gerçekleştiğini açıklayan dâhiyane bir yöntemdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Parça ve Bütün",
+          "text": "Bir metnin (veya bir hayatın) parçasını anlamak için bütününü bilmek gerekir; bütünü anlamak için ise parçaları... Bu sonsuz bir döngüdür. Anlamak, bu döngü içinde derinleşmektir."
+        }
+      ]
+    },
+    {
+      "title": "Dünya Görüşleri (Weltanschauung) Tipleri",
+      "body": "Dilthey, tarih boyunca insanların dünyayı anlamlandırmak için geliştirdiği üç temel \"tip\" olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğalcılık (Materyalizm)",
+          "text": "İnsanı fiziksel bir nesne gibi gören görüş. (Demokritos, Hobbes)."
+        },
+        {
+          "label": "Özgürlük İdealizmi",
+          "text": "İnsanın iradesini ve ruhsal özgürlüğünü merkeze alan görüş. (Kant, Fichte)."
+        },
+        {
+          "label": "Nesnel İdealizm",
+          "text": "Her şeyi bir bütünün ve armoninin parçası gören görüş. (Spinoza, Hegel, Goethe)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sosyal Bilimlerin Özerkliği",
+      "text": "Sosyoloji, tarih ve psikolojiyi doğa bilimlerinin (fizik, biyoloji) boyunduruğundan kurtararak onlara kendilerine has bir yöntem kazandırmıştır."
+    },
+    {
+      "title": "Tarihsel Bilinç",
+      "text": "İnsanın her zaman \"tarihsel bir varlık\" olduğunu, fikirlerimizin içinde bulunduğumuz zamanın ürünü olduğunu vurgulayarak modern tarih anlayışını kökten etkilemiştir."
+    },
+    {
+      "title": "Hermenötiğin Evrenselliği",
+      "text": "Metin yorumlama sanatını, tüm insan eylemlerini anlamlandırma felsefesi haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Görecelik Tuzağı",
+      "text": "Her şeyi \"tarihsellik\" ile açıkladığında, mutlak ve evrensel bir doğrunun (veya ahlakın) kalmadığı, her şeyin \"bakış açısına\" indirgendiği eleştirisiyle karşılaşmıştır."
+    },
+    {
+      "title": "Psikolojizm",
+      "text": "Anlamayı bazen fazla \"içsel bir empati\" (kendini başkasının yerine koyma) olarak kurgulaması, nesnel ve yapısal analizleri zayıflatabilir."
+    },
+    {
+      "title": "Sistem Eksikliği",
+      "text": "Yazıları genellikle tamamlanmamış parçalar ve makaleler halindedir; bu da onun felsefesini tek bir kaskatı sistem olarak takip etmeyi zorlaştırır."
+    }
+  ]
+}

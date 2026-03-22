@@ -1,0 +1,90 @@
+{
+  "subtitle": "Hermeneutik, Ufuklar ve Dilin Hakikati (1900–2002)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ufukların Erimesi (Horizontverschmelzung)",
+      "body": "Gadamer'e göre anlamak, bir başkasının (veya bir metnin) dünyasına tamamen girmek değildir; iki farklı bakış açısının birleşmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sınırlı Ufuk",
+          "text": "Her birimiz tarihin, kültürün ve dilin içinde belirli bir \"ufka\" (bakış açısına) sahibiz."
+        },
+        {
+          "label": "Karşılaşma",
+          "text": "Bir metni veya bir insanı anladığımızda, kendi ufkumuz ile onun ufkunu birleştiririz. Ortaya çıkan şey ne sadece benimdir ne de sadece onundur; yepyeni, genişlemiş bir \"ortak ufuk\"tur."
+        }
+      ]
+    },
+    {
+      "title": "Önyargıların Rehabilitasyonu",
+      "body": "Aydınlanma felsefesi \"önyargıları\" (prejudices) yok edilmesi gereken hatalar olarak görürdü. Gadamer ise bu fikri tersyüz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Anlamanın Önkoşulu",
+          "text": "Önyargılar (veya ön-anlamalar), dünyayı algılamamızı sağlayan başlangıç noktalarımızdır. Onlar olmadan hiçbir şeye yönelemeyiz."
+        },
+        {
+          "label": "Gelenek",
+          "text": "Biz tarihin dışında değil, bizzat içindeyiz. Gelenek, bizi kısıtlayan bir zincir değil, anlamamızı mümkün kılan o devasa birikimdir."
+        }
+      ]
+    },
+    {
+      "title": "Oyun (Spiel) Olarak Anlamak",
+      "body": "Gadamer anlamayı bir \"oyun\"a benzetir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kendini Kaptırmak",
+          "text": "Gerçek bir oyunda, oyuncu oyunu değil, oyun oyuncuyu yönetir. Anlama sürecinde de kendimizi konunun akışına bırakırız."
+        },
+        {
+          "label": "Özne-Nesne Ayrımının Sonu",
+          "text": "Oyun sırasında \"ben\" ve \"oyun\" ayrımı kaybolur. Anlamak da böyle bir \"kendini kaptırma\" ve o deneyimin içinde dönüşme sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Dil: \"Anlaşılabilen Varlık Dildir\"",
+      "body": "Dili sadece bir iletişim aracı olarak görmez.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dünyanın Evi",
+          "text": "Dil, içinde yaşadığımız dünyayı kuran şeydir. Dilin ötesinde bir hakikat yoktur; çünkü her türlü hakikat ancak dil içinde bize görünür hale gelir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Hümanist Yaklaşım",
+      "text": "Beşeri bilimleri (edebiyat, tarih, sanat) pozitif bilimlerin o soğuk \"yöntem\" baskısından kurtarmış; onlara kendi özgün hakikat alanlarını iade etmiştir."
+    },
+    {
+      "title": "Diyalog Etiği",
+      "text": "\"Başkası haklı olabilir\" önermesini felsefesinin merkezine koyarak, mütevazı ve derinlikli bir etik duruş sergilemiştir."
+    },
+    {
+      "title": "Sanatın Hakikati",
+      "text": "Sanatın sadece bir \"haz\" değil, dünya hakkında bir \"bilgi ve hakikat\" kaynağı olduğunu en güçlü savunan isimlerden biridir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Gelenek Eleştirisi (Habermas)",
+      "text": "Jürgen Habermas, Gadamer'i \"geleneğe fazla güvenmekle\" eleştirmiştir. Habermas'a göre gelenek sadece anlam kaynağı değildir; aynı zamanda sistematik bir baskı ve ideoloji de barındırabilir."
+    },
+    {
+      "title": "Yöntemsizlik",
+      "text": "Hakikat ve Yöntem kitabında hakikati yöntemden ayırması, bilimsel nesnellik arayanlar için felsefesini fazla \"öznel\" ve \"belirsiz\" bırakmıştır."
+    },
+    {
+      "title": "Siyasal Pasiflik",
+      "text": "Anlamayı sürekli bir \"uzlaşı\" olarak görmesi, çatışmanın, devrimin ve radikal kopuşların olduğu siyasal gerçeklikleri açıklamakta bazen zayıf kalabilir."
+    }
+  ]
+}

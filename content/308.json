@@ -1,0 +1,90 @@
+{
+  "subtitle": "Niyet, Erdem ve Pratik Akıl (1919–2001)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Niyet (Intention): Eylemin Grameri",
+      "body": "1957 tarihli Intention kitabı, Aristoteles'ten bu yana eylem felsefesi üzerine yazılmış en önemli metin kabul edilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "\"Neden?\" Sorusu",
+          "text": "Anscombe'a göre bir eylemi \"niyetli\" kılan şey, o eylem için sorulan \"Neden bunu yapıyorsun?\" sorusuna verilen cevaptır. Cevap \"Sadece öyle\" veya \"Farkında değildim\" ise o bir eylem değil, bir reflekstir."
+        },
+        {
+          "label": "Alışveriş Listesi Örneği",
+          "text": "Bir adamın elindeki listede \"elma\" yazar (niyet). Adam elma yerine armut alırsa, hata listede değil, adamın eylemindedir. Bu, zihnin dünyayı nasıl yönlendirdiğini (direction of fit) gösteren dâhiyane bir analizdir."
+        }
+      ]
+    },
+    {
+      "title": "Modern Ahlak Felsefesi ve Erdemin Dönüşü",
+      "body": "1958'de yayımladığı makalesiyle, o dönemdeki tüm ahlak felsefesi ekollerine (Faydacılık ve Kantçılık) savaş açmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yasa Koyucusuz Yasa",
+          "text": "Anscombe, Tanrı'nın (yani mutlak bir yasa koyucunun) devreden çıktığı bir dünyada \"ödev\" ve \"zorunluluk\" kavramlarının içinin boşaldığını savunur."
+        },
+        {
+          "label": "Erdeme Dönüş",
+          "text": "\"Hangi kurala uymalıyım?\" sorusu yerine, Aristoteles'e dönüp \"Nasıl bir insan olmalıyım?\" sorusunu sormamız gerektiğini söyleyerek modern Erdem Etiği'ni yeniden başlatmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Sonuççuluk (Consequentialism) Eleştirisi",
+      "body": "\"Sonuççuluk\" terimini literatüre sokan (ve bunu bir yergi olarak kullanan) kişidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutlak Yasaklar",
+          "text": "Anscombe'a göre bazı eylemler (masumları öldürmek gibi), sonuçları ne kadar \"iyi\" görünürse görünsün asla yapılmamalıdır. Bu yüzden, II. Dünya Savaşı sonunda Harry Truman'a onur unvanı verilmesine, atom bombası kararını verdiği için şiddetle karşı çıkmıştır."
+        },
+        {
+          "label": "Ahlaki Katılık",
+          "text": "Ahlakın, şartlara göre esneyen bir \"hesap makinesi\" (fayda-zarar hesabı) olmasına izin vermemiştir."
+        }
+      ]
+    },
+    {
+      "title": "Wittgenstein'ın Mirasçısı",
+      "body": "Wittgenstein'ın en yakın dostu ve vasiyetini bıraktığı kişidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sessizliği Kırmak",
+          "text": "Hocasının o karmaşık notlarını derleyen, çeviren ve dünyaya sunan odur. Ancak onun sadece bir \"aktarıcı\" değil, Wittgenstein'ın yöntemini ahlak ve eylem alanına uygulayan bağımsız bir dâhi olduğunu unutmamak gerekir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Eylem Felsefesini Kurmak",
+      "text": "Psikoloji ve felsefe arasındaki bağı \"niyet\" üzerinden yeniden kurarak, bugün yapay zekâdan hukuka kadar her alanda kullanılan bir temel atmıştır."
+    },
+    {
+      "title": "Etikte Devrim",
+      "text": "Sadece kurallara boğulmuş ahlak felsefesini, yeniden karakter ve insan doğası üzerine düşünmeye (Erdem Etiği) davet etmiştir."
+    },
+    {
+      "title": "Cesaret",
+      "text": "Dönemin ana akım görüşlerine (Truman eleştirisi, kürtaj karşıtlığı vb.) karşı, kariyerini riske atarak kendi doğrularını savunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Zorluk",
+      "text": "Yazıları o kadar yoğun ve teknik (neredeyse Wittgenstein kadar kapalı) bir dille yazılmıştır ki, anlaşılması devasa bir çaba gerektirir."
+    },
+    {
+      "title": "Dini Etki",
+      "text": "Bazı eleştirmenler, ahlaki çıkarımlarının arkasında felsefi mantıktan ziyade kaskatı Katolik dogmalarının yattığını savunurlar."
+    },
+    {
+      "title": "Esneklik Eksikliği",
+      "text": "Bazı durumlarda \"sonuçları\" tamamen göz ardı eden mutlakçı tavrı, karmaşık ahlaki ikilemlerde pratik çözümler üretmekte zorlanabilir."
+    }
+  ]
+}

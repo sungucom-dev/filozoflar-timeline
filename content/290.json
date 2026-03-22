@@ -1,0 +1,94 @@
+{
+  "subtitle": "Varoluş, Özgürlük ve Öteki (1905–1980)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Varoluş Özden Önce Gelir (L'existence précède l'essence)",
+      "body": "Sartre'ın felsefesinin en temel taşıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesne vs. İnsan",
+          "text": "Bir kağıt bıçağı yapılmadan önce, yapanın zihninde bir \"özü\" (ne işe yarayacağı) vardır. Ancak insan için durum tam tersidir."
+        },
+        {
+          "label": "Sorumluluk",
+          "text": "İnsan önce vardır, dünyaya gelir, var olur ve ancak sonradan kendi eylemleriyle ne olduğunu (özünü) tanımlar. Bu, insanın kendi kaderinin tek yazarı olduğu anlamına gelir."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Özgürlük ve Kaygı",
+      "body": "Sartre'a göre insan sadece özgür değildir; o, \"özgürlüğe mahkûmdur.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mazeret Yok",
+          "text": "Tanrı yoksa, değerlerimizi bizim yerimize belirleyecek hiçbir dış merci de yoktur. Her seçimimizden sadece biz sorumluyuzdur."
+        },
+        {
+          "label": "Bulantı ve Kaygı",
+          "text": "Bu sınırsız özgürlük ve beraberinde gelen devasa sorumluluk, insanda bir \"kaygı\" (angoisse) ve \"bulantı\" yaratır. Çünkü her seçimimizde sadece kendimizi değil, tüm insanlık için bir \"model\" seçmiş oluruz."
+        }
+      ]
+    },
+    {
+      "title": "Kötü Niyet (Mauvaise Foi)",
+      "body": "Özgürlüğün ağırlığından kaçmak için kullandığımız en yaygın maskedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kendini Kandırma",
+          "text": "Bir insanın \"şartlar böyleydi\", \"benim karakterim bu\", \"başka şansım yoktu\" diyerek seçimlerinin sorumluluğunu üstlenmemesidir."
+        },
+        {
+          "label": "Garson Örneği",
+          "text": "Rolünü fazla ciddiye alan, bir \"nesne\" gibi davranan garson, aslında bir insan olduğunu ve her an o rolü bırakabileceğini reddetmektedir. Bu, kendi özgürlüğüne ihanettir."
+        }
+      ]
+    },
+    {
+      "title": "Bakış ve \"Cehennem Başkalarıdır\"",
+      "body": "Sartre, insanlar arasındaki ilişkiyi bir \"çatışma\" olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bakış (Le Regard)",
+          "text": "Başkası bana baktığında, beni kendi dünyasında bir \"nesneye\" dönüştürür. Özgürlüğümü dondurur."
+        },
+        {
+          "label": "Huis Clos (Gizli Oturum)",
+          "text": "Meşhur \"Cehennem başkalarıdır\" sözü, başkalarının bizi sürekli yargılayan, tanımlayan ve nesneleştiren bakışlarının yarattığı hapisane hayatını anlatır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bireysel Onur",
+      "text": "İnsanı bir makine parçası veya kaderin oyuncağı olmaktan çıkarıp, kendi hayatının kahramanı haline getirmiştir."
+    },
+    {
+      "title": "Angajman (Bağlanma)",
+      "text": "Entelektüelin fildişi kulesinde oturmayıp toplumun sorunlarına (sömürgecilik karşıtlığı, işçi hakları vb.) müdahil olması gerektiğini gösteren en büyük örnektir."
+    },
+    {
+      "title": "Edebi Deha",
+      "text": "Felsefesini roman ve oyunlarla (Bulantı, Sinekler) ete kemiğe büründürerek, düşünceyi hayatın tam içine sokmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Özgürlük",
+      "text": "İnsanın biyolojik, psikolojik ve sosyal sınırlarını bazen fazla küçümsemiş; \"her şey senin elinde\" diyerek bireye taşınamaz bir yük yüklemiştir."
+    },
+    {
+      "title": "Siyasi Yanılgılar",
+      "text": "Stalinizm ve bazı otoriter rejimler konusundaki geç dönem tutumu, özgürlük felsefesiyle çeliştiği gerekçesiyle çok sert eleştirilmiştir."
+    },
+    {
+      "title": "Çatışmacı İlişki Modeli",
+      "text": "İnsan ilişkilerini sadece bir \"nesneleştirme savaşı\" olarak görmesi, sevgi, şefkat ve dayanışmanın birleştirici gücünü felsefi olarak zayıf bırakmıştır."
+    }
+  ]
+}

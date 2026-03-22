@@ -1,0 +1,79 @@
+{
+  "subtitle": "Saf Deneyim, Basho ve Mutlak Hiçlik (1870–1945)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Saf Deneyim (Zen'ya)",
+      "body": "Nishida'nın ilk büyük eseri İyinin Bir Araştırması'nın merkezindeki kavramdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özne-Nesne Öncesi",
+          "text": "Saf deneyim, henüz \"ben bu çiçeği görüyorum\" demeden önceki o ilk andır. O anda ne bir \"gözlemleyen ben\" vardır ne de bir \"gözlemlenen çiçek\". Sadece \"görme\" eyleminin kendisi vardır."
+        },
+        {
+          "label": "Birlik",
+          "text": "Bilinç henüz bölünmemiştir. Batı felsefesi dünyayı özne ve nesne olarak ikiye ayırırken, Nishida bu ikisinin kaynağı olan o bütünsel, canlı ve doğrudan tecrübeye geri dönmeyi savunur."
+        }
+      ]
+    },
+    {
+      "title": "Basho (Yer / Topos) Mantığı",
+      "body": "Nishida'nın olgunluk döneminde geliştirdiği, Batı'nın \"töz\" mantığına alternatif olan kuramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nerede Varız?",
+          "text": "Bir şeyin var olması için bir \"yer\"de olması gerekir. Fiziksel nesneler \"uzay\"da, zihinsel olaylar \"bilinç\"te yer alır. Peki, bilincin kendisi nerede yer alır?"
+        },
+        {
+          "label": "Mutlak Hiçlik Yeridir",
+          "text": "Nishida, tüm varlığın ve bilincin, \"Mutlak Hiçlik\" (Zettai Mu) denilen sonsuz bir boşlukta/yerde gerçekleştiğini savunur. Bu hiçlik, her şeyi kucaklayan ama kendisi hiçbir şey olmayan o \"mutlak ayna\"dır."
+        }
+      ]
+    },
+    {
+      "title": "Mutlak Çelişkili Öz-Özdeşlik",
+      "body": "Nishida, evrenin yapısını bir çelişki olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Karşıtların Birliği",
+          "text": "Dünya hem tekildir (birey) hem de tümeldir (evren). Bu ikisi birbirini dışlamaz, aksine birbirlerinin varlık şartıdır."
+        },
+        {
+          "label": "Eylem Olarak Dünya",
+          "text": "Dünya durağan bir yer değil, sürekli kendi çelişkileri üzerinden kendini yaratan ve ifade eden bir \"eylem sezgisi\" alanıdır. Bu, Zen'in \"boşluk formdur, form boşluktur\" anlayışının felsefi bir tercümesidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Küresel Felsefe",
+      "text": "Japon düşüncesini sadece \"yerel bir bilgelik\" olmaktan çıkarıp, Batı terminolojisiyle konuşabilen evrensel bir felsefe haline getirmiştir."
+    },
+    {
+      "title": "Özne-Nesne Yıkımı",
+      "text": "Modern felsefenin en büyük açmazı olan özne/nesne ikiliğini, fenomenolojik bir derinlikle aşmaya çalışması bugün bile heyecan vericidir."
+    },
+    {
+      "title": "Sanat ve Din Estetiği",
+      "text": "Batı'nın rasyonelliğine, Doğu'nun sezgiselliğini ve \"hiçlik estetiğini\" katarak felsefeye ruhsal bir boyut kazandırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasi Tartışmalar",
+      "text": "İkinci Dünya Savaşı sırasında Japon milliyetçiliği ve imparatorluk ideolojisiyle olan muğlak ilişkisi, halâ tartışma konusudur. Bazı kesimler fikirlerinin militarizme zemin hazırladığını savunur."
+    },
+    {
+      "title": "Karmaşık Dil",
+      "text": "Üslubu o kadar yoğundur ki; Batılılar için \"fazla Doğulu\", Doğulular için \"fazla Batılı\" kalabilir. Metinleri genellikle tekrar eden ve sarmal bir yapıdadır."
+    },
+    {
+      "title": "Aşırı Soyutlama",
+      "text": "\"Mutlak Hiçlik\" gibi kavramlar, pratik hayatın ve somut siyasal/sosyal meselelerin çözümünde bazen fazla \"mistik\" ve havada kalabilir."
+    }
+  ]
+}

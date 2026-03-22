@@ -1,0 +1,90 @@
+{
+  "subtitle": "İkinci Cins, Öteki ve Belirsizlik Etiği (1908–1986)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Kadın Doğulmaz, Kadın Olunur\"",
+      "body": "1949 yılında yayımlanan İkinci Cins (Le Deuxième Sexe), felsefe ve sosyoloji tarihinin en devrimci cümlelerinden biriyle başlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Toplumsal İnşa",
+          "text": "Beauvoir'a göre \"kadınlık\", biyolojik bir kader değil, toplum tarafından tarihsel olarak inşa edilmiş bir roldür. Biyoloji, kadını ezilmeye mahkûm etmez; onu bu konuma iten ekonomik, siyasi ve kültürel yapılardır."
+        },
+        {
+          "label": "Aşkınlık (Transcendence) vs. İçkinlik (Immanence)",
+          "text": "Erkek, tarih boyunca kendini eylemle, yaratıcılıkla ve geleceğe yönelerek \"aşkın\" bir varlık olarak kurmuştur. Kadın ise ev işleri, çocuk bakımı ve biyolojik döngülerle \"içkinliğe\" (tekrar eden, durağan yaşama) hapsedilmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Mutlak Özne vs. Öteki (The Other)",
+      "body": "Beauvoir, Hegel ve Sartre'ın \"Öteki\" kavramını cinsiyet ilişkilerine uygular.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hiyerarşik İlişki",
+          "text": "Erkek kendini \"Özne\" (Mutlak, Asıl olan) olarak tanımlarken, kadını \"Öteki\" (Bağımlı, İkincil olan) olarak tanımlar. Kadın, erkeğe göreli olarak vardır; erkek ise kendi başına."
+        },
+        {
+          "label": "Suç ortaklığı",
+          "text": "Beauvoir, kadınların neden bu \"ikincil\" konumu kabul ettiklerini de sorgular. Ona göre özgürlük ağırdır; bazen \"Öteki\" olmayı kabul etmek, özgürlüğün getirdiği o devasa sorumluluktan kaçmak için bir sığınaktır."
+        }
+      ]
+    },
+    {
+      "title": "Belirsizlik Etiği (Pour une morale de l'ambiguïté)",
+      "body": "Sartre etik konusunda sessiz kalırken, Beauvoir varoluşçuluğun ahlak sistemini inşa etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Başkalarının Özgürlüğü",
+          "text": "\"Özgür olmak, başkalarının da özgür olmasını istemektir.\" Beauvoir'a göre benim özgürlüğüm, ancak özgür olan başka insanların dünyasında bir anlam kazanır. Baskı altındaki bir dünyada hiç kimse tam olarak özgür değildir."
+        },
+        {
+          "label": "Sorumluluk",
+          "text": "Hayat belirsizdir ve hiçbir mutlak rehber yoktur; bu yüzden her birey kendi ahlakını her an yeniden inşa etmelidir."
+        }
+      ]
+    },
+    {
+      "title": "Yaşlılık ve Edebiyat",
+      "body": "Beauvoir, sadece gençlik ve güç üzerine değil, insan varoluşunun \"son\" dönemi üzerine de düşünmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yaşlılık",
+          "text": "La Vieillesse (Yaşlılık) kitabında, modern toplumun yaşlıları nasıl \"nesneleştirdiğini\" ve onları sosyal hayatın dışına iterek nasıl bir tür \"sivil ölüm\" yaşattığını analiz etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Feminizmin Temeli",
+      "text": "Toplumsal cinsiyet (gender) ve biyolojik cinsiyet (sex) ayrımının felsefi altyapısını kurarak bugün bildiğimiz tüm kadın hakları mücadelesine yön vermiştir."
+    },
+    {
+      "title": "Somut Varoluşçuluk",
+      "text": "Felsefeyi soyut \"benlik\" tartışmalarından çıkarıp, bir kişinin kadın, yaşlı veya yoksul olmasının onun özgürlüğünü nasıl pratik olarak kısıtladığını göstermiştir."
+    },
+    {
+      "title": "Entelektüel Dürüstlük",
+      "text": "Kendi hayatını, ilişkilerini (Sartre ile olan açık ilişkisi dahil) ve zayıflıklarını kaleme alarak, \"teori ile yaşam\" arasındaki uçurumu kapatmaya çalışmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Avrupa-Merkezcilik",
+      "text": "Analizleri büyük ölçüde beyaz, orta sınıf Batılı kadınların deneyimlerine odaklanmıştır; bu yüzden siyah veya sömürge altındaki kadınların \"çifte ezilmişliğini\" başlangıçta yeterince kapsayamamıştır."
+    },
+    {
+      "title": "Sartre'a Bağımlılık Algısı",
+      "text": "Uzun süre \"Sartre'ın öğrencisi\" olarak görülmüş, kendi özgün felsefi katkılarının (özellikle etik alanındaki) hakkı ancak son yıllarda tam olarak teslim edilmiştir."
+    },
+    {
+      "title": "Annelik Yaklaşımı",
+      "text": "Annelik ve ev içi emeği tamamen bir \"tuzak\" ve \"içkinlik\" alanı olarak görmesi, bu alanları farklı şekillerde deneyimleyen veya anlamlandıran kadınlar tarafından eleştirilmiştir."
+    }
+  ]
+}

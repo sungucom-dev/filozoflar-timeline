@@ -1,0 +1,86 @@
+{
+  "subtitle": "Gizli Doktrin ve Evrensel Kardeşlik (1831–1891)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Teozofi: Tanrısal Bilgelik",
+      "body": "Blavatsky, 1875'te New York'ta kurduğu Teozofi Cemiyeti ile üç temel amacı belirlemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Kardeşlik",
+          "text": "Irk, inanç, cinsiyet veya renk ayrımı gözetmeksizin insanlığın Evrensel Kardeşliği için bir çekirdek oluşturmak."
+        },
+        {
+          "label": "Karşılaştırmalı Araştırma",
+          "text": "Din, felsefe ve bilimin karşılaştırmalı olarak incelenmesini teşvik etmek ve doğanın açıklanmamış yasalarını araştırmak."
+        }
+      ]
+    },
+    {
+      "title": "Gizli Doktrin (The Secret Doctrine)",
+      "body": "Blavatsky'nin başyapıtı olan bu devasa eser, evrenin ve insanın kökenine dair kozmik bir tarih sunar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kozmogenez (Evrenin Doğuşu)",
+          "text": "Evrenin boşluktan nasıl \"uyandığını\" ve ruhun maddeye nasıl indiğini anlatır."
+        },
+        {
+          "label": "Antropogenez (İnsanın Doğuşu)",
+          "text": "İnsanlığın evrimini sadece biyolojik değil, ruhsal bir süreç olarak görür. Ona göre insanlık, \"Kök Irklar\" adı verilen yedi aşamadan geçmektedir (Lemurya ve Atlantis gibi kayıp kıtalar bu şemanın bir parçasıdır)."
+        }
+      ]
+    },
+    {
+      "title": "Mahatmalar ve Gizli Üstatlar",
+      "body": "Blavatsky, bilgilerini Tibet'te yaşayan \"Mahatmalar\" (Yüce Ruhlar) ile kurduğu telepatik ve fiziksel temaslar yoluyla aldığını iddia etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yol Göstericiler",
+          "text": "Bu figürler, insanlığın gelişimini perde arkasından izleyen ve evrimsel süreçte rehberlik eden \"aydınlanmış\" varlıklardır."
+        }
+      ]
+    },
+    {
+      "title": "Peçesiz İsis (Isis Unveiled)",
+      "body": "İlk büyük eseri olan bu kitapta Blavatsky, hem dönemin materyalist bilimini hem de dogmatik Hristiyanlığı sertçe eleştirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilim ve Din Sentezi",
+          "text": "Kadim büyü ve gizli bilimlerin, modern bilimin henüz keşfedemediği \"doğa yasaları\" olduğunu savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Doğu-Batı Köprüsü",
+      "text": "Budizm ve Hinduizm'in temel kavramlarını (Karma, Reenkarnasyon, Yoga) Batı'ya taşıyarak modern düşünceyi ve sanatı (Kandinsky, Scriabin, Yeats gibi isimleri) derinden etkilemiştir."
+    },
+    {
+      "title": "Dogma Yıkıcılığı",
+      "text": "Bilimi de dini de kutsallaştırmadan sorgulayan, \"Gerçekten daha yüksek din yoktur\" diyen özgürlükçü bir spiritüalizm sunmuştur."
+    },
+    {
+      "title": "Irkçılık Karşıtlığı",
+      "text": "\"Evrensel Kardeşlik\" ilkesiyle, sömürgecilik çağında tüm insanların ruhsal olarak eşit olduğunu savunması devrimci bir duruştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sahtekarlık İddiaları",
+      "text": "1884'teki \"Coulomb Olayı\" ve Hodgson Raporu, Blavatsky'nin Üstatlardan gelen mektupları bizzat kendisinin yazdığını ve medyumluk gösterilerinde hile yaptığını iddia etmiştir (Ancak Teozofi cemiyeti bu raporları reddetmiştir)."
+    },
+    {
+      "title": "İntihal Suçlamaları",
+      "text": "Bazı araştırmacılar, eserlerindeki bilgilerin büyük bir kısmının dönemin diğer okült ve bilimsel kaynaklarından kaynak gösterilmeden alındığını savunur."
+    },
+    {
+      "title": "Sözde-Bilimsel Tarih",
+      "text": "Lemurya ve Atlantis gibi kıtaları içeren insanlık tarihinin jeolojik ve arkeolojik kanıtlarla uyuşmaması, felsefesini bilimsel dünyada tartışmalı hale getirir."
+    }
+  ]
+}

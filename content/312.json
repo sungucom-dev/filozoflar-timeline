@@ -1,0 +1,79 @@
+{
+  "subtitle": "İmgelem, Otonomi ve Toplumsal Yaratım (1922–1997)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Radikal İmgelem (Radical Imaginary)",
+      "body": "Castoriadis'e göre toplumlar ihtiyaçlardan veya ekonomik yasalardan değil, \"imgelem\"den doğar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Creatio ex nihilo (Hiçten Yaratım)",
+          "text": "İnsan toplumu, var olan bir şeyi kopyalamaz; yepyeni anlamlar, kurumlar ve değerler \"yaratır\". Din, hukuk, sanat; bunların hepsi toplumsal imgelemin ürünleridir."
+        },
+        {
+          "label": "Magma",
+          "text": "Toplumsal anlamları birer katı kural olarak değil, birbirinin içine geçen, sürekli akışkan ve şekil değiştiren bir \"magma\" olarak tanımlar."
+        }
+      ]
+    },
+    {
+      "title": "Otonomi vs. Heteronomi",
+      "body": "Felsefesinin kalbinde \"kendi yasasını koyma\" (otonomi) kavgası vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Heteronomi (Dış-yönetim)",
+          "text": "Toplumun, yasalarını \"başka bir yere\" (Tanrı, Doğa, Gelenek, Tarihsel Zorunluluk) dayandırmasıdır. İnsanlar kuralları kendilerinin yarattığını unutur ve onlara köle olur."
+        },
+        {
+          "label": "Otonomi (Öz-yönetim)",
+          "text": "Toplumun, yasalarının kendi yaratımı olduğunu bilmesi ve onları bilinçli olarak sorgulayıp değiştirebilmesidir. Castoriadis için gerçek demokrasi, sadece sandığa gitmek değil, kolektif otonomidir."
+        }
+      ]
+    },
+    {
+      "title": "Toplumun İmgesel Kuruluşu",
+      "body": "Toplum bir bina gibi kurulur ama harcı \"anlam\"dır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Toplumsal İmgesel Gösterenler",
+          "text": "Bir toplumu bir arada tutan merkezi fikirlerdir (Örn: Antik Yunan'da \"Polis\", Orta Çağ'da \"Tanrı\", modern dünyada \"Rasyonel İlerleme/Sınırsız Büyüme\")."
+        },
+        {
+          "label": "Sorgulama",
+          "text": "Otonom bir toplum, bu merkezi gösterenleri her an tartışmaya açabilen toplumdur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İnsan İradesine Dönüş",
+      "text": "Tarihi bir \"yazgı\" veya \"ekonomik zorunluluk\" olmaktan çıkarıp; onu insanın yaratıcı eylemine (praxis) iade etmiştir."
+    },
+    {
+      "title": "Psikanaliz ve Siyaset",
+      "text": "Bireyin iç dünyası (psişe) ile toplumsal yapının (sosyo-tarihsel) nasıl iç içe geçtiğini en derin analiz eden düşünürlerden biridir."
+    },
+    {
+      "title": "Gerçek Demokrasi Savunusu",
+      "text": "Demokrasinin sadece bir prosedür değil, bir \"trajediyi göze alma\" ve sürekli bir \"kendini yaratma\" süreci olduğunu hatırlatmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kurumsal Belirsizlik",
+      "text": "Her şeyi \"yaratım\" ve \"akış\" olarak görmesi, otonom bir toplumun somut olarak nasıl bir kurumsal yapıyla (hukuk, ekonomi vb.) ayakta kalacağı konusunda bazen fazla soyut kalmasına neden olmuştur."
+    },
+    {
+      "title": "Radikal Kopuş",
+      "text": "Geçmişin tüm mirasını \"heteronomi\" olarak yaftalayıp bir kenara itme eğilimi, toplumsal sürekliliğin ve geleneğin içindeki değerli unsurların gözden kaçmasına yol açabilir."
+    },
+    {
+      "title": "Ütopik Yük",
+      "text": "Her bireyin her an toplumsal yasaları sorguladığı bir dünya ideali, gündelik hayatın pratikleri ve insan doğasının ataleti karşısında oldukça \"zorlayıcı\" bir beklentidir."
+    }
+  ]
+}

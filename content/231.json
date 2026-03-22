@@ -1,0 +1,98 @@
+{
+  "subtitle": "Öznellik, Kaygı ve İman Sıçrayışı (1813–1855)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Varoluşun Üç Aşaması",
+      "body": "Kierkegaard'a göre insan hayatı boyunca üç farklı yaşam evresinden (sferinden) geçebilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Estetik Aşama",
+          "text": "Birey anlık hazların, güzelliğin ve can sıkıntısından kaçışın peşindedir. Ancak bu hayat tarzı sonunda kaçınılmaz bir \"umutsuzluğa\" (despair) yol açar."
+        },
+        {
+          "label": "Etik Aşama",
+          "text": "Birey ödevlerini kabul eder, toplumsal kurallara ve evrensel ahlaka uyar. Ancak burada da insan kendi sınırlılığını ve suçluluğunu fark eder."
+        },
+        {
+          "label": "Dini Aşama",
+          "text": "En üst aşamadır. Birey aklın ötesine geçer, paradoksu kabul eder ve Tanrı ile \"tek başına\" bir ilişki kurar."
+        }
+      ]
+    },
+    {
+      "title": "\"Öznellik Hakikattir\"",
+      "body": "Kierkegaard, Hegel'in nesnel hakikat arayışına en sert darbeyi buradan vurur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçsel Tutku",
+          "text": "Önemli olan \"neye\" inanıldığı değil, \"nasıl\" inanıldığıdır. Hakikat, bireyin kendi varoluşunu adadığı o içsel, tutkulu ve öznel ilişkidir."
+        },
+        {
+          "label": "Sisteme İtiraz",
+          "text": "Bir insanı bir \"sistem\"in parçası olarak görmek, onu insanlıktan çıkarmaktır. Her birey, sistemlere sığmayacak kadar \"tekil\" ve \"eşsiz\"dir."
+        }
+      ]
+    },
+    {
+      "title": "Kaygı ve Umutsuzluk (Angst)",
+      "body": "Kierkegaard için Kaygı (Angst), özgürlüğün baş dönmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özgürlüğün Getirisi",
+          "text": "İnsan, önünde sonsuz imkanlar olduğunu fark ettiğinde \"kaygı\" duyar. Bu kaygı bir hastalık değil, insanın kendi özgürlüğünün ve varoluşunun farkına vardığı bir uyanış anıdır."
+        },
+        {
+          "label": "Umutsuzluk",
+          "text": "Benliğin kendisiyle veya Tanrı ile uyum içinde olamaması durumudur. Kierkegaard için asıl trajik olan, insanın umutsuz olduğunun bile farkında olmamasıdır."
+        }
+      ]
+    },
+    {
+      "title": "İman Sıçrayışı ve İbrahim",
+      "body": "Korku ve Titreme kitabında Hz. İbrahim'in oğlunu kurban etme hikayesini analiz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Teleolojik Askıya Alma",
+          "text": "İbrahim, ahlak yasasını (evladı öldürmeme) \"dini bir amaç\" uğruna askıya alır. Bu, rasyonel olarak açıklanamaz bir \"İman Sıçrayışı\"dır."
+        },
+        {
+          "label": "İman Şövalyesi",
+          "text": "İman, aklın bittiği yerde başlar. İman şövalyesi, imkansız olana rağmen inanmaya devam eden kişidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bireyin Keşfi",
+      "text": "Modern felsefede \"ben\"i ve \"bireysel varoluşu\" kitlelerin ve sistemlerin elinden kurtarıp yeniden merkeze koymuştur."
+    },
+    {
+      "title": "Psikolojik Öngörü",
+      "text": "Kaygı, umutsuzluk ve yabancılaşma üzerine yaptığı analizler, modern psikolojinin ve varoluşçu terapilerin temelini oluşturmuştur."
+    },
+    {
+      "title": "Hıristiyanlık Eleştirisi",
+      "text": "Dinin bir \"kurum\" veya \"kültür\" değil, bireysel bir \"karar\" ve \"yaşantı\" olması gerektiğini savunarak teolojide devrim yapmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İrrasyonalizm",
+      "text": "Aklı ve mantığı tamamen devre dışı bırakan \"iman sıçrayışı\" fikri, her türlü fanatizmi veya mantıksız eylemi savunmak için suistimal edilebilir bir zemin yaratabilir."
+    },
+    {
+      "title": "Toplumsal Kopukluk",
+      "text": "Bireyi o kadar çok öne çıkarır ki, toplumsal dayanışma, adalet ve ortak siyasi eylem konuları onun felsefesinde neredeyse yok hükmündedir."
+    },
+    {
+      "title": "Melankolik Bakış",
+      "text": "Kişisel hayatındaki melankoli ve trajedileri (Regine Olsen ile olan nişanı bozması gibi) felsefesine o kadar çok yansıtmıştır ki, bazıları onun görüşlerini \"patolojik\" bir ruh halinin genelleştirilmesi olarak görür."
+    }
+  ]
+}

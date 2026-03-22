@@ -1,0 +1,79 @@
+{
+  "subtitle": "Ötekinin Yüzü ve Sonsuz Sorumluluk (1906–1995)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Etik, İlk Felsefedir (Ethics as First Philosophy)",
+      "body": "Levinas'tan önce felsefe, genellikle \"Varlık nedir?\" (Ontoloji) sorusuyla başlardı. Levinas bu hiyerarşiyi tersyüz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Varlıkbilimin Şiddeti",
+          "text": "Ona göre ontoloji, \"Öteki\"ni \"Ben\"in içine hapseden, onu kavramlarla evcilleştirmeye çalışan bir tür entelektüel şiddettir."
+        },
+        {
+          "label": "Öncelik Etiktedir",
+          "text": "İnsan olmanın temeli düşünmek değil, bir başkasıyla karşılaşmak ve ona cevap vermektir. Bilgi, ancak etik bir ilişkiden sonra anlam kazanır."
+        }
+      ]
+    },
+    {
+      "title": "Ötekinin Yüzü (The Face of the Other)",
+      "body": "Levinas felsefesinin kalbi \"Yüz\" (Le Visage) kavramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çıplaklık ve Savunmasızlık",
+          "text": "Ötekinin yüzü, tüm maskelerden sıyrılmış, korunmasız bir hakikattir."
+        },
+        {
+          "label": "\"Öldürmeyeceksin!\" Emri",
+          "text": "Yüz, bize hitap eder. Bir söz söylemeden önce bile, varlığıyla bize bir emir verir: \"Beni yok etme, bana bak, benden sorumlusun.\" Bu, mantıksal bir çıkarım değil, ontolojik bir sarsıntıdır."
+        }
+      ]
+    },
+    {
+      "title": "Sonsuz ve Asimetrik Sorumluluk",
+      "body": "Levinas'ta sorumluluk bir alışveriş değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Karşılıksız Borç",
+          "text": "\"Öteki bana karşı ne kadar sorumlu olursa olsun, ben ona karşı her zaman daha fazla sorumluyum.\" Sorumluluk eşit bir sözleşme değil, Ötekinin esiri (rehin) olmaktır."
+        },
+        {
+          "label": "Ben'in Rehineliği",
+          "text": "Benliğimiz, ancak Ötekinin çağrısına \"İşte buradayım\" diyerek cevap verdiğimizde gerçek bir kimlik kazanır. Sorumluluk bizden önce gelir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bencilliğin İptali",
+      "text": "Batı felsefesinin narsistik \"Ben\"ini yıkarak, modern etiği \"Öteki\" üzerinden yeniden inşa etmiştir. Bu, özellikle Holokost sonrası yaralı bir dünya için en güçlü merhemdir."
+    },
+    {
+      "title": "Hümanizmin Ötesi",
+      "text": "İnsanı sadece hakları olan bir \"yurttaş\" olarak değil, sonsuz bir sorumluluğu olan \"etik bir özne\" olarak tanımlayarak hümanizmi çok daha derin bir seviyeye taşımıştır."
+    },
+    {
+      "title": "Diyalog ve Barış",
+      "text": "Farklılıkları ortadan kaldırmaya çalışmayan, aksine farklılığın (Ötekiliğin) kutsallığına dayalı bir barış dili geliştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Ütopik Yük",
+      "text": "\"Sonsuz ve asimetrik sorumluluk\" beklentisi, sıradan bir insan için taşınması neredeyse imkansız bir psikolojik yüktür. Bu etik, insanı sürekli bir \"suçluluk\" duygusuna hapsedebilir."
+    },
+    {
+      "title": "Üçüncü Kişi Sorunu",
+      "text": "Sadece \"Ben ve Sen\" arasındaki ilişkiye o kadar odaklanır ki; adalet, hukuk ve devlet gibi \"Üçüncü Kişilerin\" devreye girdiği toplumsal alanlarda sisteminin nasıl işleyeceği bazen bulanık kalır."
+    },
+    {
+      "title": "Mistik Dil",
+      "text": "Felsefesinde kullandığı yoğun teolojik ve mistik kavramlar, rasyonalist gelenekten gelenler için zaman zaman anlaşılması güç ve fazla \"metafizik\" bulunabilmektedir."
+    }
+  ]
+}

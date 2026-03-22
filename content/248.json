@@ -1,0 +1,90 @@
+{
+  "subtitle": "Kavram Yazısı, Anlam ve Mantık (1848–1925)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Begriffsschrift (Kavram Yazısı): Modern Mantığın Doğuşu",
+      "body": "1879'da yayımlanan bu küçük kitap, Aristoteles mantığını emekli eden bir devrimdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Niceleyiciler (Quantifiers)",
+          "text": "İlk kez \"her\" (∀) ve \"bazı\" (∃) kavramlarını matematiksel bir sembolizme dökmüştür. Bu sayede karmaşık cümlelerin mantıksal yapısı matematiksel bir kesinlikle çözülebilir hale gelmiştir."
+        },
+        {
+          "label": "Fonksiyon ve Argüman",
+          "text": "Cümleleri \"özne-yüklem\" yerine \"fonksiyon-argüman\" (f(x)) yapısıyla incelemiş, mantığı dilin kölesi olmaktan çıkarıp matematiğin dili yapmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Sinn und Bedeutung (Anlam ve Gönderge)",
+      "body": "Felsefe tarihinin belki de en meşhur makalesidir. \"A = A\" ile \"A = B\" arasındaki farkı açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bedeutung (Gönderge)",
+          "text": "Bir ismin işaret ettiği nesnedir. (Örn: Venüs gezegeni)."
+        },
+        {
+          "label": "Sinn (Anlam)",
+          "text": "O nesnenin bize \"sunuluş biçimi\"dir. \"Sabah Yıldızı\" ve \"Akşam Yıldızı\" aynı nesneye (Venüs) işaret eder (Bedeutung aynıdır). Ancak ikisinin \"anlamı\" (Sinn) farklıdır; bu ayrım, dil felsefesinin temel taşıdır."
+        }
+      ]
+    },
+    {
+      "title": "Mantıkçılık (Logicism): Matematik Mantıktır",
+      "body": "Frege'nin hayat amacı, aritmetiğin (sayıların) aslında karmaşık mantık yasalarından başka bir şey olmadığını kanıtlamaktır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sayı Nedir?",
+          "text": "Sayı, zihnimizde bir imge veya fiziksel bir nesne değildir. Sayı, bir kavramın kapsamıdır."
+        },
+        {
+          "label": "Temellendirme",
+          "text": "Matematiğin tüm o muazzam yapısını, birkaç temel mantık aksiyomu üzerine kurmaya çalışmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Psikolojizm Karşıtlığı",
+      "body": "Frege, mantığın ve matematiğin \"insan zihninin bir ürünü\" (psikolojik) olduğu fikrine şiddetle karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesnellik",
+          "text": "\"2 + 2 = 4\" cümlesi, biz onu düşünsek de düşünmesek de doğrudur. Mantık yasaları, zihnin işleyiş yasaları değil, gerçekliğin kendisinin yasalarıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Analitik Felsefenin Temeli",
+      "text": "Russell, Wittgenstein ve Carnap onun omuzlarında yükselmiştir. Dilin mantıksal analizini felsefenin merkezine o koymuştur."
+    },
+    {
+      "title": "Mantık Devrimi",
+      "text": "2000 yıllık Aristoteles mantığını tek başına modernleştirerek, bugün kullandığımız bilgisayar dillerinin ve yapay zekâ mantığının önünü açmıştır."
+    },
+    {
+      "title": "Keskinlik",
+      "text": "Felsefeye getirdiği terminolojik disiplin ve netlik, \"bulanık\" düşüncelerin ayıklanmasını sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Russell Paradoksu",
+      "text": "Frege, matematiği mantığa indirgediği dev eserini bitirmek üzereyken Bertrand Russell'dan bir mektup alır. Russell, Frege'nin sistemindeki bir mantık hatasını (kendini içermeyen kümeler kümesi) bulmuştur. Bu, Frege'nin hayat projesini temelinden sarsan trajik bir darbedir."
+    },
+    {
+      "title": "Kuruluk",
+      "text": "Felsefesi o kadar teknik ve \"insandan kopuk\" bir mantık zeminindedir ki; etik, estetik veya varoluşsal sancılara dair hiçbir şey söylemez."
+    },
+    {
+      "title": "Kişisel Görüşler",
+      "text": "Not defterlerinde ortaya çıkan aşırı sağcı, anti-semitik ve anti-demokratik görüşleri, onun \"saf rasyonel\" filozof imajıyla tezat oluşturur."
+    }
+  ]
+}

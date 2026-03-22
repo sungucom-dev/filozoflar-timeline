@@ -1,0 +1,98 @@
+{
+  "subtitle": "Pragmatizm, Semiyotik ve Evrenin Mantığı (1839–1914)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Pragmatik Maksim: \"Fikirleri Netleştirmek\"",
+      "body": "Peirce, pragmatizmin (onun deyimiyle daha sonra \"Pragmatisizm\") babasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Anlamın Ölçütü",
+          "text": "Bir fikrin anlamı, o fikrin hayattaki pratik sonuçlarında yatar. Eğer bir kavramın dünyada hiçbir pratik karşılığı yoksa, o kavram anlamsızdır."
+        },
+        {
+          "label": "Fikirlerin Netleştirilmesi",
+          "text": "Bir nesneye dair algımızın netleşmesi için, o nesnenin olası tüm pratik etkilerini düşünmemiz gerekir."
+        }
+      ]
+    },
+    {
+      "title": "Semiyotik (Göstergebilim): Üçlü Model",
+      "body": "Peirce'e göre evrendeki her şey bir göstergedir. O, Saussure'ün ikili modelinden farklı olarak üçlü (triadik) bir yapı önerir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gösterge (Representamen)",
+          "text": "İşaretin kendisi."
+        },
+        {
+          "label": "Nesne (Object)",
+          "text": "İşaretin işaret ettiği şey."
+        },
+        {
+          "label": "Yorumlayıcı (Interpretant)",
+          "text": "İşaretin zihnimizde yarattığı yeni gösterge/anlam. Anlam durağan değildir; bir yorumlayıcı, başka bir sürecin göstergesi olur. Bu, \"sonsuz semiyoz\" (anlam üretimi) sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Abdüksiyon (Abduction): Tahmin Etme Mantığı",
+      "body": "Mantık tarihinde tümevarım ve tümdengelim yanına üçüncü ve çok hayati bir halka eklemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yaratıcı Sıçrama",
+          "text": "Elimizdeki şaşırtıcı bir veriyi açıklamak için \"en olası hipotezi\" kurma sürecidir. Bilimsel keşiflerin ve dedektiflik mantığının (Sherlock Holmes gibi) özü budur."
+        },
+        {
+          "label": "Sıralama",
+          "text": "Abdüksiyon (hipotez kurar) → Tümdengelim (tahmin yapar) → Tümevarım (test eder)."
+        }
+      ]
+    },
+    {
+      "title": "Sineşizm ve Tikizm (Süreklilik ve Rastlantı)",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sineşizm",
+          "text": "Evrende hiçbir şeyin birbirinden tamamen kopuk olmadığını, her şeyin bir süreklilik (continuum) içinde olduğunu savunur. Zihin ve madde bile bu sürekliliğin iki ucudur."
+        },
+        {
+          "label": "Tikizm",
+          "text": "Evrenin kaskatı mekanik yasalarla değil, içinde \"mutlak rastlantı\" ve \"yaratıcı özgürlük\" barındıran bir yapıda olduğunu iddia eder."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Semiyotiğin Evrenselliği",
+      "text": "Sadece dili değil, doğayı, düşünceyi ve sanatı da birer gösterge sistemi olarak inceleyebilmemiz için devasa bir araç kutusu sunmuştur."
+    },
+    {
+      "title": "Bilim Felsefesi",
+      "text": "Bilimi bir \"dogmalar yığını\" değil, sürekli kendini düzelten bir \"soruşturma topluluğu\" (community of inquiry) olarak tanımlayarak modern bilim felsefesine yön vermiştir."
+    },
+    {
+      "title": "Mantıksal Deha",
+      "text": "Sembolik mantık ve matematiksel mantık alanındaki pek çok buluşu, dijital bilgisayar devriminin felsefi zeminini hazırlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Anlaşılmazlık ve Dağınıklık",
+      "text": "Yazıları o kadar teknik, o kadar karmaşık ve o kadar parçalıdır ki, hayatı boyunca fikirlerini geniş kitlelere ulaştıramamıştır. (William James onun yazılarını \"yaban arıları\"na benzetmiştir)."
+    },
+    {
+      "title": "Terminoloji Takıntısı",
+      "text": "Kendi yarattığı kavramların başkaları tarafından yanlış kullanılmasına o kadar kızmıştır ki, sürekli yeni ve daha karmaşık kelimeler (örn: Pragmatisizm) uydurarak kendi felsefesini izole etmiştir."
+    },
+    {
+      "title": "Pratik Hayattan Kopukluk",
+      "text": "Dehasına rağmen sosyal ilişkilerdeki başarısızlığı ve huysuz kişiliği, onun akademik dünyadan dışlanmasına ve fikirlerinin çok geç keşfedilmesine neden olmuştur."
+    }
+  ]
+}

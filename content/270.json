@@ -1,0 +1,90 @@
+{
+  "subtitle": "Doğrulama, Bilim ve Anlamın Sınırı (1882–1936)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Doğrulanabilirlik İlkesi (Verificationism)",
+      "body": "Schlick'in felsefesinin kalbi, anlamı \"yöntem\" ile birleştirmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Anlamın Ölçütü",
+          "text": "Bir önermenin anlamı, onun doğrulanma yöntemidir. Eğer bir cümlenin doğru veya yanlış olduğunu gösterecek deneysel bir yol yoksa, o cümle \"anlamsızdır.\""
+        },
+        {
+          "label": "Metafizik Eleştirisi",
+          "text": "\"Ruh ölümsüzdür\" veya \"Varlık bir bütündür\" gibi cümleler ne doğru ne de yanlıştır; Schlick'e göre bunlar sadece gramer hatasından ibaret olan \"anlamsız\" gürültülerdir."
+        }
+      ]
+    },
+    {
+      "title": "Analitik ve Sentetik Ayrımı",
+      "body": "Bilgiyi iki kaskatı kategoriye ayırarak felsefeyi \"temizlemiştir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analitik Önermeler",
+          "text": "Mantık ve matematik gibi, dünyadan haber vermeyen ama tanımı gereği doğru olan (Örn: \"Bekarlar evli değildir\") cümlelerdir."
+        },
+        {
+          "label": "Sentetik Önermeler",
+          "text": "Deneyle kontrol edilen, dünya hakkında bilgi veren cümlelerdir. Bilim sadece bu alanla ilgilenir. Felsefenin görevi ise yeni bilgi üretmek değil, bu cümlelerin ne anlama geldiğini \"netleştirmektir.\""
+        }
+      ]
+    },
+    {
+      "title": "Etik: Bir Olgu Bilimi Olarak",
+      "body": "Schlick, ahlakı da metafizikten kurtarmaya çalışmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutluluğun Peşinde",
+          "text": "Etik Sorunları (Fragen der Ethik) kitabında, ahlakı \"ne yapmalıyız?\" sorusundan çıkarıp \"insanlar neden belirli şeylere değer verir?\" sorusuna indirgemiştir."
+        },
+        {
+          "label": "Psikolojik Temel",
+          "text": "Etik, aslında insanların haz ve mutluluk arayışını inceleyen bir psikoloji dalıdır. \"İyi\" olan, yaşamı güçlendiren ve haz veren şeydir."
+        }
+      ]
+    },
+    {
+      "title": "Viyana Çevresi ve Trajik Son",
+      "body": "Schlick, Carnap, Neurath ve Gödel gibi dev beyinleri bir araya getiren Viyana Çevresi'nin moderatörüydü.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Suikast",
+          "text": "1936'da Viyana Üniversitesi merdivenlerinde, eski bir öğrencisi (Johann Nelböck) tarafından vurularak öldürüldü. Bu trajik olay, Avrupa'da mantıksal pozitivizmin fiziksel olarak da dağılmasının sembolü oldu."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimle Entegrasyon",
+      "text": "Felsefeyi modern fizik (Einstein) ve mantıkla tam uyumlu hale getirerek, bilimsel düşüncenin önündeki spekülatif engelleri kaldırmıştır."
+    },
+    {
+      "title": "Netlik ve Disiplin",
+      "text": "Felsefede \"bulanık konuşmayı\" bir entelektüel günah ilan ederek, dilin ve mantığın titiz kullanımını bir standart haline getirmiştir."
+    },
+    {
+      "title": "Hümanist Tavır",
+      "text": "Her türlü mistisizm ve dogmatizmden uzak, rasyonel ve dünyevi bir hayat anlayışını savunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Doğrulamanın Paradoksu",
+      "text": "\"Bir cümlenin anlamı onun doğrulanma yöntemidir\" cümlesinin kendisi, ne analitik ne de sentetik olarak doğrulanamaz. Dolayısıyla Schlick'in temel ilkesi, kendi tanımına göre \"anlamsız\" kalma riski taşır."
+    },
+    {
+      "title": "Etik Sığlık",
+      "text": "Etiği sadece bir \"haz psikolojisine\" indirgemesi, adaletin ve ödevin o derin ahlaki ağırlığını ıskalaması olarak eleştirilmiştir."
+    },
+    {
+      "title": "Katılık",
+      "text": "Metafiziği tamamen reddetmesi, insanın sanat, din ve şiir gibi \"deney dışı\" ama anlamlı olan ifade alanlarını felsefeden tamamen dışlamasına yol açmıştır."
+    }
+  ]
+}

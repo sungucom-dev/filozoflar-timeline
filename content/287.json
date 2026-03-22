@@ -1,0 +1,98 @@
+{
+  "subtitle": "Yanlışlanabilirlik, Açık Toplum ve Deneme-Yanılma (1902–1994)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yanlışlanabilirlik (Falsifiability): Bilimin Sınırı",
+      "body": "Popper, bilimle \"bilim-dışı\" (sahte bilim) arasındaki sınırı yeniden çizmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğrulama vs. Yanlışlama",
+          "text": "\"Bütün kuğular beyazdır\" teorisini kanıtlamak için binlerce beyaz kuğu bulmanız yetmez; çünkü tek bir siyah kuğu tüm teoriyi yıkar."
+        },
+        {
+          "label": "Eleştiriye Açıklık",
+          "text": "Bir teorinin bilimsel olması için, hangi gözlem veya deneyle yanlışlanabileceğinin önceden söylenmesi gerekir. Yanlışlanamayan (her duruma uydurulabilen) teoriler ona göre bilim değil, dogmadır."
+        }
+      ]
+    },
+    {
+      "title": "Açık Toplum ve Düşmanları",
+      "body": "Popper, siyaset felsefesinde totalitarizmin her türüne karşı savaş açmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tarihselcilik Eleştirisi (Historicism)",
+          "text": "Tarihin kaçınılmaz bir yöne doğru gittiğini ve \"yasaları\" olduğunu iddia eden (Platon, Hegel ve Marx gibi) düşünürleri eleştirir. Ona göre gelecek belirlenmemiştir, onu biz kurarız."
+        },
+        {
+          "label": "Parçalı Sosyal Mühendislik",
+          "text": "Toplumu kökten, devrimci bir şekilde değiştirmeye çalışmak (ütopik mühendislik) felaket getirir. Bunun yerine, hataları tek tek düzelten, küçük adımlarla ilerleyen ve her an eleştiriye açık bir \"parçalı mühendislik\" (piecemeal engineering) önerir."
+        }
+      ]
+    },
+    {
+      "title": "Hoşgörü Paradoksu (Paradox of Tolerance)",
+      "body": "Popper'ın en çok tartışılan fikirlerinden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sınırsız Hoşgörü",
+          "text": "Eğer hoşgörüsüz kişilere karşı sınırsız hoşgörü gösterirsek, sonunda hoşgörüsüzler hoşgörülülere galebe çalar ve hoşgörü ortamı tamamen yok olur."
+        },
+        {
+          "label": "Savunma Hakkı",
+          "text": "Hoşgörüyü korumak için, gerekirse hoşgörü düşmanlarına karşı hoşgörüsüz olma hakkımızı saklı tutmalıyız."
+        }
+      ]
+    },
+    {
+      "title": "Üç Dünya Kuramı",
+      "body": "Evreni anlamak için üç farklı katman önerir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dünya 1",
+          "text": "Fiziksel nesneler ve durumlar (Taşlar, ağaçlar, enerji)."
+        },
+        {
+          "label": "Dünya 2",
+          "text": "Zihinsel durumlar (Duygular, algılar, öznel düşünceler)."
+        },
+        {
+          "label": "Dünya 3",
+          "text": "İnsan zihninin ürünleri olan nesnel bilgiler (Teoriler, sanat eserleri, kitaplar, kütüphaneler)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Dürüstlük",
+      "text": "Bilimi dogmadan kurtarmış; bilim insanlarına \"yanılmaya hazır olun\" diyerek modern bilimsel yöntemin en dürüst tanımını yapmıştır."
+    },
+    {
+      "title": "Demokrasinin Savunusu",
+      "text": "Açık toplum fikriyle, eleştirinin ve özgür tartışmanın sadece birer \"lüks\" değil, toplumun hayatta kalması için birer \"zorunluluk\" olduğunu kanıtlamıştır."
+    },
+    {
+      "title": "Gerçekçi Bir İyimserlik",
+      "text": "Geleceğin bizim elimizde olduğunu söyleyerek, kadere veya tarihsel yasalarla örülmüş o boğucu determinizme karşı insan iradesine güven aşılamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Büyük Teorileri Yıkma Tutkusu",
+      "text": "Özellikle Marx ve Freud gibi devleri eleştirirken, onların sistemlerindeki bazı derinlikli gözlemleri \"bilim-dışı\" diyerek çok kestirip attığı savunulur."
+    },
+    {
+      "title": "Pratik Zorluk",
+      "text": "\"Sürekli eleştiri\" ve \"yanlışlama\" üzerine kurulu bir toplum veya bilim dünyası, bazen kurumsallaşmak ve istikrar sağlamak konusunda zorluklar yaşayabilir."
+    },
+    {
+      "title": "Hoşgörü Paradoksu'nun Kötüye Kullanımı",
+      "text": "Onun \"hoşgörüsüzlere hoşgörü gösterilmez\" uyarısı, bazen karşıt görüşleri susturmak isteyenler için (ironik bir şekilde) otoriter bir bahane olarak kullanılabilmektedir."
+    }
+  ]
+}

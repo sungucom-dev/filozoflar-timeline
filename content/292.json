@@ -1,0 +1,89 @@
+{
+  "subtitle": "Vita Activa, Totalitarizm ve Düşünme (1906–1975)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Vita Activa: İnsanlık Durumu",
+      "body": "Arendt, insanın dünyadaki faaliyetlerini üç temel kategoriye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Emek (Labor)",
+          "text": "Yaşamın biyolojik süreçlerine (yemek, içmek, barınmak) hizmet eden, bitmek bilmeyen döngüsel faaliyet. Doğa ile ilişkilidir ve insanı \"hayvan-işçi\" (animal laborans) kılar."
+        },
+        {
+          "label": "İş (Work)",
+          "text": "Doğayı dönüştürüp kalıcı nesneler, binalar ve aletler yaratma eylemi. Bu, içinde yaşadığımız \"yapay dünyayı\" kurar (homo faber)."
+        },
+        {
+          "label": "Eylem (Action)",
+          "text": "Arendt için en yüce insani faaliyettir. Sadece insanlar arasında, kelimelerle ve işlerle gerçekleştirilir. Özgürlük ve çoğulculuk buradadır. Eylem, her seferinde yeni bir başlangıç yapma (natality) kapasitemizdir."
+        }
+      ]
+    },
+    {
+      "title": "Kötülüğün Sıradanlığı (The Banality of Evil)",
+      "body": "Nazi subayı Adolf Eichmann'ın Kudüs'teki davasını izlerken geliştirdiği bu kavram, dünyayı sarsmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Düşüncesizlik",
+          "text": "Arendt, Eichmann'ın bir \"canavar\" veya \"sadist\" olmadığını, aksine son derece \"sıradan\" ve bürokratik bir \"memur\" olduğunu fark etmiştir. Kötülüğün kaynağı, derin bir ideolojik nefret değil; emirleri sorgulamayan, empati kuramayan ve düşünmeyen bir zihindir."
+        },
+        {
+          "label": "Sıradanlık",
+          "text": "Korkunç kötülüklerin, sadece görevini yaptığını sanan \"normale yakın\" insanlar eliyle de yapılabileceği uyarısıdır."
+        }
+      ]
+    },
+    {
+      "title": "Totalitarizm ve Kamusal Alanın Kaybı",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Totalitarizm",
+          "text": "Nazizm ve Stalinizmi tek bir potada eriten Arendt; bu rejimlerin sadece otoriter olmadığını, insanın \"çoğulculuğunu\" yok ederek onu atomize ettiğini ve \"gereksiz\" kıldığını savunur."
+        },
+        {
+          "label": "Kamusal Alan",
+          "text": "Siyasetin yapılabileceği, insanların birbirini gördüğü ve duyduğu o özgürlük alanıdır. Modern dünyada bu alanın yerini \"toplumsal\" olanın (ekonomi ve bürokrasi) alması, özgürlüğü tehdit eden en büyük tehlikedir."
+        }
+      ]
+    },
+    {
+      "title": "Başlangıç Yapma Yetisi (Natality)",
+      "body": "Ölüm yerine \"doğumu\" merkeze koyar. Her yeni insanın doğumu, dünyaya yeni bir başlangıç yapma, eylemde bulunma ve dünyayı değiştirme imkânını getirir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Siyaseti Onurlandırmak",
+      "text": "Siyaseti sadece bir \"yönetim tekniği\" olmaktan çıkarıp, insanın en yüce özgürlük ve kendini gerçekleştirme alanı olarak tanımlamıştır."
+    },
+    {
+      "title": "Kötülük Analizi",
+      "text": "Kötülüğü sadece mistik veya psikolojik bir olgu olmaktan çıkarıp, \"düşünme eksikliği\" ve \"bürokrasi\" üzerinden rasyonel bir temele oturtmuştur."
+    },
+    {
+      "title": "Çoğulculuk Vurgusu",
+      "text": "İnsanların \"tek bir insan\" gibi hareket etmesinin (totalitarizm) karşısına, farklılıkların bir arada olmasının (demokrasi) hayati önemini koymuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sosyal vs. Siyasal Ayrımı",
+      "text": "Yoksulluk ve ekonomi gibi \"sosyal\" meseleleri siyasetin dışına itmesi, bu alanların siyasi bir tartışma konusu olamayacağı eleştirilerine yol açmıştır."
+    },
+    {
+      "title": "Antik Yunan Hayranlığı",
+      "text": "Atina polisini (şehir devletini) fazla idealleştirmesi, modern karmaşık toplumların gerçeklerine uymayan \"elitist\" bir nostalji olarak görülmüştür."
+    },
+    {
+      "title": "Yahudi Toplumuyla Çatışma",
+      "text": "Eichmann davasındaki raporları ve Yahudi konseylerine yönelik eleştirileri, kendi toplumu tarafından \"duygusuzluk\" ve \"ihanet\" ile suçlanmasına neden olmuştur."
+    }
+  ]
+}

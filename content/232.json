@@ -1,0 +1,81 @@
+{
+  "subtitle": "Devlet, Din ve Kolektif Özgürlük (1814–1876)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Tanrı ve Devlet\": İki Büyük Tiranlık",
+      "body": "Bakunin'in en meşhur eseri olan Tanrı ve Devlet, her türlü otoriteye karşı topyekûn bir savaştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrı Varsa, İnsan Köledir",
+          "text": "Voltaire'in \"Tanrı olmasaydı onu icat etmek gerekirdi\" sözünü tersine çevirerek; \"Tanrı gerçekten var olsaydı, onu ortadan kaldırmak gerekirdi\" demiştir. Gökyüzündeki otorite (Tanrı), yeryüzündeki otoriteyi (Devlet) meşrulaştıran bir yalandır."
+        },
+        {
+          "label": "Devlet Bir Mezarlıktır",
+          "text": "Devleti, bireysel özgürlüklerin ve yerel yaşamın gömüldüğü devasa bir mezarlık olarak tanımlar."
+        }
+      ]
+    },
+    {
+      "title": "Kolektif Anarşizm",
+      "body": "Bakunin, Proudhon'un bireysel mülkiyet (zilyetlik) fikrinden uzaklaşarak her şeyin ortak olduğu bir model önermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ortak Mülkiyet",
+          "text": "Üretim araçları (toprak, fabrikalar) tek bir bireye veya devlete değil, doğrudan orada çalışan \"kolektiflere\" ait olmalıdır."
+        },
+        {
+          "label": "Aşağıdan Yukarıya Örgütlenme",
+          "text": "Toplum, merkezden yönetilen bir ordu gibi değil; özgür komünlerin, atölyelerin ve birliklerin gönüllü federasyonu olarak inşa edilmelidir."
+        }
+      ]
+    },
+    {
+      "title": "Marx ile Büyük Kavga: Birinci Enternasyonal",
+      "body": "1872'deki Lahey Kongresi, sol tarihin en büyük kırılma noktasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kızıl Bürokrasi Kehaneti",
+          "text": "Bakunin, Marx'ın \"proletarya diktatörlüğü\" fikrine şiddetle karşı çıkmıştır. Ona göre devrimden sonra kurulacak bir devlet, işçileri kurtarmayacak; aksine yeni bir yönetici sınıfın (bürokrasinin) doğmasına neden olacaktır. Bu kehaneti, 20. yüzyıl reel sosyalizmlerindeki otoriterleşmeyi öngörmesi açısından dâhiyane kabul edilir."
+        }
+      ]
+    },
+    {
+      "title": "Devrimci Tutku ve Lümpen Proletarya",
+      "body": "Marx devrim için örgütlü sanayi işçilerine güvenirken; Bakunin, kaybedecek hiçbir şeyi olmayanları, yani köylüleri ve toplumun en alt tabakasını (lümpen proletaryayı) devrimin asıl motoru olarak görmüştür.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Otorite Analizi",
+      "text": "Otoritenin (bilimsel, siyasi veya dini olsun) doğasındaki yozlaştırıcı gücü eşsiz bir keskinlikle deşifre etmiştir."
+    },
+    {
+      "title": "Bürokrasi Uyarısı",
+      "text": "Devlet gücünün devrimden sonra da tehlikeli olmaya devam edeceği yönündeki uyarısı, tarihsel bir haklılık payı kazanmıştır."
+    },
+    {
+      "title": "Uluslararası Etki",
+      "text": "İspanya'dan Rusya'ya, İtalya'dan Latin Amerika'ya kadar geniş bir coğrafyada anarşist hareketlerin temelini atmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Organizasyon Sorunu",
+      "text": "Disipline ve merkezi örgütlenmeye duyduğu nefret, onun başlattığı hareketlerin genellikle güçlü ve düzenli devlet yapıları karşısında yenilmesine yol açmıştır."
+    },
+    {
+      "title": "Şiddet Romantizmi",
+      "text": "Yıkımı yaratıcı bir eylem olarak görmesi, bazen anlamsız bir şiddetin ve terörizmin felsefi kılıfı olarak suistimal edilmeye açık bir zemin bırakmıştır."
+    },
+    {
+      "title": "Pan-Slavizm Çelişkisi",
+      "text": "Evrensel anarşizmi savunurken, hayatının bir döneminde aşırı bir Slav milliyetçiliğine kayması, felsefesindeki \"evrensellik\" iddiasıyla çelişmiştir."
+    }
+  ]
+}

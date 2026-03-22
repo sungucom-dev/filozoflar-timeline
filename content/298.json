@@ -1,0 +1,94 @@
+{
+  "subtitle": "Dogmalar, Holizm ve Gavagai (1908–2000)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Empirizmin İki Dogması",
+      "body": "1951'de yazdığı bu makale, analitik felsefe tarihinde bir deprem etkisi yaratmıştır. Quine iki temel inancı yerle bir eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Analitik-Sentetik Ayrımı",
+          "text": "Kant'tan beri felsefeciler \"Bekarlar evli değildir\" gibi (analitik) ve \"Bugün hava güneşli\" gibi (sentetik) cümlelerin kökten ayrı olduğuna inanırdı. Quine, bu ayrımın yapay olduğunu ve \"anlam\" kavramının kendisinin karanlıkta kaldığını kanıtlamıştır."
+        },
+        {
+          "label": "İndirgemecilik",
+          "text": "Her cümlenin tek başına deneyle doğrulanabileceği fikrine karşı çıkar. Ona göre cümleler tek tek değil, bir bütün olarak deneyle yüzleşir."
+        }
+      ]
+    },
+    {
+      "title": "Teyit Edici Bütüncüllük (Confirmational Holism)",
+      "body": "Quine'a göre bilimsel teoriler ve inançlarımız birbirine bağlı bir ağ gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İnanç Ağı (Web of Belief)",
+          "text": "Deneylerle doğrudan temas eden cümleler ağın kıyısındadır. Mantık ve matematik gibi \"dokunulmaz\" sanılan doğrular ise merkezdedir. Ancak büyük bir kriz anında, ağın merkezindeki bir mantık kuralını bile feda edebiliriz."
+        },
+        {
+          "label": "Duhem-Quine Tezi",
+          "text": "Hiçbir hipotez tek başına test edilemez. Bir deney başarısız olduğunda, suçlunun hangi önerme olduğunu tam olarak bilemeyiz; tüm ağ sarsılır."
+        }
+      ]
+    },
+    {
+      "title": "Tercümenin Belirsizliği ve \"Gavagai\"",
+      "body": "Diller arası tercümenin asla mükemmel olamayacağını bir düşünce deneyiyle açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gavagai!",
+          "text": "Bir dilbilimci, hiç bilmediği bir kabileye gider. Bir tavşan koştuğunda yerli \"Gavagai!\" der. Dilbilimci bunun \"Tavşan\" olduğunu sanır. Ama bu \"Tavşanlık\", \"Koşan tüylü nesne\" veya \"Tavşan parçaları\" da olabilir."
+        },
+        {
+          "label": "Ontolojik Görelilik",
+          "text": "Dünyayı nasıl bölümlere ayırdığımız (ontolojimiz), kullandığımız dilin yapısına bağlıdır ve asla tek bir \"doğru\" tercüme yoktur."
+        }
+      ]
+    },
+    {
+      "title": "Doğallaştırılmış Epistemoloji",
+      "body": "Felsefenin bilimden \"önce\" gelip ona temel sağladığı fikrini reddeder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilimle Bir Arada",
+          "text": "Bilgi teorisi (epistemoloji), felsefecilerin koltuğunda oturup düşündüğü bir şey değil, psikoloji ve sinirbilim gibi bir \"bilim dalı\" olmalıdır. Zihnimizin verileri nasıl işlediğini ancak bilimle anlayabiliriz."
+        },
+        {
+          "label": "Varlık Denklemi",
+          "text": "Meşhur mottosu: \"Var olmak, bir değişkenin değeri olmaktır.\" Yani bir teoriye inanıyorsanız, o teorinin var olduğunu söylediği nesneleri kabul etmek zorundasınızdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefi Temizlik",
+      "text": "Felsefeyi uydurma kavramlardan (saf anlamlar, tözler) arındırıp onu deneysel dünya ile sıkı sıkıya bağlamıştır."
+    },
+    {
+      "title": "Holistik Bakış",
+      "text": "Bilginin parçalardan değil, bir sistemden oluştuğunu göstererek modern bilim felsefesine (Kuhn vb.) zemin hazırlamıştır."
+    },
+    {
+      "title": "Mantıksal Keskinlik",
+      "text": "Matematiği ve mantığı en sade haliyle savunarak rasyonel düşüncenin sınırlarını berraklaştırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Anlamın Yitimi",
+      "text": "Anlam kavramını o kadar çok hırpalamıştır ki, iletişim ve edebiyat gibi alanların \"nasıl mümkün olduğunu\" açıklamakta felsefesi biraz \"soğuk\" kalabilir."
+    },
+    {
+      "title": "Aşırı Fizikalizm",
+      "text": "Dünyayı sadece fiziksel nesnelerden ibaret görmesi, zihinsel durumları ve öznel deneyimleri (qualia) açıklamada yetersiz kalabileceği eleştirilerine yol açmıştır."
+    },
+    {
+      "title": "Sirkülerlik (Döngüsellik)",
+      "text": "Epistemolojiyi bilime dayandırması, \"bilimin doğruluğunu neye dayandıracağız?\" sorusunu (Hume'un tümevarım sorunu gibi) cevapsız bırakma riski taşır."
+    }
+  ]
+}

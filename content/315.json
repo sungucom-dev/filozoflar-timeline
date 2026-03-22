@@ -1,0 +1,86 @@
+{
+  "subtitle": "Epistemolojik Anarşizm ve Bilimin Özgürlüğü (1924–1994)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Epistemolojik Anarşizm: \"Her Şey Gider\" (Anything Goes)",
+      "body": "Feyerabend'in felsefesindeki en sarsıcı iddiadır. Bilim tarihini incelediğinde, büyük keşiflerin (Galileo'dan Einstein'a kadar) aslında mevcut yöntem kurallarının çiğnenmesiyle gerçekleştiğini fark etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kural Yokluğu",
+          "text": "Bilimi ilerleten tek bir sabit kural yoktur. Aksine, \"her şey gider\" ilkesi geçerlidir. Eğer bilim insanları sadece mevcut mantık kurallarına uysalardı, bilim asla yerinden kıpırdayamazdı."
+        },
+        {
+          "label": "Fırsatçılık",
+          "text": "Bilim insanı, amacına ulaşmak için her türlü aracı (mantık, hile, retorik, ad hoc hipotezler) kullanan bir \"epistemolojik fırsatçı\" olmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Bilim Bir İdeolojidir",
+      "body": "Feyerabend, bilimin modern dünyada dinin yerini aldığını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dogmatik Baskı",
+          "text": "Bilim, diğer bilgi türlerini (mitoloji, geleneksel tıp, sanat) \"bilimsel değil\" diyerek dışlayan baskıcı bir kiliseye dönüşmüştür."
+        },
+        {
+          "label": "Devlet ve Bilim Ayrılığı",
+          "text": "Din ve devletin ayrılması gerektiği gibi, bilim ve devletin de ayrılması gerektiğini savunur. Özgür bir toplumda vatandaşlar, hangi bilgi türüne inanacaklarını seçmekte özgür olmalıdırlar."
+        }
+      ]
+    },
+    {
+      "title": "Teorilerin Çoğalması (Proliferation)",
+      "body": "Ona göre bilginin artması, bir teorinin diğerlerini yok etmesiyle değil, birbiriyle rekabet eden \"onlarca farklı teorinin\" bir arada bulunmasıyla olur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eleştirel Çoğulculuk",
+          "text": "En saçma görünen fikirler bile, egemen teorinin göremediği hataları ortaya çıkarabilir. Bu yüzden her fikir, ne kadar \"garip\" olursa olsun, bilimsel tartışmaya dahil edilmelidir."
+        }
+      ]
+    },
+    {
+      "title": "Ölçülemezlik (Incommensurability)",
+      "body": "Tıpkı Thomas Kuhn gibi, o da farklı teorilerin birbirleriyle tam olarak kıyaslanamayacağını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dil ve Algı Farkı",
+          "text": "Aristo fiziği ile Newton fiziği farklı diller konuşur ve dünyayı farklı görür. Birini diğerine göre \"daha doğru\" saymak, aslında sadece o anki \"modaya\" veya zihinsel alışkanlıklara uyum sağlamaktır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dogma Kırıcılık",
+      "text": "Bilimi \"kutsal bir inek\" olmaktan çıkarıp, onun da hataları olan insani bir uğraş olduğunu göstererek bilime gerçek bir alçakgönüllülük getirmiştir."
+    },
+    {
+      "title": "Yaratıcılık Vurgusu",
+      "text": "Keşiflerin mantıksal bir otomatizmle değil, yaratıcı bir \"kural ihlali\" ile gerçekleştiğini hatırlatmıştır."
+    },
+    {
+      "title": "Kültürel Saygı",
+      "text": "Batı biliminin dışındaki bilgi sistemlerine (geleneksel Çin tıbbı gibi) alan açarak kültürel çeşitliliği savunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Görelilik Tuzağı (Relativism)",
+      "text": "\"Her şey gider\" ilkesi, bilimi astroloji veya sahte bilimlerle aynı kefeye koyma riskini taşır. Eğer her şey geçerliyse, \"doğru\" ve \"yanlış\" arasındaki ayrım nasıl yapılacaktır?"
+    },
+    {
+      "title": "Pratik Tehlikeler",
+      "text": "Bilimsel otoritenin tamamen reddedilmesi, özellikle tıp ve teknoloji alanlarında toplumun güvenliğini tehlikeye atacak bir dezenformasyon dalgasına yol açabilir."
+    },
+    {
+      "title": "Aşırı Provokasyon",
+      "text": "Üslubu o kadar saldırgan ve alaycıdır ki; fikirlerinin özündeki derinlik bazen bu \"yaramazlık\" gösterisinin arkasında kaybolabilir."
+    }
+  ]
+}

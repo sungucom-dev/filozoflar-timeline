@@ -1,0 +1,90 @@
+{
+  "subtitle": "Akışkanlık, Tüketim ve Belirsizliğin Etiği (1925–2017)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Akışkan Modernite (Liquid Modernity)",
+      "body": "Bauman'ın en büyük keşfi, modernitenin doğasının değiştiğidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Katı Modernite (Solid)",
+          "text": "Fabrikaların, ömür boyu süren işlerin, sarsılmaz evliliklerin ve net ideolojilerin olduğu \"ağır\" dönem."
+        },
+        {
+          "label": "Akışkan Modernite (Liquid)",
+          "text": "Şekilsizliğin, esnekliğin ve hızın egemen olduğu dönem. Artık hiçbir yapı, üzerine yeni bir şey inşa edilecek kadar uzun süre sabit kalamaz. Bilgi, sermaye ve insanlar durmadan \"akar\"."
+        }
+      ]
+    },
+    {
+      "title": "Akışkan Aşk ve İnsan İlişkileri",
+      "body": "Bauman, tüketim kültürünün en mahrem alanlarımıza sızışını analiz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tüketim Nesnesi Olarak Öteki",
+          "text": "İlişkiler artık birer \"yatırım\" veya \"haz kaynağı\" olarak görülür. Faydası bittiğinde veya daha iyisi çıktığında (Tinder kaydırması gibi) kolayca terk edilirler."
+        },
+        {
+          "label": "Bağlanma Korkusu",
+          "text": "\"Bağ kurmak\" (binding) yerini \"bağlanmaya\" (connecting) bırakmıştır. Bağlanmak her an fişi çekilebilecek bir durumdur ve bu da derin bir yalnızlık ve güvensizlik yaratır."
+        }
+      ]
+    },
+    {
+      "title": "Modernite ve Holokost: Rasyonel Bir Felaket",
+      "body": "Bauman'ın en sarsıcı tezlerinden biri Yahudi Soykırımı üzerinedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bir Arıza Değil, Bir Ürün",
+          "text": "Ona göre Holokost, modernitenin bir \"barbarlık anı\" değil; aksine modern bürokrasinin, rasyonalitenin ve \"temizlik\" tutkusunun bir sonucudur."
+        },
+        {
+          "label": "Sorumluluğun Mesafesi",
+          "text": "Bürokratik düzen, insanları birbirine sadece dosya kağıtları üzerinden bağlayarak ahlaki sorumluluğu buharlaştırır."
+        }
+      ]
+    },
+    {
+      "title": "Yeni Fakirlik ve \"Kusurlu Tüketiciler\"",
+      "body": "Modern dünyada fakirlik artık sadece açlık değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tüketemeyenler",
+          "text": "Toplumun asıl dışlananları, pazarın sunduğu o ışıltılı hayatlara erişemeyen \"kusurlu tüketiciler\"dir. Bu insanlar \"atık\" (waste) olarak görülürler; yani sistemin dışına itilmiş mülteciler, işsizler ve evsizler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Zamanın Ruhu (Zeitgeist)",
+      "text": "İçinde yaşadığımız dönemin o kaygan, tekinsiz ve belirsiz doğasını en iyi kavramsallaştıran isimdir. \"Akışkanlık\" metaforu, moderniteyi anlamak için vazgeçilmez bir araçtır."
+    },
+    {
+      "title": "Vicdanın Sesi",
+      "text": "Sosyolojiyi kuru bir veri analizi olmaktan çıkarıp, onu insan acısına ve sorumluluğuna odaklanan etik bir disipline dönüştürmüştür."
+    },
+    {
+      "title": "Kapsayıcılık",
+      "text": "Göçmenlerden sevgililere, alışveriş merkezlerinden toplama kamplarına kadar yaşamın her alanını tek bir tutarlı teoriyle açıklama başarısı göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Kötümserlik",
+      "text": "Moderniteyi bazen o kadar çok \"ayrıştırıcı ve yalnızlaştırıcı\" bir canavar olarak görür ki; teknolojinin, küreselleşmenin veya yeni sosyal bağların yarattığı pozitif ve özgürleştirici imkânları gözden kaçırabilir."
+    },
+    {
+      "title": "Kavramsal Tekrar",
+      "text": "Yazarlığının son yıllarında \"akışkan\" metaforunu her şeye (sanat, korku, denetim vb.) uygulaması, teorisinin bazı derinlikli noktalarını biraz yüzeyselleştirdiği eleştirilerine yol açmıştır."
+    },
+    {
+      "title": "Alternatif Eksikliği",
+      "text": "Sorunları cerrah titizliğiyle tespit etse de, bu akışkan dünyadan nasıl çıkılacağına veya \"yeni katılıkların\" nasıl kurulacağına dair somut bir siyasi yol haritası sunmakta bazen eksik kalır."
+    }
+  ]
+}

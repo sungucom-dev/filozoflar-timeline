@@ -1,0 +1,94 @@
+{
+  "subtitle": "Metropol, Para ve Kültürün Trajedisi (1858–1918)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Metropol ve Zihinsel Hayat (The Metropolis and Mental Life)",
+      "body": "Simmel, büyükşehir hayatının insan psikolojisini nasıl kökten değiştirdiğini ilk fark edenlerden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşırı Uyarıcı (Stimulation)",
+          "text": "Şehir, duyularımıza o kadar çok veri (ses, ışık, insan, hız) yükler ki, beynimiz kendini korumak için bir kalkan oluşturur."
+        },
+        {
+          "label": "Blasé (Kayıtsızlık) Tutumu",
+          "text": "Modern şehirli, her şeye karşı bir \"kayıtsızlık\" geliştirir. Bu bir kibir değil, hayatta kalma mekanizmasıdır. Her şeye aynı heyecanla tepki verirsek sinir sistemimiz çökerdi. Bu durum, ilişkilerimizi daha mesafeli ve rasyonel hale getirir."
+        }
+      ]
+    },
+    {
+      "title": "Paranın Felsefesi (Philosophie des Geldes)",
+      "body": "Para onun için sadece ekonomik bir araç değil, bir \"yaşam biçimi\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Soyutlama ve Mesafe",
+          "text": "Para, her şeyi tek bir sayıya indirger. Bu, dünyayı daha \"hesaplanabilir\" kılar ama aynı zamanda nesnelerle ve insanlarla olan duygusal bağımızı koparır."
+        },
+        {
+          "label": "Özgürlük ve Yabancılaşma",
+          "text": "Para bize müthiş bir hareket özgürlüğü sağlar (çünkü her yerde geçerlidir), ancak bu özgürlüğün bedeli, ilişkilerin \"kişiliksizleşmesi\" ve her şeyin \"satın alınabilir\" hale gelmesidir."
+        }
+      ]
+    },
+    {
+      "title": "Yabancı (The Stranger)",
+      "body": "Simmel'in en meşhur sosyolojik figürüdür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hem Yakın Hem Uzak",
+          "text": "Yabancı, \"bugün gelip yarın giden\" değil, \"bugün gelip yarın kalan\" kişidir. Toplumun içindedir ama ona tam olarak ait değildir."
+        },
+        {
+          "label": "Nesnellik",
+          "text": "Bu \"mesafe\" ona müthiş bir nesnellik kazandırır. Sırların paylaşıldığı ama yargılamayan, topluma dışarıdan bakan o kritik gözdür."
+        }
+      ]
+    },
+    {
+      "title": "Kültürün Trajedisi",
+      "body": "Modernleşme ile birlikte ortaya çıkan o devasa uçurumu anlatır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesnel Kültür",
+          "text": "İnsanlığın ürettiği araçlar, teknoloji, kitaplar ve sanat eserleri (dev bir kütüphane gibi)."
+        },
+        {
+          "label": "Öznel Kültür ve Trajedi",
+          "text": "Bireyin bu birikimi özümseme, anlama ve kendine katma kapasitesi. Nesnel kültür o kadar hızlı büyür ki, öznel kültür (insan ruhu) ona yetişemez. Ürettiğimiz şeylerin kölesi haline geliriz."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Mikro-Sosyolojinin Doğuşu",
+      "text": "Büyük sınıflar yerine \"etkileşim\" (Sociation) kavramına odaklanarak; modadan yemeğe, gizlilikten sadakate kadar gündelik hayatın sosyolojisini kurmuştur."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Sosyolojiyi kuru istatistiklerden kurtarıp, modern insanın \"iç dünyasındaki\" sancıları (kaygı, yabancılaşma, kayıtsızlık) merkeze almıştır."
+    },
+    {
+      "title": "Disiplinlerarası Köprü",
+      "text": "Felsefe, sanat ve sosyoloji arasında kurduğu köprüler, onu Walter Benjamin'den Adorno'ya kadar birçok düşünürün ilham kaynağı yapmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Fragmanter Yapı",
+      "text": "Bir \"sistem\" kurmak yerine denemeler üzerinden gitmesi, bazen bütüncül bir teori sunmasını zorlaştırır. Fikirleri birer \"parıltı\" gibidir ama her zaman birbirine sıkıca bağlanmaz."
+    },
+    {
+      "title": "Siyasal Pasiflik",
+      "text": "Toplumsal sorunları çok iyi teşhis etse de, bunlara karşı Marksist veya liberal bir \"çözüm\" veya \"eylem planı\" sunmaz. Daha çok \"zarif bir gözlemci\" olarak kalır."
+    },
+    {
+      "title": "Aşırı Estetizm",
+      "text": "Dünyayı bazen bir \"sanat eseri\" gibi fazla mesafeli ve estetik bir gözle okuduğu, sınıfsal ve ekonomik şiddeti bu estetiğin içinde biraz yumuşattığı eleştirilir."
+    }
+  ]
+}

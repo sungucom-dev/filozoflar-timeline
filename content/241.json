@@ -1,0 +1,83 @@
+{
+  "subtitle": "Yönelimsellik ve Bilincin Yapısı (1838–1917)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yönelimsellik (Intentionality): Zihnin İmzası",
+      "body": "Brentano'nun felsefeye bıraktığı en büyük bomba, zihinsel fenomenleri fiziksel olanlardan ayıran temel özelliktir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hakkındalık",
+          "text": "Her zihinsel durum bir şey \"hakkındadır\". Bir şeyi düşündüğünüzde, bir şeye kızdığınızda veya bir şeyi hayal ettiğinizde; zihniniz bir nesneye yönelir."
+        },
+        {
+          "label": "İçsel Nesnellik",
+          "text": "Fiziksel bir nesne (örneğin bir taş) sadece vardır, hiçbir şeye yönelmez. Ancak zihinsel bir eylem, içinde her zaman bir \"içerik\" barındırır. Bu, Brentano'ya göre bilincin ayırt edici \"markasıdır\"."
+        }
+      ]
+    },
+    {
+      "title": "Zihinsel vs. Fiziksel Fenomenler",
+      "body": "Brentano, dünyayı iki net kategoriye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fiziksel Fenomenler",
+          "text": "Renkler, şekiller, sesler ve uzamsal büyüklükler. Bunlar dışarıdadır ve \"yönelimsizdir\"."
+        },
+        {
+          "label": "Zihinsel Fenomenler",
+          "text": "Hatırlamak, yargılamak, sevmek, nefret etmek. Bunlar her zaman bir nesneye (gerçek veya hayali) yöneliktir ve sadece içsel bir gözlemle (içsel algı) kavranabilirler."
+        }
+      ]
+    },
+    {
+      "title": "Zihinsel Eylemlerin Üçlü Sınıflandırması",
+      "body": "Brentano, bilinci rastgele bir karmaşa olarak değil, hiyerarşik bir düzen olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tasarımlar (Presentations)",
+          "text": "Bir nesnenin zihinde belirmesi (Örn: Bir elmayı hayal etmek). Tüm diğer zihinsel eylemlerin temelidir."
+        },
+        {
+          "label": "Yargılar (Judgments)",
+          "text": "Tasarlanan nesnenin doğruluğunu veya yanlışlığını onaylamak ya da reddetmek (Örn: \"Bu elma tatlıdır\")."
+        },
+        {
+          "label": "Duygusal Fenomenler (Sevgi ve Nefret)",
+          "text": "Nesneye karşı duyulan ilgi, arzu, sevgi veya tiksinti."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Fenomenolojinin Doğuşu",
+      "text": "Husserl, Heidegger ve Merleau-Ponty gibi devlerin hocasıdır. Bilinci \"nesnesine yönelen bir yapı\" olarak tanımlayarak 20. yüzyıl Avrupa felsefesini tek başına başlatmıştır."
+    },
+    {
+      "title": "Psikolojinin Bilimleşmesi",
+      "text": "Psikolojiyi ampirik ama felsefi bir zemine oturtarak, onu sadece biyolojik bir süreç olmaktan çıkarıp \"anlam\" odaklı bir disiplin haline getirmiştir."
+    },
+    {
+      "title": "Hümanist Etik",
+      "text": "\"Doğru ve Yanlış Bilgisinin Kökeni\" üzerine yaptığı çalışmalarla, ahlakı sadece toplumsal kurallara değil, zihnin \"doğru sevme\" kapasitesine dayandırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Psikolojizm Tehlikesi",
+      "text": "Mantığı ve matematiği bile zihinsel süreçlere indirgeme eğilimi, öğrencisi Husserl tarafından daha sonra sertçe eleştirilmiştir."
+    },
+    {
+      "title": "İçsel Algı Paradoksu",
+      "text": "Zihnin kendi kendisini o an gözlemlemesinin imkansızlığını çözmek için sunduğu \"ikincil bilinç\" teorisi, bazı eleştirmenlerce fazla zorlama ve karmaşık bulunmuştur."
+    },
+    {
+      "title": "Katı Sınıflandırma",
+      "text": "Zihinsel süreçleri sadece üç kategoriye hapsetmesi, insan ruhunun o çok daha karmaşık, akışkan ve bilinçdışı (Freud'un daha sonra keşfedeceği) derinliklerini görmezden gelmesine neden olmuştur."
+    }
+  ]
+}

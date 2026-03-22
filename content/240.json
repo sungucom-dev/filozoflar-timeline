@@ -1,0 +1,82 @@
+{
+  "subtitle": "Duyumlar, Bilimsel Tutumluluk ve Görelilik (1838–1916)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Duyumların Analizi (Sensationalism)",
+      "body": "Mach için dünya, \"nesnelerden\" değil, \"duyumlardan\" oluşur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesne Yok, İlişki Var",
+          "text": "Bir elma; kırmızı rengi, sertliği, tadı ve kokusunun bir toplamıdır. Bu duyumların dışında elma diye bir \"öz\" yoktur."
+        },
+        {
+          "label": "Ego (Benlik) Kurtarılamaz",
+          "text": "\"Ben\" dediğimiz şey de sadece hafıza, duygular ve fiziksel duyumların geçici bir sentezidir. Mach, \"ben\"i felsefeden kovarak modern psikolojinin ve post-yapısalcılığın kapısını aralamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Düşünce Ekonomisi (Economy of Thought)",
+      "body": "Bilimin görevi, doğanın \"gerçekte ne olduğunu\" bulmak değil, deneyimlerimizi en basit ve en etkili şekilde özetlemektir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Formüller Birer Özet",
+          "text": "Matematiksel yasalar, karmaşık verileri kısa yoldan hatırlamamızı sağlayan \"hafıza araçları\"dır. Bilim, zihinsel bir enerjiden tasarruf etme sanatıdır."
+        }
+      ]
+    },
+    {
+      "title": "Mach İlkesi ve Mutlak Uzay Eleştirisi",
+      "body": "Isaac Newton'ın \"mutlak uzay\" ve \"mutlak zaman\" fikirlerine tarihteki en sert saldırıyı Mach başlatmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Her Şey Görelidir",
+          "text": "Bir cismin eylemsizliği (durma veya hareket etme eğilimi), evrendeki diğer tüm kütlelerin dağılımıyla ilişkilidir. Boş bir evrende ivmeden bahsedilemez. Bu fikir, Einstein'ın Genel Görelilik teorisini kurarken en büyük ilham kaynağı olmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Mach Sayısı ve Ses Duvarı",
+      "body": "O sadece bir filozof değil, deneysel fiziğin de dâhisidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şok Dalgaları",
+          "text": "Ses hızını aşan mermilerin yarattığı şok dalgalarını ilk kez fotoğraflayan odur. Bugün havacılıkta kullanılan \"Mach 1, Mach 2\" terimleri, onun bu fiziksel dehasına bir saygı duruşudur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dogma Avcısı",
+      "text": "Bilimi yüzyıllardır esir alan \"mutlak\" kavramları yıkarak, modern fiziğin (Einstein ve Heisenberg) önünü açmıştır."
+    },
+    {
+      "title": "Pozitivizmin Babası",
+      "text": "Viyana Çevresi (Mantıksal Pozitivizm) üzerinde devasa bir etki yaratmış; felsefeyi boş laf üretmekten çıkarıp bilimsel bir yönteme dönüştürmeye çalışmıştır."
+    },
+    {
+      "title": "Bütüncül Bakış",
+      "text": "Fizik, biyoloji ve psikolojiyi \"duyumlar\" paydasında birleştirerek disiplinlerarası bir köprü kurmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Atomun Reddi",
+      "text": "\"Göremediğim şeye inanmam\" ilkesine o kadar sadıktı ki, ömrünün sonuna kadar atomların varlığını reddetti. Bu tutumu, onu kuantum fiziği ve atom teorisi alanında tarihin yanlış tarafında bıraktı."
+    },
+    {
+      "title": "Aşırı İndirgemecilik",
+      "text": "Dünyayı sadece duyumlara indirgemesi, nesnel gerçekliğin bağımsız varlığını tartışmalı hale getirerek felsefeyi bazen \"solipsizm\" (tekbencilik) sınırına taşıdı."
+    },
+    {
+      "title": "Fiziği Sınırlama",
+      "text": "\"Sadece gözlenebilenler bilimdir\" kuralı, o dönemde henüz gözlenemeyen ama doğru olan pek çok teorik keşfin (kara delikler gibi) önünü tıkayabilirdi."
+    }
+  ]
+}

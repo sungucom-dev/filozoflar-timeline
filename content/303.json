@@ -1,0 +1,90 @@
+{
+  "subtitle": "Dolaylı Yol, Kuşku ve Hikâye Edilen Benlik (1913–2005)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kendine Giden \"Dolaylı Yol\" (The Long Detour)",
+      "body": "Ricoeur, Descartes'ın \"Düşünüyorum, öyleyse varım\" diyen o kestirme yoluna inanmaz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aynadaki Yabancı",
+          "text": "\"Ben\" kendimi doğrudan, bir iç-bakışla tanıyamam. Kendimi tanımak için dünyanın etrafından dolanmam gerekir; yani dilden, sembollerden, mitlerden ve sanat eserlerinden geçmeliyim."
+        },
+        {
+          "label": "Aracı Olarak Kültür",
+          "text": "İnsan, kendini ancak yarattığı ve yorumladığı kültürel ürünlerin aynasında görebilir."
+        }
+      ]
+    },
+    {
+      "title": "Kuşku Yorumsaması vs. İnanç Yorumsaması",
+      "body": "Ricoeur, modern zihnin iki büyük kanadını tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kuşku Ustaları (Masters of Suspicion)",
+          "text": "Marx, Nietzsche ve Freud. Onlar anlamın altındaki gizli çıkarları, güç istencini veya bastırılmış arzuları ararlar. Ricoeur bu kuşkuya saygı duyar ama orada durmaz."
+        },
+        {
+          "label": "Onarıcı Yorumsama",
+          "text": "Kuşkunun yıktığı yerden sonra, anlamı yeniden inşa etme çabasıdır. Sembollerin sadece \"gizlediği\" değil, aynı zamanda \"açığa çıkardığı\" hakikati bulmaya çalışır."
+        }
+      ]
+    },
+    {
+      "title": "Anlatısal Kimlik (Narrative Identity)",
+      "body": "\"Ben kimmim?\" sorusuna Ricoeur'ün verdiği cevap zamansaldır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mêmeté (Aynılık)",
+          "text": "Parmak izim gibi zamanla değişmeyen fiziksel özelliklerim."
+        },
+        {
+          "label": "Ipséité (Benlik)",
+          "text": "Karakterim ve verdiğim sözler. Bu kısım ancak bir hikâye ile anlatılabilir. Biz kimiz? Biz, kendimiz hakkında anlattığımız ve başkalarının bizim hakkımızda anlattığı hikâyelerin kahramanıyız."
+        }
+      ]
+    },
+    {
+      "title": "Kendisi Olarak Başkası (Soi-même comme un autre)",
+      "body": "Levinas'ın \"Öteki\"ne verdiği mutlak önceliği kabul eder ama bir denge kurar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dostane İlişki",
+          "text": "Benlik, ancak başkasıyla olan ilişkisinde derinleşir. \"Kendini bir başkası gibi sevmek\", başkasını da kendin gibi görmek etik hayatın temelidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Büyük Uzlaştırıcı",
+      "text": "Birbirine düşman ekolleri (Yapısalcılık, Psikanaliz, Fenomenoloji) aynı masaya oturtup birbirlerinden ne öğrenebileceklerini göstermiştir."
+    },
+    {
+      "title": "Kimlik Kuramı",
+      "text": "İnsanı sabit bir nesne olmaktan çıkarıp, zaman içinde sürekli yazılan bir \"hikâye\" olarak tanımlaması, modern psikoloji ve sosyoloji için devrim niteliğindedir."
+    },
+    {
+      "title": "Etik ve Adalet",
+      "text": "Şiddete karşı diyaloğu, unutmaya karşı hafızayı savunan \"adil hafıza\" kavramıyla toplumsal barış için felsefi bir zemin kurmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Eklektizm",
+      "text": "Her şeyi birbiriyle uzlaştırmaya çalışması, bazen felsefesinin keskinliğini kaybetmesine ve \"her yola gelen\" bir esnekliğe bürünmesine neden olmuştur."
+    },
+    {
+      "title": "Labirentvari Üslup",
+      "text": "\"Dolaylı Yol\"u o kadar sever ki, eserleri binlerce sayfa süren devasa analizler içinde okuru bazen asıl sorudan uzaklaştırabilir."
+    },
+    {
+      "title": "Çatışmadan Kaçınma",
+      "text": "Bazı radikal düşünürler, Ricoeur'ün uzlaşmacı tavrının, hakikatler arasındaki sert ve uzlaşmaz çatışmaları (paradoksları) yumuşatarak örttüğünü savunurlar."
+    }
+  ]
+}

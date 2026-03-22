@@ -1,0 +1,102 @@
+{
+  "subtitle": "Performans, Söz Edimleri ve Dilin Gücü (1911–1960)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Betimleme Yanılgısı (Descriptive Fallacy)",
+      "body": "Austin'e göre filozoflar, cümlelerin sadece \"doğru\" veya \"yanlış\" olabileceğini varsayarak büyük bir hata yapmışlardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yanılgı",
+          "text": "Bir cümlenin anlamlı olması için mutlaka bir olguyu betimlemesi gerektiği sanısıdır."
+        },
+        {
+          "label": "Gerçek",
+          "text": "Dilin büyük bir kısmı dünyayı betimlemekle değil, dünyada bir şeyler yapmakla ilgilidir."
+        }
+      ]
+    },
+    {
+      "title": "Edimsel ve Betimsel Cümleler (Performative vs. Constative)",
+      "body": "Austin başlangıçta dili ikiye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Betimsel (Constative)",
+          "text": "Bir durumu rapor eder. Doğru veya yanlış olabilir. (Örn: \"Dışarıda yağmur yağıyor.\")"
+        },
+        {
+          "label": "Edimsel (Performative)",
+          "text": "Söylendiği anda bir eylemi gerçekleştirir. Bunlar doğru/yanlış değil; \"başarılı\" veya \"başarısız\" olabilir. (Örn: \"Söz veriyorum,\" \"Seni vaftiz ediyorum,\" \"Bahse girerim ki...\")"
+        }
+      ]
+    },
+    {
+      "title": "Söz Edimleri Teorisi (Speech Act Theory)",
+      "body": "Austin daha sonra bu ayrımı geliştirerek her konuşmanın üç boyutu olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Düzsöz (Locutionary)",
+          "text": "Bir cümleyi dilbilgisi kurallarına uygun olarak söyleme eylemi. (Kelimelerin kendisi)."
+        },
+        {
+          "label": "Edimsöz (Illocutionary)",
+          "text": "Söylerken yapılan eylem. (Söz verme, tehdit etme, rica etme, emir verme). Austin için asıl felsefi odak burasıdır."
+        },
+        {
+          "label": "Etkisöz (Perlocutionary)",
+          "text": "Söylenen sözün dinleyici üzerinde yarattığı sonuç veya etki. (İkna etme, korkutma, mutlu etme)."
+        }
+      ]
+    },
+    {
+      "title": "Başarılı Olma Koşulları (Felicity Conditions)",
+      "body": "Edimsel bir sözün (örneğin \"Seni karı-koca ilan ediyorum\") geçerli olması için belirli şartlar gerekir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yetki",
+          "text": "Sözü söyleyenin yetkisi olmalı."
+        },
+        {
+          "label": "Bağlam",
+          "text": "Törensel veya uygun bir ortam olmalı."
+        },
+        {
+          "label": "Samimiyet",
+          "text": "Kişi söylediği sözün sorumluluğunu almalı."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dilbilimin Doğuşu",
+      "text": "Modern pragmatiğin (edimbilim) temelini atmış; dilin sadece bir \"mantık sistemi\" değil, bir \"sosyal eylem\" olduğunu kanıtlamıştır."
+    },
+    {
+      "title": "Metafiziği Yere İndirmek",
+      "text": "Felsefi problemleri çözmek yerine, o problemlerin altında yatan \"dikkatsiz dil kullanımını\" ayıklayarak zihinsel bir berraklık sağlamıştır."
+    },
+    {
+      "title": "Hukuk ve Etik Etkisi",
+      "text": "\"Söz verme\" veya \"sorumluluk\" gibi kavramların sadece hukuki değil, dilsel yapısını da ortaya koyarak bu alanlara derinlik katmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Titizlik",
+      "text": "Austin bazen kelimelerin arasındaki o kadar küçük farklara (Örn: \"kazaen\" vs. \"hataen\") odaklanır ki, asıl büyük varoluşsal soruları ıskaladığı söylenir."
+    },
+    {
+      "title": "Sistem Eksikliği",
+      "text": "Erken ölümü (48 yaşında) nedeniyle teorisini tam bir bütünlüğe kavuşturamamıştır; fikirleri öğrencisi John Searle tarafından daha kaskatı bir sisteme dönüştürülmüştür."
+    },
+    {
+      "title": "Edebi Dilin Dışlanması",
+      "text": "Şiirdeki veya tiyatrodaki dili \"parazit\" veya \"ciddiyetsiz\" olarak nitelemesi, sanat felsefesi açısından bir sınırlılık olarak görülmüştür."
+    }
+  ]
+}

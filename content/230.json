@@ -1,0 +1,90 @@
+{
+  "subtitle": "Denge, Astral Işık ve Büyük Yapıt (1810–1875)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Baphomet ve Zıtların Dengesi",
+      "body": "Lévi'nin en meşhur (ve en çok yanlış anlaşılan) mirası, çizdiği Baphomet figürüdür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şeytan Değildir",
+          "text": "Popüler kültürün aksine, Lévi'nin Baphomet'i bir denge sembolüdür. Bir eli göğe (Solve), diğeri yere (Coagula) bakar."
+        },
+        {
+          "label": "Androjen Yapı",
+          "text": "Hem eril hem dişil, hem hayvani hem insani özellikleri barındırır. Lévi'ye göre bu, evrendeki zıt güçlerin mükemmel dengesini ve \"Işık\"ın (Astral Işık) maddeleşmesini temsil eder."
+        }
+      ]
+    },
+    {
+      "title": "Astral Işık (Büyük Majikal Aracı)",
+      "body": "Lévi, majinin nasıl çalıştığını \"fiziksel\" bir temele oturtmaya çalışır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Medyum",
+          "text": "Ona göre evren, tüm düşünceleri ve görüntüleri taşıyan, elektrik veya mıknatıslanmaya benzeyen akışkan bir \"ışık\" ile doludur."
+        },
+        {
+          "label": "İradenin Gücü",
+          "text": "Majisyen, sadece ritüellerle değil, \"eğitilmiş iradesi\" ile bu Astral Işık üzerinde hakimiyet kurarak gerçekliği etkileyebilir."
+        }
+      ]
+    },
+    {
+      "title": "Tarot ve Kabbala Sentezi",
+      "body": "Lévi, Tarot kartlarını sadece fal bakma aracı olmaktan çıkarıp derin bir felsefi sisteme dönüştürmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kutsal Alfabe",
+          "text": "Tarot'un 22 büyük arkana kartını, İbrani alfabesinin 22 harfi ve Kabbala'nın Yaşam Ağacı yollarıyla eşleştirmiştir."
+        },
+        {
+          "label": "Evrensel Anahtar",
+          "text": "Ona göre Tarot, her türlü gizli bilginin ve evrensel yasaların kilidini açan kadim bir \"ansiklopedi\"dir."
+        }
+      ]
+    },
+    {
+      "title": "Büyük Yapıt (Le Grand Œuvre)",
+      "body": "Simyacıların kurşunu altına çevirme idealini, Lévi ruhsal bir dönüşüme çevirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kendi Üzerinde Hakimiyet",
+          "text": "Büyük Yapıt, kişinin kendi tutkuları, korkuları ve hayvansal doğası üzerinde tam bir denge ve hakimiyet kurarak \"İlahi İrade\" ile birleşmesidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Okültizmin Modernleşmesi",
+      "text": "Majiyi orta çağın karanlığından çıkarıp; psikoloji, irade ve denge üzerine kurulu \"yüksek bir felsefe\" (Yüksek Maji) haline getirmiştir."
+    },
+    {
+      "title": "Devasa Etki",
+      "text": "Altın Şafak Cemiyeti (Golden Dawn), Aleister Crowley ve A.E. Waite gibi modern ezoterizmin tüm devleri onun omuzlarında yükselmiştir."
+    },
+    {
+      "title": "Sembolik Dil",
+      "text": "Sembollerin insan bilinçdışındaki gücünü çok erken fark ederek, bunları bir sistem dahilinde birleştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tarihsel Hatalar",
+      "text": "Lévi, Kabbala veya Tarot'un kökenleri hakkında (örneğin Tarot'un Antik Mısır'dan geldiği iddiası) bugün tarihsel olarak yanlış olduğu bilinen pek çok \"romantik\" iddiada bulunmuştur."
+    },
+    {
+      "title": "Hristiyanlık Çelişkisi",
+      "text": "Eski bir rahip adayı olarak, paganizm ve Hristiyanlık arasında kurmaya çalıştığı sentez, bazen her iki taraf için de \"tutarsız\" ve fazla zorlama bulunmuştur."
+    },
+    {
+      "title": "Teorik Ağırlık",
+      "text": "Ritüellerden ziyade felsefeye odaklanması, onu \"eylemden çok söz\" üreten bir düşünür olarak eleştirilmesine yol açmıştır."
+    }
+  ]
+}

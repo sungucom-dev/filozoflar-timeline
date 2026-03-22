@@ -1,0 +1,85 @@
+{
+  "subtitle": "Tanrı'nın Cesedi ve Yokluk Yolculuğu (1841–1876)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tanrı'nın İntiharı (Gottes Selbstmord)",
+      "body": "Mainländer'e göre başlangıçta sadece \"Mutlak Birlik\" (Tanrı) vardı. Ancak Tanrı, var olmaktan vazgeçmek istedi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Parçalanma",
+          "text": "Tanrı \"var olmamayı\" diledi ancak mutlak bir hiçliğe bir anda geçemedi. Bu yüzden kendini parçalara ayırarak evreni yarattı."
+        },
+        {
+          "label": "Dünya Nedir?",
+          "text": "Bizim yaşadığımız evren, Tanrı'nın varlıktan yokluğa geçiş sürecidir. Dünya, Tanrı'nın \"çürümekte olan cesedi\"dir. Her şey, o ilk birliğin yok oluşa giden parçalarıdır."
+        }
+      ]
+    },
+    {
+      "title": "Yaşama İstenci Değil, \"Ölüm İstenci\" (Wille zum Tod)",
+      "body": "Schopenhauer'in \"Yaşama İstenci\" kavramını tersyüz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yokluk Arzusu",
+          "text": "Canlılardaki tüm çaba, aslında hayatta kalmak için değil, o ilk tanrısal isteği (yok oluşu) tamamlamak içindir. Bizler farkında olmadan yokluğa aşığız."
+        },
+        {
+          "label": "Entropi",
+          "text": "Fizikteki entropi yasasına benzer şekilde, evrendeki her hareket enerjinin tükenmesine ve nihai bir sessizliğe (ölüme) doğru akar. Ölüm, korkulacak bir şey değil, varlığın acısından kurtuluştur."
+        }
+      ]
+    },
+    {
+      "title": "Siyaset ve Sosyalizm: Acıyı Hızlandırmak",
+      "body": "İlginç bir şekilde Mainländer ateşli bir sosyalistti ama onun sosyalizmi Marx'tan farklıydı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Adalet ve Tatmin",
+          "text": "Toplumda adalet ve refah sağlandığında, insanlar artık hayatta kalma derdinden kurtulacak ve varoluşun o boş, anlamsız özüyle baş başa kalacaklardır."
+        },
+        {
+          "label": "Nihai Karar",
+          "text": "İnsanlık topluca refaha ulaştığında, üremenin ve yaşamanın bir anlamı olmadığını anlayacak ve \"bilinçli bir şekilde\" türünü sonlandıracaktır. Sosyalizm, bu \"kurtuluş\" sürecini hızlandıran bir araçtır."
+        }
+      ]
+    },
+    {
+      "title": "Bakirelik ve Türün Sonu",
+      "body": "Çileciliği ve bekârlığı (sexual abstinence) savunur. Üremek, acı çeken yeni varlıklar yaratmak ve \"Tanrı'nın cesedini\" taze tutmaktır. Üremeyi durdurmak ise yokluğun o huzurlu limanına giden en kısa yoldur.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dürüstlük",
+      "text": "Pesimizmi hiçbir teselli kapısı bırakmadan (Schopenhauer'in sanatı veya merhameti gibi) son sınırına kadar götürme cesaretini göstermiştir."
+    },
+    {
+      "title": "Entropik Vizyon",
+      "text": "Evrenin düzensizliğe ve enerji tükenmesine gittiği fikrini felsefi bir zemine oturtarak modern bilimsel kozmolojilere (Isı Ölümü teorisi) ilginç bir önsezi sunmuştur."
+    },
+    {
+      "title": "Nietzsche Üzerindeki Etki",
+      "text": "Nietzsche, Mainländer'i okumuş ve ondan dehşete düşmüştür. Nietzsche'nin \"Tanrı öldü\" nidası ve yaşamı kutsama çabası, aslında Mainländer'in bu mutlak karanlığına bir yanıttır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Biyolojik Çelişki",
+      "text": "Yaşamın içindeki muazzam yaratıcılığı, sevinci ve kendini koruma içgüdüsünü tamamen bir \"yanılsama\" olarak görüp yok sayması, evrimsel gerçeklikle çelişir."
+    },
+    {
+      "title": "Uygulanamaz Etik",
+      "text": "Toplu bir yok oluşu savunması, felsefesini insanlık için bir \"yaşam rehberi\" olmaktan çıkarıp bir \"ölüm manifestosu\" haline getirir."
+    },
+    {
+      "title": "Psikolojik Yanlılık",
+      "text": "Kişisel depresyonunu ve intihar eğilimini evrensel bir kozmoloji haline getirdiği eleştirisine oldukça açıktır."
+    }
+  ]
+}

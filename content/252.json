@@ -1,0 +1,94 @@
+{
+  "subtitle": "Bilinçdışı, Arzu ve Uygarlık (1856–1939)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Buzdağı Metaforu: Bilinçdışı (The Unconscious)",
+      "body": "Freud için zihin devasa bir buzdağıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilinç",
+          "text": "Su yüzeyinde görünen küçük parça (farkında olduğumuz düşünceler)."
+        },
+        {
+          "label": "Bilinçdışı",
+          "text": "Suyun altındaki devasa kütle. Bastırılmış arzular, travmalar, ilkel dürtüler ve unutulan hatıralar burada saklanır. Freud'a göre davranışlarımızı yöneten asıl güç burasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Kişilik Yapısı: Id, Ego ve Superego",
+      "body": "Freud, insan ruhunu birbiriyle sürekli çatışan üç kuvvete ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Id (Alt Benlik)",
+          "text": "Ruhun \"şımartılmış çocuğu\"dur. Tamamen haz ilkesiyle çalışır; hemen, şimdi doyurulmak isteyen hayvani dürtülerdir (Libido ve Thanatos)."
+        },
+        {
+          "label": "Superego (Üst Benlik)",
+          "text": "Ruhun \"kaskatı ebeveyni\"dir. Toplumun ahlak kuralları, yasaklar ve vicdandır. Sürekli Id'yi bastırmaya çalışır."
+        },
+        {
+          "label": "Ego (Benlik)",
+          "text": "Ruhun \"hakemi\"dir. Gerçeklik ilkesiyle çalışır. Id'nin arzuları ile Superego'nun yasakları arasında mantıklı bir denge kurmaya çalışır."
+        }
+      ]
+    },
+    {
+      "title": "Rüyalar ve Savunma Mekanizmaları",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Rüyalar",
+          "text": "Freud için rüyalar \"bilinçdışına giden kral yolu\"dur. Rüyalar, uyanıkken bastırılan arzuların sembolik bir dille yaşanmasıdır."
+        },
+        {
+          "label": "Savunma Mekanizmaları",
+          "text": "Ego, Id ve Superego arasındaki çatışmanın yarattığı kaygıdan kurtulmak için çeşitli \"oyunlar\" oynar: Bastırma (unutma), Yansıtma (kendi suçunu başkasına atma), Yüceltme (ilkel enerjiyi sanata/bilime yönlendirme)."
+        }
+      ]
+    },
+    {
+      "title": "Uygarlık ve Huzursuzluk",
+      "body": "Freud sadece bireyi değil, toplumu da analiz etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kültürel Bedel",
+          "text": "Uygarlık, insanın vahşi dürtülerini (saldırganlık ve sınırsız cinsellik) bastırması üzerine kuruludur. Bu bastırma toplumu düzenli kılar ama bireyi kaçınılmaz olarak \"huzursuz\" ve nevrotik yapar."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ruh Sağlığında Devrim",
+      "text": "Akıl hastalıklarını \"şeytan işi\" veya \"organik bozukluk\" olmaktan çıkarıp, konuşma yoluyla (serbest çağrışım) tedavi edilebilecek psikolojik süreçler olarak tanımlamıştır."
+    },
+    {
+      "title": "Çocukluğun Keşfi",
+      "text": "Yetişkinlikteki pek çok sorunun kökeninin erken çocukluk dönemindeki yaşantılara dayandığını göstererek modern pedagojinin ve psikolojinin temelini atmıştır."
+    },
+    {
+      "title": "Sanat ve Edebiyat",
+      "text": "Sürrealizmden modern romana kadar (Joyce, Kafka, Woolf) tüm sanat dünyasına \"bilinçaltı derinliği\" katarak yaratıcılığın dilini değiştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Cinsellik (Pan-seksüalizm)",
+      "text": "Hemen her şeyi cinsel dürtülerle (Libido) açıklama eğilimi, kendi öğrencileri (Jung ve Adler) dahil pek çok kişi tarafından \"tek boyutlu\" bulunarak eleştirilmiştir."
+    },
+    {
+      "title": "Bilimsellik Sorunu",
+      "text": "Karl Popper gibi düşünürler, Freud'un teorilerinin \"yanlışlanamaz\" olduğunu, her türlü sonucu bir şekilde teoriye uydurduğunu söyleyerek psikanalizi \"sözde bilim\" olarak nitelendirmiştir."
+    },
+    {
+      "title": "Kadın Psikolojisi",
+      "text": "Kadın cinselliği ve psikolojisi hakkındaki görüşleri (Örn: Penis haseti), dönemin ataerkil önyargılarını taşıdığı gerekçesiyle modern feminist düşünce tarafından şiddetle reddedilmiştir."
+    }
+  ]
+}

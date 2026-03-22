@@ -1,0 +1,86 @@
+{
+  "subtitle": "Erdemler, Doğalcılık ve Tramvaylar (1920–2010)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tramvay Problemi (The Trolley Problem)",
+      "body": "Foot'un popüler kültürde en çok tanınan katkısı budur. Ancak o, bunu bir zeka oyunu olsun diye değil, \"Çift Etki Doktrini\"ni (Doctrine of Double Effect) test etmek için tasarlamıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Senaryo",
+          "text": "Kontrolden çıkmış bir tramvay beş kişiye doğru gidiyor. Bir kolu çekerek tramvayı başka bir raya yönlendirebilirsiniz, ancak orada da bir kişi var. O bir kişiyi feda etmek \"mübah\" mıdır?"
+        },
+        {
+          "label": "Ahlaki Ayrım",
+          "text": "Foot, \"yapmak\" (killing) ile \"izin vermek\" (letting die) arasındaki farka odaklanır. Onun için ahlak, sadece sonuçların toplamı (fayda) değil, eylemi yapanın sahip olduğu erdemler ve ödevlerle ilgilidir."
+        }
+      ]
+    },
+    {
+      "title": "Ahlaki Doğalcılık (Moral Naturalism)",
+      "body": "Foot'un geç dönem başyapıtı olan Natural Goodness (Doğal İyilik) kitabında geliştirdiği görüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İnsan Çiçek Açarsa",
+          "text": "Tıpkı bir ağacın \"iyi\" olması için derin köklere ve sağlam dallara ihtiyacı olması gibi, bir insanın \"iyi\" olması da onun türsel özelliklerine (sosyallik, rasyonalite vb.) bağlıdır."
+        },
+        {
+          "label": "Nesnellik",
+          "text": "Ahlak, öznel bir tercih değil, \"insan\" dediğimiz canlının hayatta kalması ve serpilmesi (flourishing) için gereken nesnel bir ihtiyaçtır. Bir \"kurt\" için işbirliği yapmak ne kadar doğalsa, bir \"insan\" için dürüst olmak o kadar doğaldır."
+        }
+      ]
+    },
+    {
+      "title": "Emotisizm ve Preskriptivizm Eleştirisi",
+      "body": "Foot, ahlakı sadece \"Vay canına!\" (duygu) veya \"Bunu yap!\" (emir) seviyesine indiren Ayer ve Hare gibi isimlere karşı durmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Betimsel Temel",
+          "text": "\"İyi\" kelimesinin bir anlamı olması için onun gerçeklikteki olgularla (yardımseverlik, adalet gibi somut durumlarla) bağı olması gerekir. Ahlak, dünyadan kopuk bir dil oyunu değildir."
+        }
+      ]
+    },
+    {
+      "title": "Erdemler Birer \"İsteme\" Biçimidir",
+      "body": "Foot'a göre erdemler, sadece birer alışkanlık veya teknik beceri değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İrade ve Karakter",
+          "text": "Bir erdem, kişinin içsel olarak \"iyiyi istemesi\" halidir. Birinin sadece \"mecbur olduğu için\" dürüst olması erdemli bir davranış değildir; erdem, o dürüstlüğün karakterin ayrılmaz bir parçası olmasıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Analitik Erdem Etiği",
+      "text": "Anscombe ile birlikte, ahlak felsefesini o kaskatı \"ödev\" ve \"fayda\" kıskacından kurtarıp yeniden \"insan karakteri\" üzerine düşünmeye davet etmiştir."
+    },
+    {
+      "title": "Düşünce Deneyleri",
+      "text": "Tramvay Problemi gibi araçlarla, ahlaki ikilemleri analiz etmenin o berrak ve sistematik yolunu açmıştır."
+    },
+    {
+      "title": "Hümanist Temellendirme",
+      "text": "Ahlakı mistik veya metafizik temellerden ziyade, \"insan doğası\" gibi somut ve gözlemlenebilir bir zemine oturtmaya çalışmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Doğa Yanılgısı",
+      "text": "Eleştirmenler, \"doğada olan\" (is) ile \"olması gereken\" (ought) arasındaki farkın Foot tarafından fazla hafife alındığını savunurlar. İnsan doğası her zaman \"iyi\" olmayabilir."
+    },
+    {
+      "title": "Kültürel Çeşitlilik",
+      "text": "Türsel özelliklere (insan doğası) yaptığı vurgu, farklı kültürlerdeki radikal ahlaki farkları açıklamakta bazen fazla \"tek tipleştirici\" kalabilir."
+    },
+    {
+      "title": "Karmaşıklık",
+      "text": "Bazı modern etik sorunlarda (yapay zeka etiği, biyoteknoloji vb.), antik bir \"erdem\" listesinin ne kadar pratik çözümler sunacağı tartışma konusudur."
+    }
+  ]
+}

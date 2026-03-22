@@ -1,0 +1,86 @@
+{
+  "subtitle": "Kararcılık, Dost-Düşman ve İstisna Hali (1888–1985)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Siyasal Kavramı (Der Begriff des Politischen)",
+      "body": "Schmitt için siyaset, ne bir ahlak alanıdır ne de ekonomik bir çıkar çatışması. Siyasetin kendine has bir ölçütü vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dost-Düşman Ayrımı",
+          "text": "Bir topluluğu \"siyasal\" yapan şey, kimin dost kimin \"öteki\" (düşman) olduğuna karar verme kapasitesidir. Buradaki düşman, kişisel bir nefret nesnesi değil; varoluşsal olarak yaşam biçiminizi tehdit eden \"kamusal\" bir rakiptir."
+        },
+        {
+          "label": "Siyasetin Sonu mu?",
+          "text": "Liberalizmin dünyayı bir \"tartışma kulübüne\" çevirerek siyaseti yok etmeye çalıştığını savunur. Ona göre siyasetten kaçış yoktur; çünkü çatışma insan doğasının bir parçasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Egemenlik ve İstisna Hali (Ausnahmezustand)",
+      "body": "Hukuk sisteminin en zayıf noktasını keşfetmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kararcılık (Decisionism)",
+          "text": "Yasalar kendi başlarına hüküm süremez; onları birinin uygulaması ve yorumlaması gerekir."
+        },
+        {
+          "label": "Egemen Kimdir?",
+          "text": "\"Egemen, istisna haline karar verendir.\" Yani işler yolunda gitmediğinde, anayasayı askıya alıp \"normali\" yeniden kuracak güce sahip olan kişi gerçek egemendir. Hukuk, bu egemen karardan doğar, tersi değil."
+        }
+      ]
+    },
+    {
+      "title": "Siyasi İlahiyat (Politische Theologie)",
+      "body": "Modern devlet kuramındaki tüm önemli kavramların aslında \"sekülerleşmiş ilahiyat kavramları\" olduğunu iddia eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrı'dan Devlete",
+          "text": "Her şeye gücü yeten \"Tanrı\"nın yerini modern devlette \"Egemen\" almıştır. \"Mucize\"nin yerini ise hukukta \"İstisna Hali\" almıştır. Devlet, dinsel bir otorite gibi mutlak bir meşruiyet arar."
+        }
+      ]
+    },
+    {
+      "title": "Nomos ve Kara-Deniz Ayrımı",
+      "body": "Geç dönem çalışmalarında küresel düzenin mekânsal yapısına odaklanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yeryüzünün Nomos'u",
+          "text": "İnsanlık tarihindeki düzenin, toprak üzerindeki mülkiyet ve sınır çizgileriyle (nomos) kurulduğunu savunur. Kara devletleri (istikrar) ile deniz güçleri (akışkanlık/İngiltere-ABD) arasındaki o büyük çatışmayı analiz eder."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Liberalizm Eleştirisi",
+      "text": "Liberal demokrasinin krizlerini, karar alma süreçlerindeki tıkanıklıkları ve \"boş tartışmaları\" en sert ve isabetli şekilde teşhis eden isimdir."
+    },
+    {
+      "title": "Modern Siyasete Etki",
+      "text": "Sadece sağcıları değil; Chantal Mouffe gibi radikal demokratları ve Giorgio Agamben gibi sol düşünürleri \"siyasal olanı\" yeniden tanımlamak için derinden etkilemiştir."
+    },
+    {
+      "title": "Realist Bakış",
+      "text": "Uluslararası ilişkilerde ve hukukta \"güç\" gerçeğini, süslü lafların arkasından çekip çıkararak masaya koymuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Nazizmle İşbirliği",
+      "text": "1933'te Nazi Partisi'ne katılmış ve rejimin \"baş hukukçusu\" olmuştur. Bu durum, onun fikirlerinin otoriterliği ve diktatörlüğü meşrulaştırmak için nasıl kullanılabileceğinin en karanlık kanıtıdır."
+    },
+    {
+      "title": "Çatışma Saplantısı",
+      "text": "Dünyayı sadece \"savaş ve düşmanlık\" üzerinden okuması, toplumsal uzlaşı, işbirliği ve evrensel insan hakları gibi medeni kazanımları tamamen yok saymasına neden olur."
+    },
+    {
+      "title": "Hukukun Tasfiyesi",
+      "text": "Hukuku tamamen \"karara\" ve \"güce\" kurban etmesi, keyfi yönetimin ve adaletsizliğin önünü sonuna kadar açar."
+    }
+  ]
+}

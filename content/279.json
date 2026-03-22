@@ -1,0 +1,90 @@
+{
+  "subtitle": "Mantıksal Pozitivizm ve Dilin Analizi (1891–1970)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Doğrulanabilirlik İlkesi (Verificationism)",
+      "body": "Carnap ve dostları (Viyana Çevresi) için bir cümlenin \"anlamlı\" olabilmesi için tek bir şart vardır: Deney ve gözlemle doğrulanabilmesi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilişsel Anlam",
+          "text": "\"Masada bir elma var\" cümlesi anlamlıdır çünkü gidip bakabiliriz."
+        },
+        {
+          "label": "Anlamsızlık (Pseudo-statements)",
+          "text": "\"Ruh ölümsüzdür\" veya \"Hiçlik kendini hiçler\" gibi cümleler ne doğrudur ne yanlıştır; Carnap'a göre bunlar sadece anlamsızdır. Çünkü bu iddiaları test edecek bir laboratuvar veya gözlem yoktur."
+        }
+      ]
+    },
+    {
+      "title": "Metafiziğin Tasfiyesi",
+      "body": "Carnap, felsefe tarihinin büyük kısmını \"dilin kötüye kullanımı\" olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Müzik vs. Felsefe",
+          "text": "Carnap'a göre metafizikçiler aslında birer \"şair\" veya \"müzisyen\"dir; hissettiklerini anlatırlar ama bunu \"bilgi\"ymiş gibi sundukları için hata yaparlar. Eğer hislerini anlatmak istiyorlarsa şiir yazmalıdırlar, felsefe (bilimsel dünya görüşü) değil."
+        }
+      ]
+    },
+    {
+      "title": "Hoşgörü İlkesi (Principle of Tolerance)",
+      "body": "Carnap, zamanla \"tek bir doğru mantık vardır\" katılığıından vazgeçip bu dâhice ilkeyi geliştirdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özgür Dil İnşası",
+          "text": "\"Mantıkta ahlak zabıtası yoktur\" der. İstediğin mantıksal sistemi veya dil çerçevesini kurabilirsin."
+        },
+        {
+          "label": "Tek Şart",
+          "text": "Kurduğun sistemin kurallarını açıkça belirtmelisin. Hangi dilin daha \"iyi\" olduğu bir \"doğruluk\" meselesi değil, \"kullanışlılık\" (pragmatik) meselesidir."
+        }
+      ]
+    },
+    {
+      "title": "Dil Çerçeveleri: İçsel ve Dışsal Sorular",
+      "body": "Varlık tartışmalarını (Örn: \"Sayılar gerçekten var mı?\") ikiye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçsel Sorular",
+          "text": "Sistem içindeki sorular (Örn: \"5 bir asal sayı mıdır?\"). Bunlar mantıkla çözülür."
+        },
+        {
+          "label": "Dışsal Sorular",
+          "text": "Sistemin kendisine dair sorular (Örn: \"Sayılar dünyada var mı?\"). Carnap'a göre bu sorular anlamsızdır; mesele sadece \"Sayılar dilini kullanmak işimize yarıyor mu?\" sorusudur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Analitik Netlik",
+      "text": "Felsefeyi bulanık kavramlardan kurtarmış; her kelimenin ve her çıkarımın hesabının verilmesi gerektiğini savunarak büyük bir disiplin getirmiştir."
+    },
+    {
+      "title": "Bilim Felsefesi",
+      "text": "Bilimin mantıksal yapısını, olasılık teorisini ve tümevarımı inceleyerek modern bilim felsefesinin temellerini atmıştır."
+    },
+    {
+      "title": "Hoşgörü ve Esneklik",
+      "text": "Bilimsel bir dünya görüşünü savunurken bile farklı mantıksal sistemlere açık kapı bırakması, onu dogmatiklikten kurtarmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Duygusal ve Kültürel Körlük",
+      "text": "Sanat, ahlak ve din gibi alanları \"bilişsel olarak anlamsız\" ilan ederek, insan tecrübesinin en derin parçalarını felsefenin dışına itmiştir."
+    },
+    {
+      "title": "Kendiyle Çelişki (Quine'ın Eleştirisi)",
+      "text": "\"Sadece doğrulanabilen cümleler anlamlıdır\" cümlesinin kendisi deneyle doğrulanamaz! Bu durum, sistemin kalbinde mantıksal bir gedik bırakır."
+    },
+    {
+      "title": "Aşırı Teknik",
+      "text": "Felsefeyi sadece sembolik mantık ve sözdizimi analizine indirgemesi, onu hayatın yakıcı sorularından koparmıştır."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Varlık, Dasein ve Sahicilik (1889–1976)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Dasein: \"Orada-Varlık\"",
+      "body": "Heidegger, insanı klasik felsefedeki gibi \"akıllı bir hayvan\" veya \"düşünen bir özne\" olarak tanımlamaz. İnsan, Dasein'dır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dünya-İçinde-Varlık",
+          "text": "Dasein, dünyadan kopuk bir özne değildir; her zaman bir dünya içinde, nesnelerle ve diğerleriyle ilişki halindedir. Dünya, bizim \"içinde olduğumuz\" bir kaptan ziyade, bizimle birlikte var olan bir anlam ağıdır."
+        }
+      ]
+    },
+    {
+      "title": "Atılmışlık (Geworfenheit) ve Kaygı (Angst)",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Atılmışlık",
+          "text": "Hiçbirimiz dünyaya gelmeyi seçmedik. Belirli bir zamana, mekana ve kültüre \"atıldık.\" Bu, bizim elimizde olmayan kaderimizdir."
+        },
+        {
+          "label": "Kaygı (Angst)",
+          "text": "Bu, korkudan farklıdır. Korku belirli bir nesneye karşıdır; kaygı ise \"hiçlik\"e karşı duyulur. Dasein, dünyadaki her şeyin anlamsızlaşabileceğini ve kendi ölümlülüğünü fark ettiğinde bu derin kaygıyı yaşar. Bu kaygı, bizi uyuşukluktan çıkarıp \"sahici\" olmaya zorlar."
+        }
+      ]
+    },
+    {
+      "title": "Sahicilik vs. \"Onlar\" (Das Man)",
+      "body": "Dasein'ın önünde iki yol vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "\"Onlar\"ın Dünyası (Das Man)",
+          "text": "Çoğumuz \"onlar\" ne diyorsa öyle yaşarız. \"Onlar\" neye gülüyorsa ona güler, \"onlar\" neyi giyiyorsa onu giyeriz. Bu, anonim, sıradan ve \"sahici olmayan\" bir varoluştur."
+        },
+        {
+          "label": "Sahici Varoluş",
+          "text": "Dasein'ın kendi ölümlülüğüyle (Ölüme-Yönelik-Varlık) yüzleşip, \"onlar\"ın beklentilerinden koparak kendi kararlarını vermesidir."
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji ve Düzen-leme (Gestell)",
+      "body": "Heidegger'in son dönem felsefesinin merkezinde teknoloji eleştirisi vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Modern Teknoloji",
+          "text": "Dünyayı ve doğayı sadece bir \"kaynak\" veya \"yedek güç\" olarak görür. Bir nehir artık sadece \"elektrik enerjisi\"dir; bir orman sadece \"odun stoğu\"dur."
+        },
+        {
+          "label": "Tehlike",
+          "text": "Teknoloji, insanı da bir kaynak haline getirir. Heidegger'e göre bu durum varlığın gizemini ve \"hakikatini\" perdeler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Varlık Sorusunu Canlandırmak",
+      "text": "Unutulmuş olan \"Varlık\" meselesini yeniden felsefenin kalbine yerleştirmiş, metafiziğe yeni bir boyut katmıştır."
+    },
+    {
+      "title": "Varoluşçuluğa İlham",
+      "text": "Sartre, Merleau-Ponty ve Gadamer gibi isimler onun açtığı yoldan ilerlemiş; modern insanın yabancılaşma sorununu en iyi o analiz etmiştir."
+    },
+    {
+      "title": "Teknoloji Analizi",
+      "text": "Bugünün dijital dünyasında bile, doğayı ve insanı birer veriye dönüştüren \"teknolojik bakış açısı\" konusundaki uyarıları hala taptazedir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Nazizm ve Sessizlik",
+      "text": "Heidegger'in Nazi partisine katılması ve sonrasında bu konudaki \"sessizliği\" (ve meşhur \"Kara Defterler\"deki anti-semitik ifadeler), felsefesinin üzerine büyük bir ahlaki gölge düşürmüştür."
+    },
+    {
+      "title": "Anlaşılmazlık",
+      "text": "Dili o kadar kendine has ve kapalıdır ki, bazen \"anlamsızlığın derinlik sanılması\" riskini taşır. Eleştirmenleri onu \"kelime oyunları yapmakla\" suçlamıştır."
+    },
+    {
+      "title": "Etik Boşluk",
+      "text": "Felsefesi \"Varlık\" üzerine kurgulanmıştır ancak \"başka bir insana karşı sorumluluk\" (etik) konusunda oldukça zayıf kaldığı söylenebilir."
+    }
+  ]
+}

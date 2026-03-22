@@ -1,0 +1,98 @@
+{
+  "subtitle": "Antropozofi, Waldorf ve Sosyal Üçleme (1861–1925)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Antropozofi (İnsanlık Bilgeliği)",
+      "body": "Teozofinin \"tanrısal\" bilgisinden (Theosophia), insanın kendi özündeki bilgeliğe (Anthroposophia) odaklanan bir yol ayrımıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilginin Sınırları",
+          "text": "Steiner, Kant'ın \"insan zihni sınırlandırılmıştır\" fikrine meydan okur. Ona göre doğru bir disiplin ve eğitimle (meditasyon, düşünce kontrolü vb.), insan duyular ötesi dünyayı da bir bilim insanı titizliğiyle gözlemleyebilir."
+        },
+        {
+          "label": "Maddi ve Ruhsal Birliği",
+          "text": "Evrenin sadece maddeden ibaret olmadığını, her fiziksel gerçeğin arkasında ruhsal bir neden yattığını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Waldorf Pedagojisi: Baş, Kalp ve Eller",
+      "body": "Steiner'ın belki de en çok bilinen mirasıdır. Eğitimi bir \"insan mühendisliği\" değil, bir \"sanat\" olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bütüncül Gelişim",
+          "text": "Çocuk sadece zihinsel (baş) olarak değil, duygusal (kalp) ve pratik (eller) olarak da eğitilmelidir."
+        },
+        {
+          "label": "Yedişer Yıllık Döngüler",
+          "text": "Çocuk gelişimini üç ana evreye ayırır (0-7: Taklit, 7-14: İmgelem, 14-21: Muhakeme). Waldorf okullarında sanat, müzik ve el becerileri derslerin ayrılmaz bir parçasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Biyodinamik Tarım",
+      "body": "Steiner, ekolojik tarımın babasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bir Organizma Olarak Çiftlik",
+          "text": "Toprağı, bitkileri ve hayvanları birbirine bağlı canlı bir bütün olarak görür. Kimyasal gübrelere karşı çıkarak ayın döngülerini ve bitkisel hazırlıkları (kompostlama teknikleri vb.) merkeze alır."
+        },
+        {
+          "label": "Toprağın Ruhu",
+          "text": "Tarım sadece üretim değil, toprağın ruhsal olarak da iyileştirilmesi sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Sosyal Üçleme (Soziale Dreigliederung)",
+      "body": "Toplumu sağlıklı bir organizma gibi üç bağımsız ama etkileşimli alana böler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kültürel Alan (Özgürlük)",
+          "text": "Eğitim, sanat ve din hiçbir siyasi veya ekonomik baskı olmadan özgür olmalıdır."
+        },
+        {
+          "label": "Hukuki Alan (Eşitlik)",
+          "text": "Devlet sadece insanların haklarını korumalı, adaleti ve eşitliği sağlamalıdır."
+        },
+        {
+          "label": "Ekonomik Alan (Kardeşlik)",
+          "text": "Rekabet yerine ihtiyaçların karşılanması ve dayanışma üzerine kurulu bir yapı olmalıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Pratik Uygulanabilirlik",
+      "text": "Felsefesi sadece kitaplarda kalmamış; Waldorf okulları, biodinamik tarım (Demeter) ve antropozofik tıp (Weleda gibi markalar) ile somut bir yaşam biçimine dönüşmüştür."
+    },
+    {
+      "title": "Ekolojik Vizyon",
+      "text": "Çevrecilik kavramı daha ortada yokken, doğanın tahribatına ve endüstriyel tarımın tehlikelerine karşı en güçlü uyarıları o yapmıştır."
+    },
+    {
+      "title": "Sanat ve Mimari",
+      "text": "Goetheanum gibi \"organik mimari\" şaheserleri ve Öritmi (hareket sanatı) ile spiritüel olanı estetik bir forma kavuşturmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Bilimsel Şüphecilik",
+      "text": "İddialarının çoğu (örneğin gezegenlerin bitkiler üzerindeki etkileri veya reenkarnasyon detayları) modern ampirik bilim tarafından kanıtlanabilir bulunmaz."
+    },
+    {
+      "title": "Kapalı Sistem",
+      "text": "Antropozofik çevreler zaman zaman dışarıya kapalı ve \"kült benzeri\" bir yapıya bürünmekle eleştirilirler."
+    },
+    {
+      "title": "Tartışmalı Kayıtlar",
+      "text": "Steiner'ın bazı eski ders notlarında yer alan ırkçı veya sömürgeci ifadeler, modern antropozofi savunucuları tarafından \"zamanın ruhu\" olarak açıklansa da büyük eleştirilere yol açmaktadır."
+    }
+  ]
+}

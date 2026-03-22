@@ -1,0 +1,90 @@
+{
+  "subtitle": "Eksiklik, Platonizm ve Aklın Sınırları (1906–1978)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Eksiklik Teoremleri (Incompleteness Theorems)",
+      "body": "1931 yılında yayımlanan bu teoremler, matematik ve felsefe dünyasını temelinden sarsmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eksiklik",
+          "text": "Yeterince karmaşık (aritmetiği içeren) herhangi bir tutarlı matematiksel sistemde, o sistemin aksiyomlarıyla ne doğru ne de yanlış olduğu kanıtlanamayan ama \"doğru olan\" önermeler her zaman vardır."
+        },
+        {
+          "label": "Tutarlılık",
+          "text": "Bir sistem, kendi tutarlılığını (çelişkisiz olduğunu) yine kendi içinden kanıtlayamaz. Sonuç: Hilbert'in \"Matematikte bilinmeyecek hiçbir şey kalmayacak\" rüyası sona ermiştir. Hakikat, kanıtlanabilirlikten daha geniş bir kavramdır."
+        }
+      ]
+    },
+    {
+      "title": "Matematiksel Platonizm",
+      "body": "Gödel, Viyana Çevresi'ndeki meslektaşlarının (Schlick, Carnap) aksine bir pozitivist değildi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Matematiksel Gerçeklik",
+          "text": "Sayıların ve mantıksal kavramların sadece zihnimizin bir kurgusu veya dilsel bir oyun olduğuna inanmıyordu. Ona göre matematiksel nesneler, fiziksel nesneler kadar \"gerçektir\" ve biz onları sezgilerimizle keşfederiz."
+        },
+        {
+          "label": "Sezgi",
+          "text": "Matematik bir icat değil, bir keşiftir."
+        }
+      ]
+    },
+    {
+      "title": "Einstein ile Yürüyüşler: Zaman ve Görelilik",
+      "body": "Einstein ile olan dostluğu sadece bir arkadaşlık değil, bir entelektüel ortaklıktı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gödel Evreni",
+          "text": "Einstein'ın Genel Görelilik denklemlerine \"dönen evren\" modelini uygulayarak, teorik olarak geçmişe yolculuğun mümkün olabileceğini göstermiştir."
+        },
+        {
+          "label": "Zamanın İllüzyonu",
+          "text": "Buradan yola çıkarak zamanın aslında mutlak bir gerçeklik değil, bir yanılsama olabileceği fikrini savunmuştur. Einstein, \"Princeton'a sadece Gödel ile eve yürümek için gidiyorum\" demiştir."
+        }
+      ]
+    },
+    {
+      "title": "Ontolojik Kanıt: Tanrı ve Mantık",
+      "body": "Gödel, ömrünün sonuna doğru Tanrı'nın varlığını matematiksel mantık yoluyla kanıtlamaya çalışan bir modal mantık denklemi yazmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pozitif Özellikler",
+          "text": "Leibniz ve Anselmus'un argümanlarını modernize ederek; \"Tüm pozitif özelliklere sahip bir varlığın (Tanrı) var olması zorunluluğunu\" sembolik mantıkla dizayn etmiştir. Bunu yaşadığı dönemde \"başkaları yanlış anlar\" diye yayımlamamıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Mantık Devrimi",
+      "text": "2000 yıllık mantık tarihini kökten değiştirmiş; bilgisayar biliminin ve yapay zekâ teorisinin (Turing vb.) yolunu açan o \"limit\" kavramını o koymuştur."
+    },
+    {
+      "title": "Rasyonalitenin Alçakgönüllülüğü",
+      "text": "İnsana, aklın her şeyi kuşatamayacağını yine \"akılla\" göstererek muazzam bir entelektüel dürüstlük sergilemiştir."
+    },
+    {
+      "title": "Disiplinlerarası Etki",
+      "text": "Felsefeden fiziğe, bilişsel bilimlerden sanata (Escher'in çizimlerindeki döngüler gibi) kadar her alanda derin izler bırakmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Paranoya ve Fiziksel Çöküş",
+      "text": "Zihnindeki o keskin mantık, hayatının sonunda korkunç bir paranoiyaya (zehirlenme korkusuyla yemek yemeyi reddetme) dönüşmüş ve Gödel açlıktan ölmüştür."
+    },
+    {
+      "title": "Yanıltıcı Yorumlar",
+      "text": "Eksiklik Teoremi, postmodern düşünürler tarafından sık sık \"hiçbir şey bilinemez\" veya \"matematik uydurmadır\" gibi (Gödel'in asla katılmayacağı) yanlış anlamlara çekilmiştir."
+    },
+    {
+      "title": "Soyutluk",
+      "text": "Felsefesi o kadar soyut ve matematikseldir ki, insani, ahlaki veya toplumsal meselelere dair doğrudan bir çözüm sunmaz."
+    }
+  ]
+}

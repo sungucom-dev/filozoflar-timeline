@@ -1,0 +1,98 @@
+{
+  "subtitle": "Paradigmalar ve Bilimin Döngüsel Serüveni (1922–1996)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Paradigma: Bilimin Ortak Gözlüğü",
+      "body": "Kuhn felsefesinin kalbi \"paradigma\" kavramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ortak Zemin",
+          "text": "Bir bilim dalındaki araştırmacıların dünyayı nasıl göreceklerini, hangi soruları soracaklarını ve hangi yöntemleri kullanacaklarını belirleyen inançlar ve teknikler bütünüdür."
+        },
+        {
+          "label": "Görünmez Çerçeve",
+          "text": "Bilim insanları bir paradigma içinde çalışırken, o çerçevenin kendisini sorgulamazlar; sadece onun sunduğu \"bulmacaları\" çözerler."
+        }
+      ]
+    },
+    {
+      "title": "Normal Bilim ve Bulmaca Çözme",
+      "body": "Bilimin en uzun ve \"sakin\" dönemidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İşleyiş",
+          "text": "Paradigmanın doğruluğu kabul edilir ve verili kurallar çerçevesinde detaylar doldurulur. Bu dönemde bilim insanı bir \"devrimci\" değil, titiz bir \"bulmaca çözücü\"dür."
+        },
+        {
+          "label": "Güven",
+          "text": "Paradigmanın her şeyi açıklayacağına dair sarsılmaz bir inanç vardır."
+        }
+      ]
+    },
+    {
+      "title": "Anomali, Kriz ve Devrim",
+      "body": "Peki, işler ne zaman değişir?",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Anomaliler",
+          "text": "Paradigmanın açıklayamadığı yeni bulgular ortaya çıkar. Başlarda bunlar \"hata\" denilerek görmezden gelinir."
+        },
+        {
+          "label": "Kriz",
+          "text": "Anomaliler birikip sistemin merkezini tehdit etmeye başladığında, bilim dünyası bir \"kriz\" evresine girer. Güven sarsılır."
+        },
+        {
+          "label": "Bilimsel Devrim",
+          "text": "Eski paradigma çöker ve yerine dünyayı tamamen farklı bir şekilde açıklayan yeni bir paradigma gelir. (Örn: Newton fiziğinden Einstein fiziğine geçiş)."
+        }
+      ]
+    },
+    {
+      "title": "Ölçülemezlik (Incommensurability)",
+      "body": "Kuhn'un en tartışmalı iddiasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Farklı Dünyalar",
+          "text": "İki farklı paradigmaya inanan bilim insanları, aslında farklı dünyalarda yaşıyor gibidirler. Terimleri aynı olsa bile, anlamları ve dünyayı görme biçimleri o kadar farklıdır ki, birbirlerini tam olarak anlayamazlar."
+        },
+        {
+          "label": "Doğrusal Olmayan İlerleme",
+          "text": "Bilim, gerçeğe \"adım adım yaklaşan\" bir süreç değil; bir bakış açısından diğerine sıçrayan (ve her sıçrayışta bazı eski bilgileri de kaybeden) bir süreçtir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Gerçekçi Bilim Portresi",
+      "text": "Bilimin sadece \"mantıksal\" değil, aynı zamanda \"sosyolojik ve psikolojik\" bir süreç olduğunu göstererek kutsallık zırhını kırmıştır."
+    },
+    {
+      "title": "Paradigma Kavramı",
+      "text": "Sadece bilimde değil; siyasetten sanata, işletmeden günlük hayata kadar dünyayı anlama biçimimizi değiştiren muazzam bir araç sunmuştur."
+    },
+    {
+      "title": "Tarihsel Farkındalık",
+      "text": "Bilim tarihini, geçmişteki hataların temizlenmesi olarak değil, kendi içinde tutarlı sistemlerin değişimi olarak okumamızı sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Rölativizm (Görecelik)",
+      "text": "Bilimin nesnel bir hakikate ulaşmadığını, sadece \"problem çözme kapasitesi\" değişen paradigmalar arasında gezindiğini söylemesi; bilimi bir \"moda\" veya \"din\" seviyesine indirmekle eleştirilmiştir."
+    },
+    {
+      "title": "Ölçülemezlik Çıkmazı",
+      "text": "Eğer paradigmalar gerçekten ölçülemezse, bilimin nasıl ilerlediğini ve bir paradigmanın diğerinden \"daha iyi\" olduğunu nasıl bildiğimizi açıklamak zorlaşır."
+    },
+    {
+      "title": "İrrasyonel Geçişler",
+      "text": "Paradigma değişimini bir \"dini ihtida\" (din değiştirme) deneyimine benzetmesi, bilimsel rasyonaliteyi savunanları dehşete düşürmüştür."
+    }
+  ]
+}

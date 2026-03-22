@@ -1,0 +1,90 @@
+{
+  "subtitle": "Kolektif Bilinçdışı ve Ruhun Mimarisi (1875–1961)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kolektif Bilinçdışı ve Arketipler",
+      "body": "Jung'un felsefeye ve psikolojiye vurduğu en büyük damga, bilinçdışının sadece kişisel anılardan (Freud'un aksine) oluşmadığını kanıtlamasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ortak Miras",
+          "text": "İnsanlık tarihi boyunca ortaklaşa paylaşılan, doğuştan gelen imgeler ve kalıplar vardır. Buna Kolektif Bilinçdışı der."
+        },
+        {
+          "label": "Arketipler",
+          "text": "Bu evrensel modeller (Bilge İhtiyar, Kahraman, Anne, Hilebaz vb.), rüyalarımızda ve mitolojilerde sürekli karşımıza çıkan \"insanlık öyküsünün ana karakterleri\"dir."
+        }
+      ]
+    },
+    {
+      "title": "Persona, Gölge ve Anima/Animus",
+      "body": "Jung, ruhu (psike) farklı parçalardan oluşan dinamik bir yapı olarak tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Persona",
+          "text": "Toplum içinde taktığımız \"maske\"dir; uyum sağlamak için sergilediğimiz roldür."
+        },
+        {
+          "label": "Gölge",
+          "text": "Kendimizde kabul etmek istemediğimiz, bastırdığımız karanlık ve hayvani yönümüzdür. Jung'a göre \"gölgeyle yüzleşmek\" aydınlanmanın ilk adımıdır."
+        },
+        {
+          "label": "Anima / Animus",
+          "text": "Erkeğin içindeki dişil enerji (Anima) ve kadının içindeki eril enerji (Animus). Ruhun dengelenmesi için bu karşıt kutupların bütünleşmesi gerekir."
+        }
+      ]
+    },
+    {
+      "title": "Bireyleşme (Individuation)",
+      "body": "Jung'a göre hayatın nihai amacı \"mutlu olmak\" değil, \"bütünleşmektir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kendini Gerçekleştirme",
+          "text": "Bireyleşme, kişinin maskelerinden arınıp gölgesiyle barışması ve bilinçdışındaki o devasa potansiyeli bilince taşıyarak \"kendi olması\" sürecidir. Bu, hayat boyu süren, sarmal bir yolculuktur."
+        }
+      ]
+    },
+    {
+      "title": "Eşzamanlılık (Synchronicity)",
+      "body": "Jung, \"neden-sonuç\" ilişkisiyle açıklanamayan ama kişi için derin anlam taşıyan tesadüflere bu adı verir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Anlamlı Rastlantı",
+          "text": "Örneğin, rüyanızda gördüğünüz bir böceğin ertesi gün camınıza konması gibi durumlar, Jung için iç dünyamızla dış dünya arasındaki gizemli bir bağın (Unus Mundus - Tek Dünya) kanıtıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ruhsal Derinlik",
+      "text": "Psikolojiyi laboratuvarlardan çıkarıp mitoloji, din ve sanatla birleştirerek insana çok daha geniş ve anlamlı bir bakış açısı sunmuştur."
+    },
+    {
+      "title": "Kişilik Tipleri",
+      "text": "Bugün bildiğimiz \"İçe Dönük\" (Introvert) ve \"Dışa Dönük\" (Extrovert) kavramlarının yaratıcısıdır; bu ayrım MBTI gibi pek çok kişilik testinin temelini oluşturur."
+    },
+    {
+      "title": "Yaratıcılığın Önünü Açmak",
+      "text": "Bilinçdışını sadece bir \"çöp kutusu\" değil, bir \"yaratıcılık kaynağı\" olarak görerek sanatçılara ve düşünürlere muazzam bir ilham kapısı açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Mistik ve Metafizik Kayma",
+      "text": "Bazı eleştirmenler (başta Freudcular), Jung'un simya ve okültizmle olan ilişkisi nedeniyle psikolojiyi \"bilimden uzaklaştırıp teolojiye yaklaştırdığını\" savunurlar."
+    },
+    {
+      "title": "Ölçülemezlik",
+      "text": "Arketipler veya kolektif bilinçdışı gibi kavramların ampirik (deneyle kanıtlanabilir) bir zemine oturtulması oldukça zordur."
+    },
+    {
+      "title": "Karmaşıklık",
+      "text": "Yazıları ve terminolojisi o kadar geniştir ki, bazen her şeyi her şeyle açıklayan, sınırları belirsiz bir sistem haline gelebilir."
+    }
+  ]
+}

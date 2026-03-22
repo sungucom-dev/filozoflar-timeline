@@ -1,0 +1,90 @@
+{
+  "subtitle": "Süreç, Kavrama ve Organik Evren (1861–1947)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Süreç Ontolojisi: Olmak Değil, \"Oluş\"",
+      "body": "Whitehead için evren, kaskatı ve değişmez maddelerden oluşan bir makine değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Varlıklar Olarak Olaylar",
+          "text": "Evrenin en temel yapı taşları \"şeyler\" değil, \"güncel varlıklar\" (actual entities) adını verdiği \"deneyim damlaları\"dır. Bunlar statik değildir; her an doğan, sönen ve bir sonrakine aktarılan süreçlerdir."
+        },
+        {
+          "label": "Akış",
+          "text": "\"Varlık, oluştur.\" Bir masa, aslında birbirini takip eden ve masayı \"masa\" olarak sürdüren milyonlarca mikro-olayın toplamıdır."
+        }
+      ]
+    },
+    {
+      "title": "Yanlış Yerleştirilmiş Somutluk Yanılgısı (Fallacy of Misplaced Concreteness)",
+      "body": "Modern bilimin ve felsefenin en büyük hatasını böyle adlandırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Soyutlama Tuzağı",
+          "text": "Bilim adamlarının atomlar, noktalar veya sayılar gibi \"soyut\" modelleri \"gerçekliğin kendisi\" sanmalarıdır. Whitehead'e göre doğa, bu matematiksel formüllerden çok daha zengin, karmaşık ve canlıdır."
+        },
+        {
+          "label": "Organik Doğa",
+          "text": "Doğa cansız bir madde yığını değil, her parçasının bir diğeriyle ilişkili olduğu devasa bir organizmadır."
+        }
+      ]
+    },
+    {
+      "title": "Kavrama (Prehension) ve İlişkisellik",
+      "body": "Nesnelerin birbirini nasıl etkilediğini açıklayan özgün kavramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Her Şey Her Şeyi Duyumsar",
+          "text": "Kavrama, sadece zihinsel bir eylem değildir. Bir atomun diğerini etkilemesi de bir \"kavrama\"dır. Her güncel varlık, geçmişindeki tüm varlıkları içine alarak, onları \"kavrayarak\" yeni bir sentez oluşturur."
+        },
+        {
+          "label": "Yaratıcılık",
+          "text": "Evrenin en temel yasası yaratıcılıktır. Her an, geçmişin verilerinden tamamen yeni ve eşsiz bir \"şimdi\" doğar."
+        }
+      ]
+    },
+    {
+      "title": "Tanrı ve Evren: Dünyanın Şairi",
+      "body": "Whitehead'in Tanrı anlayışı geleneksel olandan çok farklıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İki Yönlü Tanrı",
+          "text": "Tanrı hem evrendeki tüm imkânların kaynağıdır hem de evrende olup biten her şeyi \"hisseden\" ve saklayan bir hafızadır. Tanrı dünyayı yöneten bir tiran değil, \"dünyanın acılarını paylaşan şairane bir dosttur.\""
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilim ve Metafizik Köprüsü",
+      "text": "Kuantum fiziğinin ve biyolojinin bulgularını (belirsizlik, bütünsellik) felsefi bir sistemle açıklayabilen nadir düşünürlerdendir."
+    },
+    {
+      "title": "Ekolojik Zemin",
+      "text": "Dünyayı birbirine bağlı canlı bir ağ olarak görmesi, modern ekoloji hareketleri ve çevreci felsefe için çok güçlü bir temel oluşturmuştur."
+    },
+    {
+      "title": "Mantıksal Disiplin",
+      "text": "Russell ile yazdığı Principia Mathematica, felsefeye matematiksel bir kesinlik ve mantıksal derinlik kazandırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dilin Zorluğu",
+      "text": "Whitehead, fikirlerini anlatmak için tamamen yeni bir terminoloji (Prehension, Ingress, Concrescence vb.) yaratmıştır. Bu da onun eserlerini okunması ve anlaşılması en zor metinler haline getirir."
+    },
+    {
+      "title": "Panteizm Eleştirisi",
+      "text": "Tanrı'yı evrene bu kadar dahil etmesi, hem katı teologlar hem de katı ateistler tarafından \"bulanık\" ve \"her şeyi açıklayan ama hiçbir şeyi kanıtlamayan\" bir yaklaşım olarak eleştirilmiştir."
+    },
+    {
+      "title": "Antropomorfizm Riski",
+      "text": "\"Atomların da hissettiği\" veya \"kavradığı\" gibi iddialar, bilinci maddeye fazla yaydığı (panpsişizm) gerekçesiyle materyalist bilim çevrelerince reddedilmiştir."
+    }
+  ]
+}

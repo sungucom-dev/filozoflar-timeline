@@ -1,0 +1,85 @@
+{
+  "subtitle": "Mutlak Akıl, Sadakat ve Topluluk (1855–1916)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Mutlak İdealizm: Evren Bir Düşüncedir",
+      "body": "Royce, Kant ve Hegel'den aldığı mirası Amerikan ruhuna uyarlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutlak Bilinç",
+          "text": "Ona göre dünya, sadece bizim algılarımızdan ibaret değildir. Tüm bu dağınık tecrübeleri birbirine bağlayan, her şeyi kapsayan ve her an her şeyi bilen bir \"Mutlak Akıl\" (The Absolute) vardır."
+        },
+        {
+          "label": "Hata Kanıtı",
+          "text": "Royce'un en meşhur argümanı \"hata\" üzerinedir. Eğer bir şeyin \"yanlış\" olduğunu söyleyebiliyorsak, bu yanlışın ölçüldüğü \"mutlak bir doğru\" (ve onu bilen bir akıl) var olmak zorundadır."
+        }
+      ]
+    },
+    {
+      "title": "Sadakat Felsefesi (The Philosophy of Loyalty)",
+      "body": "Royce için etik, tek bir kelimeyle özetlenebilir: Sadakat.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanım",
+          "text": "Sadakat, \"bir kişinin bir davaya gönüllü, pratik ve tam bir bağlılığıdır.\" İnsanın hayatına anlam katan şey, kendinden daha büyük bir \"dava\"ya hizmet etmesidir."
+        },
+        {
+          "label": "Sadakate Sadakat",
+          "text": "En yüce ahlaki ilke budur. Kendi davanıza öyle bir sadık olun ki, bu tutumunuz başkalarının da kendi davalarına olan sadakatini artırsın."
+        }
+      ]
+    },
+    {
+      "title": "Yorumlama Topluluğu (Community of Interpretation)",
+      "body": "Peirce'ten etkilenerek geliştirdiği bu kavramla, hakikatin sosyal boyutunu açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üçlü İlişki",
+          "text": "Anlamak sadece bir özne ve nesne arasında olmaz. Bir \"yorumlanan\", bir \"yorumlayan\" ve \"yorumun aktarıldığı kişi\" vardır."
+        },
+        {
+          "label": "Umudun Topluluğu",
+          "text": "İnsanlık, geçmişi ve geleceği ortak bir amaç doğrultusunda yorumlayan devasa bir topluluktur. Hakikat, bu topluluğun sonsuz bir süreçte ulaştığı ortak noktadır."
+        }
+      ]
+    },
+    {
+      "title": "William James ile \"Büyük Düello\"",
+      "body": "James, Royce'un \"Mutlak\"ını kaskatı, boğucu ve bireyin özgürlüğünü yok eden bir \"blok evren\" olarak görürdü. Royce ise James'in dünyasını parçalanmış, sahipsiz ve anlamsız bir \"kozmik kaos\" olarak nitelerdi.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Toplumsal Bağlam",
+      "text": "Bireyciliğin zirve yaptığı bir çağda, topluluğun ve ortak değerlerin (sadakat) önemini vurgulayarak modern cemaatçi (communitarian) düşünceye öncülük etmiştir."
+    },
+    {
+      "title": "Mantıksal Derinlik",
+      "text": "İdealizmi sadece romantik bir his olmaktan çıkarıp, matematiksel mantık ve modern bilimle temellendirmeye çalışmıştır."
+    },
+    {
+      "title": "Kapsayıcı Ahlak",
+      "text": "\"Sadakate sadakat\" ilkesiyle, farklı inançlara ve görüşlere sahip insanların ortak bir ahlaki zeminde nasıl buluşabileceğine dair dâhiyane bir model sunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Soyutlama",
+      "text": "\"Mutlak\" kavramı o kadar geniştir ki, bazen somut dünyadaki acıları ve adaletsizlikleri bu Mutlak'ın içinde \"gerekli birer parça\" olarak görerek önemsizleştirme riski taşır (Kötülük problemi)."
+    },
+    {
+      "title": "Sistemin Hantallığı",
+      "text": "Felsefesi o kadar bütüncül ve kaskatıdır ki, James'in savunduğu \"yaratıcı rastlantısallığa\" ve \"açık uçlu geleceğe\" yer bırakmaz."
+    },
+    {
+      "title": "Hegelci Mirasın Gölgesi",
+      "text": "Amerikan felsefesi içindeki özgünlüğüne rağmen, sık sık \"Hegel'in Amerikan şubesi\" olmakla eleştirilmiş, kendi özgün sesi bu etiketin altında kalmıştır."
+    }
+  ]
+}

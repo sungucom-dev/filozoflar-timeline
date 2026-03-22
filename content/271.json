@@ -1,0 +1,90 @@
+{
+  "subtitle": "Şartlar, Perspektif ve Kitleler (1883–1955)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Ben, Kendim ve Şartlarımdan İbaretim\"",
+      "body": "Ortega'nın felsefesi tek bir cümleyle özetlenecek olsa, bu meşhur söz olurdu (Yo soy yo y mi circunstancia).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şartların Önemi",
+          "text": "İnsan, dünyadan kopuk, soyut bir \"öz\" değildir. Benliğimiz; içinde doğduğumuz tarihle, toplumla ve çevreyle (şartlarla) sarmalanmıştır."
+        },
+        {
+          "label": "Kurtuluş Yolu",
+          "text": "\"Eğer şartlarımı kurtaramazsam, kendimi de kurtaramam.\" Yani bireyin mutluluğu ve özgürlüğü, içinde yaşadığı dünyayı anlamlandırmasına ve iyileştirmesine bağlıdır."
+        }
+      ]
+    },
+    {
+      "title": "Perspektivizm: Hakikat Bir Mozaiktir",
+      "body": "Ortega'ya göre mutlak hakikat, tek bir bakış açısına hapsedilemez.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bakış Açısı",
+          "text": "Gerçeklik, her birey için farklı bir perspektiften görünür. Hiçbir bakış açısı tamamen yanlış değildir; ancak her biri \"eksik\"tir."
+        },
+        {
+          "label": "Bütünlük",
+          "text": "Hakikat, tüm bu farklı perspektiflerin bir araya gelmesiyle oluşan o devasa yapıdır. Bu yüzden başkalarının perspektifine saygı duymak, hakikate yaklaşmanın tek yoludur."
+        }
+      ]
+    },
+    {
+      "title": "Kitlelerin Ayaklanması (La rebelión de las masas)",
+      "body": "Sosyoloji tarihinin en sarsıcı analizlerinden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kitle-İnsan",
+          "text": "Ortega için \"kitle\", sınıfsal değil, zihinsel bir kategoridir. Kitle-insan; kendine hiçbir yüksek hedef koymayan, vasatlığı kutsayan ve kendi sınırlarını bilmeyen \"şımarık\" modern insandır."
+        },
+        {
+          "label": "Seçkin Azınlık",
+          "text": "Bu, zenginler değil; kendinden her zaman daha fazlasını talep eden, sorumluluk alan ve değer yaratan \"soylu\" ruhlardır. Ortega, kitlelerin niteliksiz yükselişinin medeniyeti bir \"barbarlık\" evresine sokacağı konusunda uyarmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Hayati Akıl (Razón Vital)",
+      "body": "Kant'ın saf aklına ve Bergson'un irrasyonel hayatına bir orta yoldur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yaşayan Akıl",
+          "text": "Akıl, hayattan kopuk bir matematiksel işlem değildir; akıl, hayatın hizmetinde olmalıdır. Hayat ise akılsız bir dürtü değil, anlamlandırılması gereken bir süreçtir. \"Düşünüyorum, çünkü yaşıyorum.\""
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Diyalog ve Tolerans",
+      "text": "Perspektivizm fikriyle, farklı görüşlerin bir arada yaşamasını sağlayan modern liberalizme felsefi bir derinlik katmıştır."
+    },
+    {
+      "title": "Kültürel Eleştiri",
+      "text": "Modern toplumun yüzeyselliğini ve popülist tehlikelerini 1930'larda öngörmüş, \"nitelik\" vurgusuyla medeniyetin savunuculuğunu yapmıştır."
+    },
+    {
+      "title": "Üslup",
+      "text": "Karmaşık felsefi konuları herkesin anlayabileceği akıcı ve edebi bir dille anlatarak, felsefenin kamusal gücünü artırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Elitizm Suçlaması",
+      "text": "\"Kitle\" eleştirileri, demokratik çevreler tarafından halkı küçümseyen ve antidemokratik bir tavır olarak yorumlanmış; bu durum felsefesine olan mesafeyi artırmıştır."
+    },
+    {
+      "title": "Siyasi Belirsizlik",
+      "text": "İspanya İç Savaşı dönemindeki tutumu ve bazı muhafazakâr çıkışları, onun ilerici mi yoksa statükocu mu olduğu tartışmasını hep canlı tutmuştur."
+    },
+    {
+      "title": "Sistem Eksikliği",
+      "text": "Yazıları genellikle makaleler ve konferans notları şeklindedir; bu yüzden kaskatı bir \"sistem filozofu\" olmaktan ziyade, parlak bir \"denemeci\" olarak kalmıştır."
+    }
+  ]
+}

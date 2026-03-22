@@ -1,0 +1,79 @@
+{
+  "subtitle": "Sağduyu, Analiz ve İyiliğin Özü (1873–1958)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Sağduyu Savunusu (A Defence of Common Sense)",
+      "body": "Moore, filozofların \"Dış dünya var mıdır?\", \"Zaman gerçek midir?\" gibi sorularla boğulmasına tahammül edemezdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "\"İşte Bir El\" Kanıtı",
+          "text": "Meşhur konferansında sağ elini kaldırıp \"İşte bir el,\" sonra sol elini kaldırıp \"İşte bir diğeri\" demiştir. Ona göre, dış dünyanın varlığına dair sahip olduğumuz sağduyu, felsefi şüphelerden çok daha kesindir."
+        },
+        {
+          "label": "Doğal Tavrın Onuru",
+          "text": "Felsefe, sıradan insanların bildiği gerçekleri reddetmek yerine, bu gerçeklerin ne anlama geldiğini analiz etmelidir."
+        }
+      ]
+    },
+    {
+      "title": "Principia Ethica ve Doğalcılık Yanılgısı",
+      "body": "Etik alanında yazdığı bu kitap, 20. yüzyıl ahlak felsefesini baştan aşağı değiştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İyilik Tanımlanamaz",
+          "text": "Moore'a göre \"iyi\" kavramı, \"sarı\" rengi gibidir. Sarı birine nasıl anlatılamazsa, iyi de başka bir şeyle (haz, fayda, evrim) tanımlanamaz."
+        },
+        {
+          "label": "Doğalcılık Yanılgısı (Naturalistic Fallacy)",
+          "text": "\"Haz iyidir\" demek bir yanılgıdır. Çünkü haz fiziksel bir durumdur, \"iyi\" ise ahlaki bir niteliktir. Bir şeyin \"olması\" (is), onun \"iyi olması\" (ought) gerektiği anlamına gelmez."
+        }
+      ]
+    },
+    {
+      "title": "Analitik Yöntem",
+      "body": "Moore, felsefenin asıl işinin \"Analiz\" olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kavramları Parçalamak",
+          "text": "Bir soruyu cevaplamadan önce, sorunun içindeki her bir kelimenin ne anlama geldiğini netleştirmek gerekir. Moore'un titizliği, Analitik Felsefe'nin o meşhur \"dilsel hassasiyetini\" doğurmuştur."
+        },
+        {
+          "label": "İdeal Faydacılık",
+          "text": "Bentham ve Mill'den farklı olarak, sadece \"haz\"zın değil; estetik deneyimlerin, sevginin ve bilginin de kendi başına (intrinsic) iyi olduğunu savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İdealizm Karşıtlığı",
+      "text": "Felsefeyi o dönem boğulduğu soyut ve karanlık idealist sistemlerden kurtarıp, yeniden \"gerçek dünyaya\" döndürmüştür."
+    },
+    {
+      "title": "Etik Netlik",
+      "text": "Ahlak felsefesine getirdiği \"tanımlanamazlık\" ve \"doğalcılık yanılgısı\" uyarıları, meta-etik alanının doğmasını sağlamıştır."
+    },
+    {
+      "title": "Bloomsbury Grubu Üzerindeki Etki",
+      "text": "Virginia Woolf ve Keynes gibi isimlerin dahil olduğu Bloomsbury çevresinin \"incelmiş zevk ve arkadaşlık\" idealinin felsefi temelini o atmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kanıt Yetersizliği",
+      "text": "\"İşte bir el\" argümanı, radikal şüphecileri ikna etmekte zayıf kalmıştır; çünkü duyuların bizi yanıltabileceği ihtimalini teknik olarak çürütmez, sadece \"sağduyuya güvenin\" der."
+    },
+    {
+      "title": "Sezgiselcilik Çıkmazı",
+      "text": "İyiliğin tanımlanamaz olduğunu ve sadece \"sezgiyle\" bilinebileceğini söylemesi, farklı ahlaki görüşlere sahip insanlar arasındaki tartışmaları çözümsüz bırakır."
+    },
+    {
+      "title": "Aşırı Titizlik",
+      "text": "Analiz sürecini bazen o kadar uzatır ve dallandırıp budaklandırır ki, asıl hayatın yakıcı sorularından uzaklaşma riski taşır."
+    }
+  ]
+}

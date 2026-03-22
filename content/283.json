@@ -1,0 +1,90 @@
+{
+  "subtitle": "Kategori Hataları ve Zihin Kavramı (1900–1976)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Makinedeki Hortlak (The Ghost in the Machine)",
+      "body": "Ryle'ın felsefe tarihine vurduğu en büyük darbe, Descartes'ın \"Zihin-Beden Düalizmi\"ne verdiği bu isimdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Resmi Doktrin",
+          "text": "Descartes'a göre beden mekândadır ve fiziksel yasalara tabidir; zihin ise mekânda değildir, içseldir ve gizemli bir tözdür."
+        },
+        {
+          "label": "Eleştiri",
+          "text": "Ryle bu görüşü \"Makinedeki Hortlak\" olarak niteler. Zihin, bedenin içinde yaşayan ve ipleri elinde tutan ayrı bir \"hayalet\" değildir. Zihin, sadece bedenimizin belirli şekillerde davranma kapasitesidir."
+        }
+      ]
+    },
+    {
+      "title": "Kategori Hatası (Category Mistake)",
+      "body": "Ryle, felsefi problemlerin çoğunun, kelimelerin ait olmadıkları mantıksal kategorilere yerleştirilmesinden kaynaklandığını söyler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üniversite Örneği",
+          "text": "Bir yabancıya üniversiteyi gezdirirsiniz; kütüphaneyi, laboratuvarları ve sınıfları gösterirsiniz. Yabancı sonunda, \"Tamam ama üniversite nerede?\" diye sorarsa bir kategori hatası yapmış olur. Çünkü üniversite, o binaların \"yanında\" duran başka bir bina değil, o parçaların oluşturduğu organizasyonun bütünüdür."
+        },
+        {
+          "label": "Zihin Örneği",
+          "text": "Aynı şekilde \"Zihin nerede?\" diye sormak da bir kategori hatasıdır. Zihin, kol ve bacak gibi bir \"parça\" değil, insanın yaptığı akıllıca işlerin, konuşmaların ve davranışların toplamına verilen isimdir."
+        }
+      ]
+    },
+    {
+      "title": "\"Nasıl\" Bilmek vs. \"Ne\" Bilmek (Knowing how vs. Knowing that)",
+      "body": "Ryle, bilginin iki farklı türü olduğunu vurgulayarak \"entelektüalizm\" eleştirisi yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Knowing That (Önermesel Bilgi)",
+          "text": "Bir şeyin öyle olduğunu bilmektir. (Örn: \"Bisikletin iki tekerleği olduğunu bilmek\")."
+        },
+        {
+          "label": "Knowing How (Eylemsel Bilgi/Beceri)",
+          "text": "Bir şeyi nasıl yapacağını bilmektir. (Örn: \"Bisiklet sürmeyi bilmek\"). Ryle'a göre eylemden önce mutlaka bir \"düşünce\" (önerme) gelmesi gerekmez."
+        }
+      ]
+    },
+    {
+      "title": "Mantıksal Davranışçılık",
+      "body": "Ryle, zihinsel süreçleri tamamen gözlemlenebilir davranışlara veya \"davranış eğilimlerine\" indirger.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eğilimler (Dispositions)",
+          "text": "\"Kırılgan\" dediğimiz bir bardak, o an kırılmasa bile yere düştüğünde kırılma \"eğilimine\" sahiptir. Zihin de böyledir; \"akıllı\" biri, o an bir şey yapmasa bile, bir problemle karşılaştığında onu çözme eğilimi gösteren kişidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Metafiziği Yere İndirmek",
+      "text": "Zihni gizemli bir \"kara kutu\" olmaktan çıkarıp, onu günlük hayattaki eylemlerimizle ve dilimizle ilişkilendirerek somutlaştırmıştır."
+    },
+    {
+      "title": "Kategori Hatası Kavramı",
+      "text": "Sadece felsefede değil, bilimde ve günlük hayatta da kavramları yanlış yerlerde kullanmamızı engelleyen muazzam bir düşünce aracı sunmuştur."
+    },
+    {
+      "title": "Yöntem",
+      "text": "Oxford'un \"Sıradan Dil Felsefesi\" geleneğini güçlendirerek, felsefeyi teknik bir jargon yığını olmaktan kurtarmaya çalışmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Niteliksel Deneyim (Qualia) Sorunu",
+      "text": "Ryle'ın davranışçılığı, acı çekmek veya kırmızı rengi görmek gibi \"içsel duyguları\" açıklamakta zorlanır. Acı çekmek sadece \"bağırma eğilimi\" midir, yoksa gerçekten \"hissedilen\" bir şey midir?"
+    },
+    {
+      "title": "Zihnin Birincilliği",
+      "text": "İnsanın kendi kendine düşünmesi, hayal kurması gibi \"hiçbir eyleme dökülmeyen\" zihinsel süreçler, Ryle'ın sisteminde biraz \"yok sayılmış\" gibi durur."
+    },
+    {
+      "title": "Aşırı Basitleştirme",
+      "text": "Zihni tamamen davranışa indirgemek, insan ruhunun o karmaşık ve derin yapısını fazla mekanik bir seviyeye çekebilir."
+    }
+  ]
+}

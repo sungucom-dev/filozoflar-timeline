@@ -1,0 +1,90 @@
+{
+  "subtitle": "Tek Boyutluluk, Eros ve Büyük Reddediş (1898–1979)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tek Boyutlu İnsan (One-Dimensional Man)",
+      "body": "Marcuse'ye göre modern sanayi toplumu (hem kapitalizm hem de Sovyet tarzı sosyalizm), bireyi \"evcilleştirmiştir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sahte İhtiyaçlar",
+          "text": "Sistem, bize aslında ihtiyacımız olmayan şeyleri (yeni model arabalar, son moda kıyafetler) \"ihtiyaçmış\" gibi sunar. Biz bu eşyaları satın aldıkça sisteme daha çok bağlanırız."
+        },
+        {
+          "label": "Muhalefetin Yok Edilmesi",
+          "text": "Eskiden işçi sınıfı sistemin karşıtıydı. Şimdi ise işçi, patronuyla aynı televizyon programını izleyip aynı yerlerden alışveriş yapıyorsa, artık ortada bir \"karşıtlık\" (diyalektik) kalmamıştır. İnsan, sadece \"tüketici\" olarak tek bir boyuta indirgenmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Eros ve Uygarlık: Freud'un Revizyonu",
+      "body": "Freud, \"Uygarlık ancak arzuların bastırılmasıyla mümkündür\" demişti. Marcuse buna itiraz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fazlalık Baskı (Surplus Repression)",
+          "text": "Uygarlığın sürmesi için gereken bir miktar baskı vardır (çalışmak gibi). Ancak kapitalizm, insanları kontrol etmek için bunun çok üzerinde bir \"fazlalık baskı\" uygular."
+        },
+        {
+          "label": "Performans İlkesi",
+          "text": "Hayatımız sadece \"üretmek\" ve \"başarmak\" üzerine kurulmuştur. Marcuse, işin yerini oyunun, baskının yerini Eros'un (yaşam enerjisinin ve hazzın) aldığı bir toplum hayal eder."
+        }
+      ]
+    },
+    {
+      "title": "Baskıcı Hoşgörü (Repressive Tolerance)",
+      "body": "Marcuse, liberal demokrasilerdeki \"hoşgörü\" kavramına şüpheyle yaklaşır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sistemin Emniyet Supabı",
+          "text": "Sistemin aykırı seslere izin vermesi, aslında o sesleri etkisiz hale getirmenin bir yoludur. \"Bakın, biz her şeyi konuşabiliyoruz\" diyerek statüko korunur."
+        },
+        {
+          "label": "Baskıcı Yan",
+          "text": "Eğer medya ve eğitim sistemi sadece statükoyu güçlendiriyorsa, radikal fikirlere \"eşit söz hakkı\" vermek aslında eşitsizliği sürdürmektir. Bu yüzden Marcuse, solun \"hoşgörüsüz\" olma hakkını savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Büyük Reddediş (The Great Refusal)",
+      "body": "Artık sistemle bütünleşmiş olan işçi sınıfından umudunu kesen Marcuse; devrimci potansiyeli toplumun çeperinde kalanlarda görür: Öğrenciler, azınlıklar, işsizler ve entelektüeller.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hayır Demek",
+          "text": "Büyük Reddediş, sistemin sunduğu tüm konforu, dili ve değerleri toptan reddetmektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Yeni Sol'un Doğuşu",
+      "text": "1960'ların öğrenci hareketlerine, ırkçılık karşıtı mücadelelere ve çevreci hareketlere en güçlü felsefi yakıtı o sağlamıştır."
+    },
+    {
+      "title": "Tüketim Toplumu Analizi",
+      "text": "Bugünün \"sosyal medya ve alışveriş\" sarmalındaki insanını, 60 yıl öncesinden \"tek boyutlu\" olarak teşhis etmesi dâhiyane bir öngörüdür."
+    },
+    {
+      "title": "Bütüncül Özgürlük",
+      "text": "Özgürlüğü sadece ekonomik bir hak değil, bedensel, ruhsal ve estetik bir bütünlük olarak tanımlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Seçkinci Devrimcilik",
+      "text": "İşçi sınıfını sistemin kölesi olarak görüp küçümsemesi, felsefesini halktan kopuk bir \"üniversite devrimciliği\"ne hapsetme riski taşımıştır."
+    },
+    {
+      "title": "Baskıcı Hoşgörü Paradoksu",
+      "text": "Hoşgörüye karşı getirdiği eleştiriler, otoriter yaklaşımlara ve ifade özgürlüğünün kısıtlanmasına (istemeden de olsa) felsefi bir zemin hazırlamıştır."
+    },
+    {
+      "title": "Ütopizm",
+      "text": "Tasvir ettiği \"oyun ve haz toplumu\", insan doğasının çatışmalı ve karanlık yönlerini (Freud'un aksine) fazla iyimser bir şekilde görmezden gelmiş olabilir."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "subtitle": "İki Hayat, Tek Arayış (1889–1951)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Erken Wittgenstein: Resim Teorisi ve Sessizlik",
+      "body": "Tractatus Logico-Philosophicus kitabında, dünyayı ve dili bir ayna gibi birbirine bağlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dil Dünyanın Resmidir",
+          "text": "Dilin görevi, dünyadaki olguları resmetmektir. Eğer bir cümle dünyadaki bir durumu (atomik olguyu) resmedemiyorsa, o cümle anlamsızdır."
+        },
+        {
+          "label": "Sınırlar",
+          "text": "\"Dilimin sınırları, dünyamın sınırlarıdır.\" Mantığın dışına çıkan her şey (etik, estetik, din) \"söylenemez\" olanın alanına girer. \"Üzerine konuşulamayan konusunda susmalı.\""
+        }
+      ]
+    },
+    {
+      "title": "Geç Wittgenstein: Dil Oyunları ve Kullanım",
+      "body": "Yıllar sonra geri döndüğünde, kendi eski teorisini yerle bir eder. Artık dil bir \"resim\" değil, bir \"alet kutusu\"dur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dil Oyunları (Sprachspiele)",
+          "text": "Dilin anlamı, kelimelerin neye işaret ettiğinde değil, onların bir \"yaşam biçimi\" içinde nasıl kullanıldığında saklıdır. Emir vermek, şaka yapmak, dua etmek farklı dil oyunlarıdır."
+        },
+        {
+          "label": "Anlam Kullanımdır",
+          "text": "Bir kelimenin anlamını arıyorsanız, sözlüğe değil, o kelimenin hayattaki \"kullanımına\" bakın."
+        },
+        {
+          "label": "Aile Benzerliği",
+          "text": "Kavramların (örneğin \"oyun\") ortak bir özü yoktur; sadece birbirine benzeyen ağları vardır."
+        }
+      ]
+    },
+    {
+      "title": "Felsefe Bir Terapidir",
+      "body": "Wittgenstein için felsefe, bir bilgi yığını değil, zihinsel bir temizlik faaliyetidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sinek ve Şişe",
+          "text": "Felsefenin amacı, \"sineğe (filozofa) şişeden dışarı çıkış yolunu göstermektir.\" Çoğu felsefi problem, aslında dilin yanlış kullanılmasından kaynaklanan \"dilsel karışıklıklardır.\""
+        },
+        {
+          "label": "Özel Dil Argümanı",
+          "text": "Sadece bir kişinin anlayabileceği bir dil olamaz. Dil doğası gereği sosyal ve kurala dayalıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dilsel Dönüşüm",
+      "text": "Felsefeyi \"nesnelerden\" çıkarıp \"dil\" üzerine yoğunlaştırarak modern dilbilim, psikoloji ve sosyolojiye devasa bir alan açmıştır."
+    },
+    {
+      "title": "Özgünlük",
+      "text": "Kendi yanlışını kabul edip felsefeyi baştan yazacak kadar cesur ve tutkulu bir hakikat arayıcısıdır."
+    },
+    {
+      "title": "Terapi Etkisi",
+      "text": "Karmaşık metafizik sistemlerin aslında birer dil aldatmacası olabileceğini göstererek zihinsel bir ferahlık sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sessizlik Çıkmazı",
+      "text": "Etik ve estetiği \"söylenemez\" ilan etmesi, insanın en hayati değerlerini felsefi tartışmanın dışına itme riski taşır."
+    },
+    {
+      "title": "Görecelik (Relativizm)",
+      "text": "Anlamı sadece \"kullanım\" ve \"topluluk\" ile sınırlaması, nesnel bir hakikat arayışını imkansız hale getirebilir."
+    },
+    {
+      "title": "Pratik Zorluk",
+      "text": "Geç dönem fikirleri o kadar esnektir ki, bazen \"her şey bir dil oyunudur\" demek, hiçbir şeyi açıklayamamak anlamına gelebilir."
+    }
+  ]
+}

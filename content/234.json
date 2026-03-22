@@ -1,0 +1,102 @@
+{
+  "subtitle": "Ekonomi, Sınıf ve Devrimci Diyalektik (1818–1883)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tarihsel Materyalizm: Altyapı ve Üstyapı",
+      "body": "Marx'ın en temel keşfi, toplumun kalbinin \"üretim ilişkilerinde\" attığıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Altyapı (Base)",
+          "text": "Toplumun ekonomik yapısı, üretim araçları ve sınıfsal ilişkilerdir."
+        },
+        {
+          "label": "Üstyapı (Superstructure)",
+          "text": "Hukuk, din, sanat, felsefe ve devlet; bu ekonomik temel üzerine inşa edilen ve onu koruyan katmanlardır. Marx'a göre \"egemen sınıfın fikirleri, her çağda egemen fikirlerdir.\""
+        }
+      ]
+    },
+    {
+      "title": "Artı-Değer ve Sömürü Teorisi",
+      "body": "Marx, kapitalizmin nasıl çalıştığını matematiksel bir kesinlikle açıklamak istemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Emek-Değer",
+          "text": "Bir malın değeri, onu üretmek için harcanan toplumsal emektir."
+        },
+        {
+          "label": "Sömürü",
+          "text": "İşçi, kendi geçimi için gerekenden çok daha fazla çalışır. Bu aradaki farka Marx \"Artı-Değer\" der. Kapitalist, işçinin bu \"bedava\" emeğine el koyarak sermayesini büyütür."
+        }
+      ]
+    },
+    {
+      "title": "Yabancılaşma (Entfremdung)",
+      "body": "Genç Marx'ın en derinlikli analizlerinden biridir. Kapitalist üretimde işçi dört düzeyde yabancılaşır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ürününe",
+          "text": "Ürettiği şey artık ona ait değildir."
+        },
+        {
+          "label": "Üretim Sürecine",
+          "text": "İş, yaratıcı bir eylem değil, ruhsuz bir angaryadır."
+        },
+        {
+          "label": "Kendi Türüne",
+          "text": "İnsan, yaratıcı doğasından (tözünden) kopar."
+        },
+        {
+          "label": "Diğer İnsanlara",
+          "text": "Herkes birbirine birer rakip veya araç olarak bakmaya başlar."
+        }
+      ]
+    },
+    {
+      "title": "Sınıf Savaşı ve Tarihin Sonu",
+      "body": "Marx için \"tüm toplumların tarihi, sınıf savaşımları tarihidir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Proletarya vs. Burjuvazi",
+          "text": "Kapitalizm kendi \"mezar kazıcılarını\" (örgütlü işçi sınıfını) yaratır."
+        },
+        {
+          "label": "Kaçınılmaz Devrim",
+          "text": "Çelişkiler öyle bir noktaya gelir ki, sistem patlar. Sonuçta mülkiyetin ortak olduğu, sınıfsız ve devletsiz bir toplum (Komünizm) kurulacaktır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ekonomik Odak",
+      "text": "Sosyolojiye ve tarihe \"ekonomik çıkar\" perspektifini katarak, olayların arkasındaki maddi itici güçleri görmemizi sağlamıştır."
+    },
+    {
+      "title": "Sistem Eleştirisi",
+      "text": "Kapitalizmin krizlerini (aşırı üretim, tekelleşme) 150 yıl önceden öngören analitik bir çerçeve sunmuştur."
+    },
+    {
+      "title": "Ezilenlerin Sesi",
+      "text": "Felsefeyi saraylardan ve kütüphanelerden çıkarıp, toplumsal adalet arayışının bir silahı haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tarihsel Yanılgılar",
+      "text": "Devrimin en gelişmiş sanayi ülkelerinde (İngiltere, Almanya) çıkacağını öngörmüş, ancak devrimler tarım toplumlarında (Rusya, Çin) gerçekleşmiştir."
+    },
+    {
+      "title": "Devletin Rolü",
+      "text": "Bakunin'in de uyardığı gibi, \"geçici\" olarak kurgulanan proletarya diktatörlüğünün, 20. yüzyıl uygulamalarında nasıl kalıcı ve baskıcı bir bürokrasiye dönüştüğü görülmüştür."
+    },
+    {
+      "title": "İnsan Doğası",
+      "text": "İnsanı sadece sosyal ilişkilerin ve ekonomik koşulların bir toplamı olarak görmesi, bireysel farklılıkları ve iradeyi bazen arka plana itebilir."
+    }
+  ]
+}

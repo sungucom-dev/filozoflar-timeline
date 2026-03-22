@@ -1,0 +1,90 @@
+{
+  "subtitle": "Şeyleşme, Bütünlük ve Tarihsel Bilinç (1885–1971)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Şeyleşme (Reification / Verdinglichung)",
+      "body": "Lukács'ın felsefeye bıraktığı en sarsıcı kavramdır. Marx'ın \"meta fetişizmi\" kavramını toplumsal hayatın her alanına yaymıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İnsanın Nesneleşmesi",
+          "text": "Kapitalizmde insanlar arasındaki ilişkiler, nesneler arasındaki ilişkiler gibi görünmeye başlar. İşçi, emeğine; insan, kendi duygularına ve diğer insanlara birer \"şey\" gibi bakar."
+        },
+        {
+          "label": "Ruhun Mekanikleşmesi",
+          "text": "Modern bürokrasi ve fabrika sistemi, insan zihnini parçalara böler ve onu bütünsel bir yaratıcılıktan koparıp mekanik bir dişliye dönüştürür."
+        }
+      ]
+    },
+    {
+      "title": "Bütünlük (Totality)",
+      "body": "Lukács için hakikat, parçada değil, \"bütün\"dedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Parçalanmış Bilgiye Karşı",
+          "text": "Bilimin dünyayı uzmanlık alanlarına bölerek incelemesini eleştirir. Ona göre toplumsal olaylar ancak tarihsel sürecin tamamı (bütünlüğü) içinde anlam kazanır."
+        },
+        {
+          "label": "Diyalektik Akış",
+          "text": "Her şey birbiriyle bağlantılıdır ve sürekli bir değişim (oluş) halindedir. Bu bakış açısı, onu \"Ortodoks Marksizm\"in kaskatı ekonomik yasalarından ayırıp Hegelci bir derinliğe taşır."
+        }
+      ]
+    },
+    {
+      "title": "Sınıf Bilinci ve Tarihin Özne-Nesnesi",
+      "body": "Lukács, işçi sınıfına (proletarya) metafiziksel bir görev yükler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Atfedilen Bilinç",
+          "text": "İşçilerin o an ne düşündüğü (psikolojik bilinç) değil, sınıfsal konumları gereği ne düşünmeleri gerektiği (atfedilen bilinç) önemlidir."
+        },
+        {
+          "label": "Tarihin Çözümü",
+          "text": "Proletarya, hem tarihin akışına maruz kalan bir \"nesne\" hem de bu akışı değiştirip kendini ve toplumu kurtaracak olan \"özne\"dir. Bu, tarihin kendi kendinin farkına vardığı andır."
+        }
+      ]
+    },
+    {
+      "title": "Estetik ve Gerçekçilik (Realism)",
+      "body": "Lukács, sanatın toplumsal bütünlüğü yansıtması gerektiğini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Balzac vs. Joyce",
+          "text": "Modernist yazarları (Joyce, Kafka) dünyayı \"parçalanmış ve anlamsız\" gösterdikleri için eleştirir. Ona göre gerçek sanat, toplumsal çelişkileri bir bütün olarak sunan \"Eleştirel Gerçekçilik\"tir (Örn: Balzac, Tolstoy)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Batı Marksizmi'nin Doğuşu",
+      "text": "Marksizm'i sadece ekonomi değil, bir bilinç ve kültür felsefesi olarak yeniden inşa etmiş; Frankfurt Okulu'ndan (Adorno, Benjamin) Sartre'a kadar herkesi etkilemiştir."
+    },
+    {
+      "title": "Roman Kuramı",
+      "text": "Romanı \"burjuva çağının destanı\" olarak tanımladığı erken dönem çalışmaları, hala edebiyat eleştirisinin temel taşlarından biridir."
+    },
+    {
+      "title": "İdeoloji Eleştirisi",
+      "text": "İdeolojinin sadece bir \"yalan\" değil, toplumsal yapının kaçınılmaz bir sonucu olduğunu gösteren analizleri çok değerlidir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Stalinizmle İmtihanı",
+      "text": "Entelektüel dehasına rağmen, Sovyetler Birliği ve Parti disiplini adına kendi fikirlerinden (özellikle en önemli kitabı Tarih ve Sınıf Bilinci'nden) vazgeçmesi ve özeleştiri vermesi büyük bir trajedi ve eleştiri konusudur."
+    },
+    {
+      "title": "Modernizm Düşmanlığı",
+      "text": "Sanatta modernizmi \"yozlaşma\" olarak görmesi, 20. yüzyılın en yaratıcı ve sarsıcı sanat eserlerini (Kafka, Beckett vb.) anlamasını engellemiş, onu estetik açıdan tutucu bir noktaya hapsetmiştir."
+    },
+    {
+      "title": "Aşırı Teorik Yük",
+      "text": "Sınıf bilincine yüklediği o muazzam \"tarihsel misyon\", gerçek işçilerin gündelik gerçekliğiyle her zaman örtüşmemiş, bazen fazla \"teorik bir kurgu\" olarak kalmıştır."
+    }
+  ]
+}

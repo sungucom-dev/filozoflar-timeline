@@ -1,0 +1,94 @@
+{
+  "subtitle": "Ruhsal İşgal, Şiddet ve Yeni İnsan (1925–1961)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Siyah Deri, Beyaz Maskeler (Peau noire, masques blancs)",
+      "body": "Fanon'un 27 yaşında yazdığı bu başyapıt, ırkçılığın klinik bir otopsisidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşağılık Kompleksi",
+          "text": "Sömürgeci sistem, sömürge altına alınan kişiye sürekli \"eksik\" ve \"uygarlaşmamış\" olduğunu aşılar. Bu baskı altında ezilen siyah insan, beyaz dünyada kabul görmek için \"beyaz maskeler\" takar (onlar gibi konuşur, onlar gibi davranır)."
+        },
+        {
+          "label": "Yabancılaşma",
+          "text": "Kişi kendi kültüründen ve benliğinden kopar, ancak beyaz dünya onu asla tam olarak \"kendinden biri\" olarak kabul etmez. Bu durum, öznenin kendi bedeni içinde bir yabancıya dönüşmesine neden olur."
+        }
+      ]
+    },
+    {
+      "title": "Yeryüzünün Lanetlileri: Şiddetin İşlevi",
+      "body": "Fanon'un ölüm döşeğinde tamamladığı bu eser, sömürgeciliğe karşı bir manifestodur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Temizleyici Şiddet",
+          "text": "Fanon, sömürgeciliğin zaten \"saf bir şiddet\" üzerine kurulduğunu savunur. Ona göre, sömürge altındaki insanın bu mutlak baskıdan kurtulması, ancak sömürgecinin kullandığı dili (şiddeti) ona geri iade etmesiyle mümkündür."
+        },
+        {
+          "label": "Arınma",
+          "text": "Şiddet burada sadece askeri bir taktik değil, sömürge insanının zihnindeki \"aşağılık duygusunu\" yıkan ve onu yeniden \"insan\" kılan psikolojik bir arınma sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Ulusal Kültür ve Entelijansiya",
+      "body": "Decolonization (Sömürgesizleşme) sürecinde yerli aydınların rolünü üç aşamaya ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Asimilasyon",
+          "text": "Aydın, sömürgecinin kültürünü taklit eder."
+        },
+        {
+          "label": "Eskiye Dönüş",
+          "text": "Kendi köklerini hatırlar ama bunu romantik ve statik bir geçmişte arar."
+        },
+        {
+          "label": "Mücadele",
+          "text": "Aydın, halkıyla bütünleşir ve gerçek bir ulusal kurtuluş edebiyatı/kültürü yaratır."
+        }
+      ]
+    },
+    {
+      "title": "Yeni İnsan Üzerine",
+      "body": "Fanon, sömürgecilik sonrası sadece toprakların kurtarılmasını yeterli bulmaz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Avrupa'yı Taklit Etmemek",
+          "text": "\"Avrupa'yı taklit etmeyi bırakalım\" der. Çünkü Avrupa, hümanizmden bahsederken dünyanın geri kalanında insanı katleden bir modeldir. Fanon, ne sömürgeciye benzeyen ne de geçmişe hapsolan \"Yeni bir İnsan\" ve \"Yeni bir İnsanlık\" hayal eder."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Post-Kolonyal Çalışmaların Temeli",
+      "text": "Edward Said'den Homi Bhabha'ya kadar modern dünyadaki tüm sömürgecilik sonrası eleştirilerin babasıdır."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Siyaseti sadece ekonomik bir mesele olmaktan çıkarıp, ırkçılığın insan ruhunda açtığı o \"görünmez yaraları\" dünyaya göstermiştir."
+    },
+    {
+      "title": "Kehanet Niteliğinde Uyarılar",
+      "text": "Sömürgecilik sonrası iktidara gelen yerli elitlerin (milli burjuvazinin) halkı nasıl sömürmeye devam edeceğini önceden görmüş ve uyarmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Şiddetin Yüceltilmesi",
+      "text": "Şiddeti bir \"arınma\" aracı olarak görmesi, Hannah Arendt gibi pek çok düşünür tarafından tehlikeli ve etik dışı bulunmuştur. Şiddetin her zaman \"özgürlük\" getirmeyeceği eleştirisi sıkça yapılır."
+    },
+    {
+      "title": "Manicilik (İkili Karşıtlık)",
+      "text": "Dünyayı \"sömürgeci\" ve \"yerli\" olarak iki kaskatı kampa bölmesi, bu iki dünya arasındaki gri alanları ve melezlikleri bazen göz ardı etmesine neden olmuştur."
+    },
+    {
+      "title": "Kısa Ömür",
+      "text": "36 yaşında lösemiden ölmesi, fikirlerinin post-kolonyal dönemin karmaşık devletleşme süreçlerinde nasıl evrileceğini görmemizi engellemiştir."
+    }
+  ]
+}

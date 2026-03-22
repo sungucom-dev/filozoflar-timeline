@@ -1,0 +1,94 @@
+{
+  "subtitle": "Göstergeler, Mitler ve Okurun Doğuşu (1915–1980)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Çağdaş Söylenler (Mythologies)",
+      "body": "Barthes'ın en popüler ve sarsıcı çalışmasıdır. Gündelik hayattaki kültürel olguları birer \"dil\" gibi okur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İkinci Derece Gösterge Sistemi",
+          "text": "Bir gösterge (örneğin bir Fransız askeri fotoğrafı), sadece bir \"asker\" demek değildir. O, Fransız imparatorluğunun büyüklüğünü anlatan bir \"mit\"e hizmet eder."
+        },
+        {
+          "label": "Doğallaştırma",
+          "text": "Mitin görevi, tarihsel ve siyasi olan bir şeyi (ideolojiyi), sanki \"doğanın bir kanunuymuş\" gibi masum ve kendiliğinden göstermektir. Reklamlar bize bir ürünü değil, bir yaşam tarzını \"doğal\" olarak sunar."
+        }
+      ]
+    },
+    {
+      "title": "Yazarın Ölümü (The Death of the Author)",
+      "body": "1967 yılında yazdığı bu makale, edebiyat eleştirisinde bir deprem yarattı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Otoritenin Sonu",
+          "text": "Bir metnin anlamı, onu yazan kişinin biyografisinde veya niyetinde gizli değildir. Metin bir kez yazıldığında, yazar \"ölür\" ve metin özgür kalır."
+        },
+        {
+          "label": "Okurun Doğuşu",
+          "text": "Anlamın asıl mekanı okurdur. Metin, okur onu her okuduğunda yeniden üretilir. Barthes için metin, bir \"cevap\" değil, bir \"oyun alanı\"dır."
+        }
+      ]
+    },
+    {
+      "title": "Studium ve Punctum (Camera Lucida)",
+      "body": "Annesinin ölümünden sonra fotoğraf üzerine yazdığı bu son eseri, görsel sanatlar için kutsal bir metin gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Studium",
+          "text": "Fotoğrafın kültürel, tarihsel ve genel ilgi uyandıran kısmıdır. \"Bu fotoğraf güzel, şurada çekilmiş\" deriz. Bilinçli bir ilgidir."
+        },
+        {
+          "label": "Punctum",
+          "text": "Fotoğrafın bizi aniden \"vuran\", kalbimize saplanan o tesadüfi detaydır. Birinin ayakkabısındaki sökük, bir çocuğun bakışındaki hüzün... Punctum kişiseldir, anlatılamaz ama hissedilir."
+        }
+      ]
+    },
+    {
+      "title": "S/Z ve Okunur/Yazılır Metinler",
+      "body": "Edebiyatı ikiye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Okunur Metin (Lisible)",
+          "text": "Okurun pasif kaldığı, anlamın ona hazır sunulduğu metinler (Klasik romanlar)."
+        },
+        {
+          "label": "Yazılır Metin (Scriptible)",
+          "text": "Okuru üretmeye zorlayan, anlamı parçalayan ve okuru bir \"yazar\" gibi oyunun içine katan modern metinler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kültürel Okuryazarlık",
+      "text": "Yüksek sanattan popüler kültüre kadar her şeyin analiz edilebileceğini göstererek \"Kültürel Çalışmalar\"ın önünü açmıştır."
+    },
+    {
+      "title": "Özgürleştirici Okuma",
+      "text": "Okuru pasif bir alıcı olmaktan çıkarıp, metnin üretiminde aktif bir ortak haline getirmiştir."
+    },
+    {
+      "title": "Dilsel Duyarlılık",
+      "text": "Kelimelerin ve imajların altındaki gizli güç ilişkilerini ifşa ederek, modern insanın manipülasyona karşı uyanık kalmasını sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Öznellik ve Keyfilik",
+      "text": "Özellikle geç dönem eserlerinde, analizleri o kadar kişisel ve edebi hale gelir ki; bilimsel bir \"yöntem\" olmaktan çıkıp bir \"deneme\" türüne dönüşür."
+    },
+    {
+      "title": "Aşırı Yapısöküm",
+      "text": "Her şeyi bir \"metin\" veya \"gösterge\" olarak görmek, bazen nesnelerin gerçek, fiziksel ve ekonomik gerçekliğini (maddi dünyayı) arka plana itme riski taşır."
+    },
+    {
+      "title": "Karmaşıklık",
+      "text": "Yazı üslubu o kadar oyunbaz ve kavramlarla yüklüdür ki; analiz ettiği o \"sıradan\" hayatın kendisinden bazen çok uzaklaşır."
+    }
+  ]
+}

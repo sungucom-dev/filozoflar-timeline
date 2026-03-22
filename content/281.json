@@ -1,0 +1,86 @@
+{
+  "subtitle": "Eleştirel Teori ve Araçsal Akıl (1895–1973)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Geleneksel ve Eleştirel Teori (1937)",
+      "body": "Horkheimer'ın felsefeye vurduğu en büyük mühür, teorinin ne işe yaradığını yeniden tanımlamasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Geleneksel Teori",
+          "text": "Bilim insanını \"tarafsız bir gözlemci\" sanır. Sadece dünyayı tasvir eder, sınıflar ve verili olanı kabul eder. Horkheimer'a göre bu, statükoyu gizlice onaylamaktır."
+        },
+        {
+          "label": "Eleştirel Teori",
+          "text": "\"Dünyayı sadece anlamak yetmez, onu değiştirmek gerekir\" diyen Marx'ın izindedir. Teori, verili olanı reddetmeli, toplumsal baskı mekanizmalarını ifşa etmeli ve insanı özgürleştirmeyi hedeflemelidir."
+        }
+      ]
+    },
+    {
+      "title": "Akıl Tutulması (Eclipse of Reason)",
+      "body": "Horkheimer'ın bireysel olarak en etkili eseridir. Aklın evrimini ikiye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesnel Akıl",
+          "text": "Antik Yunan'dan Aydınlanma'ya kadar var olan; \"Neyin iyi, neyin doğru, neyin adil\" olduğunu sorgulayan akıldır. Amacı, insanın evrendeki yerini ve değerleri anlamaktır."
+        },
+        {
+          "label": "Öznel (Araçsal) Akıl",
+          "text": "Modern dünyada nesnel akıl çökmüştür. Akıl artık değerleri tartışmaz; sadece belirlenmiş amaçlara (kâr, güç, verimlilik) ulaşmak için en uygun \"araçları\" hesaplar. Bir toplama kampının ne kadar \"verimli\" çalıştığını hesaplayan akıl, araçsal akıldır."
+        }
+      ]
+    },
+    {
+      "title": "Aydınlanma'nın Diyalektiği (Adorno ile)",
+      "body": "Adorno ile birlikte yazdıkları bu metinde, Horkheimer kurumsal ve tarihsel perspektifi sağlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mitolojiye Dönüş",
+          "text": "İnsanlığı doğadan kurtarmaya söz veren Aydınlanma, her şeyi sayılara ve hesaplara indirgeyince, kendisi yeni bir \"mitolojiye\" ve baskı aracına dönüşmüştür. Özgürlük vaadi, kaskatı bir bürokrasi ve teknoloji hakimiyetiyle sonuçlanmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Otoriter Kişilik ve Aile",
+      "body": "Horkheimer, faşizmin sadece bir siyasi hata değil, \"aile\" içinde başlayan psikolojik bir süreç olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Baba Figürü",
+          "text": "Ekonomik krizlerle sarsılan babanın otoritesini kaybetmesi, bireyleri bu boşluğu dolduracak \"güçlü liderlere\" (Führer vb.) sığınmaya itmiştir. Bu analiz için Freud'u Marksizmle ilk kez bu kadar sıkı birleştiren odur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Disiplinlerarası Devrim",
+      "text": "Felsefeyi sadece soyut bir düşünce olmaktan çıkarıp, ampirik sosyoloji ve psikolojiyle birleştirerek \"Sosyal Teori\"nin modern babası olmuştur."
+    },
+    {
+      "title": "Araçsal Akıl Analizi",
+      "text": "Bugün bile teknolojinin ve algoritmanın hayatımızı nasıl sadece \"verimlilik\" üzerinden yönettiğini anlamak için en güçlü araç hala onunkidir."
+    },
+    {
+      "title": "Akademik Özgürlük",
+      "text": "Nazilerden kaçıp Enstitü'yü New York'a taşıyarak, eleştirel düşüncenin yok olmasını engellemiş ve koca bir nesli etkilemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Karanlık Pesimizm",
+      "text": "Adorno ile paylaştığı o meşhur karamsarlık, bazen \"her şey bitti, kurtuluş yok\" noktasına vararak eylemi felç edebilir."
+    },
+    {
+      "title": "Geç Dönem Muhafazakârlığı",
+      "text": "Hayatının sonunda Marksizm'den uzaklaşıp Schopenhauerci bir teolojiye ve hatta daha geleneksel değerlere yaklaşması, radikal takipçileri tarafından bir \"ihanet\" olarak görülmüştür."
+    },
+    {
+      "title": "Seçkinci Dil",
+      "text": "Halkı özgürleştirmeyi amaçlasa da, teorisini halkın neredeyse hiç anlayamayacağı kadar yüksek ve akademik bir dille kurmuştur."
+    }
+  ]
+}

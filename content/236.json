@@ -1,0 +1,90 @@
+{
+  "subtitle": "Evrensel Evrim ve Sosyal Organizma (1820–1903)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Evrensel Evrim Yasası",
+      "body": "Spencer için evrim, evrenin temel yasasıdır. Ona göre her şey (madde, canlılar, toplum) şu yöne doğru hareket eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Basitten Karmaşığa",
+          "text": "Belirsiz ve tekdüze bir yapıdan (homojenlik), belirli ve çok yönlü bir yapıya (heterojenlik) geçiş. Örnek: İlkel kabileler (basit) → Modern sanayi toplumları (karmaşık)."
+        }
+      ]
+    },
+    {
+      "title": "Sosyal Darwinizm: \"En Uygun Olanın Hayatta Kalması\"",
+      "body": "Spencer, biyolojik evrim yasalarını doğrudan sosyal hayata uygular.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğal Seçilim Toplumdadır",
+          "text": "Toplumda da tıpkı doğada olduğu gibi bir rekabet vardır. Güçlü olan, zeki olan ve çevreye uyum sağlayan başarılı olur; zayıf ve yetersiz olan elenir."
+        },
+        {
+          "label": "Müdahale Karşıtlığı",
+          "text": "Devletin yoksullara, zayıflara veya \"yetersizlere\" yardım etmesine şiddetle karşı çıkar. Ona göre bu tür yardımlar, evrimin doğal ayıklama sürecini bozar ve toplumun genel kalitesini düşürür."
+        }
+      ]
+    },
+    {
+      "title": "Organik Benzetme (Organizma Olarak Toplum)",
+      "body": "Comte gibi Spencer da toplumu biyolojik bir organizmaya benzetir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sistemler Arası Bağ",
+          "text": "Toplumun da tıpkı bir canlı gibi \"beslenme\" (üretim), \"dağıtım\" (ticaret/ulaşım) ve \"düzenleme\" (devlet/sinir sistemi) mekanizmaları vardır."
+        },
+        {
+          "label": "Büyüme",
+          "text": "Toplumlar büyüdükçe yapıları karmaşıklaşır ve organlar (kurumlar) arasında bağımlılık artar."
+        }
+      ]
+    },
+    {
+      "title": "Birey Devlete Karşı (The Man Versus the State)",
+      "body": "Spencer aşırı bir Laissez-faire (bırakınız yapsınlar) savunucusudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gönüllü İşbirliği",
+          "text": "Toplumların \"askeri\" (otoriter) yapılardan \"endüstriyel\" (özgür ve gönüllü) yapılara evrildiğini savunur."
+        },
+        {
+          "label": "Sınırlı Devlet",
+          "text": "Devletin tek görevi güvenliği sağlamak ve sözleşmeleri korumaktır. Eğitim, sağlık ve hatta posta hizmetleri bile özel sektöre bırakılmalıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sosyolojik Metodoloji",
+      "text": "Toplumsal kurumların işlevlerini inceleyerek modern sosyolojinin \"işlevselci\" (functionalist) ekolünün temellerini atmıştır."
+    },
+    {
+      "title": "Evrimsel Perspektif",
+      "text": "Değişimi bir \"sapma\" değil, doğal bir \"yasa\" olarak görerek modern tarih ve toplum analizlerine dinamizm katmıştır."
+    },
+    {
+      "title": "Bireysel Haklar",
+      "text": "Devletin her alana müdahale etmesine karşı çıkışı, modern liberteryen düşüncenin köşe taşlarından biri olmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Bilimsel Yanılgı",
+      "text": "Biyolojik yasaları (hayatta kalma mücadelesi) doğrudan ahlaki ve hukuki birer emir gibi sunması, \"olan\" ile \"olması gereken\" arasındaki o derin uçurumu görmezden gelmesine yol açmıştır."
+    },
+    {
+      "title": "Eşitsizliğin Meşrulaştırılması",
+      "text": "Fikirleri, sömürgeciliği, ırkçılığı ve aşırı ekonomik eşitsizliği \"doğal bir yasa\"ymış gibi göstermek isteyenler tarafından uzun süre suistimal edilmiştir."
+    },
+    {
+      "title": "Aşırı İyimserlik",
+      "text": "Evrimin her zaman \"daha iyiye\" ve \"daha mükemmele\" götüreceğine dair sarsılmaz inancı, tarihteki yıkımları ve geri gidişleri açıklamakta zorlanır."
+    }
+  ]
+}

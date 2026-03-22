@@ -1,0 +1,94 @@
+{
+  "subtitle": "Saçma, Başkaldırı ve Güneş (1913–1960)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Absürt (Saçma) Nedir?",
+      "body": "Camus'nün felsefesi bir çatışmadan doğar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Uyumsuzluk",
+          "text": "İnsan zihni, dünyadan bir \"anlam\", bir \"neden\" ve \"mantık\" talep eder. Ancak evren bu talebe kaskatı bir sessizlikle cevap verir. İşte bu iki kutup arasındaki uçurum Saçma'dır."
+        },
+        {
+          "label": "Soru",
+          "text": "Hayat saçmaysa, intihar bir çözüm müdür? Camus \"Hayır\" der. İntihar, saçmayı ortadan kaldırır; oysa asıl olan saçmayla beraber yaşamak ve ona meydan okumaktır."
+        }
+      ]
+    },
+    {
+      "title": "Sisifos Söyleni: Mutlu Bir Mahkûm",
+      "body": "Kral Sisifos, tanrılar tarafından bir kayayı sonsuza dek bir tepenin zirvesine çıkarmakla cezalandırılmıştır. Kaya zirveye her ulaştığında aşağı yuvarlanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilinçli Direniş",
+          "text": "Sisifos, kaderinin anlamsızlığının farkındadır. Ama tam da o farkındalık anında, tanrılara galip gelir."
+        },
+        {
+          "label": "Sonuç",
+          "text": "\"Tepelere doğru tek başına didinmek bile bir insan yüreğini doldurmaya yeter. Sisifos'u mutlu hayal etmek gerekir.\" Çünkü o, anlamsızlığa rağmen \"yaşamayı\" seçmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Başkaldıran İnsan (L'Homme révolté)",
+      "body": "Camus, bireysel saçmadan toplumsal ahlaka geçer.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "\"Başkaldırıyorum, O Halde Varız\"",
+          "text": "Descartes'ın \"Düşünüyorum\"u yerine bunu koyar. Başkaldırı, insanın kendi onuruna ve diğerlerinin haklarına sahip çıkmasıdır."
+        },
+        {
+          "label": "Sınırlar",
+          "text": "Camus, ideolojiler uğruna cinayet işlenmesine (Stalinizm veya her türlü terör) şiddetle karşı çıkar. Başkaldırı, bir başkasının hayatını yok etmeye başladığı an \"zulüm\" olur."
+        }
+      ]
+    },
+    {
+      "title": "Akdeniz Duyarlılığı ve Güneşin Karanlığı",
+      "body": "Camus, Kuzey Avrupa felsefesinin o karanlık, kaskatı metafiziğine karşı \"Akdeniz'in Işığı\"nı savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yabancı (Meursault)",
+          "text": "Meursault, annesinin ölümüne ağlamadığı için değil, \"güneş çok sıcak olduğu için\" cinayet işleyen, dünyanın anlamsızlığına dürüstçe uyum sağlayan o tuhaf karakterdir."
+        },
+        {
+          "label": "Veba",
+          "text": "Veba salgını, hayatın beklenmedik trajedilerini simgeler. Camus için tek çözüm, bir kahraman olmak değil, \"işini dürüstçe yapmak\" ve dayanışmadır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dürüstlük",
+      "text": "Komünizmin hatalarını herkes sustuğunda söyleyecek kadar cesurdur. İdeolojilere değil, \"insana\" sadık kalmıştır."
+    },
+    {
+      "title": "Yaşam Sevinci",
+      "text": "Felsefeyi kederli bir hapisane olmaktan çıkarıp, denizin, aşkın ve güneşin tadını çıkaran bir \"haz ve direniş\" alanına taşımıştır."
+    },
+    {
+      "title": "Modern Trajedi",
+      "text": "Modern insanın anlamsızlık ve yalnızlık duygusunu en iyi tarif eden (ve buna karşı onurlu bir çıkış yolu sunan) yazardır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Cezayir Meselesi",
+      "text": "Cezayir'in bağımsızlık savaşı sırasında takındığı \"annem ve adalet arasında kalırsam annemi seçerim\" tavrı, sömürgecilik karşıtı çevrelerce sertçe eleştirilmiştir."
+    },
+    {
+      "title": "Metafizik Hafiflik",
+      "text": "Sartre ve profesyonel filozoflar onu bir \"edebiyatçı\" olarak görmüş, felsefi sisteminin yeterince derin ve kaskatı olmadığını savunmuşlardır."
+    },
+    {
+      "title": "Aşırı Bireycilik",
+      "text": "Çözümü toplumsal dönüşümden ziyade, bireyin kendi içsel başkaldırısında görmesi, kolektif eylemi zayıflatan bir unsur olarak görülmüştür."
+    }
+  ]
+}

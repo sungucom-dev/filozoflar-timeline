@@ -1,0 +1,94 @@
+{
+  "subtitle": "Meta-Anlatıların Sonu ve Postmodernlik (1924–1998)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Büyük Anlatılara (Meta-Anlatı) Duyulan Güvensizlik",
+      "body": "Lyotard'ın en meşhur tanımıdır: \"Postmodernlik, meta-anlatılara duyulan bir güvensizliktir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Büyük Anlatılar Nedir?",
+          "text": "Tüm insanlığı tek bir hedefe (özgürlük, eşitlik, akıl) doğru götürdüğünü iddia eden devasa teorilerdir. (Örn: \"Akıl bizi her zaman özgürleştirir\" veya \"Tarih mutlaka sınıfsız topluma gider\")."
+        },
+        {
+          "label": "Çöküş",
+          "text": "Lyotard'a göre Auschwitz, Gulaglar ve çevresel krizler bu anlatıların \"geçerliliğini\" yitirdiğini kanıtlamıştır. Artık kimse \"tek bir büyük cevap\" olduğuna inanmamaktadır."
+        }
+      ]
+    },
+    {
+      "title": "Bilginin Metalaşması ve Bilgisayarlar",
+      "body": "Lyotard, internet ve bilgisayar çağının sonuçlarını 1970'lerde öngörmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilgi Artık Güçtür",
+          "text": "Bilgi, artık \"bilge olmak\" için değil, satılmak ve kullanılmak için üretilen bir meta (eşya) haline gelmiştir."
+        },
+        {
+          "label": "Performans Kriteri",
+          "text": "Bir bilginin \"doğru\" olup olmadığı değil, \"işe yarayıp yaramadığı\" (performansı) önem kazanmıştır. Bilgisayarlaşan bir toplumda, dile dökülemeyen ve veriye dönüşemeyen her türlü bilgi dışlanır."
+        }
+      ]
+    },
+    {
+      "title": "Dil Oyunları ve Çoğulculuk",
+      "body": "Wittgenstein'dan aldığı bu kavramı toplumsal bir seviyeye taşır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Küçük Anlatılar",
+          "text": "Büyük anlatıların yerini; yerel, sınırlı ve geçici \"küçük hikâyeler\" almıştır. Her grubun kendi dil oyunu, kendi hakikati vardır."
+        },
+        {
+          "label": "Bütünselliğe Savaş",
+          "text": "Lyotard \"Bütüne savaş açalım!\" der. Çünkü ona göre bir sistemi \"tek ve tam\" hale getirme çabası, kaçınılmaz olarak totalitarizme ve baskıya yol açar."
+        }
+      ]
+    },
+    {
+      "title": "Anlaşmazlık (Le Différend)",
+      "body": "Lyotard'ın etik ve hukuki zirvesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dilsiz Mağduriyet",
+          "text": "İki taraf arasındaki bir anlaşmazlıkta, eğer kural ve dil sadece bir tarafın (güçlü olanın) lehine ise, diğer taraf derdini anlatamaz. İşte bu \"temsil edilememe\" haline Anlaşmazlık der."
+        },
+        {
+          "label": "Görev",
+          "text": "Felsefenin görevi, bu sessiz kalan mağdurlara bir ses bulmak ve \"dile gelmeyeni\" duyurmaktır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modernite Otopsisi",
+      "text": "Modern dünyanın o aşırı iyimser ve bazen baskıcı olan \"ilerleme\" inancına karşı en dürüst ve gerçekçi uyarıları o yapmıştır."
+    },
+    {
+      "title": "Çoğulculuğun Zaferi",
+      "text": "Azınlıkların, farklı kültürlerin ve yerel dillerin \"büyük sistemler\" tarafından ezilmemesi için felsefi bir kalkan oluşturmuştur."
+    },
+    {
+      "title": "Teknoloji Öngörüsü",
+      "text": "Bilginin dijitalleşmesinin toplumsal bağları nasıl çözeceğini ve \"performans\" odaklı bir eğitime nasıl dönüşeceğini dâhiyane bir şekilde analiz etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Parçalanma Çıkmazı",
+      "text": "Eğer her şey \"küçük anlatı\" ise, evrensel insan hakları veya küresel adalet gibi \"büyük\" sorunlar için nasıl bir ortak zemin bulacağımız belirsiz kalır."
+    },
+    {
+      "title": "Rölativizm (Görecelik)",
+      "text": "\"Herkesin kendi hakikati vardır\" anlayışı, bazen yalanın ve dezenformasyonun da \"bir bakış açısı\" olarak meşrulaşmasına (post-truth) kapı aralayabilir."
+    },
+    {
+      "title": "Etik Zayıflık",
+      "text": "Büyük anlatıları yıktığında, yerine insanlığı bir arada tutacak güçlü bir \"ortak ahlak\" koymakta zorlandığı söylenebilir."
+    }
+  ]
+}

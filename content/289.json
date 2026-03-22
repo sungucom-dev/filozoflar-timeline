@@ -1,0 +1,102 @@
+{
+  "subtitle": "Monomit, Maskeler ve Mutluluk (1904–1987)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kahramanın Yolculuğu (The Hero's Journey)",
+      "body": "Campbell'ın 1949'da yayımlanan Bin Yüzlü Kahraman kitabı, dünya üzerindeki binlerce mitin tek bir temel yapıya (Monomit) sahip olduğunu kanıtladı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ayrılış",
+          "text": "Kahraman sıradan dünyasından bir çağrı alır ve bilinmeyene adım atar."
+        },
+        {
+          "label": "Erginlenme",
+          "text": "Ejderhalarla savaşır, sınavlar verir, ölür ve yeniden doğar."
+        },
+        {
+          "label": "Dönüş",
+          "text": "Kazandığı \"iksiri\" (bilgeliği) toplumuyla paylaşmak üzere geri döner. Bu yapı sadece masallarda değil, bir insanın kendi hayatındaki büyüme sürecinde de geçerlidir."
+        }
+      ]
+    },
+    {
+      "title": "Mutluluğunun Peşinden Git (Follow Your Bliss)",
+      "body": "Campbell'ın en çok bilinen ama belki de en çok yanlış anlaşılan yaşam felsefesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hedonizm Değildir",
+          "text": "Bu söz \"canının her istediğini yap\" demek değildir. Kişinin kendi derin doğasıyla, ruhunun gerçek çağrısıyla uyum içinde olmasıdır."
+        },
+        {
+          "label": "Görünmez Kapılar",
+          "text": "Campbell, bir kişi kendi tutkusunu takip ettiğinde, daha önce orada olmayan kapıların ona açılacağını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Mitolojinin Dört İşlevi",
+      "body": "Campbell, mitlerin insanlık için dört temel görevi olduğunu söyler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mistik",
+          "text": "Varoluşun gizemi karşısında bir hayranlık uyandırmak."
+        },
+        {
+          "label": "Kozmolojik",
+          "text": "Evrenin yapısını ve işleyişini bir düzen içinde sunmak."
+        },
+        {
+          "label": "Sosyolojik",
+          "text": "Toplumsal düzeni ve ahlakı desteklemek, meşrulaştırmak."
+        },
+        {
+          "label": "Pedagojik",
+          "text": "Bireyi çocukluktan ölüme kadar yaşamın aşamalarında rehberlik ederek eğitmek."
+        }
+      ]
+    },
+    {
+      "title": "Tanrının Maskeleri (The Masks of God)",
+      "body": "Ona göre Tanrı, ulaşılamaz bir varlıktan ziyade bir \"metafor\"dur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pencereler",
+          "text": "Mitler ve dinler, \"bilinemez olan hakikate\" açılan pencerelerdir. Pencerelerin çerçeveleri (kültürler) değişse de, içeriden süzülen ışık aynıdır. Campbell bizi \"maskeye\" takılıp kalmamaya, arkasındaki ışığı görmeye davet eder."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Popüler Kültür Mimarı",
+      "text": "George Lucas'a Star Wars'u yazarken ilham vererek, modern sinemanın ve edebiyatın hikâye anlatma dilini kökten değiştirmiştir."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Jung'un arketiplerini hayatın içine, eyleme ve maceraya taşımıştır. Mitolojiyi \"başkalarının dini\" olmaktan çıkarıp \"insanın içsel biyografisi\" yapmıştır."
+    },
+    {
+      "title": "Dinler Arası Köprü",
+      "text": "Dinler arasındaki çatışmaları sembolik düzeyde eriterek, ortak bir \"insanlık dini\" (Spiritüallik) zemini hazırlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Genelleme Tuzağı",
+      "text": "Akademik antropologlar, Campbell'ın farklı kültürlerin kendine has özelliklerini (nüanslarını) \"tek bir kalıba sığdırmak\" uğruna göz ardı ettiğini savunurlar."
+    },
+    {
+      "title": "Cinsiyet Rolleri",
+      "text": "Yazıldığı dönemin etkisiyle, \"Kahraman\"ı genellikle eril bir figür olarak tanımlaması; dişil kahraman yolculuğunu (Heroine's Journey) gölgede bıraktığı için eleştirilmiştir."
+    },
+    {
+      "title": "Romantizm",
+      "text": "Mitolojiyi bazen o kadar çok bireysel psikolojiye indirgemiştir ki, mitlerin gerçek tarihsel, siyasi ve ekonomik kökenlerini es geçmiş olabilir."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Deneyim, Eğitim ve Demokrasi (1859–1952)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Enstrümantalizm: Bir Araç Olarak Akıl",
+      "body": "Dewey için düşünce, dünyayı yansıtan bir ayna değil, karşılaşılan sorunları aşmak için geliştirilen bir \"araç\"tır (instrument).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sorgulama Süreci",
+          "text": "Bilgi, statik bir şey değildir. Bir sorunla karşılaşırız, hipotezler kurarız, deneriz ve sonuç alırız. Eğer çözüm işe yarıyorsa, o \"doğru\"dur."
+        },
+        {
+          "label": "Hakikat Yerine \"Onaylanmış İddia\"",
+          "text": "Dewey \"mutlak hakikat\" kelimesinden hoşlanmaz. Bunun yerine, deneylerle kanıtlanmış ve o anki sorunu çözen \"onaylanmış iddialar\" (warranted assertibility) kavramını kullanır."
+        }
+      ]
+    },
+    {
+      "title": "Eğitim: Hayatın Kendisi",
+      "body": "Dewey, modern eğitim sisteminin babası sayılır. Onun için okul, hayata hazırlık değil, \"hayatın bizzat kendisidir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yaparak Öğrenme (Learning by Doing)",
+          "text": "Öğrenci pasif bir alıcı değil, aktif bir araştırmacı olmalıdır. Bilgi, ancak bir eylem içinde deneyimlenirse gerçek olur."
+        },
+        {
+          "label": "Çocuk Merkezli Eğitim",
+          "text": "Müfredat çocuğun ilgilerine ve kapasitesine göre şekillenmelidir. Okul, minyatür bir demokratik toplumdur."
+        }
+      ]
+    },
+    {
+      "title": "Bir Yaşam Biçimi Olarak Demokrasi",
+      "body": "Demokrasi Dewey için sadece bir yönetim biçimi (sandık, oy verme vb.) değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Katılım ve İletişim",
+          "text": "Demokrasi, insanların ortak sorunları üzerine beraberce kafa yorduğu, iletişim kurduğu ve paylaşılan bir \"deneyim\" biçimidir."
+        },
+        {
+          "label": "Kamusal Alan",
+          "text": "Halkın kendi sorunlarını fark etmesi ve bunları çözmek için \"kamu\" haline gelmesi gerektiğini savunur."
+        }
+      ]
+    },
+    {
+      "title": "Sanat Olarak Deneyim",
+      "body": "Dewey, estetiği sadece galerilere hapsolmuş tablolar olarak görmez.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Estetik Akış",
+          "text": "Tamamlanmış, bütünlüklü ve anlamlı olan her \"deneyim\" bir sanat eseridir. Bir yemeği büyük bir ustalıkla pişirmek veya bir sorunu zekice çözmek de estetik bir değer taşır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Pratik Etki",
+      "text": "Fikirleri, dünya genelinde eğitim sistemlerini kökten değiştirmiş; sınıfları \"ezber odaları\"ndan \"laboratuvarlar\"a dönüştürmüştür."
+    },
+    {
+      "title": "İnsancıl ve İyimser",
+      "text": "İnsanın aklıyla ve iş birliğiyle her türlü sorunu çözebileceğine dair sarsılmaz bir inanç aşılamıştır."
+    },
+    {
+      "title": "Bütüncül Bakış",
+      "text": "Zihin ve beden, düşünce ve eylem arasındaki o kadim uçurumu başarıyla kapatmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İyimserlik",
+      "text": "İnsanın rasyonel bir iş birliğiyle her sorunu çözeceğine dair inancı, 20. yüzyılın o korkunç totaliter rejimleri ve şiddeti karşısında bazen \"safça\" bulunmuştur."
+    },
+    {
+      "title": "Metafizik Eksikliği",
+      "text": "Varlığın derin anlamı, ölüm veya aşkınlık gibi konuları \"pratik bir karşılığı yok\" diye biraz fazla geri plana itmesi, ruhsal derinlik arayanları tatmin etmeyebilir."
+    },
+    {
+      "title": "Yöntem Bağımlılığı",
+      "text": "Her şeyi \"bilimsel sorgulama\" yöntemine indirgemesi, sanatı ve ahlakı fazla \"teknik\" bir sürece dönüştürme riski taşır."
+    }
+  ]
+}

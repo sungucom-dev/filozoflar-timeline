@@ -1,0 +1,94 @@
+{
+  "subtitle": "Bütünsel Birlik ve Sofya'nın Işığı (1853–1900)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bütünsel Birlik (Vseedinstvo)",
+      "body": "Solovyov'un felsefesinin merkezinde her şeyin birbirine bağlı olduğu fikri yatar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Bağlılık",
+          "text": "Evren, birbirinden kopuk parçalar yığını değil; Tanrı'da birleşen, organik ve canlı bir bütündür."
+        },
+        {
+          "label": "Sentez Arayışı",
+          "text": "Bilgi (bilim), eylem (siyaset) ve duygu (din) birbirinden ayrılamaz. Gerçek bilgi, ancak bu üçünün bütünleşmesiyle (\"Bütünsel Bilgi\") mümkündür."
+        }
+      ]
+    },
+    {
+      "title": "Sofyoloji: İlahi Hikmetin Dişil Yüzü",
+      "body": "Solovyov, hayatı boyunca üç kez \"Sofya\" (İlahi Hikmet) görüsü yaşadığını iddia etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sofya Nedir?",
+          "text": "O, Tanrı ile dünya arasındaki köprüdür; yaratılışın ruhu ve ideal insanlıktır. Sofya, evrendeki kaosu düzene ve güzelliğe dönüştüren dişil bir bilgelik ilkesidir."
+        },
+        {
+          "label": "Ebedi Dişilik",
+          "text": "Bu kavramla, Rus edebiyatındaki sembolizm akımını (Blok, Bely vb.) derinden etkilemiş ve ilahi olanın sadece eril değil, aynı zamanda dişil bir öz taşıdığını savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Tanrı-İnsanlık (Bogochelovechestvo)",
+      "body": "Nietzsche'nin \"Üstinsan\"ına karşı Solovyov \"Tanrı-İnsan\"ı koyar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Manevi Evrim",
+          "text": "İnsanlık, hayvani doğasından kurtulup ilahi doğaya doğru evrilen bir süreçtedir. İsa Mesih, bu sürecin en somut ve ideal örneğidir."
+        },
+        {
+          "label": "Kolektif Kurtuluş",
+          "text": "Kurtuluş bireysel değil, tüm insanlığın ve doğanın \"tanrısallaşması\" (theosis) ile gerçekleşecektir."
+        }
+      ]
+    },
+    {
+      "title": "Evrensel Kilise ve Teokrasi",
+      "body": "Solovyov, Hristiyan dünyasındaki ayrılıklardan (Ortodoks, Katolik, Protestan) nefret ediyordu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ekumenizm",
+          "text": "Roma Papası'nın ruhani liderliği ile Rus Çarı'nın dünyevi gücünün birleştiği, sevgiye dayalı bir \"Evrensel Teokrasi\" hayal etmiştir."
+        },
+        {
+          "label": "Adalet",
+          "text": "Gerçek bir dindar toplumun, sadece dua etmekle yetinmeyip sosyal adaleti ve yoksulların korunmasını sağlaması gerektiğini savunmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Rus Felsefesinin Temeli",
+      "text": "Rusya'da dağınık halde bulunan dini ve felsefi düşünceleri ilk kez sistemli bir yapıya kavuşturmuştur."
+    },
+    {
+      "title": "Hümanizmin Manevileşmesi",
+      "text": "Batı'nın seküler hümanizmini reddetmek yerine, onu manevi bir derinlikle zenginleştirmeye çalışmış; insan haklarını ilahi bir temele oturtmuştur."
+    },
+    {
+      "title": "Barışçıl Vizyon",
+      "text": "Dinler ve mezhepler arası diyalog konusunda çağının çok ötesinde, birleştirici bir dil kullanmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasi Naiflik",
+      "text": "Çar ve Papa'nın birleşmesi gibi siyasi projeleri, dönemin reel politiği içinde son derece gerçekdışı ve uygulanabilir olmaktan uzaktır."
+    },
+    {
+      "title": "Aşırı Mistisizm",
+      "text": "Sofya görülerine ve ezoterik deneyimlere dayanan argümanları, rasyonel ve bilimsel bir tartışma zemininden kolayca kopabilir."
+    },
+    {
+      "title": "Çelişkili Son Dönem",
+      "text": "Hayatının sonunda yazdığı Üç Konuşma ve Deccal Kıssası eserlerinde, o eski \"yeryüzünde cennet\" iyimserliğini kaybetmiş, kıyametçi ve karanlık bir pesimizme kaymıştır."
+    }
+  ]
+}

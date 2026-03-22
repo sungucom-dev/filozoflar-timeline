@@ -1,0 +1,94 @@
+{
+  "subtitle": "Pragmatizm, Bilinç Akışı ve İnanma İradesi (1842–1910)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Pragmatizm: \"Hakikat İşe Yaradığı Sürece Doğrudur\"",
+      "body": "James için hakikat, bir nesne ile bir fikir arasındaki statik bir ilişki değildir; hakikat, bir fikrin başına gelen bir süreçtir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nakit Değer (Cash Value)",
+          "text": "Bir fikrin doğruluğu, o fikrin hayatımızda yarattığı somut farka ve pratik sonuçlara bağlıdır. Eğer bir inanç hayatımızı daha iyi, daha verimli veya daha anlamlı kılıyorsa, o inanç \"doğrudur.\""
+        },
+        {
+          "label": "Esneklik",
+          "text": "Hakikat değişmez bir put değildir; yeni deneyimlerle birlikte genişleyen ve evrilen bir araçtır."
+        }
+      ]
+    },
+    {
+      "title": "Bilinç Akışı (Stream of Consciousness)",
+      "body": "Psikolojiye yaptığı en büyük katkı, zihnin işleyişini tanımlama biçimidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Süreklilik",
+          "text": "Düşünceler, birbirine eklenen atomlar gibi değildir; bir nehir veya akıntı gibi kesintisizdir. Zihnimiz sürekli değişen, seçen ve odaklanan bir yapıya sahiptir."
+        },
+        {
+          "label": "Seçici Dikkat",
+          "text": "Zihin pasif bir alıcı değil, gerçekliği kendi ihtiyaçlarına göre şekillendiren aktif bir \"heykeltıraş\"tır."
+        }
+      ]
+    },
+    {
+      "title": "İnanma İradesi (The Will to Believe)",
+      "body": "James, kanıtın yetersiz olduğu durumlarda bile inanmanın meşru olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Canlı Seçenekler",
+          "text": "Bazı kararlar (din, sevgi, ahlak) bilimsel olarak kanıtlanamaz ama hayatımız için hayati öneme sahiptir."
+        },
+        {
+          "label": "Kendi Kendini Doğrulayan Kehanet",
+          "text": "Bazen bir şeye inanmak, o şeyin gerçekleşmesi için gereken cesareti sağlar. Örneğin, bir işi başarabileceğinize inanmanız, başarmanızın ön koşuludur."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Empirizm ve Plüralizm",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İlişkilerin Gerçekliği",
+          "text": "Evrendeki nesneler kadar, bu nesneler arasındaki bağlantılar ve deneyimler de gerçektir."
+        },
+        {
+          "label": "Çokluk (Plüralizm)",
+          "text": "Evren tek bir merkezden (Monizm) yönetilen kapalı bir sistem değil; ucu açık, henüz tamamlanmamış ve pek çok farklı sesin bir arada olduğu bir \"çokluk\"tur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İnsancıl Yaklaşım",
+      "text": "Felsefeyi soyut tartışmalardan kurtarıp, insanın acılarına, umutlarına ve dini ihtiyaçlarına cevap veren bir araç haline getirmiştir."
+    },
+    {
+      "title": "Psikoloji ve Felsefe Köprüsü",
+      "text": "İnsan davranışlarını sadece biyolojik değil, felsefi ve ruhsal bir bütünlük içinde incelemiş; \"Psikolojinin İlkeleri\" eseriyle çığır açmıştır."
+    },
+    {
+      "title": "Açık Kapı Felsefesi",
+      "text": "Dogmatizme ve determinizme karşı çıkarak insana her zaman \"başka bir ihtimal daha var\" diyerek umut vermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hakikat Kavramının Esnemesi",
+      "text": "\"İşe yarayan doğrudur\" ilkesi, bazen hoşumuza giden her yalanın \"hakikat\" sayılmasına yol açabilecek kadar suistimale açık bir zemin bırakabilir."
+    },
+    {
+      "title": "Bilimsel Keskinlik Eksikliği",
+      "text": "Peirce gibi sert mantıkçılar tarafından, pragmatizmi fazla \"psikolojik\" ve \"gevşek\" bir hale getirmekle eleştirilmiştir."
+    },
+    {
+      "title": "Öznelci Sınırlar",
+      "text": "İnancı kanıttan üstün tutma eğilimi, rasyonel tartışma zeminini zayıflatma riski taşır."
+    }
+  ]
+}

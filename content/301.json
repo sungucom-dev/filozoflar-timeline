@@ -1,0 +1,90 @@
+{
+  "subtitle": "Ortam, Uzantılar ve Elektronik Devrim (1911–1980)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ortam Mesajdır (The Medium is the Message)",
+      "body": "McLuhan'ın en ünlü ve en çok yanlış anlaşılan cümlesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçerik Yanılsaması",
+          "text": "Bir televizyon programının ne anlattığı (içeriği) aslında o kadar önemli değildir. Önemli olan, televizyonun kendisinin (ortamın) insanın zaman, mekân ve ilişki algısını nasıl \"formatladığı\"dır."
+        },
+        {
+          "label": "Örnek",
+          "text": "Elektrik ışığı, içeriği olmayan bir ortamdır ama geceyi gündüze çevirerek tüm sosyal yapımızı değiştirir. McLuhan'a göre \"içerik\", zihni meşgul eden \"etli bir kemik\" gibidir; asıl işi yapan ise o kemiği taşıyan ortamın kendisidir."
+        }
+      ]
+    },
+    {
+      "title": "Teknolojik Uzantılar (Extensions of Man)",
+      "body": "Teknolojiyi vücudumuzun dışarıya doğru büyümesi olarak tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tekerlek / Kitap",
+          "text": "Tekerlek ayağın uzantısıdır; kitap gözün uzantısıdır; elektronik medya ise merkezi sinir sistemimizin dünya çapında bir uzantısıdır."
+        },
+        {
+          "label": "Bedel",
+          "text": "Her uzantı, aynı zamanda o organın \"kendi başına\" çalışma yeteneğini köreltir (Amputasyon). Telefonla rehberimiz genişler ama numara ezberleme yeteneğimiz budanır."
+        }
+      ]
+    },
+    {
+      "title": "Küresel Köy (Global Village)",
+      "body": "Elektronik hız, mekân ve zamanı yok ederek dünyayı küçültür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yeniden Kabileleşme",
+          "text": "Matbaa bizi bireyselleştirmiş ve \"okuyan yalnız insanlar\" yapmıştı. Elektronik medya (radyo, TV ve bugün internet) bizi tekrar bir \"köy\" meydanına toplar. Ancak bu köy huzurlu bir yer değildir; herkesin herkesin işine karıştığı, dedikodunun ve çatışmanın ışık hızıyla yayıldığı gürültülü bir yerdir."
+        }
+      ]
+    },
+    {
+      "title": "Sıcak ve Soğuk Medya",
+      "body": "Medya araçlarını, izleyicinin \"katılımına\" göre ikiye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sıcak Medya (Hot)",
+          "text": "Yüksek veri yoğunluğuna sahip, kullanıcıya boşluk bırakmayan ortamlardır. (Radyo, sinema, fotoğraf, matbaa)."
+        },
+        {
+          "label": "Soğuk Medya (Cool)",
+          "text": "Düşük veri yoğunluğuna sahip, kullanıcının boşlukları doldurmasını gerektiren ortamlardır. (Televizyon, telefon, konuşma, karikatür)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Geleceği Görme",
+      "text": "İnterneti, sosyal medyayı ve \"bilgi patlamasını\" daha 1960'larda öngörmüştür. Bugün yaşadığımız dijital dönüşümün \"kullanım kılavuzunu\" o zaman yazmıştır."
+    },
+    {
+      "title": "Algı Devrimi",
+      "text": "İnsanın dünyayı sadece fikirlerle değil, duyularıyla ve kullandığı araçlarla anladığını göstererek iletişim çalışmalarını psikoloji ve nörolojiyle birleştirmiştir."
+    },
+    {
+      "title": "Kültürel Etki",
+      "text": "\"Pop-art\"tan modern reklamcılığa kadar tüm görsel kültürü etkilemiş; felsefeyi akademik fildişi kulelerinden çıkarıp popüler kültürün bir parçası yapmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Teknolojik Determinizm",
+      "text": "Toplumsal değişimin tek sebebini teknolojiye bağlaması, siyasi, ekonomik ve insani iradeyi bazen fazla yok saydığı eleştirisine yol açar."
+    },
+    {
+      "title": "Sistemsizlik",
+      "text": "Yazıları ve konuşmaları genellikle bir \"mozaik\" gibidir. Mantıksal bir sıra izlemek yerine aforizmalarla ilerlemesi, onu \"bilim dışı\" veya \"şovmen\" olarak görenlerin sayısını artırmıştır."
+    },
+    {
+      "title": "İçerik İhmali",
+      "text": "\"Ortam mesajdır\" diyerek, medyanın içinde taşınan dezenformasyonun, nefret söyleminin veya propaganda içeriğinin yarattığı somut zararları bazen küçümsemiş olabilir."
+    }
+  ]
+}

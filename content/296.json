@@ -1,0 +1,90 @@
+{
+  "subtitle": "Beden, Algı ve Dünyanın Eti (1908–1961)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yaşanan Beden (Le Corps-Propre)",
+      "body": "Merleau-Ponty'nin felsefeye vurduğu en büyük darbe, bedene iade-i itibar etmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beden Nesne Değildir",
+          "text": "Benim bedenim, biyolojik bir makine veya dışarıdan izlediğim bir \"şey\" değildir. Bedenim, benim dünyaya açılan kapım, bizzat \"benim varoluşumdur.\""
+        },
+        {
+          "label": "Dünya-İçinde-Varlık",
+          "text": "Ben dünyayı bedenim aracılığıyla \"kavrarım.\" Bir elmayı sadece düşünmem, ona uzanırım, ağırlığını hissederim. Zihin ve beden, bir eldiven ile el gibi iç içe geçmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Algının Önceliği (La Primauté de la Perception)",
+      "body": "1945 tarihli şaheseri Algının Fenomenolojisi, modern felsefenin yönünü değiştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Algı Bir İnşa Değildir",
+          "text": "Ampiristlerin dediği gibi duyumların toplamı, rasyonalistlerin dediği gibi zihnin bir kurgusu değildir. Algı, dünyayla kurduğumuz o en temel, en ilkel ve en doğrudan \"karşılaşmadır.\""
+        },
+        {
+          "label": "Bütünlük",
+          "text": "Bir evi gördüğümde sadece bir cephesini görürüm ama zihnim ve bedenim o evin bir \"bütün\" olduğunu zaten bilir. Algı, eksik parçaları tamamlayan aktif bir \"dünyaya yerleşme\" eylemidir."
+        }
+      ]
+    },
+    {
+      "title": "Dünyanın Eti (La Chair) ve Kiazma",
+      "body": "Son dönem eserlerinde felsefesini daha mistik ve ontolojik bir boyuta taşır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Et (Flesh)",
+          "text": "\"Et\", ne sadece beden ne de sadece maddedir. O, hem beni hem de dünyayı oluşturan o ortak kumaştır. Dünya ve ben, aynı kumaştan kesilmiş parçalar gibiyizdir."
+        },
+        {
+          "label": "Gören ve Görülen",
+          "text": "Ben dünyaya bakarken, dünya da bana bakar. Dokunduğumda, dokunulabilir olduğumu fark ederim. Bu iç içe geçme haline \"Kiazma\" (çaprazlama) der."
+        }
+      ]
+    },
+    {
+      "title": "Siyaset ve Görünürlük",
+      "body": "Merleau-Ponty, Sartre gibi Marksizm ile ilgilenmiş ancak onun \"radikal özgürlük\" fikrini fazla soyut bulmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şartlı Özgürlük",
+          "text": "Özgürlük, boşlukta gerçekleşmez. Biz her zaman belirli bir tarihin, dilin ve bedenin içinde özgürüzdür. Onun siyaseti, \"insanlar arasındaki görünürlük\" ve somut bağlar üzerinedir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilişsel Bilimlerin Öncüsü",
+      "text": "Bugünün modern sinirbilimi ve \"yapay zekâ\" tartışmalarında (bedenlenmiş zihin teorileri), Merleau-Ponty'nin fikirleri en temel referans noktasıdır."
+    },
+    {
+      "title": "Düalist Yıkım",
+      "text": "Ruh ve beden, özne ve nesne arasındaki o yapay uçurumu yıkarak insanı yeniden dünyasına iade etmiştir."
+    },
+    {
+      "title": "Sanat ve Estetik",
+      "text": "Resim sanatı (özellikle Cézanne) üzerine yazdıkları, sanatın sadece bir \"görüntü\" değil, dünyanın yeniden keşfi olduğunu muazzam bir dille anlatmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dilin Zorluğu",
+      "text": "Özellikle son dönem eserlerinde kullandığı \"Et\", \"Kiazma\" gibi kavramlar o kadar şiirsel ve müphemdir ki, felsefi bir kesinlik arayanları hayal kırıklığına uğratabilir."
+    },
+    {
+      "title": "Etik Boşluk",
+      "text": "Beden ve algı üzerine kaskatı bir sistem kursa da, \"başkasına karşı ahlaki sorumluluk\" konusunda Sartre veya Levinas kadar net ve güçlü bir etik teori sunmamıştır."
+    },
+    {
+      "title": "Siyasi Değişkenlik",
+      "text": "Başlarda Sovyetler Birliği'ne duyduğu ilgi ve sonradan yaşadığı derin hayal kırıklığı, onun siyasi çizgisini bazen \"kararsız\" olarak göstermiştir."
+    }
+  ]
+}

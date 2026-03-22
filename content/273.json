@@ -1,0 +1,90 @@
+{
+  "subtitle": "İlk-Gelenek, Kali Yuga ve Metafizik (1886–1951)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İlk-Gelenek (Tradition Primordiale)",
+      "body": "Guénon'un tüm felsefesinin kalbi budur. Ona göre tüm dinlerin, mitlerin ve kadim medeniyetlerin altında yatan tek, evrensel ve \"insan-üstü\" bir kaynak vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Birlik",
+          "text": "Dinler bu temel hakikatin farklı dillerdeki \"zarflarıdır.\""
+        },
+        {
+          "label": "Bozulma",
+          "text": "Tarih ilerleme değil, bu saf kaynaktan uzaklaşma ve \"gerileme\" sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Modern Dünyanın Bunalımı ve Kali Yuga",
+      "body": "Guénon, içinde bulunduğumuz çağı Hint kozmolojisindeki Kali Yuga (Karanlık Çağ) ile açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Niceliğin Saltanatı",
+          "text": "Modern dünya niteliği (anlamı) öldürüp yerine niceliği (sayıyı, maddeyi, hızı) koymuştur."
+        },
+        {
+          "label": "Bireycilik",
+          "text": "Guénon için \"birey\" olmak bir başarı değil, bütünden kopuş ve bir zayıflıktır. Rönesans ve Reform, onun gözünde hakikatin parçalandığı birer felakettir."
+        }
+      ]
+    },
+    {
+      "title": "Sembolizm: Hakikatin Dili",
+      "body": "Ona göre semboller, insanların icat ettiği \"işaretler\" değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yansıma",
+          "text": "Gerçek semboller, yüksek alemlerin bu dünyadaki nesnel yansımalarıdır. Örneğin \"haç\" veya \"çember\" sadece birer geometrik şekil değil, evrensel yasaların matematiksel görüntüleridir."
+        },
+        {
+          "label": "Anti-Okültizm",
+          "text": "Guénon, dönemindeki Teozofi ve Spiritüalizm gibi akımları \"sahte gelenekler\" (counter-tradition) olarak görerek sertçe eleştirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "İnisiyasyon ve Manevi Zincir (Silsile)",
+      "body": "Guénon'a göre metafizik bilgi kitaplardan öğrenilemez.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aktarım",
+          "text": "Kişinin hakikate ulaşabilmesi için, kaynağı bozulmamış bir \"zincire\" (İnisiyasyon) dahil olması gerekir. Bu yüzden hayatının son döneminde İslam'ı seçmiş ve tasavvuf yolunda (Şazeliye tarikatı) bu kopmamış bağı bulmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modernite Eleştirisi",
+      "text": "Batı medeniyetinin ruhsal boşluğunu, materyalizmin çıkmazlarını ve \"ilerleme\" mitinin kofluğunu en sistemli ve derinlemesine yapan isimdir."
+    },
+    {
+      "title": "Metafizik Berraklık",
+      "text": "Doğu ve Batı metafiziğini sentezleyerek, \"ezoterizm\" kavramını sulandırılmış bir gizemcilikten çıkarıp rasyonel ve ciddi bir disiplin haline getirmiştir."
+    },
+    {
+      "title": "Gelenekselci Ekol",
+      "text": "Frithjof Schuon'dan Seyyid Hüseyin Nasr'a kadar devasa bir düşünce okulunun temelini atmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Seçkinclik",
+      "text": "Hakikati sadece \"inisiyye\" olmuş çok küçük bir elit gruba hapsetmesi, felsefesini geniş kitleler ve toplumsal sorunlar için \"ulaşılamaz\" ve \"soğuk\" kılabilir."
+    },
+    {
+      "title": "İlerleme Düşmanlığı",
+      "text": "Bilimsel ve teknolojik ilerlemeyi tamamen bir \"sapma\" olarak görmesi, modern dünyanın sunduğu somut iyileştirmeleri (tıp, insan hakları vb.) bazen tamamen göz ardı etmesine neden olur."
+    },
+    {
+      "title": "Tarihsel Determinizm",
+      "text": "Dünyayı sadece kaçınılmaz bir \"çöküş\" içinde görmesi, insanın dünyayı değiştirme ve iyileştirme iradesini felç edebilir."
+    }
+  ]
+}

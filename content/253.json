@@ -1,0 +1,89 @@
+{
+  "subtitle": "Gösterge, Yapı ve Dilin Keyfiliği (1857–1913)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Dilsel Gösterge: Gösteren ve Gösterilen",
+      "body": "Saussure'e göre dil, nesnelerin isimlerinden oluşan bir liste değildir; o, \"göstergelerden\" oluşan bir sistemdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gösteren (Signifiant)",
+          "text": "Kelimenin ses imgesi veya yazılı biçimi (Örn: \"A-G-A-Ç\" sesleri)."
+        },
+        {
+          "label": "Gösterilen (Signifié)",
+          "text": "Bu seslerin zihnimizde çağrıştırdığı kavram (Örn: Zihindeki \"ağaç\" kavramı/ideası)."
+        },
+        {
+          "label": "Nedensizlik (Arbitrariness)",
+          "text": "Bir nesneye neden \"ağaç\" dediğimizin mantıksal bir sebebi yoktur; bu tamamen toplumsal bir uzlaşıdır. Bu radikal fikir, dilin gerçekliği yansıtmadığını, onu \"kurguladığını\" söyler."
+        }
+      ]
+    },
+    {
+      "title": "Langue (Dil) vs. Parole (Söz)",
+      "body": "Saussure, dilbilimin asıl çalışma nesnesini belirlemek için muazzam bir ayrım yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Langue (Dil)",
+          "text": "Dilin soyut kurallar sistemi, grameri ve sözlüğü. Toplumsal bir mirastır ve kimse onu tek başına değiştiremez. (Satrancın kuralları gibi)."
+        },
+        {
+          "label": "Parole (Söz)",
+          "text": "Bireyin o sistemi kullanarak gerçekleştirdiği her bir somut konuşma eylemi. (O an yapılan bir satranç hamlesi gibi). Saussure için asıl incelenmesi gereken, bireysel konuşmalar değil, alttaki o devasa \"Langue\" sistemidir."
+        }
+      ]
+    },
+    {
+      "title": "Eşzamanlılık (Synchronic) vs. Artzamanlılık (Diachronic)",
+      "body": "Dili incelemenin iki yolu vardır ve Saussure \"eşzamanlılığa\" öncelik verir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Artzamanlılık",
+          "text": "Kelimelerin tarihsel gelişimi ve kökeni (Etimoloji)."
+        },
+        {
+          "label": "Eşzamanlılık",
+          "text": "Dilin belirli bir andaki (şu anki) yapısı ve göstergeler arasındaki ilişkiler. Saussure'e göre dili anlamak için onun tarihine değil, şu anki sistemin nasıl işlediğine bakılmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Farklılık Yoluyla Anlam (Value)",
+      "body": "Dilde hiçbir şey kendi başına anlamlı değildir. Bir gösterge, sadece diğer göstergelerden \"farklı\" olduğu için bir değere sahiptir. \"Sıcak\" kelimesi anlamını \"soğuk\" olmadığı için kazanır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Dilbilimin Doğuşu",
+      "text": "Dili bilimsel bir yöntemle incelenebilir kılmış; antropolojiden psikanalize, edebiyat eleştirisinden sosyolojiye kadar tüm \"Yapısalcılık\" (Structuralism) akımını başlatmıştır."
+    },
+    {
+      "title": "Kültürel Analiz",
+      "text": "Göstergebilimin (Semiyoloji) kapısını açarak sadece kelimelerin değil, moda, reklamlar, mimari ve jestler gibi her türlü kültürel ürünün \"okunabilir\" birer metin olduğunu göstermiştir."
+    },
+    {
+      "title": "Gerçekliğin İnşası",
+      "text": "Gerçekliğin dilden bağımsız olmadığını, dili kullanarak dünyayı nasıl kategorize ettiğimizi fark etmemizi sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Statik Yapı",
+      "text": "Dili çok fazla \"sabit bir kural sistemi\" (Langue) olarak görmesi, dilin tarihsel dönüşümünü ve toplumsal çatışmalarla nasıl değiştiğini biraz gölgede bırakmıştır."
+    },
+    {
+      "title": "Özneyi Dışlaması",
+      "text": "Sistemi o kadar merkeze alır ki, dili kullanan \"insanın\" yaratıcılığı, niyeti ve bireysel etkisi bu devasa yapının içinde neredeyse yok olur."
+    },
+    {
+      "title": "Referans Sorunu",
+      "text": "Kelimeler ile dış dünyadaki nesneler arasındaki bağı (referans) tamamen koparıp dili kendi içine kapalı bir oyun haline getirmesi, daha sonraki felsefeciler tarafından gerçeklikten kopuklukla eleştirilmiştir."
+    }
+  ]
+}

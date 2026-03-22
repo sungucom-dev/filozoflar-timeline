@@ -1,0 +1,105 @@
+{
+  "subtitle": "Üstinsan, Güç İstenci ve Bengü Dönüş (1844–1900)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Tanrı Öldü\" ve Nihilizm",
+      "body": "Nietzsche'nin bu en meşhur sözü bir kutlama değil, bir tespittir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Merkezin Kaybı",
+          "text": "Tanrı'nın ölmesi, nesnel ahlakın ve mutlak hakikatin artık bir dayanağının kalmaması demektir. Bu, insanlığı devasa bir nihilizm (hiçlik) uçurumuna sürükler."
+        },
+        {
+          "label": "Yeni Değerler",
+          "text": "İnsan ya bu boşlukta kaybolacaktır ya da kendi değerlerini kendisi yaratarak bu boşluğu aşacaktır."
+        }
+      ]
+    },
+    {
+      "title": "Üstinsan (Übermensch)",
+      "body": "İnsan, aşılması gereken bir şeydir; hayvan ile Üstinsan arasında gerilmiş bir iptir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kendi Yasasını Koymak",
+          "text": "Üstinsan, \"sürü\"ye uymayan, geleneksel ahlakın zincirlerini kıran ve hayatı bir sanat eseri gibi kurgulayan kişidir."
+        },
+        {
+          "label": "Sonuncu İnsan",
+          "text": "Üstinsan'ın zıttı \"Sonuncu İnsan\"dır; sadece konfor ve güvenlik arayan, yaratıcılıktan yoksun, sürüye ait bireydir."
+        }
+      ]
+    },
+    {
+      "title": "Güç İstenci (Wille zur Macht)",
+      "body": "Schopenhauer'in \"Yaşama İstenci\"ne bir cevaptır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gelişim ve Hâkimiyet",
+          "text": "Hayat sadece hayatta kalmaya çalışmak değildir; hayat, kendi sınırlarını aşmak, genişlemek ve hükmetmek isteyen bir enerjidir. Her canlı, kendi gücünü artırma dürtüsüyle hareket eder."
+        }
+      ]
+    },
+    {
+      "title": "Bengü Dönüş (Eternal Recurrence)",
+      "body": "Felsefe tarihinin en ağır yükü ve en büyük yaşam sınavıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ebedi Tekrar",
+          "text": "\"Yaşadığın bu hayatı, tüm acıları ve sevinçleriyle sonsuza kadar, aynı şekilde tekrar tekrar yaşayacak olsaydın, buna 'evet' diyebilir miydin?\""
+        },
+        {
+          "label": "Yaşamı Onaylamak",
+          "text": "Bu düşünce, her anı sonsuz bir değerle yaşamayı ve kadere aşık olmayı (Amor Fati) gerektirir."
+        }
+      ]
+    },
+    {
+      "title": "Apollon ve Dionysos",
+      "body": "Sanatın ve yaşamın iki temel gücü.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Apollon",
+          "text": "Düzen, rasyonalite, ölçü ve ışık."
+        },
+        {
+          "label": "Dionysos",
+          "text": "Coşku, sarhoşluk, kaos, müzik ve yaşam fışkırması. Nietzsche, Batı dünyasının Apollon'u yüceltip Dionysos'u (yaşam enerjisini) bastırdığını savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikolojik Deha",
+      "text": "İnsanın en derin, karanlık ve bastırılmış dürtülerini (hınç, güç arzusu vb.) Freud'dan önce teşhis etmiş bir \"ruh çözümleyicisi\"dir."
+    },
+    {
+      "title": "Bireysel Özgürlük",
+      "text": "İnsanı kitle afyonlarından ve sahte tesellilerden kurtarıp, kendi hayatının sorumluluğunu almaya zorlamıştır."
+    },
+    {
+      "title": "Kültürel Eleştiri",
+      "text": "Modernitenin ve akademik felsefenin kuruluğunu sarsarak, felsefeye yeniden \"kan ve ateş\" katmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yanlış Anlaşılmalar",
+      "text": "Metinlerinin aşırı metaforik ve aforizmatik olması, naziler gibi pek çok karanlık ideolojinin onu suistimal etmesine (felsefesini çarpıtarak) zemin hazırlamıştır."
+    },
+    {
+      "title": "Merhamet Karşıtlığı",
+      "text": "\"Efendi ahlakı\"nı yüceltip merhameti bir \"zayıflık\" olarak görmesi, toplumsal dayanışma ve etik temelinde ciddi bir boşluk yaratır."
+    },
+    {
+      "title": "Sistem Karşıtlığı",
+      "text": "Tutarlı bir sistem kurmadığı için, fikirleri bazen kendi içinde çelişebilir ve rasyonel bir tartışma zemininden çok \"duygusal bir haykırış\" gibi görünebilir."
+    }
+  ]
+}

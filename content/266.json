@@ -1,0 +1,98 @@
+{
+  "subtitle": "Değerler, Hınç ve İnsanın Kozmostaki Yeri (1874–1928)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Değerlerin Fenomenolojisi ve Hiyerarşisi",
+      "body": "Scheler'e göre değerler (adalet, güzellik, kutsallık) öznel hisler değil, nesnel gerçekliklerdir. Biz onları yaratmayız, \"duygusal sezgi\" yoluyla keşfederiz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duyusal Değerler",
+          "text": "Haz ve acı (En alt basamak)."
+        },
+        {
+          "label": "Hayatî Değerler",
+          "text": "Sağlık, canlılık, asalet."
+        },
+        {
+          "label": "Ruhsal Değerler",
+          "text": "Estetik (güzellik), hukuk (adalet), saf hakikat."
+        },
+        {
+          "label": "Kutsal Değerler",
+          "text": "Aşkınlık, kutsallık, mutlak olan (En üst basamak)."
+        }
+      ]
+    },
+    {
+      "title": "Hınç (Ressentiment): Ahlakın Zehirlenmesi",
+      "body": "Nietzsche'den aldığı bu kavramı sosyolojik ve psikolojik bir şahesere dönüştürür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bastırılmış Öfke",
+          "text": "Hınç, bireyin ulaşamadığı bir değeri veya gücü elde edememesi sonucunda yaşadığı \"çaresiz kıskançlık\"tır."
+        },
+        {
+          "label": "Değer Kayması",
+          "text": "Hınç duyan kişi, ulaşamadığı o değeri küçümsemeye başlar (Örn: \"Zaten o kadar da iyi değil\"). Scheler'e göre modern ahlakın bir kısmı, gerçek sevgiden değil, bu gizli hınç duygusundan beslenir."
+        }
+      ]
+    },
+    {
+      "title": "Aşkın Düzeni (Ordo Amoris)",
+      "body": "Scheler için insan, her şeyden önce \"seven bir varlık\"tır (ens amans).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğru Sevmek",
+          "text": "Her insanın kendine has bir \"sevgi düzeni\" vardır. Eğer bu düzen bozuksa (Örn: Hazza kutsallıktan daha çok değer veriyorsa), o insan mutsuzdur."
+        },
+        {
+          "label": "Keşif Aracı Olarak Aşk",
+          "text": "Sevgi bir duygu değil, bir \"yönelim\"dir. Bir şeyi sevdiğimizde, o şeyin en yüksek potansiyelini ve değerini \"görürüz\"."
+        }
+      ]
+    },
+    {
+      "title": "İnsanın Kozmostaki Yeri",
+      "body": "Hayatının son döneminde geliştirdiği felsefi antropoloji, insanı evrendeki diğer varlıklardan ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tin (Geist) vs. Dürtü (Drang)",
+          "text": "Hayvanlar sadece dürtülerle yaşar. İnsan ise \"Tin\" (Ruh/Zihin) sahibidir. Tin sayesinde insan, kendi içgüdülerine \"Hayır!\" diyebilir ve dünyayı nesnel bir şekilde gözlemleyebilir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Duyguların İtibarını İade Etmek",
+      "text": "Duyguları rasyonelliğin \"zayıf halkası\" olarak görmekten çıkarıp, onları hakikate ulaşan en keskin \"bilgi organları\" haline getirmiştir."
+    },
+    {
+      "title": "Karakter Analizi",
+      "text": "\"Hınç\" analiziyle sadece felsefeyi değil, modern psikolojiyi ve sosyolojiyi de derinden etkilemiştir."
+    },
+    {
+      "title": "Kişi (Person) Kavramı",
+      "text": "İnsanı sadece bir biyolojik makine veya sosyal bir birim olarak değil, her biri eşsiz birer \"değer merkezi\" olan \"Kişi\" olarak tanımlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Öznellik Riski",
+      "text": "Değerlerin nesnel olduğunu iddia etse de, \"duygusal sezgi\"ye bu kadar güvenmesi, farklı insanların farklı sezgileri olduğunda aradaki anlaşmazlığı çözecek rasyonel bir zemin bırakmayabilir."
+    },
+    {
+      "title": "Tutarsızlık Suçlaması",
+      "text": "Hayatının bir döneminde koyu katolik, diğer döneminde panteist ve \"hayat felsefecisi\" olması; sisteminin bütünlüğü hakkında soru işaretleri yaratmıştır."
+    },
+    {
+      "title": "Seçkinci Tavır",
+      "text": "Değerler hiyerarşisi ve \"asalet\" vurgusu, bazen demokratik ve eşitlikçi toplum modelleriyle çelişen bir elitizm olarak yorumlanabilir."
+    }
+  ]
+}

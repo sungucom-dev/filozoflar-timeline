@@ -1,0 +1,86 @@
+{
+  "subtitle": "Mantık, Dil ve Şüphecilik (1872–1970)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Russell Paradoksu ve Matematiğin Temelleri",
+      "body": "Russell, felsefeye matematikteki o meşhur \"çatlağı\" bularak damga vurdu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Paradoks",
+          "text": "\"Kendini içermeyen tüm kümelerin kümesi, kendini içerir mi?\" Eğer içerirse içermemeli, içermezse içermeli! Bu paradoks, Frege'nin sistemini yıkmış ve Russell'ı Whitehead ile 10 yıl sürecek olan Principia Mathematica yolculuğuna çıkarmıştır."
+        },
+        {
+          "label": "Mantıkçılık",
+          "text": "Amacı, tüm matematiğin aslında saf mantıktan türetilebileceğini kanıtlamaktır."
+        }
+      ]
+    },
+    {
+      "title": "Betimlemeler Teorisi (Theory of Descriptions)",
+      "body": "Russell, dilin bizi nasıl yanılttığını \"Fransa Kralı\" örneğiyle açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mantıksal Çözümleme",
+          "text": "\"Şu anki Fransa Kralı keldir\" cümlesi gramer olarak doğrudur ama mantıksal olarak sorunludur (çünkü Fransa'nın kralı yoktur). Russell, dili analiz ederek bu tür \"sahte nesnelerin\" felsefeyi bulandırmasını engellemiştir. Ona göre felsefenin görevi, dilin altındaki gerçek mantıksal yapıyı ortaya çıkarmaktır."
+        }
+      ]
+    },
+    {
+      "title": "Mantıksal Atomizm",
+      "body": "Dünyayı dev bir bütün olarak gören Hegelci ve Whiteheadci görüşe karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Parçalara Ayırmak",
+          "text": "Dünya, birbirinden bağımsız \"atomik gerçeklerden\" oluşur. Bilgi, bu atomik gerçeklerin mantıksal olarak birleştirilmesiyle kurulur. Evren, organik bir canlı değil, mantıksal olarak çözümlenebilir bir yapıdır."
+        }
+      ]
+    },
+    {
+      "title": "Russell'ın Çaydanlığı ve Din Eleştirisi",
+      "body": "O, sadece bir mantıkçı değil, aynı zamanda cesur bir sosyal eleştirmendir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çaydanlık Analojisi",
+          "text": "Eğer ben \"Dünya ile Mars arasında yörüngede dönen porselen bir çaydanlık var\" dersem ve \"aksini kanıtlayamazsınız\" diye eklersem, kimse bana inanmak zorunda değildir. Kanıt yükümlülüğü iddia sahibindedir. Bu, din konusundaki agnostik/ateist duruşunun temelidir."
+        },
+        {
+          "label": "Neden Hristiyan Değilim?",
+          "text": "Dinlerin korkuya dayandığını ve insan gelişimini engellediğini savunan en güçlü metinlerden birini yazmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Analitik Devrim",
+      "text": "Felsefeyi şiirsel ve muğlak anlatımlardan kurtarıp, matematiksel bir netliğe ve mantıksal analize kavuşturmuştur."
+    },
+    {
+      "title": "Kamu Entelektüeli",
+      "text": "Felsefeyi fildişi kulesinden çıkarıp nükleer silahsızlanma, kadın hakları ve eğitim gibi somut meselelerin içine sokmuştur. 1950 Nobel Edebiyat Ödülü'nü bu \"insani idealleri\" savunan yazılarıyla almıştır."
+    },
+    {
+      "title": "Cesaret",
+      "text": "Görüşleri nedeniyle hapis yatmış, akademik kürsülerinden kovulmuş ama asla geri adım atmamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Wittgenstein Darbesi",
+      "text": "Kendi öğrencisi olan Wittgenstein, Russell'ın \"mantıksal atomizm\" ve \"Principia\" projesinin temellerini sarsmış; Russell ömrünün sonunda kendi mantık sisteminin yetersizliğini kabul etmek zorunda kalmıştır."
+    },
+    {
+      "title": "Aşırı Rasyonalizm",
+      "text": "İnsan hayatını ve duygularını bazen fazla \"mekanik\" bir mantık çerçevesinde görmesi, insanın irrasyonel ve mistik derinliğini ıskalamasına neden olmuştur."
+    },
+    {
+      "title": "Siyasi Değişkenlik",
+      "text": "Hayatı boyunca pasifizmden nükleer savaşı savunmaya kadar (SSCB'ye karşı) radikal siyasi dönüşler yaşaması, tutarlılık konusunda eleştirilmesine yol açmıştır."
+    }
+  ]
+}

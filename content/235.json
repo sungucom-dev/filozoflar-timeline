@@ -1,0 +1,85 @@
+{
+  "subtitle": "Doğa, Tarih ve Ailenin Kökeni (1820–1895)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İngiltere'de İşçi Sınıfının Durumu",
+      "body": "Engels, Marx ile tanışmadan önce 1845'te bu başyapıtı yazmıştı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Empirik Gözlem",
+          "text": "Manchester'daki fabrikalarda işçilerin yaşadığı dehşet verici koşulları (çocuk işçiliği, hastalıklar, barınma felaketi) bir sosyolog titizliğiyle raporlamıştır."
+        },
+        {
+          "label": "Sınıf Bilinci",
+          "text": "Sefaletin sadece bir \"şanssızlık\" değil, kapitalist sistemin zorunlu bir sonucu olduğunu ve bu durumun işçi sınıfını bir \"devrimci özne\"ye dönüştüreceğini ilk o netleştirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Ailenin, Özel Mülkiyetin ve Devletin Kökeni",
+      "body": "Marx'ın notlarından yola çıkarak yazdığı bu eser, antropolojik bir devrimdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ataerkilliğin Analizi",
+          "text": "Kadının ezilmesinin \"doğal\" değil, özel mülkiyetin ve mirasın ortaya çıkışıyla bağlantılı tarihsel bir olay olduğunu savunmuştur."
+        },
+        {
+          "label": "Devletin Sönümlenmesi",
+          "text": "Devletin ebedi olmadığını, sınıf çatışmalarını yönetmek için doğduğunu ve sınıfsız topluma geçildiğinde bir \"eski eşyalar müzesine\" kaldırılacağını öngörmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Doğanın Diyalektiği ve Anti-Dühring",
+      "body": "Engels, Marksizmi sadece bir toplum teorisi olmaktan çıkarıp evrensel bir bilimsel dünya görüşü (Diyalektik Materyalizm) haline getirmek istemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Diyalektik Yasalar",
+          "text": "Hegel'in diyalektiğini doğa bilimlerine (biyoloji, fizik) uygulamıştır."
+        },
+        {
+          "label": "Emeğin Rolü",
+          "text": "Maymundan insana geçişte \"el\"in ve \"emek\" eyleminin belirleyici rolünü vurgulayan tezi, evrimsel antropoloji için hala ufuk açıcıdır."
+        }
+      ]
+    },
+    {
+      "title": "\"General\" ve Sadık Dost",
+      "body": "Marx'ın Kapital'i bitirebilmesi için ömrü boyunca ona maddi destek sağlamış, Marx öldükten sonra ise o devasa el yazmalarını (2. ve 3. ciltleri) yayına hazırlayarak Marksizmin tarihsel bütünlüğünü kurtarmıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sistemleşme",
+      "text": "Marx'ın bazen parça parça ve aşırı karmaşık olan fikirlerini, geniş kitlelerin anlayabileceği tutarlı bir \"dünya görüşü\" haline getirmiştir."
+    },
+    {
+      "title": "Antropolojik Katkı",
+      "text": "Sosyalizme toplumsal cinsiyet ve aile yapısı gibi hayati boyutları ekleyerek teorinin kapsamını genişletmiştir."
+    },
+    {
+      "title": "Bilimle Köprü",
+      "text": "Sosyalizmi kendi çağının modern bilimsel gelişmeleriyle ilişkilendirerek ona \"bilimsel\" bir meşruiyet kazandırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Ekonomik Determinizm",
+      "text": "Tarihi bazen Marx'tan daha \"mekanik\" bir şekilde ekonomik yasalarla açıklama eğilimi göstermiş, bu da sonraki dönemlerde Marksizmin bazen katı ve esnek olmayan bir \"dogma\" olarak yorumlanmasına zemin hazırlamıştır."
+    },
+    {
+      "title": "Pozitivizm Etkisi",
+      "text": "Doğayı ve toplumu aynı katı yasalarla açıklama çabası, insan iradesinin ve öznelliğinin karmaşıklığını bazen arka plana itebilir."
+    },
+    {
+      "title": "Gölgede Kalmak",
+      "text": "Dehasını Marx'ın dehasına o kadar çok adamıştır ki, özgün katkıları (özellikle doğa felsefesi üzerindeki çalışmaları) uzun süre yeterince takdir edilmemiştir."
+    }
+  ]
+}

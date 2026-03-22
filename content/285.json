@@ -1,0 +1,98 @@
+{
+  "subtitle": "Ayna, Dil ve Arzu (1901–1981)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ayna Evresi (Le Stade du Miroir)",
+      "body": "Lacan'ın dünya çapında tanınmasını sağlayan ilk büyük kavramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yanılsamanın Doğuşu",
+          "text": "6-18 aylık bir bebek, aynadaki görüntüsünü fark ettiğinde bir coşku yaşar. Ancak bu \"bütünsel\" görüntü bir yalandır; çünkü bebek aslında hala koordinasyonsuz ve parçalı bir yapıdadır."
+        },
+        {
+          "label": "Ego Bir Kurgudur",
+          "text": "Lacan'a göre \"Ben\" (Ego), bu dışsal ve yabancı görüntüyle özdeşleşmekten doğan bir yanılsamadır. Yani özne, en baştan itibaren kendine yabancılaşmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Üç Düzen: İmgesel, Simgesel, Gerçek (RSI)",
+      "body": "Lacan, insan deneyimini birbiriyle iç içe geçmiş üç halka (Borromeo Düğümü) ile açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İmgesel (L'Imaginaire)",
+          "text": "Ayna evresiyle başlar. Görüntüler, benzerlikler ve egonun \"bütünlük\" yanılsaması buradadır."
+        },
+        {
+          "label": "Simgesel (Le Symbolique)",
+          "text": "Dilin, yasaların ve kültürün alanıdır. İnsan buraya girdiğinde artık bir \"Özne\" olur ama bedeli, arzularını dilin kalıplarına hapsetmektir. Buranın efendisi \"Büyük Öteki\"dir (Toplum/Baba)."
+        },
+        {
+          "label": "Gerçek (Le Réel)",
+          "text": "Kelimelerin bittiği, dilin temsil edemediği, dehşet verici ve ham olan alandır. \"Gerçek\" sembolize edilemez; o, sistemdeki bir deliktir."
+        }
+      ]
+    },
+    {
+      "title": "\"Bilinçdışı Bir Dil Gibi Yapılanmıştır\"",
+      "body": "Lacan'ın en meşhur mottosudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dilbilimsel Devrim",
+          "text": "Freud'un \"rüya çalışması\" dediği şey (yer değiştirme ve yoğunlaştırma), Lacan için aslında dilbilimsel birer sanattır: Metonimi ve Metafor."
+        },
+        {
+          "label": "Gösteren ve Gösterilen",
+          "text": "Lacan, göstereni (kelimeyi) gösterilenin (anlamın) üstüne koyar. Anlam sürekli kayar; biz asla nihai \"hakikate\" ulaşamayız, sadece kelimeler arasında dolaşırız."
+        }
+      ]
+    },
+    {
+      "title": "Arzu ve Objet petit a",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Öteki'nin Arzusu",
+          "text": "\"İnsan, Öteki tarafından arzulanmayı arzular.\" Kendi arzularımız sandığımız şeyler aslında toplumun, annenin veya babanın bize dikte ettiği arzulardır."
+        },
+        {
+          "label": "Arzu Nesnesi (a)",
+          "text": "Arzu, asla ulaşılamayacak olan o \"kayıp parçanın\" peşindedir. Objet petit a, arzuyu sürekli canlı tutan ama asla ele geçmeyen o hayali \"küçük nesne\"dir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikanalizin Entelektüel Rönesansı",
+      "text": "Psikanalizi tıp dünyasının dar sınırlarından çıkarıp edebiyat, sinema ve siyaset teorisinin (Zizek vb.) kalbine yerleştirmiştir."
+    },
+    {
+      "title": "Özne Analizi",
+      "text": "İnsanın nasıl bir \"dil varlığı\" olduğunu ve kimliğimizin ne kadar kırılgan, inşa edilmiş bir yapı olduğunu dâhiyane bir şekilde göstermiştir."
+    },
+    {
+      "title": "Hümanizm Eleştirisi",
+      "text": "\"Ben kendi kendimin efendisiyim\" diyen safça hümanizmi yıkarak, insanın büyük ölçüde dil ve yapı tarafından yönetildiğini kanıtlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Obskürantizm (Anlaşılmazlık)",
+      "text": "Yazılarını ve seminerlerini kasıtlı olarak o kadar karmaşık ve labirentvari bir dille kurgulamıştır ki, bu durum \"şarlatanlık\" suçlamalarına yol açmıştır."
+    },
+    {
+      "title": "Klinik Tartışmalar",
+      "text": "\"Kısa seanslar\" (seansı aniden bitirme) gibi sıra dışı yöntemleri nedeniyle Uluslararası Psikanaliz Birliği'nden (IPA) dışlanmıştır."
+    },
+    {
+      "title": "Fallosantrizm",
+      "text": "Kadın cinselliğini \"eksiklik\" üzerinden tanımlaması, Julia Kristeva ve Luce Irigaray gibi feminist düşünürler tarafından sertçe eleştirilmiştir."
+    }
+  ]
+}

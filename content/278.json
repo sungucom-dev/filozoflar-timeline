@@ -1,0 +1,94 @@
+{
+  "subtitle": "Hegemonya, Sivil Toplum ve Mevzi Savaşı (1891–1937)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kültürel Hegemonya (Hegemony)",
+      "body": "Gramsci'nin siyaset bilimine bıraktığı en büyük miras budur. İktidar sadece zor kullanarak (polis, ordu) ayakta kalmaz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Rıza İnşası",
+          "text": "Egemen sınıf, kendi değerlerini, ahlakını ve dünya görüşünü toplumun tamamına \"ortak duyu\" (common sense) olarak kabul ettirir."
+        },
+        {
+          "label": "Doğallaştırma",
+          "text": "Sömürülenler, bu durumu \"hayatın doğal akışı\" sanmaya başladıklarında, hegemonya tamamlanmış olur. İktidar artık kaba kuvvete ihtiyaç duymaz; çünkü insanlar zaten ona gönüllü olarak itaat etmektedir."
+        }
+      ]
+    },
+    {
+      "title": "Sivil Toplum ve Siyasi Toplum",
+      "body": "Gramsci devleti iki katmanlı bir yapı olarak analiz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Siyasi Toplum",
+          "text": "Doğrudan baskı araçlarıdır (Ordu, hukuk, polis)."
+        },
+        {
+          "label": "Sivil Toplum",
+          "text": "Okullar, aile, sendikalar, medya ve dini kurumlar. Gramsci'ye göre Batı gibi gelişmiş toplumlarda asıl iktidar savaşı \"Sivil Toplum\"da verilir. Devlet, dışarıdaki bir kale ise, sivil toplum o kaleyi koruyan devasa hendekler ve surlardır."
+        }
+      ]
+    },
+    {
+      "title": "Mevzi Savaşı (War of Position) vs. Hareket Savaşı",
+      "body": "Gramsci, devrimin neden Batı'da değil de Rusya'da (1917) gerçekleştiğini bu stratejiyle açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hareket Savaşı",
+          "text": "Zayıf sivil toplumu olan yerlerde (Eski Rusya gibi) doğrudan devlete saldırıp onu ele geçirmektir."
+        },
+        {
+          "label": "Mevzi Savaşı",
+          "text": "Güçlü sivil toplumu olan yerlerde (Modern Batı), önce kültürel alanda, kurumlarda ve zihinlerde iktidar kurmak gerekir. Bu, sabır gerektiren, uzun soluklu bir \"siper savaşı\"dır."
+        }
+      ]
+    },
+    {
+      "title": "Organik Aydınlar (Organic Intellectuals)",
+      "body": "Gramsci aydınları ikiye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Geleneksel Aydınlar",
+          "text": "Kendilerini sınıflar üstü sanan ama aslında eski düzeni koruyanlar (Rahipler, eski tip akademisyenler)."
+        },
+        {
+          "label": "Organik Aydınlar",
+          "text": "Her sınıfın kendi çıkarlarını anlatmak, örgütlemek ve o sınıfa bilinç kazandırmak için yarattığı aydınlardır. İşçi sınıfı da kendi \"organik aydınlarını\" yaratmadan hegemonya kuramaz."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kültürün Keşfi",
+      "text": "Marksizm'i ekonomi hapishanesinden çıkarıp ona \"insani, kültürel ve iradi\" bir boyut katmıştır. Bugün kültürel çalışmaların (cultural studies) atası sayılır."
+    },
+    {
+      "title": "Kötümser Zekâ, İyimser İrade",
+      "text": "\"Aklın kötümserliği, iradenin iyimserliği\" sözüyle, en zor şartlarda bile mücadelenin ve umudun nasıl korunacağını göstermiştir."
+    },
+    {
+      "title": "Modern Siyaset Analizi",
+      "text": "İktidarın sadece tepede değil, toplumun her hücresinde nasıl işlediğini göstererek modern sosyolojiye yön vermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Bağlam Sorunu",
+      "text": "Yazıları faşist hapishanelerde, sansürü aşmak için şifreli bir dille (Hapishane Defterleri) yazıldığı için bazen çok parçalı, dağınık ve yoruma fazlasıyla açıktır."
+    },
+    {
+      "title": "Sınıf Takıntısı",
+      "text": "Her ne kadar kültüre odaklansa da, her şeyi nihayetinde bir \"sınıf savaşına\" bağlaması, günümüzün kimlik, çevre veya toplumsal cinsiyet gibi farklı dinamiklerini açıklamakta bazen dar kalabilir."
+    },
+    {
+      "title": "Aydınlara Aşırı Güven",
+      "text": "\"Organik aydınların\" kitleleri her zaman doğru yönlendireceği ve bürokratikleşmeyeceği varsayımı, tarihsel pratiklerde (Sovyetler vb.) ciddi yaralar almıştır."
+    }
+  ]
+}

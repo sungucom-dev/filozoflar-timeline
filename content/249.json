@@ -1,0 +1,79 @@
+{
+  "subtitle": "Akıl, Islahat ve İslam Modernizmi (1849–1905)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Akıl ve Vahiy Uyumu",
+      "body": "Abduh için akıl, sadece teknik bir araç değil, Tanrı'nın insana bahşettiği en kutsal terazidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Akıl Dini Olarak İslam",
+          "text": "Ona göre İslam, aklı kullanmayı emreder. Eğer bir nakil (dini metin) ile akıl çelişirse, akıl o metni (mecaz veya tevil yoluyla) yorumlama hakkına sahiptir."
+        },
+        {
+          "label": "Taklitçiliğin (Taklid) Reddi",
+          "text": "Yüzyıllardır süregelen \"geçmiş alimlerin dediklerini körü körüne takip etme\" geleneğine savaş açmıştır."
+        }
+      ]
+    },
+    {
+      "title": "İçtihat Kapısının Yeniden Açılması",
+      "body": "Abduh, İslam dünyasının gerileme sebebini \"içtihat kapısının kapandığı\" inancına bağlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dinamik Hukuk",
+          "text": "Zaman değiştiğine göre, dini hükümlerin de aklın ve maslahatın (kamu yararı) ışığında yeniden yorumlanması gerektiğini savunur."
+        },
+        {
+          "label": "Selef-i Salihin'e Dönüş",
+          "text": "Amaç \"Batılılaşmak\" değil, İslam'ın ilk dönemindeki o saf, dinamik ve rasyonel öze geri dönerek modern dünyayla rekabet edebilmektir."
+        }
+      ]
+    },
+    {
+      "title": "Eğitim ve Toplumsal Islahat (Al-Azhar Reformu)",
+      "body": "Abduh bir teorisyen olduğu kadar bir eylem adamıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Modern Müfredat",
+          "text": "Kahire'deki meşhur El-Ezher Üniversitesi'nde matematik, tarih ve fen bilimlerinin de okutulması için büyük mücadeleler vermiştir."
+        },
+        {
+          "label": "Kadın Hakları ve Adalet",
+          "text": "Çok eşlilik ve eğitim gibi konularda kadının toplumdaki konumunu iyileştirecek reformist görüşler ileri sürmüştür."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern İslam Düşüncesinin Babası",
+      "text": "İslam dünyasının modernleşme sancılarına \"dışarıdan\" değil, \"içeriden\" (teolojik bir zeminle) cevap vererek milyonlarca insan için bir köprü kurmuştur."
+    },
+    {
+      "title": "Rasyonalizmi Canlandırmak",
+      "text": "Unutulmaya yüz tutmuş Mutezile benzeri rasyonel damarı tekrar canlandırarak, İslam'ın bilimle çelişmediğini teorik olarak kanıtlamaya çalışmıştır."
+    },
+    {
+      "title": "Müftü Olarak Pratik Çözümler",
+      "text": "Mısır Müftüsü olduğu dönemde verdiği fetvalarla, günlük hayatın tıkanmış noktalarına (bankacılık, sigorta vb.) modern çözümler getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Eleştiri Okları",
+      "text": "Gelenekçiler tarafından \"dini tahrif etmekle\", laikler tarafından ise \"eskiyi makyajlamakla\" suçlanmıştır."
+    },
+    {
+      "title": "İngiliz Etkisi Tartışması",
+      "text": "Lord Cromer gibi İngiliz işgalci figürlerle olan pragmatik ilişkisi, siyasi bağımsızlık konusunda bazı kesimlerce eleştirilmesine yol açmıştır."
+    },
+    {
+      "title": "Yarım Kalan Proje",
+      "text": "Erken vefatı (1905), başlattığı reform hareketinin (özellikle El-Ezher'de) tam anlamıyla kurumsallaşamamasına neden olmuştur."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "subtitle": "Benlik, Zaman ve Dinamik İslam (1877–1938)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Khudi (Benlik/Ego): Yaşamın Merkezi",
+      "body": "İkbal'in felsefesinin kalbi \"Khudi\" kavramıdır. Bu, pasif bir tasavvuf anlayışına (dünyadan el etek çekme) vurulan en büyük darbedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Benliği Güçlendirmek",
+          "text": "Ona göre hayatın amacı benliği yok etmek değil, onu Tanrı'nın huzurunda bile dimdik duracak kadar güçlendirmektir. Benlik, ne kadar yaratıcı ve aktif olursa, hakikate o kadar yaklaşır."
+        },
+        {
+          "label": "Aşk ve Hareket",
+          "text": "Benlik ancak \"Aşk\" (ideal bir amaç peşinde koşma) ve \"Hareket\" ile parlar. Durmak, İkbal için ölümdür."
+        }
+      ]
+    },
+    {
+      "title": "Zaman ve Yaratıcı Oluş",
+      "body": "İkbal, Bergson ve Whitehead'den derinden etkilenmiştir ancak kendi özgün yorumunu katmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Seri Zaman vs. Saf Süre",
+          "text": "İnsanların ölçtüğü \"takvim zamanı\" (seri zaman) bir yanılsamadır. Gerçek zaman, Allah'ın yaratıcı faaliyetinin kesintisiz akışıdır."
+        },
+        {
+          "label": "Sürekli Yaratılış",
+          "text": "Evren bitmiş, tamamlanmış bir makine değildir; her an yeniden yaratılan, genişleyen ve ucu açık bir süreçtir. İnsan da bu yaratım sürecinde Tanrı'nın \"ortağı\"dır."
+        }
+      ]
+    },
+    {
+      "title": "Mard-e-Momin (İdeal Mümin)",
+      "body": "Nietzsche'nin \"Üstinsan\" (Übermensch) kavramına İslami bir cevap niteliğindedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üstinsan vs. Mümin",
+          "text": "Nietzsche'nin Üstinsan'ı Tanrı'yı öldürerek özgürleşirken; İkbal'in \"İdeal Mümin\"i, gücünü Tanrı ile kurduğu bağdan alır. O, yeryüzünde Allah'ın halifesidir; hem celalli (güçlü) hem cemalli (merhametli) bir karakterdir."
+        },
+        {
+          "label": "Ahlaki Kudret",
+          "text": "Mard-e-Momin, dünyaya boyun eğmez; dünyayı kendi iman ve iradesiyle yeniden şekillendirir."
+        }
+      ]
+    },
+    {
+      "title": "İslam Düşüncesinin Yeniden Arzı",
+      "body": "En önemli nesir eseri İslam'da Dini Düşüncenin Yeniden İnşası kitabıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçtihat Kapısı",
+          "text": "İslam dünyasının geri kalışını, \"içtihat\" (yeniden yorumlama) kapısının kapanmasına bağlar. Dinin sabit bir dogma değil, her çağda yeniden kavranması gereken yaşayan bir ruh olduğunu savunur."
+        },
+        {
+          "label": "Batı Eleştirisi",
+          "text": "Batı'nın teknolojisini ve dinamizmini takdir ederken, ruhsuzluğunu ve emperyalist maddeciliğini sertçe eleştirir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Sentez",
+      "text": "Mevlana ile Nietzsche'yi, Kur'an ile Bergson'u bir araya getirerek Doğu ve Batı arasında nadir görülen derinlikte bir diyalog kurmuştur."
+    },
+    {
+      "title": "Siyasi Vizyon",
+      "text": "Pakistan'ın fikir babası olarak, sömürge altındaki halklara özgüven ve bağımsızlık ruhu aşılamıştır."
+    },
+    {
+      "title": "Dinamik Din Anlayışı",
+      "text": "İslam'ı statik bir kurallar bütünü olmaktan çıkarıp, evrensel bir değişim ve gelişim enerjisine dönüştürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Şiirsel Muğlaklık",
+      "text": "Fikirlerini çoğunlukla şiirsel ve metaforik bir dille ifade etmesi, felsefesinin bazen farklı ve çelişkili yönlere (hem radikalizm hem modernizm) çekilmesine zemin hazırlamıştır."
+    },
+    {
+      "title": "Siyasi Realite",
+      "text": "Hayal ettiği \"ideal İslam toplumu\" ve \"Müslümanların birliği\" vizyonu, modern dünyanın ulus-devlet gerçekleri ve mezhep çatışmaları karşısında oldukça ütopik kalmıştır."
+    },
+    {
+      "title": "Nietzsche Etkisi Tartışması",
+      "text": "Eleştirmenler, onun Nietzsche'den aldığı \"güç\" vurgusunun, İslam'ın geleneksel \"tevazu\" ve \"teslimiyet\" ilkeleriyle tam olarak nasıl bağdaştığını sorgulamaktadır."
+    }
+  ]
+}

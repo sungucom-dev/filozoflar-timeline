@@ -1,0 +1,94 @@
+{
+  "subtitle": "Basit Yaşam, Medeniyet ve Eros (1844–1929)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Medeniyet: Bir \"Hastalık\" Teşhisi",
+      "body": "Carpenter'ın en sarsıcı eseri olan Civilisation: Its Cause and Cure, endüstriyel topluma karşı yazılmış en sert manifestolardan biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hastalık Olarak Medeniyet",
+          "text": "Ona göre medeniyet, insanın doğadan ve kendi özünden koptuğu geçici bir \"hastalık\" aşamasıdır. Mülkiyet hırsı ve sınıfsal ayrımlar, insan ruhunu parçalamıştır."
+        },
+        {
+          "label": "Doğaya Dönüş",
+          "text": "Kurtuluş, karmaşık ve yapay ihtiyaçlardan kurtulup \"basit bir yaşama\" (Simple Life) dönmekte; yani el emeği, vejetaryenlik ve açık havada yatar."
+        }
+      ]
+    },
+    {
+      "title": "\"Ara Cins\" ve Cinsel Kurtuluş",
+      "body": "Carpenter, eşcinselliği bir \"hata\" değil, insanlığın evrimsel bir zenginliği olarak gören ilk modern düşünürlerdendir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "The Intermediate Sex (Ara Cins)",
+          "text": "Eşcinselliği, erkeklik ve kadınlık arasında köprü kuran \"üçüncü bir cins\" olarak tanımlamıştır. Bu kişilerin, toplumun sanatsal ve ruhsal gelişiminde özel bir role sahip olduğunu savunmuştur."
+        },
+        {
+          "label": "Aşkın Eşitliği",
+          "text": "George Merrill adında işçi sınıfından bir adamla yaklaşık 40 yıl boyunca açıkça beraber yaşaması, o dönem için hayal bile edilemeyecek bir cesaret örneğidir. E.M. Forster'ın meşhur Maurice romanı, bu ilişkiden ilhamla yazılmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Towards Democracy: Whitmanvari Bir Destan",
+      "body": "Onun şiirsel başyapıtı olan Towards Democracy, Walt Whitman'ın Leaves of Grass eserine bir naziredir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ruhsal Demokrasi",
+          "text": "Demokrasi onun için sadece bir sandık sistemi değil, her insanın içindeki \"ilahi kıvılcımın\" tanınması ve insanlar arasındaki sınıf duvarlarının yıkılmasıdır."
+        },
+        {
+          "label": "Evrensel Kardeşlik",
+          "text": "Şiirlerinde bedeni, sevgiyi ve doğayı kutsayarak, her türlü baskıya karşı \"insanlık sevgisini\" en yüce değer yapar."
+        }
+      ]
+    },
+    {
+      "title": "Mistik Sosyalizm ve Doğu Etkisi",
+      "body": "Carpenter, sosyalizmi sadece bir ekonomik sistem olarak değil, bir \"bilinç devrimi\" olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hint Bilgeliği",
+          "text": "Hindistan ve Seylan'a yaptığı seyahatler sonucu Bhagavad Gita ve Upanişadlar ile tanışmış; Doğu mistisizmini Batı'nın sosyalist mücadelesiyle harmanlamıştır."
+        },
+        {
+          "label": "Birlik Hissi",
+          "text": "Evrendeki her şeyin birbirine bağlı olduğu hissi (kozmik bilinç), onun hem ekolojik hem de siyasi duruşunun temelidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Yaşam Pratiği",
+      "text": "Felsefeyi kütüphanelerden çıkarıp çapa yapmaya, sandal üretmeye ve açık yürekli ilişkilere taşımıştır. \"Teori\" ve \"Eylem\" onun hayatında tek vücuttur."
+    },
+    {
+      "title": "Öncü Hak Savunuculuğu",
+      "text": "LGBT hakları, vejetaryenlik, hava kirliliğiyle mücadele ve kadın hakları gibi bugün hala güncel olan pek çok konunun \"sessiz mimarıdır.\""
+    },
+    {
+      "title": "İlham Veren Dostluklar",
+      "text": "Gandhi'den Isadora Duncan'a, Bernard Shaw'dan E.M. Forster'a kadar koca bir neslin \"ruhsal pusulası\" olmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Medeniyet Karşıtlığında Aşırılık",
+      "text": "Endüstrileşmeyi tamamen bir \"hastalık\" olarak görmesi, modern tıbbın ve teknolojinin getirdiği pek çok olumlu gelişmeyi körü körüne reddetmesine yol açmıştır."
+    },
+    {
+      "title": "\"Üçüncü Cins\" Yanılgısı",
+      "text": "Eşcinselliği biyolojik olarak \"ara bir tür\" gibi kurgulaması, her ne kadar o gün için savunmacı bir argüman olsa da, bugün modern bilimsel gerçeklerle tam örtüşmez."
+    },
+    {
+      "title": "Siyasi Belirsizlik",
+      "text": "Siyaseti bazen fazla \"ruhsal\" ve \"şiirsel\" bir düzleme çekmesi, somut ve yapısal ekonomik çözümler bekleyen kitleler için felsefesini fazla \"yumuşak\" kılabilir."
+    }
+  ]
+}

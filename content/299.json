@@ -1,0 +1,94 @@
+{
+  "subtitle": "Ağırlık, Lütuf ve Mutlak Dikkat (1909–1943)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ağırlık ve Lütuf (La Pesanteur et la Grâce)",
+      "body": "Weil dünyayı iki temel gücün çatışması olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ağırlık (Gravity)",
+          "text": "Dünyanın doğal, mekanik ve bencil gücüdür. Kendini koruma güdüsü, kibir, intikam ve hırs \"ağırlık\"tır. Tıpkı fiziksel kütlelerin birbirini çekmesi gibi, ego da her şeyi kendine çeker."
+        },
+        {
+          "label": "Lütuf (Grace)",
+          "text": "Bu mekanik döngüyü kıran, dışarıdan gelen ilahi veya doğaüstü müdahaledir. Lütuf, insanın o ağır \"ben\"liğinden vazgeçtiği boşluklarda belirir."
+        }
+      ]
+    },
+    {
+      "title": "Dikkat (L'attention)",
+      "body": "Weil için felsefenin ve duanın en yüksek biçimi \"dikkat\"tir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Egosuz Bakış",
+          "text": "Dikkat, bir nesneye veya bir insana kendi çıkarların, yargıların ve arzuların olmadan bakabilmektir. Bu, zihni boşaltıp dünyayı olduğu gibi karşılamaktır."
+        },
+        {
+          "label": "Şefkatin Temeli",
+          "text": "Birine \"Ne çekiyorsun?\" diye sorabilmek için, o kişinin acısına tüm varlığınla \"dikkat\" etmen gerekir. Bu bakış, karşıdakini bir nesne olmaktan çıkarıp kutsal bir varlığa dönüştürür."
+        }
+      ]
+    },
+    {
+      "title": "Maruz Kalma ve Acı (Malheur)",
+      "body": "Weil, sıradan fiziksel acı ile \"malheur\" (kahır/mutlak perişanlık) arasında ayrım yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ruhun Parçalanması",
+          "text": "Malheur, sadece bedeni değil, ruhu ve sosyal kimliği de yok eden derin bir acıdır."
+        },
+        {
+          "label": "Tanrı ile Karşılaşma",
+          "text": "Weil'e göre ancak bu mutlak çaresizlik anında, insan \"ben\"liğinden tamamen kurtulur ve ilahi olana (veya mutlak hakikate) yer açar. Fabrika işçiliği deneyimi, ona bu \"insanlıktan çıkarılma\" duygusunu bizzat öğretmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Kök Salma (L'enracinement)",
+      "body": "İkinci Dünya Savaşı sırasında yazdığı bu eserinde, insan ruhunun temel ihtiyacını tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Köklerden Kopma",
+          "text": "Modern kapitalizm ve totaliter rejimler insanları topluluklarından, tarihlerinden ve doğadan kopararak \"köklerinden ayırmıştır.\""
+        },
+        {
+          "label": "Görevler ve Haklar",
+          "text": "Weil, modern dünyanın \"haklar\" üzerine aşırı odaklanmasını eleştirir. Ona göre asıl olan \"görevler\"dir. İnsanın diğer insanlara ve topluma karşı sorumlulukları, onun dünyaya kök salmasını sağlayan asıl bağdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Radikal Empati",
+      "text": "Teoriyi eylemle birleştirmiş; işçinin, fakirin ve acı çekenin yanına gitmekle kalmayıp, bizzat onlardan biri olmayı seçmiştir."
+    },
+    {
+      "title": "Mistik ve Siyasi Sentez",
+      "text": "Marksizm'in adalet arayışını Hristiyan mistisizminin derinliğiyle birleştirerek, 20. yüzyılın en özgün siyaset felsefelerinden birini kurmuştur."
+    },
+    {
+      "title": "Modernite Eleştirisi",
+      "text": "Modernitenin insanı \"nesneleştiren\" doğasını, fabrikalardaki montaj hattından başlayarak ruhun derinliklerine kadar analiz etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Asketizm (Çilecilik)",
+      "text": "Kendi bedenini ve sağlığını ihmal ederek (Fransa işgal altındayken İngiltere'de fazla yemek yemeyi reddederek vefat etmiştir) ulaştığı bu radikal duruş, takip edilmesi imkansız ve \"patolojik\" bir boyuta varabilir."
+    },
+    {
+      "title": "Katı Tavizsizlik",
+      "text": "Düşüncelerinde o kadar tavizsizdir ki, bazen insanın o en doğal, en insani zayıflıklarını ve hayata tutunma arzusunu tamamen yadsıyabilir."
+    },
+    {
+      "title": "Karmaşık Kimlik",
+      "text": "Yahudi bir aileden gelip Hristiyanlığa bu kadar yaklaşması, ama kiliseyi sömürgeci geçmişi yüzünden reddedip vaftiz olmaması; onu her iki tarafta da \"yabancı\" kılmıştır."
+    }
+  ]
+}

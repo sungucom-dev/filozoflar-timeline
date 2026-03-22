@@ -1,0 +1,89 @@
+{
+  "subtitle": "Etik Yöntemleri ve Aklın Çıkmazı (1838–1900)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Etiğin Üç Yöntemi (The Methods of Ethics)",
+      "body": "Sidgwick, insanların ahlaki kararlar verirken kullandığı yöntemleri üç ana başlıkta toplar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Egoizm (Rasyonel Benmerkezcilik)",
+          "text": "Bireyin kendi uzun vadeli mutluluğunu maksimize etmesi. Sidgwick'e göre bu, rasyonel bir yöntemdir."
+        },
+        {
+          "label": "Sezgicilik (Intuitionism)",
+          "text": "Bazı eylemlerin (dürüstlük, adalet) sonuçlarından bağımsız olarak \"doğru\" olduğuna dair duyulan apaçık inanç."
+        },
+        {
+          "label": "Faydacılık (Utilitarianism)",
+          "text": "\"En büyük sayıdaki insanın en büyük mutluluğu\" ilkesi. Sidgwick, rasyonel bir sezgicilikten yola çıkarak faydacılığa ulaşır."
+        }
+      ]
+    },
+    {
+      "title": "Pratik Akıl İkiliği (The Dualism of Practical Reason)",
+      "body": "Sidgwick'in felsefe tarihine bıraktığı en büyük \"miras\" ve \"baş ağrısı\" budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çatışma",
+          "text": "Akıl bize hem kendi mutluluğumuzu (Egoizm) hem de herkesin mutluluğunu (Faydacılık) gözetmemizi söyler. İkisi de rasyoneldir."
+        },
+        {
+          "label": "Çözümsüzlük",
+          "text": "Peki, kendi mutluluğum ile genel mutluluk çatışırsa ne olacak? Sidgwick, saf aklın bu iki ilke arasında bir tercih yapamayacağını, bu yüzden ahlakın rasyonel temelinin bir tür \"kaos\" içinde olduğunu dürüstçe itiraf etmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Felsefi Sezgicilik ve Apaçıklık",
+      "body": "Sidgwick, ahlakın temel ilkelerinin tıpkı matematiksel aksiyomlar gibi olması gerektiğini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Adalet İlkesi",
+          "text": "\"Başkasına, onun benim yerimde olsaydı bana yapmasını istemeyeceğim bir şeyi yapmamalıyım.\""
+        },
+        {
+          "label": "Hayırseverlik İlkesi",
+          "text": "\"Evrensel bir bakış açısıyla bakıldığında, birinin iyiliği bir başkasınınkinden daha önemli değildir.\""
+        }
+      ]
+    },
+    {
+      "title": "Parapsikoloji ve Öte Dünya Arayışı",
+      "body": "Sidgwick, \"Pratik Akıl İkiliği\"ni bu dünyada çözemeyince, ölümden sonra bir ödül/ceza mekanizması (Tanrı veya bir düzen) var mı diye araştırmaya başlamıştır. Bu yüzden Psişik Araştırmalar Derneği'nin (SPR) kurucu başkanlığını yapmış, ruhsal fenomenleri bilimsel bir titizlikle incelemiştir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Analitik Etik",
+      "text": "Ahlak felsefesini retorikten kurtarıp modern, titiz ve kavramsal bir disiplin haline getirmiştir. Derek Parfit ve Peter Singer gibi devlerin önünü açmıştır."
+    },
+    {
+      "title": "Dürüstlük",
+      "text": "Kendi sisteminin en zayıf noktasını (ikilik) saklamak yerine açıkça ortaya koyması, onu \"filozofların filozofu\" yapmıştır."
+    },
+    {
+      "title": "Kadın Hakları ve Eğitim",
+      "text": "Newnham College'ın (Cambridge'in ilk kadın kolejlerinden biri) kurulmasındaki devasa rolüyle toplumsal dönüşüme bizzat katkıda bulunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Çözümsüzlük",
+      "text": "Ahlakı rasyonel temellere oturtmaya çalışıp sonunda \"akıl burada ikiye ayrılıyor\" diyerek işin içinden çıkamaması, bazıları için felsefesinin bir başarısızlık ilanıdır."
+    },
+    {
+      "title": "Üslup",
+      "text": "Yazıları o kadar kuru, ihtiyatlı ve akademik düzeyde yoğun ki, geniş kitlelere ulaşması veya bir \"heyecan\" yaratması imkansızdır."
+    },
+    {
+      "title": "Duygu Eksikliği",
+      "text": "Ahlakı o kadar rasyonelleştirmiştir ki; insan ruhunun o irrasyonel, tutkulu ve karanlık tarafları bu sistemde kendine yer bulamaz."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subtitle": "Thelema, Magick ve Gerçek İstenç (1875–1947)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Thelema Yasası: \"İstediğini Yap\"",
+      "body": "Crowley'nin 1904'te Kahire'de \"Aiwass\" adlı bir varlıktan aldığı vahiylerle yazdığı Yasa Kitabı (Liber AL vel Legis), Thelema dininin temelidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Do What Thou Wilt",
+          "text": "\"İstediğini yap, tüm yasa bu olacaktır.\" Bu cümle genellikle \"her istediğini, her an yap\" gibi bir hedonizm sanılsa da Crowley için anlamı çok daha derindir."
+        },
+        {
+          "label": "Gerçek İstenç (True Will)",
+          "text": "Kişinin bu evrendeki yegane ve ilahi amacını bulmasıdır. Bir kişi kendi \"Gerçek İstenci\"ni bulduğunda, evrenin geri kalanıyla tam uyum içine girer. \"Sevgi yasadır, istenç altındaki sevgi.\""
+        }
+      ]
+    },
+    {
+      "title": "Magick (K ile Yazılan Maji)",
+      "body": "Crowley, sahne illüzyonistlerinden ayrılmak için \"Maji\" kelimesinin sonuna \"k\" harfini eklemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanım",
+          "text": "\"İstenç doğrultusunda, gerçeklikte değişiklik meydana getirme bilimi ve sanatı.\""
+        },
+        {
+          "label": "Bilimsel Metod, Dinsel Hedef",
+          "text": "Crowley majiyi bir \"deney\" alanı olarak görmüştür. Ritüellerin işe yarayıp yaramadığını not defterleriyle takip eden bir \"laboratuvar majisyeni\"dir. Hedef ise \"Kutsal Koruyucu Melek\" ile temas kurarak insanın kendi tanrısallığına ulaşmasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Aethyrlar ve Astral Seyahat",
+      "body": "Golden Dawn (Altın Şafak) cemiyetinden olaylı bir şekilde ayrılan Crowley, majiyi çok daha tehlikeli ve deneysel boyutlara taşımıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çöl Yolculukları",
+          "text": "Cezayir çöllerinde öğrencisi Victor Neuburg ile birlikte \"Enokyan\" majisini kullanarak 30 Aethyr'ı (boyutu) geçtiğini iddia etmiştir. Bu yolculuklar, ruhun en karanlık köşeleriyle (Choronzon gibi iblislerle) yüzleşme sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Thoth Tarot ve Sanat",
+      "body": "Crowley sadece bir majisyen değil, aynı zamanda usta bir satranççı, dağcı ve ressamdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Thoth Tarot",
+          "text": "Ressam Frieda Harris ile birlikte yarattığı bu deste, ezoterik sembolizmin zirvesidir. Renklerin, sayıların ve astrolojinin iç içe geçtiği bu kartlar, evrenin enerjilerini temsil eden devasa bir makine gibidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bireyin Kutsanması",
+      "text": "\"Her erkek ve her kadın birer yıldızdır\" diyerek, insanı herhangi bir otoriteye (kilise, devlet, gelenek) boyun eğmek yerine kendi içsel pusulasını bulmaya çağırmıştır."
+    },
+    {
+      "title": "Sistemli Ezoterizm",
+      "text": "Doğu yogasını (Asana, Pranayama) Batı majisiyle birleştirerek, spiritüelliği çok daha teknik ve uygulanabilir bir zemine oturtmuştur."
+    },
+    {
+      "title": "Kültürel Etki",
+      "text": "David Bowie'den Jimmy Page'e, popüler kültürdeki \"aykırı ve gizemli\" olan her şeyin DNA'sında Crowley'nin mirası vardır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Narsisizm ve Manipülasyon",
+      "text": "Etrafındaki insanları (ve eşlerini/öğrencilerini) \"majikal deneyleri\" uğruna duygusal ve maddi olarak yıprattığı, pek çok hayatın onun çevresinde mahvolduğu tarihsel bir gerçektir."
+    },
+    {
+      "title": "Şok Etkisi Bağımlılığı",
+      "text": "Toplumu sarsmak için kullandığı kışkırtıcı dil (kan, seks, uyuşturucu vurguları), felsefesinin derinliğinin çoğu zaman \"skandalların\" gölgesinde kalmasına neden olmuştur."
+    },
+    {
+      "title": "Mirastaki Kaos",
+      "text": "\"İstediğini yap\" ilkesi, disiplinsiz ellerde sadece bir bencillik aracı olarak kullanılmış, Crowley'nin vurguladığı o \"zorlu disiplin\" çoğu takipçisi tarafından görmezden gelinmiştir."
+    }
+  ]
+}

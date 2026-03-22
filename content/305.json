@@ -1,0 +1,94 @@
+{
+  "subtitle": "Radikal Yorum, Zihin ve Üçgenleme (1917–2003)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Radikal Yorum ve İyilikseverlik İlkesi (Principle of Charity)",
+      "body": "Davidson, hiç bilmediğimiz bir dili konuşan birini nasıl anlayabileceğimiz sorusuna odaklanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğruluk Temelli Anlam",
+          "text": "Tarski'nin mantıksal doğruluk kuramını doğal dillere uygular. Bir cümleyi anlamak, o cümlenin hangi şartlar altında \"doğru\" olduğunu bilmektir."
+        },
+        {
+          "label": "İyilikseverlik İlkesi",
+          "text": "Birini yorumlarken, onun tutarlı, rasyonel ve dünyayla ilgili doğru inançlara sahip olduğunu varsaymak zorundayız. Aksi takdirde, onu \"hata yapan biri\" olarak bile tanımlayamayız."
+        }
+      ]
+    },
+    {
+      "title": "Anormal Monizm (Anomalous Monism)",
+      "body": "Zihin-beden problemine sunduğu bu dâhice çözüm, hem materyalisttir hem de zihnin özgürlüğünü korur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zihinsel Olaylar Fizikseldir",
+          "text": "Her zihinsel olay (bir niyet, bir acı) aslında fiziksel bir olaydır (beyindeki bir nöron ateşlemesi)."
+        },
+        {
+          "label": "Katı Yasalar Yoktur",
+          "text": "Fizik dünyasında F=ma gibi katı yasalar varken, zihinsel olayları fiziksel olaylara bağlayan genelgeçer yasalar yoktur. Bu yüzden zihin \"anormaldir\" (yasalara bağlı değildir)."
+        }
+      ]
+    },
+    {
+      "title": "Üçgenleme (Triangulation)",
+      "body": "Davidson'a göre düşünce ve dil, \"tek başınalık\" içinde doğamaz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üç Köşe",
+          "text": "Bir özne (ben), bir başka özne (sen) ve ortak bir nesne (dünya)."
+        },
+        {
+          "label": "Nesnellik",
+          "text": "Bir şeyin \"doğru\" veya \"yanlış\" olduğu fikri, ancak iki kişinin aynı nesneye bakıp birbirlerinin tepkilerini gözlemlemesiyle (üçgenleme) oluşur. Bilgi, sosyal bir etkileşimin meyvesidir."
+        }
+      ]
+    },
+    {
+      "title": "Bataklık Adam (Swampman) Paradoksu",
+      "body": "Hafıza ve tarihin kimlikteki rolünü sorgulayan meşhur düşünce deneyidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Senaryo",
+          "text": "Bir bataklığa yıldırım düşer ve tesadüfen senin atomik kopyan (Swampman) oluşur. Bu kopya senin gibi konuşur, senin gibi davranır."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Davidson'a göre bu \"şey\" seninle aynı düşüncelere sahip değildir; çünkü onun bu kelimeleri ve anıları oluşturan bir nedensel geçmişi yoktur. Anlam, sadece o anki yapı değil, tarihsel bir bağdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Zihin ve Madde Sentezi",
+      "text": "Materyalist dünyada zihnin biricikliğini ve özgürlüğünü (anormal monizm ile) kurtaran en sağlam köprülerden birini kurmuştur."
+    },
+    {
+      "title": "Hümanist Analitik Felsefe",
+      "text": "Analitik geleneği, \"başkasına duyulan güven\" (iyilikseverlik ilkesi) üzerine kurarak ona ahlaki bir zemin kazandırmıştır."
+    },
+    {
+      "title": "Dil ve Dünya Bağı",
+      "text": "Dilin dünyadan kopuk bir oyun olmadığını, aksine dünyayla kurulan nedensel bir ilişki olduğunu kanıtlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hata Payı Sorunu",
+      "text": "Herkesi rasyonel kabul eden \"İyilikseverlik İlkesi\", insanların sistematik irrasyonelliklerini, deliliği veya kasti yalanları açıklamakta bazen fazla \"iyimser\" kalabilir."
+    },
+    {
+      "title": "Tarihsellik Eksikliği",
+      "text": "Felsefesi çok fazla mantıksal analiz üzerine kuruludur; toplumsal güç ilişkilerinin, ideolojinin ve tarihin dili nasıl şekillendirdiğini (Foucault veya Gramsci gibi) göz ardı eder."
+    },
+    {
+      "title": "Dahil Edicilik",
+      "text": "Bataklık Adam örneği gibi \"nedensel geçmiş\" vurgusu, yapay zekanın hiçbir zaman \"anlayamayacağını\" savunsa da, geleceğin teknolojik gerçeklikleri bu tanımı fazla kısıtlayıcı bulabilir."
+    }
+  ]
+}

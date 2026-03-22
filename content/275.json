@@ -1,0 +1,94 @@
+{
+  "subtitle": "Gizem, Varlık ve \"Sen\"in Keşfi (1889–1973)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Problem ve Gizem (Problème et Mystère)",
+      "body": "Marcel'in felsefesindeki en temel ve sarsıcı ayrım budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Problem",
+          "text": "Önümdedir, benden ayrıdır. Bir matematik sorusu veya bozulan bir makine gibi. Akıl ve teknikle çözülür, kenara atılır."
+        },
+        {
+          "label": "Gizem",
+          "text": "Bizzat içinde olduğum, parçası olduğum şeydir. Aşk, ölüm, varlık ve kötülük gibi. Gizem \"çözülmez\", sadece \"yaşanır\" ve \"idrak edilir\". Marcel'e göre modern dünya her şeyi bir \"problem\"e indirgeyerek hayatın kutsallığını ve gizemini yok etmektedir."
+        }
+      ]
+    },
+    {
+      "title": "Varlık ve Sahip Olma (Être et Avoir)",
+      "body": "Modern insanın trajedisini bu ikilem üzerinden okur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sahip Olma (Avoir)",
+          "text": "Nesnelerle kurduğumuz ilişkidir. Evim, arabam, unvanım, hatta vücudum. \"Sahip olduğum\" şeyler beni köleleştirir çünkü onları kaybetme korkusuyla yaşarım."
+        },
+        {
+          "label": "Varlık (Être)",
+          "text": "Olduğum şeydir. Bir başkasına kendimi \"açtığım\" andır. Varlık, nesneleştirilemez. Sahip olduklarımızı bir kenara bıraktığımızda geriye kalan o saf \"bulunuş\"tur."
+        }
+      ]
+    },
+    {
+      "title": "Öznelerarasılık ve \"Sen\"",
+      "body": "Marcel için \"Düşünüyorum, öyleyse varım\" (Descartes) kısıtlı bir başlangıçtır. O, \"Biz varız, öyleyse varım\" der.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesneleştirme",
+          "text": "Birine \"o\" (it) diye baktığımızda onu bir nesneye dönüştürürüz."
+        },
+        {
+          "label": "Gerçek Karşılaşma",
+          "text": "Birine tüm varlığımızla \"Sen\" dediğimizde, iki özne arasında kutsal bir bağ kurulur. Gerçek varlık ancak bu \"karşılaşma\" anlarında belirir."
+        }
+      ]
+    },
+    {
+      "title": "Sadakat, Umut ve Sevgi",
+      "body": "Bu kavramlar Marcel için sadece duygular değil, ontolojik (varlıksal) dayanaklardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sadakat",
+          "text": "Değişen zaman ve şartlara rağmen \"Sen\"in yanında kalma sözüdür."
+        },
+        {
+          "label": "Umut",
+          "text": "İyimserlikten (her şey iyi gidecek beklentisi) farklıdır. Umut, en karanlık anda bile \"Birlikteyiz ve bu bir anlam taşıyor\" diyebilmektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Teknoloji Eleştirisi",
+      "text": "İnsanın teknoloji ve bürokrasi çarkları arasında bir \"fonksiyon\" haline gelmesine karşı en güçlü itirazlardan birini yükseltmiştir."
+    },
+    {
+      "title": "Diyalog Etiği",
+      "text": "Felsefeyi benmerkezcilikten çıkarıp \"öteki\"ne (altruizm) ve iletişime dayalı bir zemine oturtmuştur."
+    },
+    {
+      "title": "Sanat ve Müzik",
+      "text": "Bir oyun yazarı ve müzisyen olarak felsefeyi sadece kavramlarla değil, estetik bir dille (drama ve melodiyle) anlatarak daha derin kitlelere ulaşmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yöntem Eksikliği",
+      "text": "Felsefesi çok dağınık ve sezgiseldir. Bir \"sistem\" kurmak yerine \"günlükler\" ve denemeler üzerinden gitmesi, akademik düzeyde analiz edilmesini zorlaştırır."
+    },
+    {
+      "title": "Teolojik Ağırlık",
+      "text": "Metafiziği çok fazla dini kavramlarla harmanlaması, seküler varoluşçular tarafından \"felsefeden ziyade ilahiyat\" olarak görülüp eleştirilmiştir."
+    },
+    {
+      "title": "Vagueness (Muğlaklık)",
+      "text": "\"Gizem\" kavramı çok etkileyici olsa da, rasyonel bir tartışmada \"bu sadece bir gizem\" demek bazen entelektüel bir kaçış yolu olarak kullanılabilir."
+    }
+  ]
+}

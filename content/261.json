@@ -1,0 +1,86 @@
+{
+  "subtitle": "Evrensel Ruh, Eğitim ve Milliyetçilik Çıkmazı (1861–1941)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ulusçuluk Eleştirisi (Critique of Nationalism)",
+      "body": "Tagore, Batı tipi milliyetçiliği (nationalism) insanlığın ruhuna vurulmuş bir pranga olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mekanik Devlete Karşı İnsani Toplum",
+          "text": "Ona göre \"Ulus\", insanları sadece ekonomik ve siyasi birer makine dişlisine çeviren yapay bir kurgudur."
+        },
+        {
+          "label": "Ahlaki Tehlike",
+          "text": "Milliyetçiliğin bencilliği körüklediğini ve halkları birbirine düşman ederek insanlığın evrensel birliğini parçaladığını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Shantiniketan ve Doğa İçinde Eğitim",
+      "body": "Tagore, modern eğitim sistemini bir \"fabrika\" olarak nitelendirir ve buna karşı kendi üniversitesini (Visva-Bharati) kurar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Açık Hava Sınıfları",
+          "text": "Eğitimin dört duvar arasında değil, ağaçların altında, kuş sesleri içinde olması gerektiğine inanır. Zihin, ancak doğayla uyum içindeyken gerçek anlamda özgürleşebilir."
+        },
+        {
+          "label": "Dünyanın Birleştiği Yer",
+          "text": "Visva-Bharati'nin sloganı \"Dünyanın tek bir yuva haline geldiği yer\"dir. Burada Doğu ve Batı sanatları, bilimleri ve felsefeleri bir arada harmanlanır."
+        }
+      ]
+    },
+    {
+      "title": "Rabindra Sangeet: Müziğin Felsefesi",
+      "body": "Tagore, 2000'den fazla şarkı bestelemiş ve Bengal müziğinin yapısını değiştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duygu ve Doğa Sentezi",
+          "text": "Şarkıları sadece melodi değil, doğanın ritmiyle insan ruhunun derin bir felsefi diyaloğudur. Bugün hem Hindistan'ın hem de Bangladeş'in milli marşları onun kaleminden çıkmıştır."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Tanrı (The Religion of Man)",
+      "body": "Tagore için din, dogmalarda değil, insanın yaratıcılığında ve sevgisindedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrı İnsanın İçindedir",
+          "text": "Tanrı'yı gökyüzünde değil, bir çiftçinin emeğinde, bir çocuğun oyununda veya bir sanatçının fırçasında arar. İnsanlık ideali, tanrısal olanla kurulan bu estetik ve etik bağdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Doğu-Batı Köprüsü",
+      "text": "Batı'nın bilimsel aklıyla Doğu'nun ruhsal derinliğini birleştirmeyi başarmış; Asya'nın sesini dünyaya (ve Nobel komitesine) duyuran ilk kişi olmuştur."
+    },
+    {
+      "title": "Ekolojik Bilinç",
+      "text": "Sürdürülebilirlik ve çevre bilinci henüz icat edilmemişken, insanın doğanın bir parçası olduğunu savunan öncü bir çevreci filozoftur."
+    },
+    {
+      "title": "Hümanizmin Zirvesi",
+      "text": "Irk, din ve ulus ayrımlarını reddeden evrensel hümanizmi, bugün küresel etik tartışmaları için hala en berrak kaynaktır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İdealizm",
+      "text": "Milliyetçiliğe karşı duruşu, sömürge altındaki bir halkın (Hindistan) bağımsızlık heyecanı içinde bazen \"gerçeklikten kopuk bir entelektüel lüks\" olarak algılanmıştır."
+    },
+    {
+      "title": "Aristokratik Mesafe",
+      "text": "Bir \"Zemindar\" (toprak sahibi) ailesinden gelmesi, bazı eleştirmenlerce onun alt sınıfların sert ve kaba gerçekliğiyle kurduğu bağın \"estetik bir mesafede\" kaldığı şeklinde yorumlanmıştır."
+    },
+    {
+      "title": "Batı'daki Algısı",
+      "text": "Hayatının son döneminde Batı'da bir \"egzotik derviş\" kalıbına sokulmaya çalışılması, onun karmaşık ve modern siyasi analizlerinin bazen gölgede kalmasına neden olmuştur."
+    }
+  ]
+}

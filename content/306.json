@@ -1,0 +1,90 @@
+{
+  "subtitle": "Epistemolojik Kopuş, İdeoloji ve Yapı (1918–1990)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Epistemolojik Kopuş (Coupure Épistémologique)",
+      "body": "Althusser, Marx'ın eserlerini ikiye ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Genç Marx (İnsancıl/Hegelci)",
+          "text": "\"Yabancılaşma\" ve \"insan özü\" gibi kavramlarla uğraşan, hala felsefi bir sisin içindeki Marx."
+        },
+        {
+          "label": "Olgun Marx (Bilimsel)",
+          "text": "1845'ten sonra (özellikle Kapital ile) bu felsefi kavramları terk edip; \"üretim ilişkileri\", \"artı değer\" ve \"altyapı/üst yapı\" gibi bilimsel kavramlara geçen Marx. Althusser için gerçek Marksizm bu \"bilimsel\" olandır."
+        }
+      ]
+    },
+    {
+      "title": "İdeolojik Devlet Cihazları (İDC) vs. Baskıcı Devlet Cihazları (BDC)",
+      "body": "Devletin sadece şiddetle ayakta kalmadığını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Baskıcı Devlet Cihazları (BDC)",
+          "text": "Ordu, polis, hapishaneler. Şiddet yoluyla çalışır. Doğrudur ama maliyetlidir."
+        },
+        {
+          "label": "İdeolojik Devlet Cihazları (İDC)",
+          "text": "Okul, aile, din, medya, hukuk, sendikalar. Bunlar şiddetle değil, \"ideoloji\" yoluyla çalışır. Sisteme itaat etmeyi \"doğal\" ve \"gerekli\" gösterirler. Althusser'e göre okul, modern dünyada kilisenin yerini almış en güçlü İDC'dir."
+        }
+      ]
+    },
+    {
+      "title": "Sesleniş (Çağırma / Interpellation)",
+      "body": "İdeoloji bizi nasıl \"kurar\"? Althusser bunu meşhur bir örnekle açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "\"Hey, Sen!\"",
+          "text": "Yolda yürürken bir polisin size \"Hey, sen!\" diye bağırdığını düşünün. Arkanızı döndüğünüz andan itibaren artık bir \"özne\"sinizdir; yani otoriteye cevap veren, onun tarafından tanınan ve onun kurallarına dahil olan biri."
+        },
+        {
+          "label": "Özneleşme",
+          "text": "İdeoloji bizi her an \"çağırır\" (tüketici olarak, vatandaş olarak, dindar olarak). Biz bu seslenişe cevap verdiğimizde, sistemin istediği \"özne\" haline geliriz."
+        }
+      ]
+    },
+    {
+      "title": "Üst-Belirlenim (Overdetermination)",
+      "body": "Freud'un rüya analizinden aldığı bir kavramdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tek Neden Yok",
+          "text": "Bir devrim veya toplumsal olay sadece \"ekonomik kriz\" gibi tek bir nedenle açıklanamaz. Birçok farklı yapı (siyaset, kültür, tarih, ekonomi) üst üste biner ve birbirini etkileyerek o olayı doğurur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sistem Analizi",
+      "text": "İdeolojinin sadece \"yanlış bilinç\" (kandırılmak) değil, maddi bir pratik (yaptığımız şeyler) olduğunu göstererek sosyolojiyi ve siyaset bilimini dönüştürmüştür."
+    },
+    {
+      "title": "Okuma Yöntemi",
+      "text": "Semptomatik Okuma (metnin söylediklerinden ziyade sustuklarına odaklanma) yöntemiyle, edebiyat ve felsefe eleştirisine derinlik katmıştır."
+    },
+    {
+      "title": "Hegemonya Eleştirisi",
+      "text": "Gramsci'nin \"rıza\" kavramını daha yapısal ve kurumsal bir zemine oturtarak sol düşünceyi yenilemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Anti-Hümanizm",
+      "text": "İnsanı (özneyi) tamamen yapıların bir \"kuklası\" veya \"etkisi\" olarak görmesi, bireysel özgürlüğü ve iradeyi yok saydığı gerekçesiyle şiddetle eleştirilmiştir."
+    },
+    {
+      "title": "Kapalı Sistem",
+      "text": "Sistemden (ideolojiden) çıkış yolunu pek tarif etmez. Her şey İDC ise, devrimci bilinç nasıl oluşacaktır? Bu durum bazen bir \"karamsarlık\" yaratır."
+    },
+    {
+      "title": "Kişisel Trajedi",
+      "text": "Hayatının son döneminde yaşadığı ağır ruhsal krizler ve eşini öldürmesi, onun felsefi mirasının üzerine çok ağır bir gölge düşürmüştür. Ancak fikirleri, bu trajediden bağımsız olarak akademik dünyada yaşamaya devam etmektedir."
+    }
+  ]
+}

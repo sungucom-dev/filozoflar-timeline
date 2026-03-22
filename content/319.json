@@ -1,0 +1,90 @@
+{
+  "subtitle": "Anlamsal Dışsalcılık, Fonksiyonalizm ve Gerçekçilik (1926–2016)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Anlamsal Dışsalcılık ve İkiz Dünya",
+      "body": "Putnam, \"Anlamlar sadece kafanın içinde değildir\" diyerek felsefede devrim yapmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İkiz Dünya Deneyi",
+          "text": "Dünya'nın birebir aynısı olan ama suyuna H2O değil de XYZ denilen bir gezegen hayal edin. Buradaki bir insanla senin zihinsel durumun tıpatıp aynı olsa bile, o \"su\" dediğinde XYZ'yi, sen \"su\" dediğinde H2O'yu kastetmiş olursun."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Anlam, sadece zihinsel bir durum değil, içinde bulunduğumuz çevre ve nesnelerle olan ilişkimiz tarafından belirlenir."
+        }
+      ]
+    },
+    {
+      "title": "Kavanozdaki Beyin (Brain in a Vat)",
+      "body": "Modern bir \"Matrix\" senaryosu olan bu deneyle, şüpheciliğe karşı dâhice bir cevap verir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Paradoks",
+          "text": "Eğer bir kavanozdaki beyin olsaydın ve sana her şey simüle edilseydi, \"Ben kavanozdaki bir beyinim\" dediğinde bu cümlen yanlış olurdu. Çünkü senin dünyandaki \"beyin\" ve \"kavanoz\" kelimeleri gerçek beyin ve kavanoza değil, simülasyondaki görüntülere işaret ederdi."
+        },
+        {
+          "label": "Çıkarım",
+          "text": "Kendi dilimiz ve referans sistemimiz, aslında bir simülasyonun içinde hapis olduğumuzu söylememizi mantıksal olarak imkânsız kılar."
+        }
+      ]
+    },
+    {
+      "title": "Çoklu Gerçekleşebilirlik (Multiple Realizability)",
+      "body": "Zihin-beden probleminde erken döneminde \"Fonksiyonalizm\"in babası olmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yazılım ve Donanım",
+          "text": "Zihin bir yazılım, beyin ise bir donanım gibidir. Acı çekmek sadece insan beynine özgü değildir; bir robot veya bir uzaylı da aynı \"fonksiyonu\" yerine getiriyorsa acı çekebilir."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Zihinsel durumlar, fiziksel yapıdan bağımsız olarak farklı \"donanımlarda\" gerçekleşebilir."
+        }
+      ]
+    },
+    {
+      "title": "Olgu ve Değer İç İçe Geçmişliği",
+      "body": "Putnam, bilimin sadece \"çıplak olgulardan\" oluştuğu, değerlerin ise sadece \"öznel yorumlar\" olduğu fikrine karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Birliktelik",
+          "text": "\"Cesur\" veya \"zalim\" gibi kelimeler hem bir olguyu tarif eder hem de bir değer yargısı taşır. Bilimsel bir kuramı seçerken bile \"sadelik\" veya \"tutarlılık\" gibi \"değerlere\" ihtiyaç duyarız."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dürüstlük ve Gelişim",
+      "text": "Kendi hatalarını kamuoyu önünde kabul edip fikirlerini değiştirmesi (Örn: Fonksiyonalizm'den vazgeçmesi), felsefeyi bir dogma olmaktan çıkarıp canlı bir süreç haline getirmiştir."
+    },
+    {
+      "title": "Dışsalcılık Devrimi",
+      "text": "Dil felsefesi ve zihin felsefesini birbirinden kopmaz bir şekilde çevreye bağlayarak \"iç dünyamıza\" hapsolmamızı engellemiştir."
+    },
+    {
+      "title": "Pragmatik Gerçekçilik",
+      "text": "Dünyayı ne tamamen \"zihnimizin bir kurgusu\" ne de \"bizden tamamen kopuk bir nesne\" olarak görür; insan pratiğiyle şekillenen bir gerçekliği savunur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hareketli Hedef",
+      "text": "Görüşlerini o kadar sık değiştirmiştir ki, \"Putnamcı felsefe\" denildiğinde tam olarak hangi dönemi kastedildiği konusunda bir kafa karışıklığı yaratabilir."
+    },
+    {
+      "title": "Referans Sorunu",
+      "text": "İkiz Dünya gibi örnekler çok güçlü olsa da, soyut kavramların (adalet, sevgi vb.) dünyadaki karşılıklarının dışsal olarak nasıl belirleneceği konusunda tartışmalar hala sürmektedir."
+    },
+    {
+      "title": "Karmaşıklık",
+      "text": "Analitik geleneğin içinde kalsa da, son dönem yazıları çok fazla disiplini (matematik, din, etik) iç içe geçirdiği için takip edilmesi oldukça zordur."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Ses, Eğitim ve Çifte Mücadele (1858–1964)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Güney'den Bir Ses\" (A Voice from the South)",
+      "body": "1892'de yayımlanan bu başyapıt, siyah kadınların perspektifinden yazılmış ilk kapsamlı sosyal analizdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kesişimsellik",
+          "text": "Cooper, siyah kadınların hem ırksal baskı (siyah oldukları için) hem de cinsiyetçi baskı (kadın oldukları için) altında \"çifte bir yük\" taşıdığını teorize etmiştir. Kimliklerin iç içe geçtiğini Kimberlé Crenshaw'dan bir asır önce fark etmiştir."
+        },
+        {
+          "label": "Irkın Ölçüsü",
+          "text": "Bir ırkın veya medeniyetin ilerlemesi, en tepedeki erkeklerin başarısıyla değil, en alttaki kadınların (siyah kadınların) durumuyla ölçülür. \"Siyah kadın ayağa kalktığında, onunla birlikte tüm dünya yükselir.\""
+        }
+      ]
+    },
+    {
+      "title": "Eğitimde Fırsat Eşitliği ve Klasik Müfredat",
+      "body": "Cooper, sadece \"mesleki eğitim\" (Booker T. Washington tarzı) verilmesine karşı çıkmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zihinsel Kurtuluş",
+          "text": "Siyah gençlerin sadece \"el işçisi\" olarak yetiştirilmesini reddetmiş; onların da felsefe, edebiyat ve bilim gibi \"klasik\" eğitim alarak tam birer entelektüel olması gerektiğini savunmuştur."
+        },
+        {
+          "label": "M. Street Lisesi",
+          "text": "Washington D.C.'deki bu meşhur okulun müdürüyken, siyah öğrencileri Harvard ve Yale gibi üniversitelere göndererek dönemin ırkçı önyargılarını yerle bir etmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Evrensel İnsan Hakları ve Etik",
+      "body": "Cooper'ın feminizmi ve ırkçılık karşıtlığı \"dar bir kimlik siyaseti\" değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensellik",
+          "text": "O, adaleti sadece kendi grubu için değil, tüm insanlık için istemiştir. \"Benim davam, insanın davasıdır\" der."
+        },
+        {
+          "label": "Erkeklerin Rolü",
+          "text": "Siyah erkeklerin, kadınların haklarını savunmadan kendi haklarını kazanamayacaklarını; gerçek bir demokrasinin ancak tüm seslerin (kadın, erkek, siyah, beyaz) duyulduğu bir koro olabileceğini savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Pan-Afrikanizm ve Sorbonne Doktora",
+      "body": "67 yaşında, Sorbonne Üniversitesi'nden doktora alarak bu unvana sahip dördüncü siyah kadın olmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Küresel Bakış",
+          "text": "Fransız Devrimi ve kölelik üzerine yaptığı çalışmalarla, siyahların mücadelesini küresel bir sömürgecilik karşıtı bağlama oturtmuştur. İlk Pan-Afrikan Konferansı'nın kurucularından biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Siyah Feminizmin Temeli",
+      "text": "Bell Hooks ve Angela Davis gibi isimlere giden yolu açan; ırk ve cinsiyet analizini birleştiren ilk sistemli sestir."
+    },
+    {
+      "title": "Pedagojik Devrim",
+      "text": "Siyah çocukların zekâ kapasitesi hakkındaki biyolojik ırkçılığa karşı, akademik başarıyla en sert cevabı vermiştir."
+    },
+    {
+      "title": "Dengeli Radikalizm",
+      "text": "Hem iç (siyah toplumundaki cinsiyetçilik) hem dış (beyaz toplumdaki ırkçılık) eleştiriyi aynı anda yürütebilmiş nadir dengeli zihinlerdendir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Viktorya Dönemi Etkisi",
+      "text": "Yazılarında bazen 19. yüzyılın o kaskatı \"hanımefendilik\" ve \"ahlak\" kalıplarını kullanması, günümüzün daha radikal feministleri için fazla \"geleneksel\" görünebilir."
+    },
+    {
+      "title": "Elitizm Suçlaması",
+      "text": "Klasik eğitime verdiği aşırı önem, zaman zaman halkın geniş kesimlerinin acil ekonomik ihtiyaçlarını (işçi sınıfı gerçeklerini) ıskaladığı yönünde eleştirilere yol açmıştır."
+    },
+    {
+      "title": "Din Temelli Argümanlar",
+      "text": "Adalet arayışını sık sık Hristiyan etiğine dayandırması, seküler düşünürler için teorisinin evrenselliğini daraltan bir unsur olarak görülebilir."
+    }
+  ]
+}

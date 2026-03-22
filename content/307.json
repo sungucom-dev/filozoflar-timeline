@@ -1,0 +1,90 @@
+{
+  "subtitle": "İki Aşamalı Hareket ve Kur'an'ın Ahlaki Özü (1919–1988)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İki Aşamalı Hareket Metodu (The Double Movement)",
+      "body": "Rahman'ın İslam düşüncesine en büyük katkısı, metinleri anlamak için önerdiği bu \"hermeneutik\" (yorumsamacı) danstır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Birinci Hareket (Bugünden Geçmişe)",
+          "text": "Önce bugünün sorunlarından Kur'an'ın indiği zamana gidilir. O ayetin hangi sosyal, siyasi ve tarihi şartlarda (Nüzul Sebepleri) indiği analiz edilir. Amaç, ayetin lafzının (sözünün) altındaki \"ilahi maksadı\" ve \"ahlaki ilkeyi\" çekip çıkarmaktır."
+        },
+        {
+          "label": "İkinci Hareket (Geçmişten Bugüne)",
+          "text": "Bulunan o evrensel ilke (Örn: Adalet, eşitlik, şura) alınır ve bugünün dünyasına tercüme edilir. Böylece yedinci yüzyılın yerel uygulamaları değil, o uygulamanın ruhu bugün yaşatılmış olur."
+        }
+      ]
+    },
+    {
+      "title": "Tarihsel İslam vs. Normatif İslam",
+      "body": "Rahman, Müslümanların en büyük hatasının \"tarihsel olanı\" \"kutsal olan\"la karıştırmak olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tarihsel İslam",
+          "text": "Müslümanların asırlar boyunca oluşturduğu fıkıh, gelenek ve yorumlardır. Bunlar insan ürünüdür ve değişebilir."
+        },
+        {
+          "label": "Normatif İslam",
+          "text": "Kur'an'ın ve yaşayan sünnetin özündeki o değişmez ahlaki ve inançsal ilkelerdir. Rahman, geçmişteki hukukçuların (fukaha) yorumlarını dondurup bugüne dayatmanın İslam'ın dinamizmini öldürdüğünü söyler."
+        }
+      ]
+    },
+    {
+      "title": "Kur'an: Sosyal ve Ahlaki Bir Rehber",
+      "body": "Ona göre Kur'an bir hukuk kitabı veya bir bilim ansiklopedisi değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ahlaki Odak",
+          "text": "Kur'an'ın asıl amacı, adil ve ahlaklı bir toplum inşa etmektir."
+        },
+        {
+          "label": "Bütüncül Bakış",
+          "text": "Ayetleri tek tek, bağlamından kopararak değil; Kur'an'ın tamamına yayılan o \"dünya görüşü\" (Weltanschauung) içinde okumak gerekir."
+        }
+      ]
+    },
+    {
+      "title": "Yaşayan Sünnet (Living Sunnah)",
+      "body": "Hadis külliyatına yönelik radikal bir eleştiri getirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kavramsal Fark",
+          "text": "Hadislerin (sözlü aktarımların) tarihsel süreçte birçok dış etkene maruz kaldığını, asıl bakılması gerekenin Hz. Peygamber'in ortaya koyduğu o \"yaşayan ve dinamik örnekliğin ruhu\" (Sünnet) olduğunu savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Metodolojik Devrim",
+      "text": "İslam dünyasına \"Neyi düşünmeliyiz?\"den ziyade \"Nasıl düşünmeliyiz?\" sorusunun cevabını (İki Aşamalı Hareket ile) vermiştir."
+    },
+    {
+      "title": "Türkiye'ye Etkisi",
+      "text": "\"Ankara Okulu\" olarak bilinen ilahiyat ekolünü derinden etkilemiş; Türkiye'deki modern dini düşüncenin felsefi zeminini kurmuştur."
+    },
+    {
+      "title": "Akademik Titizlik",
+      "text": "Hem klasik İslami ilimlere (Arapça, Farsça, Kelam) hem de Batı felsefesine (Kant, Hegel, Hermeneutik) aynı derecede hakim olan nadir bir polimattır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Halktan Kopukluk",
+      "text": "Fikirleri o kadar yüksek bir entelektüel seviyededir ki, sıradan dindar kitleler tarafından anlaşılması ve sahiplenilmesi zor olmuştur."
+    },
+    {
+      "title": "Gelenekle Sert Çatışma",
+      "text": "Geleneksel fıkhı ve kurumları çok radikal bir şekilde eleştirmesi, onun İslam dünyasının merkezinde değil, daha çok Batı akademisinde veya sınırlı entelektüel çevrelerde yankı bulmasına neden olmuştur."
+    },
+    {
+      "title": "Modernitenin Sınırları",
+      "text": "Kur'an'ı \"ahlaki bir öz\"e indirgeme çabası, bazı eleştirmenlerce metnin o sarsıcı ve \"indirgenemez\" ilahi otoritesini fazla rasyonalize etmekle eleştirilmiştir."
+    }
+  ]
+}

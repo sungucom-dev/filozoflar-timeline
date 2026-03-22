@@ -1,0 +1,90 @@
+{
+  "subtitle": "Dikkat, Benliksizleşme ve İyiliğin Güneşi (1919–1999)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Dikkat (Attention): Ahlakın İlk Adımı",
+      "body": "Simone Weil'den ödünç aldığı bu kavram, Murdoch felsefesinin kalbidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bakmak vs. Görmek",
+          "text": "Ahlak, \"Ne yapmalıyım?\" sorusundan önce \"Neye bakıyorum?\" sorusuyla başlar. Dikkat, kendi ön yargılarımızdan ve arzularımızdan sıyrılarak, bir başkasının gerçekliğini olduğu gibi, dürüstçe görme çabasıdır."
+        },
+        {
+          "label": "Sevgi Olarak Dikkat",
+          "text": "Sevgi, başka bir insanın benden bağımsız ve \"gerçek\" olduğunu fark etmektir. Bu fark ediş sağlandığında, doğru eylem zaten kendiliğinden doğar."
+        }
+      ]
+    },
+    {
+      "title": "Benlikten Kurtulma (Unselfing)",
+      "body": "Murdoch için ego, gerçekliği görmemizi engelleyen \"sisli bir cam\" gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Egonun Düşmanlığı",
+          "text": "Ego, dünyayı kendi ihtiyaçlarına göre çarpıtır. Ahlaki ilerleme, bu benmerkezci fanteziden kurtulma sürecidir."
+        },
+        {
+          "label": "Sanat ve Doğa",
+          "text": "Güzel bir tabloya bakarken veya doğadaki bir kuşun hareketini izlerken \"kendimizi unuturuz.\" Bu anlar, benliğin sessizleştiği ve gerçekliğin tüm ihtişamıyla içeri girdiği \"benliksizleşme\" anlarıdır."
+        }
+      ]
+    },
+    {
+      "title": "İyiliğin Egemenliği (The Sovereignty of Good)",
+      "body": "Platoncu bir geleneği modern çağa taşır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Güneş Metaforu",
+          "text": "İyilik, tıpkı güneş gibidir. Ona doğrudan bakamazsınız (onu tam olarak tanımlayamazsınız), ancak dünyadaki her şeyi onun ışığı sayesinde görürsünüz. İyilik, tüm ahlaki değerlerin merkezindeki o sarsılmaz ve ulaşılamaz idealdir."
+        },
+        {
+          "label": "Ahlaki Gerçekçilik",
+          "text": "İyilik, sadece bizim bir \"tercihimiz\" veya \"duygumuz\" değildir; o, dünyanın yapısında var olan nesnel bir gerçektir."
+        }
+      ]
+    },
+    {
+      "title": "Edebiyat ve Felsefe",
+      "body": "Murdoch'a göre roman, \"insanların ne kadar farklı ve karmaşık olduğunu\" göstermenin en iyi yoludur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Karakterlerin Özgürlüğü",
+          "text": "Kendi romanlarında karakterlerini kendi felsefesine kurban etmez; onlara yaşama alanı bırakır. Çünkü ahlakın özü, ötekinin \"ötekiliğine\" (farklılığına) duyulan saygıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Duygusal Zekâ",
+      "text": "Ahlakı sadece \"kurallar\" ve \"mantık\" olmaktan çıkarıp; hissetmek, bakmak ve sevmek gibi insani zeminlere oturtmuştur."
+    },
+    {
+      "title": "Anti-Sartre Duruşu",
+      "text": "İnsanı \"kendi kendini yaratan tanrısal bir irade\" olarak gören o tehlikeli kibri (egoizmi) dâhiyane bir şekilde eleştirmiştir."
+    },
+    {
+      "title": "Sanatın Onuru",
+      "text": "Sanatın sadece bir eğlence değil, insanın \"gerçekliğe\" ulaşması için en hayati ahlaki araçlardan biri olduğunu göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tanımlanamazlık",
+      "text": "\"İyilik\" kavramını o kadar ulaşılmaz ve \"bakılamaz\" bir yere koymuştur ki, somut durumlarda neyin \"iyi\" olduğuna dair net bir kılavuz sunmakta zorlanabilir."
+    },
+    {
+      "title": "Mistik Eğilimler",
+      "text": "Analitik felsefe çevreleri, onun Platoncu metafiziğini bazen fazla \"şiirsel\" ve \"bilimsel dayanaktan yoksun\" bulmuştur."
+    },
+    {
+      "title": "Pasiflik Riski",
+      "text": "Ahlakı \"bakmak ve dikkat etmek\" üzerine kurması, bazen haksızlıklara karşı gösterilmesi gereken \"aktif eylem\" ve \"karar\" anlarını gölgede bırakabilir."
+    }
+  ]
+}

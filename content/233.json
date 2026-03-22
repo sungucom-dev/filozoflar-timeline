@@ -1,0 +1,75 @@
+{
+  "subtitle": "Bilinçli Yaşam, Vahşet ve Vicdan (1817–1862)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Walden: Sadelik ve Bilinçli Yaşam",
+      "body": "1845'te Walden Gölü kıyısında, kendi elleriyle yaptığı bir kulübede iki yıl geçirdi. Amacı \"hayatın iliğini sömürmek\"ti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilinçli Yaşam",
+          "text": "\"Ormana gittim, çünkü bilinçli bir şekilde yaşamak istiyordum... Hayat olmayan şeyi yaşamamak için.\""
+        },
+        {
+          "label": "Ekonomi",
+          "text": "Thoreau için zenginlik, bir insanın vazgeçebileceği şeylerin sayısıyla ölçülür. Modern tüketim çılgınlığına karşı \"Sadeleşin, sadeleşin!\" diye haykırmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Sivil İtaatsizlik (Civil Disobedience)",
+      "body": "Köleliği ve Meksika-Amerika Savaşı'nı protesto etmek için kafa vergisi ödemeyi reddetti ve hapse girdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vicdanın Üstünlüğü",
+          "text": "Yasalar adaletsizse, iyi bir yurttaşın görevi o yasalara uymak değil, onları çiğneyerek sistemi durdurmaktır. \"Önce insan, sonra uyruk olmalıyız.\""
+        },
+        {
+          "label": "Miras",
+          "text": "Bu küçük risale, yıllar sonra Gandhi'yi ve Martin Luther King Jr.'ı dünyayı değiştirecek olan o \"pasif direniş\" metoduna ikna edecektir."
+        }
+      ]
+    },
+    {
+      "title": "Vahşi Doğa ve Koruma",
+      "body": "Thoreau için doğa sadece bir \"ayna\" değil, insanın vahşi ve özgür yanının sığınağıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "\"Dünyanın kurtuluşu vahşettedir\"",
+          "text": "Medeniyetin insanı evcilleştirip ruhunu öldürdüğüne inanıyordu. Her kasabanın, insanların ruhlarını tazeleyebileceği bir ormana ihtiyacı olduğunu savunarak modern milli park fikrinin tohumlarını atmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Söz-Eylem Birliği",
+      "text": "Felsefeyi sadece konuşulan bir şey değil, yaşanan bir şey (praksis) haline getirmiştir. Onun kadar tutarlı yaşayan az düşünür vardır."
+    },
+    {
+      "title": "Siyasi Deha",
+      "text": "Devletin birey üzerindeki otoritesini vicdan üzerinden sorgulayarak modern siyaset felsefesine en etkili araçlardan birini (sivil itaatsizlik) armağan etmiştir."
+    },
+    {
+      "title": "Ekolojik Bilinç",
+      "text": "Doğayı sömürülecek bir meta değil, korunması gereken bir \"kutsal alan\" olarak tanımlayarak çevreciliğin ruhunu oluşturmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sözde İnziva",
+      "text": "Meşhur \"yalnız\" hayatı sırasında kulübesi aslında kasabaya çok yakındı, annesi sık sık çamaşırlarını yıkıyor ve akşam yemeğine gidiyordu. Yani \"mutlak bağımsızlığı\" biraz romantize edilmiş bir kurgudur."
+    },
+    {
+      "title": "Aşırı Bireycilik",
+      "text": "Toplumsal kurumları ve kolektif çözümleri o kadar çok dışlamıştır ki, felsefesi büyük ölçekli toplumsal sorunları (sadece bireysel vicdanla) çözmekte yetersiz kalabilir."
+    },
+    {
+      "title": "Sert ve Huysuz Üslup",
+      "text": "İnsanlara karşı o kadar yargılayıcı ve mesafeliydi ki, fikirleri ne kadar parlak olursa olsun, bir \"toplum kurucu\" olmaktan ziyade \"yalnız bir eleştirmen\" olarak kalmıştır."
+    }
+  ]
+}

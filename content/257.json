@@ -1,0 +1,85 @@
+{
+  "subtitle": "Süre, Hayat Hamlesi ve Sezgi (1859–1941)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Süre (Durée): Saat Zamanı vs. Gerçek Zaman",
+      "body": "Bergson'un felsefeye vurduğu en büyük mühür budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mekânsallaştırılmış Zaman",
+          "text": "Bilimin ve saatin zamanıdır. Eşit parçalara bölünmüştür, durdurulabilir ve ölçülebilir. Bergson buna \"zamanın uzayı taklit etmesi\" der."
+        },
+        {
+          "label": "Gerçek Süre (Durée)",
+          "text": "İçsel, akışkan ve bölünemez zamandır. Bir müzik parçasındaki notaların birbirinin içine geçmesi gibidir. Parçalara ayırdığınızda \"akış\" ölür. Yaşanan zaman, ölçülen zamandan her zaman daha büyüktür."
+        }
+      ]
+    },
+    {
+      "title": "Hayat Hamlesi (Élan Vital)",
+      "body": "Darwin'in \"rastlantısal\" ve Spencer'ın \"mekanik\" evrim teorilerine bir itirazdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yaratıcı Atılım",
+          "text": "Evrim, sadece dış koşullara uyum sağlamak değil, maddenin direncini kırmaya çalışan içsel, patlayıcı ve yaratıcı bir enerjidir."
+        },
+        {
+          "label": "Yaratıcı Evrim",
+          "text": "Hayat önceden çizilmiş bir planı (Hegel gibi) takip etmez; her an yeni ve öngörülemez biçimler yaratarak fışkırır."
+        }
+      ]
+    },
+    {
+      "title": "Zekâ vs. Sezgi",
+      "body": "Zihin dünyayı anlamak için iki farklı araç kullanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zekâ (Intellect)",
+          "text": "Katı maddeyi manipüle etmek, alet yapmak ve \"açıklamak\" için tasarlanmıştır. Sinematografik çalışır; akışı durdurur, karelere böler ve öyle inceler. Hayatı anlamakta \"yetersizdir\" çünkü canlı olanı öldürür."
+        },
+        {
+          "label": "Sezgi (Intuition)",
+          "text": "Bir nesnenin veya canlının içine girip, onunla \"bir olma\" yeteneğidir. Süre'yi ve hayatın özünü ancak sezgiyle kavrayabiliriz."
+        }
+      ]
+    },
+    {
+      "title": "Gülme (Le Rire): Mekanikleşen Canlılık",
+      "body": "Bergson'a göre komik olan şey, canlı bir varlığın (insanın) kaskatı, otomatiğe bağlamış veya \"mekanik\" bir davranış sergilemesidir. Bir insanın muz kabuğuna basıp düşmesi komiktir çünkü o an esnekliğini yitirip kaskatı bir \"nesne\" gibi hareket etmiştir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Zamanın Öznelliği",
+      "text": "Zamanın sadece bir \"ölçü\" olmadığını, insanın varoluşsal bir boyutu olduğunu göstererek Heidegger ve Proust gibi dev isimlere ilham vermiştir."
+    },
+    {
+      "title": "Anti-Mekanizm",
+      "text": "Dünyayı ölü bir makine gibi gören görüşe karşı, evrenin canlı, yaratıcı ve özgür olduğunu savunarak insan ruhuna nefes aldırmıştır."
+    },
+    {
+      "title": "Nobel ve Etki",
+      "text": "Yazım üslubunun zarafetiyle felsefeyi geniş kitlelere sevdirmiş, edebiyat ve sanat dünyasında (özellikle empresyonizmde) derin izler bırakmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İrrasyonalizm Riski",
+      "text": "Zekâyı sezginin altına yerleştirmesi, felsefesini rasyonel denetimden uzaklaştırıp \"mistik\" bir alana çekme riski taşır."
+    },
+    {
+      "title": "Einstein ile Yenilgi",
+      "text": "Fizik dünyasında zamanın rölativitesini açıklayan Einstein karşısında, Bergson'un \"mutlak süre\" savunusu bilimsel çevrelerde zamanla etkisini yitirmiştir."
+    },
+    {
+      "title": "Tanımsızlık",
+      "text": "Élan Vital gibi kavramlar şiirsel olarak çok güçlü olsa da, bilimsel olarak test edilmesi veya tam olarak ne olduğunun açıklanması imkansıza yakındır."
+    }
+  ]
+}

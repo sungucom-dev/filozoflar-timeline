@@ -1,0 +1,90 @@
+{
+  "subtitle": "Ekonomi, Ev ve Ütopya (1860–1935)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Sarı Duvar Kağıdı\" ve Evin Patolojisi",
+      "body": "Gilman'ın en meşhur eseri olan bu öykü, bir \"edebiyat şaheseri\" olmanın ötesinde klinik bir eleştiridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dinlenme Tedavisi (Rest Cure)",
+          "text": "Dönemin tıp dünyasının kadınlara dayattığı \"hiçbir şey yapmama\" (okumama, yazmama, düşünmeme) tedavisinin kadını nasıl deliliğe sürüklediğini anlatır."
+        },
+        {
+          "label": "Hapisane Olarak Ev",
+          "text": "Sarı duvar kağıdının arkasında sıkışmış kadın figürü, aslında Viktorya dönemi ev hayatının içine hapsolmuş tüm kadınların sembolüdür. Gilman için ev, bir sığınak değil, bir \"yaratıcılık mezarlığı\"dır."
+        }
+      ]
+    },
+    {
+      "title": "Kadınlar ve Ekonomi: Asalaklıktan Bağımsızlığa",
+      "body": "1898 tarihli Women and Economics (Kadınlar ve Ekonomi), feminist literatürün en radikal sosyolojik metinlerinden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Cinsiyet-Ekonomi Bağlantısı",
+          "text": "Kadının ekonomik olarak erkeğe bağımlı olmasının, hem kadını hem de erkeği \"insani\" gelişimden alıkoyduğunu savunur."
+        },
+        {
+          "label": "Doğal Olmayan Seçilim",
+          "text": "Gilman'a göre kadınlar, hayatta kalmak için yeteneklerini değil, sadece \"çekiciliklerini\" geliştirmek zorunda bırakılmışlardır. Bu durum, insan türünün evrimini yavaşlatan biyolojik ve sosyal bir hatadır."
+        }
+      ]
+    },
+    {
+      "title": "Evin Yeniden İcadı: Kolektif Mutfaklar",
+      "body": "Gilman, kadınların özgürleşmesi için sadece \"haklar\" talep etmez, somut bir mimari ve sosyal değişim önerir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutfaksız Evler",
+          "text": "Yemek pişirmek ve temizlik yapmak gibi işlerin bireysel evlerden çıkarılıp, uzmanlar tarafından yönetilen kolektif merkezlere devredilmesini savunur."
+        },
+        {
+          "label": "Profesyonelleşme",
+          "text": "Annelik ve ev işleri \"kutsal bir görev\" değil, birer meslek olmalıdır. Böylece kadınlar, çocuklarını büyütürken aynı zamanda toplumsal üretime katılabilirler."
+        }
+      ]
+    },
+    {
+      "title": "Herland: Kadınlar Ülkesi Ütopyası",
+      "body": "Meşhur ütopyasında, erkeklerin olmadığı, şiddetin yerini işbirliğinin, mülkiyetin yerini kolektif üretimin aldığı bir toplum hayal eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Toplumsal Annelik",
+          "text": "Burada annelik sadece biyolojik bir bağ değil, tüm toplumun çocuklara karşı duyduğu ortak bir sorumluluktur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ekonomik Odak",
+      "text": "Kadın haklarını sadece \"oy verme\" gibi siyasi bir düzlemden alıp, \"ekmek ve bağımsızlık\" gibi ekonomik bir zemine oturtmuştur."
+    },
+    {
+      "title": "Sosyolojik Deha",
+      "text": "Ailenin ve evin kutsallığını sorgulayarak, bu kurumların aslında tarihsel ve ekonomik birer inşa olduğunu göstermiştir."
+    },
+    {
+      "title": "Psikolojik Farkındalık",
+      "text": "Kadınların yaşadığı depresyon ve huzursuzluğun \"kişisel\" değil, \"sistemsel\" bir baskının sonucu olduğunu haykırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Öjenik ve Irkçılık",
+      "text": "Gilman'ın en tartışmalı ve karanlık tarafı budur. \"Irk ıslahı\" (öjenik) fikirlerini savunmuş, beyaz üstünlükçü ve göçmen karşıtı görüşler dile getirmiştir. Bu durum, onun \"evrensel kurtuluş\" iddiasıyla taban tabana zıttır."
+    },
+    {
+      "title": "Biyolojik Determinizm",
+      "text": "Kadınlığı bazen \"barışçıl ve işbirlikçi\" bir öz olarak fazla idealleştirmesi, erkekliği ise \"doğuştan yıkıcı\" görmesi, modern cinsiyet teorileri açısından kısıtlayıcı bir yaklaşımdır."
+    },
+    {
+      "title": "Sınıfsal Sınırlar",
+      "text": "Önerdiği kolektif mutfaklar ve kreşler, daha çok orta sınıf beyaz kadınların dertlerine hitap eden \"elitist\" bir çözüm olarak eleştirilmiştir."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "subtitle": "Radikal Aristotelesçilik ve Akıl Tutulması (1240–1284)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Dünyanın Ezeliliği (Eternity of the World)",
+      "body": "Siger, kilisenin \"dünya yoktan var edildi\" dogmasına karşı, Aristoteles'in fizik kurallarına sadık kalmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zamanın Sonsuzluğu",
+          "text": "Mantıksal olarak maddenin yoktan var olamayacağını ve zamanın bir başlangıcı olamayacağını savunmuştur. Bu, Hristiyan yaratılış inancına vurulmuş en sert mantıksal darbelerden biriydi."
+        },
+        {
+          "label": "Determinizm",
+          "text": "Doğa yasalarının sarsılmaz olduğunu, Tanrı'nın bile bu yasaları (mucizelerle) sürekli bozmayacağını iddia ederek rasyonel bir evren tasarımı sundu."
+        }
+      ]
+    },
+    {
+      "title": "Tek Akıl Teorisi (Monopsychism)",
+      "body": "İbn Rüşd'den miras aldığı en tartışmalı fikirdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ortak Zekâ",
+          "text": "Siger'e göre tüm insanlık tek ve ortak bir \"Etkin Akıl\"ı paylaşır. Bireysel ruhlar ölür, ancak insanlığın kolektif aklı sonsuza dek kalır."
+        },
+        {
+          "label": "Bireysel Ruhun Sonu",
+          "text": "Bu fikir, kilisenin \"bireysel ruhun ölümsüzlüğü, cennet ve cehennem\" öğretisini doğrudan temelinden sarsıyordu. Eğer hepimiz aynı aklı paylaşıyorsak, \"benim\" sorumluluğum nerede başlar?"
+        }
+      ]
+    },
+    {
+      "title": "Çifte Hakikat Meselesi (The Double Truth)",
+      "body": "Siger'e sıkça atfedilen (ancak onun daha çok \"metodolojik\" olarak kullandığı) bu görüş, felsefe ile dinin iki ayrı alan olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Felsefi Gerçek vs. Dini Gerçek",
+          "text": "\"Felsefeci olarak Aristoteles'in dediklerini takip ederim ve dünya ezelidir derim; ancak bir Hristiyan olarak kilisenin dediğine inanırım\" diyerek, akıl ile inanç arasına aşılmaz bir duvar örmüştür. Bu, aklın özerkliğini ilan eden devrimci bir hareketti."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Aklın Özgürlüğü",
+      "text": "Felsefeyi ilahiyatın \"hizmetçisi\" olmaktan çıkarıp, kendi kuralları ve mantığı olan bağımsız bir disiplin haline getirmek için savaşmıştır."
+    },
+    {
+      "title": "Rönesans'ın Habercisi",
+      "text": "Onun radikal Aristotelesçiliği, yüzyıllar sonra din dışı bilimsel düşüncenin ve laikliğin (sekularizm) felsefi tohumlarını atmıştır."
+    },
+    {
+      "title": "Dante'nin Onayı",
+      "text": "Şaşırtıcı bir şekilde, Dante İlahi Komedya'da Siger'i cehenneme değil, cennete (Güneş Katı'na), rakibi Thomas Aquinas'ın hemen yanına yerleştirmiştir. Bu, onun \"hakikat arayışındaki dürüstlüğüne\" verilen bir saygı duruşudur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dönemin Gerçekliğiyle Çatışma",
+      "text": "1277 yılında Paris Episkoposu tarafından 219 fikriyle birlikte yasaklanmış (Condemnation of 1277), bu da onun fikirlerinin kurumsallaşmasını engellemiştir."
+    },
+    {
+      "title": "Toplumsal Kopukluk",
+      "text": "Fikirleri o kadar radikal ve \"soğuk\" bulunmuştur ki, kilise ve halk nezdinde \"ateist\" veya \"heretik\" damgası yemekten kurtulamamıştır."
+    },
+    {
+      "title": "Trajik Son",
+      "text": "Engizisyondan kaçarken İtalya'da kendi sekreteri tarafından (muhtemelen cinnet anında) bıçaklanarak öldürülmüştür; bu da onun \"zor patikası\"nın ne kadar tehlikeli olduğunun kanıtıdır."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "subtitle": "Deliliğe Övgü ve Kaynaklara Dönüş (1466–1536)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Moriae Encomium (Deliliğe Övgü)",
+      "body": "Bu eser, felsefe tarihinin en zeki taşlamalarından biridir. Erasmus, \"Delilik\" figürünü konuşturarak toplumu eleştirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aynadaki Gerçek",
+          "text": "Ona göre hayatı katlanılabilir kılan şey, insanların birbirlerinin hatalarına karşı gösterdiği o tatlı \"delilik\" yani hoşgörüdür."
+        },
+        {
+          "label": "Kurumsal Eleştiri",
+          "text": "Din adamlarının boş tartışmalarını, kralların açgözlülüğünü ve halkın körü körüne inancını \"Delilik\" üzerinden hicveder. \"Gerçek bilgelik, bazen delilik maskesi takmaktır\" der."
+        }
+      ]
+    },
+    {
+      "title": "Ad Fontes (Kaynaklara Dönüş)",
+      "body": "Erasmus, Rönesans hümanizminin temel ilkesini teolojiye uygulamıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yeni Ahit Çevirisi",
+          "text": "Latince Vulgata İncili'ndeki hataları ayıklamak için doğrudan orijinal Yunanca metne inmiş ve yeni bir çeviri yayımlamıştır."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu hamle, Martin Luther'in Reform hareketine giden yolu açmıştır. Çünkü Erasmus, dinin sadece ruhban sınıfının tekelinde değil, herkesin anlayabileceği bir dilde ve kaynakta olması gerektiğini savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Mesih'in Felsefesi (Philosophia Christi)",
+      "body": "Erasmus için din, karmaşık dogmalar veya görkemli törenler değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçsel Dindarlık",
+          "text": "Gerçek Hristiyanlık, Hz. İsa'nın etik öğretilerini (alçakgönüllülük, barış, sevgi) hayata geçirmektir."
+        },
+        {
+          "label": "Savaş Karşıtlığı",
+          "text": "\"Tatlıdır savaş, onu hiç denemeyene\" (Dulce bellum inexpertis) diyerek, Avrupa'nın bitmek bilmeyen savaşlarına karşı barışı savunan bir hümanist manifestosu sunmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Eleştirel Aklın İnşası",
+      "text": "Dogmaları körü körüne kabul etmek yerine filolojik ve mantıksal bir süzgeçten geçirme yöntemini yaygınlaştırmıştır."
+    },
+    {
+      "title": "Avrupa Kimliği",
+      "text": "Ulusal sınırların ötesinde bir \"Cumhuriyet-i Edibîn\" (Edebiyat Cumhuriyeti) hayal ederek, kozmopolit bir Avrupa kültürünün temellerini atmıştır."
+    },
+    {
+      "title": "Eğitim Reformu",
+      "text": "Çocukların dayakla değil, oyunla ve antik klasikleri okuyarak eğitilmesi gerektiğini savunan modern bir pedagoji geliştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "\"Eşik\" İnsanı Olmak",
+      "text": "Martin Luther ve Roma Kilisesi arasındaki o büyük kavgada tarafsız kalmaya çalışması, her iki tarafça da \"korkaklık\" veya \"hainlik\" ile suçlanmasına yol açmıştır."
+    },
+    {
+      "title": "Halktan Kopukluk",
+      "text": "Yazılarını sadece Latince yazmış, bu yüzden fikirleri geniş kitlelere Luther kadar doğrudan ulaşamamıştır. O, \"seçkin bir entelektüel\" olarak kalmayı tercih etmiştir."
+    },
+    {
+      "title": "İyimserliğin Sınırı",
+      "text": "İnsan doğasının eğitim ve sağduyu ile tamamen düzelebileceğine dair o aşırı iyimser hümanist inancı, 16. yüzyılın kanlı gerçekleri karşısında biraz naif kalmıştır."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "subtitle": "Karolenj Rönesansı ve Bilginin Standartlaşması (735–804)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Eğitim Reformu: Yedi Özgür Sanat (Seven Liberal Arts)",
+      "body": "Alcuin, Cassiodorus ve Isidor'un bıraktığı mirası alıp onu sistematik bir okul müfredatına dönüştürmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Trivium (Üçlü Yol)",
+          "text": "Gramer, Retorik ve Diyalektik (Mantık). Alcuin için özellikle \"Gramer\", doğru inanmanın ve doğru düşünmenin ilk adımıdır."
+        },
+        {
+          "label": "Quadrivium (Dörtlü Yol)",
+          "text": "Aritmetik, Geometri, Müzik ve Astronomi."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu sistem sayesinde felsefe, sadece manastırlarda kopyalanan bir \"emanet\" olmaktan çıkıp, devlet bürokrasisi ve din adamları için zorunlu bir eğitim altyapısı haline gelmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Yazı Devrimi: Karolenj Miniskülü",
+      "body": "Belki de felsefe tarihinin en az konuşulan ama en hayati teknik devrimlerinden birini Alcuin yönetmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Okunabilirlik",
+          "text": "Eski, karmaşık ve okunması imkansız el yazıları yerine, harflerin arasına boşluk koyan, büyük-küçük harf ayrımı yapan ve net bir yazı stili olan \"Karolenj Miniskülü\"nü geliştirmiştir."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Bu sayede antik metinler çok daha hızlı kopyalanmış ve Avrupa'nın her yerindeki kütüphanelerde ortak bir \"okuma dili\" oluşmuştur. Bugün kullandığımız yazı karakterlerinin temeli bu devrime dayanır."
+        }
+      ]
+    },
+    {
+      "title": "Felsefeyi Siyasete Taşımak: Admonitio Generalis",
+      "body": "Şarlman'ın ünlü kararnamesinin arkasındaki beyin Alcuin'dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bilge Kral İdeali",
+          "text": "Platon'un \"Filozof Kral\" idealini Hristiyan bir perspektifle yeniden yorumlamıştır. Şarlman'a sadece bir savaşçı değil, tebaasını eğiten ve onları \"hakikate\" ulaştıran bir lider olması gerektiğini aşılamıştır."
+        },
+        {
+          "label": "Akıl ve İman",
+          "text": "Alcuin, aklın imanı güçlendirdiğini savunur. \"Diyalektiği (Mantığı) öğrenin, çünkü o hakikati hatadan ayırmanızı sağlar.\""
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Avrupa'nın Entelektüel Birliği",
+      "text": "Dağınık barbar krallıklardan oluşan bir coğrafyada, ortak bir eğitim dili ve müfredatı kurarak \"Avrupa\" kimliğinin zihinsel temellerini atmıştır."
+    },
+    {
+      "title": "Okuryazarlığın Kurtarılması",
+      "text": "Manastır dışındaki ilk ciddi okul ağlarını kurarak, eğitimin sadece dini bir ritüel değil, toplumsal bir ihtiyaç olduğunu göstermiştir."
+    },
+    {
+      "title": "Hümanizmin Öncüsü",
+      "text": "Antik yazarları (Cicero, Vergilius) dini metinlerle birlikte okutarak, seküler kültürün Ortaçağ içinde eriyip gitmesini engellemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Özgünlük Eksikliği",
+      "text": "Alcuin yeni bir felsefi soru sormamış, yeni bir metafizik sistem kurmamıştır. O bir \"pedagog\"dur. Felsefesi, mevcut bilgileri en iyi şekilde tasnif edip öğretmekle sınırlıdır."
+    },
+    {
+      "title": "Siyasetin Hizmetinde Felsefe",
+      "text": "Felsefeyi bir imparatorluğun birliğini sağlama aracı (bir tür yumuşak güç) olarak kullanması, düşüncenin özgürce sorgulama yapma yetisini bazen imparatorluk ideolojisinin sınırlarına hapsetmiştir."
+    },
+    {
+      "title": "Kaskatı Gelenekçilik",
+      "text": "Şamlı Yuhanna gibi o da \"yenilikten\" korkar. Bilgelik, onun için sadece geçmişten (Kilise Babaları ve Antikite) devralınan bir birikimdir; bu da yaratıcı düşüncenin Karolenj döneminde bazen donup kalmasına yol açmıştır."
+    }
+  ]
+}

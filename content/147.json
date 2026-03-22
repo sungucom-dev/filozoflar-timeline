@@ -1,0 +1,79 @@
+{
+  "subtitle": "Olmayan Ülkenin Gerçek Tanığı (1478–1535)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Utopia: Bir Eleştiri Olarak Hayal",
+      "body": "More'un 1516'da yazdığı bu eser, ismini Yunanca \"olmayan yer\" (ou-topos) ve \"iyi yer\" (eu-topos) kelimelerinin kelime oyunundan alır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mülkiyetin Reddi",
+          "text": "More'a göre toplumdaki tüm kötülüklerin anası özel mülkiyettir. Ütopya adasında her şey ortaktır, para yoktur ve herkes yeteneğine göre çalışır."
+        },
+        {
+          "label": "Toplumsal Adalet",
+          "text": "İngiltere'deki \"koyunların insanları yediği\" (meraların çitlenmesi) adaletsiz düzene karşı; günde sadece 6 saat çalışılan, hoşgörünün ve eğitimin esas olduğu bir alternatif sunar."
+        }
+      ]
+    },
+    {
+      "title": "Vicdanın Mutlakiyeti ve Henry VIII",
+      "body": "More, sadece teoride kalmamış, fikirlerini hayatıyla ödemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kralın Değil, Tanrı'nın Kulu",
+          "text": "VIII. Henry'nin Katolik Kilisesi'nden ayrılıp kendisini İngiliz Kilisesi'nin başı ilan etmesine karşı çıktı. Sessizliğini korusa da, kralın dini otoritesini tanımayı reddetti."
+        },
+        {
+          "label": "İdam Sehpası",
+          "text": "1535'te idama giderken söylediği son sözler onun felsefesinin özetidir: \"Kralın sadık hizmetkârıyım ama her şeyden önce Tanrı'nın.\""
+        }
+      ]
+    },
+    {
+      "title": "Hümanist Eğitim ve Aile",
+      "body": "More, döneminin çok ötesinde bir aile babası ve eğitimciydi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kadınların Eğitimi",
+          "text": "Kızlarını dönemin en iyi eğitimiyle yetiştirmiş, zekânın cinsiyeti olmadığını savunmuştur."
+        },
+        {
+          "label": "Dostluk Halkası",
+          "text": "Erasmus ile olan dostluğu, Avrupa hümanizminin en parlak entelektüel iş birliğidir. Erasmus onun için \"tüm zamanların adamı\" (Omnium horarum homo) demiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Toplumsal Eleştiri Gücü",
+      "text": "Siyasi ve ekonomik adaletsizlikleri bir \"roman\" kurgusuyla anlatarak, toplumsal dönüşüm hayalini kitlelere ulaştırmıştır."
+    },
+    {
+      "title": "Karakter Abidesi",
+      "text": "Siyasi pragmatizmin (Machiavelli tarzı) zirve yaptığı bir çağda, şahsi menfaatini vicdanının ve inancının altına koymayarak tarihe bir ahlak anıtı bırakmıştır."
+    },
+    {
+      "title": "Hümanist Vizyon",
+      "text": "Hoşgörü, eğitim ve barışı toplumsal düzenin temeli olarak kurgulaması, modern demokratik değerleri önceden haber vermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Ütopya'daki Baskıcılık",
+      "text": "Hayal ettiği adada her şey ortak olsa da, aslında çok sıkı bir denetim ve tekdüzelik vardır. Bireysel özgürlük, toplumsal düzen uğruna ciddi şekilde kısıtlanmıştır."
+    },
+    {
+      "title": "Dini Bağnazlık Tartışması",
+      "text": "Bir yandan dini hoşgörüyü yazarken, diğer yandan şansölyeliği döneminde Protestanlara karşı sert bir tutum sergilemiş ve bazılarının yakılmasına onay vermiştir. Bu, onun \"yazılarıyla eylemleri\" arasındaki en büyük çelişkidir."
+    },
+    {
+      "title": "Gerçek dışı İdealizm",
+      "text": "Machiavelli'nin \"olanı\" anlatmasına karşılık More \"olması gerekeni\" anlatmış, bu da fikirlerinin o dönem için pratik bir çözüm sunmaktan uzak kalmasına neden olmuştur."
+    }
+  ]
+}

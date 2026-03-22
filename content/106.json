@@ -1,0 +1,81 @@
+{
+  "subtitle": "Şüphe, Mantık ve Bireyin Doğuşu (1079–1142)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tümeller Tartışması: Kavramcılık (Conceptualism)",
+      "body": "Abelard, dönemini kasıp kavuran \"Tümeller\" (evrensel kavramlar) kavgasında üçüncü bir yol açmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gerçekçilik (Realism) vs. Adcılık (Nominalism)",
+          "text": "Gerçekçiler \"İnsanlık\" kavramının gerçek olduğunu savunurken, Adcılar bunun sadece bir \"isim\" olduğunu söylerdi."
+        },
+        {
+          "label": "Abelardus'un Çözümü",
+          "text": "Ona göre tümeller ne tek başına bir nesnedir ne de boş bir sestir; onlar zihnimizin benzer nesnelerden çıkardığı \"anlamlar\"dır (Kavramcılık). Bu, modern dil felsefesine giden yolun ilk taşıdır."
+        }
+      ]
+    },
+    {
+      "title": "Sic et Non (Evet ve Hayır): Eleştirel Metot",
+      "body": "Abelard, kilise otoritelerinin aynı konuda birbirine zıt fikirlerini yan yana getirerek devrimci bir eser yazmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sorgulama",
+          "text": "\"Şüphe ederek araştırmaya ulaşırız, araştırarak hakikati buluruz.\" demiştir."
+        },
+        {
+          "label": "Mantıksal Uzlaştırma",
+          "text": "Amacı dini yıkmak değil, imanı mantıksal bir süzgeçten geçirerek daha sağlam bir zemine oturtmaktır. Ancak bu yöntem, o dönemde \"heretik\" (sapkın) olarak görülmesine neden olmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Niyet Ahlakı: Scito Te Ipsum (Kendini Tanı)",
+      "body": "Abelardus, ahlak felsefesinde eylemin kendisinden ziyade \"niyete\" odaklanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Günah Niyettedir",
+          "text": "Bir eylemi kötü yapan şey, o eylemin dışsal sonucu değil, kişinin o eylemi yaparken taşıdığı bilinçli rızadır. Eğer niyet kötü değilse, eylem hata olabilir ama günah değildir. Bu, bireysel vicdanı merkeze alan çok modern bir yaklaşımdır."
+        }
+      ]
+    },
+    {
+      "title": "Heloise ve Trajedi",
+      "body": "Öğrencisi Heloise ile yaşadığı fırtınalı aşk, gizli evlilikleri ve ardından gelen korkunç ceza (hadım edilmesi), onun hayatını bir felsefe dersinden trajedi sahnesine çevirmiştir. Ancak bu acı, onun daha sonra yazdığı \"Felaketlerimin Hikayesi\" ile insan ruhunun derinliklerine inmesini sağlamıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Diyalektik Ustalık",
+      "text": "Mantığı teolojinin içine öyle bir yerleştirmiştir ki, ondan sonra kimse \"aklı\" dışlayarak din felsefesi yapamamıştır."
+    },
+    {
+      "title": "Bireyselliğin Savunusu",
+      "text": "Niyet ahlakı ve otoriteyi sorgulayan tavrıyla, Ortaçağ'ın kolektif yapısı içinde \"birey\"in sesini yükseltmiştir."
+    },
+    {
+      "title": "Üniversite Geleneği",
+      "text": "Paris Üniversitesi'nin (Sorbonne) temellerini atan o büyük entelektüel hareketliliğin baş aktörüdür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Özgüven",
+      "text": "Kendi zekasına o kadar hayrandı ki, hocalarını ve dönemin büyük azizlerini (Bernhard von Clairvaux gibi) aşağılamaktan çekinmemiştir. Bu kibri, haklı olduğu konularda bile yalnız kalmasına neden olmuştur."
+    },
+    {
+      "title": "Parçalı Yapı",
+      "text": "Her şeyi mantıkla çözmeye çalışırken, inancın mistik ve bütünsel yönünü bazen gözden kaçırmış, dini soğuk bir \"mantık egzersizi\"ne dönüştürmekle suçlanmıştır."
+    },
+    {
+      "title": "Gelenekle Çatışma",
+      "text": "Devrimci fikirlerini sunarken kullandığı hırçın dil, yapıcı bir reformdan ziyade yıkıcı bir kaos algısı yaratmıştır."
+    }
+  ]
+}

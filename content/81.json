@@ -1,0 +1,66 @@
+{
+  "subtitle": "Kelimelerin Gücü ve Ansiklopedik Miras (560–636)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Eser: Etymologiae (Kökenler)",
+      "body": "Isidore'nin şaheseri, 20 ciltten oluşan devasa bir ansiklopedidir. Onun felsefesi basit bir temele dayanır: \"Bir şeyin adının kökenini bilirseniz, o şeyin doğasını da anlarsınız.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Her Şeyin Sözlüğü",
+          "text": "Gökbilimden tıba, hukuktan tarıma, tiyatrodan savaş aletlerine kadar antik dünyanın bildiği her konuyu bu eserde toplamıştır."
+        },
+        {
+          "label": "T-O Haritası",
+          "text": "Dünyayı \"T\" ve \"O\" harfleri şeklinde (Asya, Avrupa ve Afrika olarak) tasvir eden meşhur haritayı popülerleştirmiş, Ortaçağ coğrafya anlayışını bin yıl boyunca şekillendirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Yedi Özgür Sanatın Koruyucusu",
+      "body": "Cassiodorus'un başlattığı eğitim sistemini (Trivium ve Quadrivium) kurgusal bir zemine oturtmuş ve Vizigot İspanya'sında eğitimin temel taşı haline getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dil ve Mantık",
+          "text": "Onun için gramer, tüm bilimlerin temelidir. Tanrı'nın vahyini anlamak için önce dilin mekaniğini ve mantığın kurallarını bilmek gerekir."
+        }
+      ]
+    },
+    {
+      "title": "Vizigotların Bilge Babası",
+      "body": "Barbar Vizigot krallarını eğiterek, Roma hukukunu ve kültürünü bu yeni krallığın içine zerk etmiştir. Sadece bir din adamı değil, bir devlet kuramcısı olarak kralların \"hukuka bağlı\" olması gerektiğini savunmuştur: \"Eğer doğru davranırsan kral olursun, davranmazsan olmazsın.\"",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Muazzam Bir Bilgi Köprüsü",
+      "text": "Eğer Isidore o meşhur ansiklopedisini yazmasaydı, bugün Aristo'dan Platon'a, Roma hukukundan antik tıp bilgilerine kadar birçok kaynak tarihin karanlığında tamamen kaybolmuş olabilirdi."
+    },
+    {
+      "title": "Sistemli Düşünce",
+      "text": "Ortaçağ zihnine \"her şeyin bir yeri ve bir adı olduğu\" düzenli bir dünya vizyonu sunmuştur. Bu, kaos çağında zihinsel bir sığınak yaratmıştır."
+    },
+    {
+      "title": "İnternet'in Hamisi (Sembolik)",
+      "text": "Bilgiyi bu kadar geniş çaplı bir şekilde tasnif etme çabası nedeniyle, modern çağda (gayriresmi olarak) \"İnternet'in koruyucu azizi\" kabul edilmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Zorlama Etimolojiler",
+      "text": "Isidore'nin en büyük zayıflığı, kelime kökenlerini uydurma eğilimidir. Örneğin, \"insan\" (homo) kelimesinin \"toprak\" (humus) kelimesinden geldiğini söylerken bilimsel bir etimolojiden ziyade teolojik bir \"çamurdan yaratılma\" hikayesine sadık kalır. Bu da hatalı bilgilerin yüzyıllarca gerçek kabul edilmesine yol açmıştır."
+    },
+    {
+      "title": "Eleştirel Süzgeç Eksikliği",
+      "text": "Önüne gelen her bilgiyi (mitolojik yaratıklar, uydurma doğa olayları dahil) hiç sorgulamadan ansiklopedisine dahil etmiştir. Onun için \"bir yerde yazılı olması\", bilginin doğruluğu için yeterli bir kanıttır."
+    },
+    {
+      "title": "Orijinal Fikir Yoksunluğu",
+      "text": "Isidore bir kaşif değil, bir derleyicidir. Yeni bir felsefi sistem kurmamış, sadece mevcut olanı Hristiyanlaştırmış ve paketlemiştir."
+    }
+  ]
+}

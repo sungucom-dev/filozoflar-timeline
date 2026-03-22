@@ -1,0 +1,79 @@
+{
+  "subtitle": "95 Tez ve Bireysel İmanın Patlaması (1483–1546)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Wittenberg Kapısı: Bir Kıvılcımın Yangına Dönüşmesi",
+      "body": "1517 yılında Luther, kilisenin \"cennetten arsa satma\" (endüljans) uygulamasına karşı 95 maddelik itirazını kilise kapısına astığında amacı bir devrim yapmak değil, akademik bir tartışma açmaktır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yolsuzluğa İsyan",
+          "text": "Kilisenin parayla günah affetmesini teolojik bir sahtekarlık olarak görür."
+        },
+        {
+          "label": "Matbaanın Gücü",
+          "text": "Yazıları matbaa sayesinde hızla yayılır. Luther, tarihin \"ilk medya fenomeni\"dir; fikirleri Avrupa'nın her köşesine kral ve papalardan daha hızlı ulaşır."
+        }
+      ]
+    },
+    {
+      "title": "Üç Büyük \"Sola\" (Sadece...)",
+      "body": "Luther'in teolojisi üç temel sütun üzerine kuruludur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sola Fide (Sadece İman)",
+          "text": "Kurtuluş, kilisenin ritüelleriyle veya \"iyi işlerle\" değil, sadece bireyin Tanrı'ya olan samimi imanıyla mümkündür."
+        },
+        {
+          "label": "Sola Scriptura (Sadece Kutsal Kitap)",
+          "text": "Tek otorite papalık veya gelenek değil, Kitab-ı Mukaddes'tir."
+        },
+        {
+          "label": "Sola Gratia (Sadece Lütuf)",
+          "text": "İnsan kendi çabasıyla değil, sadece Tanrı'nın karşılıksız lütfuyla bağışlanır."
+        }
+      ]
+    },
+    {
+      "title": "Solucan Meclisi (Diet of Worms) ve \"Burada Duruyorum\"",
+      "body": "İmparator ve Papa'nın önünde fikirlerini geri çekmesi istendiğinde, modern bireyin manifestosu sayılabilecek o meşhur savunmayı yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tarihi Söz",
+          "text": "\"Vicdanım Tanrı'nın sözüne esirdir. Ne bir şeyi geri çekebilirim ne de çekerim... Burada duruyorum, başka türlüsünü yapamam. Tanrı yardımcım olsun.\""
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bireyin Özgürleşmesi",
+      "text": "İnsanın Tanrı ile arasına giren tüm \"aracıları\" (ruhban sınıfını) aradan çıkararak, vicdan özgürlüğünün ve bireyselliğin önünü açmıştır."
+    },
+    {
+      "title": "Eğitim ve Dil Devrimi",
+      "text": "İncil'i Almancaya çevirerek hem modern Alman dilinin temelini atmış hem de okuma-yazma oranının artmasını (herkesin İncil okuması gerektiği fikriyle) sağlamıştır."
+    },
+    {
+      "title": "Sekülerleşmeye Katkı",
+      "text": "Kilisenin dünyevi gücünü kırarak, modern ulus-devletlerin ve laik yönetimlerin doğuşuna dolaylı bir zemin hazırlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hoşgörüsüzlük",
+      "text": "Katolik kilisesine karşı özgürlüğü savunsa da, kendisine muhalif olan diğer Protestan gruplara veya Yahudilere karşı (özellikle hayatının son döneminde) son derece sert ve nefret dolu bir tutum takınmıştır."
+    },
+    {
+      "title": "Köylü Savaşları ve Otoriterlik",
+      "text": "Köylüler onun fikirlerinden ilham alarak isyan ettiğinde, Luther onları desteklemek yerine prenslerin yanında durmuş ve köylülerin \"kudurmuş köpekler gibi\" öldürülmesini savunmuştur. O bir sosyal devrimci değil, sadece bir teologdur."
+    },
+    {
+      "title": "İradenin İnkarı",
+      "text": "Erasmus ile girdiği tartışmada, insanın \"özgür iradesi\" olmadığını, insanın ya Tanrı'nın ya da Şeytan'ın bindiği bir \"eşek\" gibi olduğunu savunarak, hümanistlerin o umut dolu insan vizyonunu karartmıştır."
+    }
+  ]
+}

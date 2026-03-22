@@ -1,0 +1,81 @@
+{
+  "subtitle": "Negatif Teoloji, Hiyerarşi ve Işıklı Karanlık (5.–6. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Negatif (Apophatik) Teoloji: \"O, Bu Değildir\"",
+      "body": "Dionysius'un felsefesi, Tanrı'nın (veya Mutlak Olan'ın) rasyonel zihinle kavranamayacağı üzerine kuruludur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanımlanamazlık",
+          "text": "Tanrı'ya \"İyi\", \"Işık\" veya \"Varlık\" demek bile O'nu kısıtlamaktır. Gerçek bilgi, Tanrı'nın ne \"olmadığını\" söyleyerek (O sonlu değildir, O zamanlı değildir...) elde edilir."
+        },
+        {
+          "label": "İlahi Karanlık (Divine Darkness)",
+          "text": "Tanrı bir karanlıkta olduğu için değil, ışığı o kadar parlaktır ki insan zihnini kör ettiği için \"karanlık\" görünür. Bilgiye giden yol, görmekten değil, görmeyi bırakmaktan geçer."
+        }
+      ]
+    },
+    {
+      "title": "Gök ve Kilise Hiyerarşileri",
+      "body": "O, evreni muazzam bir \"merdiven\" olarak hayal etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Melekler Düzeni",
+          "text": "Bugün bildiğimiz o dokuzlu melek hiyerarşisini (Seraphim, Cherubim, Thrones...) kuran kişidir. Işık (Tanrısal bilgi), en tepeden aşağıya doğru bu hiyerarşik basamaklardan süzülerek gelir."
+        },
+        {
+          "label": "Yeryüzü Yansıması",
+          "text": "Kilise hiyerarşisi de gökteki bu düzenin bir kopyasıdır. Bu yapı, Orta Çağ Avrupa'sının toplumsal ve dini mimarisinin temel taşı olmuştur."
+        }
+      ]
+    },
+    {
+      "title": "İlahi İsimler ve Sembolik Yükseliş",
+      "body": "Dionysius, İlahi İsimler adlı eserinde, Tanrı'ya verilen sıfatların yetersizliğini ama pedagojik değerini anlatır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sembolik Merdiven",
+          "text": "Maddi olan her şey (bir taş, bir çiçek, bir isim), Tanrı'nın bir işaretidir. İnsan bu sembolleri kullanarak basamakları tırmanır ama zirveye ulaştığında o sembolleri de terk etmek zorundadır."
+        }
+      ]
+    },
+    {
+      "title": "Mistik Birleşme (Theosis)",
+      "body": "Nihai amaç, bilginin ve kavramların ötesine geçerek Tanrı ile \"bilmeksizin\" birleşmektir. Bu, zihnin tamamen susması ve Mutlak Olan'ın içinde erimesidir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Mistik Temel",
+      "text": "Batı mistisizminin (Meister Eckhart'tan St. John of the Cross'a kadar) babasıdır. \"Sessizlik\" ve \"içsel yolculuk\" kavramlarını felsefi bir sisteme oturtmuştur."
+    },
+    {
+      "title": "Sanat ve Mimari",
+      "text": "Işığın tanrısal bir varlık olduğu fikri, Gotik katedrallerin o devasa vitraylı mimarisinin (ışığın maddede süzülmesi) arkasındaki felsefedir."
+    },
+    {
+      "title": "Aklın Sınırları",
+      "text": "İnsan aklının her şeyi kuşatamayacağını, evrende rasyonel dille ifade edilemeyecek bir \"fazlalık\" olduğunu hatırlatması, bugün bile bilimsel kibir karşısında önemli bir uyarıdır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Katı Hiyerarşi",
+      "text": "Kurduğu o kaskatı melek ve kilise hiyerarşisi, Orta Çağ boyunca otoriter yapıların meşrulaştırılması için bir araç olarak kullanılmıştır."
+    },
+    {
+      "title": "Kimlik Sorunu",
+      "text": "\"Pseudo\" (Sahte) ismiyle anılmasının sebebi, kendisini Aziz Pavlus'un öğrencisi gibi tanıtmasıdır (sahtecilik). Bu durum, tarih boyunca fikirlerinin özgünlüğüne dair şüpheler yaratmıştır."
+    },
+    {
+      "title": "Aşırı Soyutluk",
+      "text": "\"Bilmemenin bilgisi\" ve \"karanlık ışık\" gibi kavramlar, pratikte (etik ve toplumsal yaşamda) nasıl davranılması gerektiğine dair bazen fazla \"dünya-dışı\" ve etkisiz kalabilir."
+    }
+  ]
+}

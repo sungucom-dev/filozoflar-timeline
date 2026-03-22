@@ -1,0 +1,79 @@
+{
+  "subtitle": "Akıl, Şüphe ve Evrensel Kanun (1149–1209)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Sistematik Şüphe: \"Şüphecilerin İmamı\"",
+      "body": "Râzî'nin felsefe tarihindeki en büyük lakabı, her şeyi sorgulamasından gelir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kritik Akıl",
+          "text": "O, Aristotelesçi ve İbn Sinacı kanıtları tek tek masaya yatırmış, \"Bu kanıt gerçekten kesin mi?\" diye sormuştur. Bir konuyu savunurken bile onun zayıf noktalarını o kadar iyi analiz ederdi ki, bazen okurları onun hangi tarafı tuttuğunu karıştırırdı."
+        },
+        {
+          "label": "Şüphecilik Bir Yöntemdir",
+          "text": "Şüphe onun için bir son durak değil, taklitten (körü körüne inanıştan) kurtulmak ve gerçek yakîne (kesin bilgiye) ulaşmak için geçilmesi gereken bir kapıydı."
+        }
+      ]
+    },
+    {
+      "title": "Akıl ve Nakil: \"Kânûn-u Küllî\" (Evrensel Kanun)",
+      "body": "Râzî, akıl ile dini metinler (nakil) karşı karşıya geldiğinde ne yapılacağına dair tarihin en net formüllerinden birini üretmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aklın Önceliği",
+          "text": "Eğer akli bir kanıt kesinse ve dini metnin zahiri (görünen anlamı) buna aykırıysa; akıl esas alınır, metin ise aklın ışığında yeniden yorumlanır (te'vil)."
+        },
+        {
+          "label": "Mantıksal Tutarlılık",
+          "text": "Ona göre Tanrı bize hem akıl vermiş hem de vahy göndermiştir; dolayısıyla ikisinin çelişmesi imkansızdır. Çelişki varsa, bu bizim metni yanlış anlamamızdan kaynaklanır."
+        }
+      ]
+    },
+    {
+      "title": "Fizik ve Evren: Sonsuz Mekan ve Atomlar",
+      "body": "Râzî, Aristoteles'in \"evren sınırlıdır ve ötesinde hiçbir şey yoktur\" fikrine şiddetle karşı çıkmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sonsuz Boşluk",
+          "text": "Dünyanın ötesinde sonsuz bir boşluğun (vakum) olabileceğini savunmuş; bu fikriyle modern kozmolojinin \"sonsuz evren\" tasavvuruna çok erken bir göz kırpmıştır."
+        },
+        {
+          "label": "Zamanın Göreliliği",
+          "text": "Zamanı mutlak bir varlık olarak değil, hareketin bir ölçüsü ve zihinsel bir kurgu olarak tartışmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefi Kelam",
+      "text": "Kelam (ilahiyat) ilmini mantık ve felsefe ile yoğurarak onu entelektüel olarak en yüksek seviyeye taşımıştır. Onun sayesinde ilahiyat, sadece inanç savunusu değil, derin bir varlık felsefesi haline gelmiştir."
+    },
+    {
+      "title": "Ansiklopedik Deha",
+      "text": "Mefatihü'l-Gayb (Büyük Tefsir) adlı eseri sadece bir din kitabı değil; içinde tıp, astronomi, fizik ve dilbilim barındıran devasa bir Orta Çağ ansiklopedisidir."
+    },
+    {
+      "title": "Eleştirel Düşünce",
+      "text": "İbn Sina gibi \"yıkılamaz\" sanılan otoriteleri eleştirerek, İslam dünyasında özgür düşüncenin ve tartışma kültürünün damarlarını açık tutmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Karar Verememe",
+      "text": "Şüpheciliği o kadar ileri götürmüştür ki, bazen bir konuyu onlarca delille çürütüp yerine hiçbir şey koymaması, takipçileri arasında \"felsefi bir boşluk\" veya \"nihilizm\" hissi yaratmıştır."
+    },
+    {
+      "title": "Aşırı Karmaşıklık",
+      "text": "Eserleri o kadar diyalektik ve detaylıdır ki, ana fikri bulmak bazen samanlıkta iğne aramaya döner. Bu da onun \"halkın filozofu\" olmasını zorlaştırmıştır."
+    },
+    {
+      "title": "Astrolojiye İlgi",
+      "text": "Bilimsel dehasına rağmen, döneminin ruhuna uygun olarak sihir ve astroloji gibi konularla fazla içli dışlı olması, rasyonalist imajına bazı modern eleştirmenlerce gölge düşürdüğü söylenir."
+    }
+  ]
+}

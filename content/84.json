@@ -1,0 +1,83 @@
+{
+  "subtitle": "Hukukun Mantığı ve İradenin Onuru (699–767)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Metodoloji: Akılcı Hukuk (Ehl-i Ra'y)",
+      "body": "Ebu Hanife, hadislerin (sözlü geleneklerin) doğruluğu konusunda son derece titiz ve seçiciydi. Kufa gibi kozmopolit bir yerde, değişen hayatın sorunlarına metinlerde doğrudan cevap bulamadığında akıl yürütme yöntemlerini devreye soktu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kıyas (Analoji)",
+          "text": "Bilinen bir hükmü, benzer mantığa sahip bilinmeyen bir duruma uygulama."
+        },
+        {
+          "label": "İstihsan (Hukuki Tercih)",
+          "text": "Eğer kıyas toplumsal adalete aykırı bir sonuç doğuruyorsa, aklın ve adaletin gerektirdiği daha iyi bir çözüme yönelme."
+        },
+        {
+          "label": "Örf ve Adet",
+          "text": "Hukuku toplumun yaşayan damarlarından (geleneklerinden) koparmama."
+        }
+      ]
+    },
+    {
+      "title": "Teoloji: İnanç ve Eylem Ayrımı (el-Fıkhu'l-Ekber)",
+      "body": "Hukuk kadar teoloji (Kelam) üzerinde de derin izler bırakmıştır. Onun \"iman\" tanımı, İslam tarihindeki en özgürlükçü duruşlardan biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İman ve Amel",
+          "text": "İman; dil ile ikrar, kalp ile tasdiktir. Eylem (amel) imanın bir parçası değildir. Bu fikir, \"günah işleyen dinden çıkar\" diyen aşırılıkçı akımlara (Hariciler) karşı bireyin vicdanını ve toplumsal statüsünü koruyan bir kalkandır."
+        },
+        {
+          "label": "Eşitlik",
+          "text": "\"Birinin imanı diğerinden daha üstün değildir\" diyerek, manevi alanda hiyerarşiyi reddetmiş ve demokratik bir inanç zemini kurmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Siyasi Duruş ve Entelektüel Bağımsızlık",
+      "body": "Ebu Hanife, sarayların değil, çarşının ve kürsünün adamıydı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İktidarın Reddi",
+          "text": "Emevi ve Abbasi halifelerinin kadılık (başhakimlik) tekliflerini, hukukun bağımsızlığını korumak adına reddetti."
+        },
+        {
+          "label": "Bedel Ödeme",
+          "text": "Bu bağımsızlıkçı tavrı onun hapse atılmasına, işkence görmesine ve hatta hapiste ölmesine yol açtı. O, \"bağımsız yargı\" idealinin ilk büyük şehitlerinden biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Hukukun Evrenselleşmesi",
+      "text": "Yerel ve kabilevi kuralları aşan, mantıksal tutarlılığı olan küresel bir hukuk sistemi kurmuştur. Bugün dünya Müslümanlarının yarısından fazlasının Hanefi ekolüne bağlı olması bu esnekliğin bir sonucudur."
+    },
+    {
+      "title": "Bireysel Özgürlük",
+      "text": "Ticaret hukukundan kadın haklarına kadar (örneğin yetişkin bir kadının velisi olmadan evlenebilmesi gibi), bireyin iradesine ve sözleşme özgürlüğüne geniş bir alan açmıştır."
+    },
+    {
+      "title": "Mantıksal Tutarlılık",
+      "text": "Fıkıh bilimini (İslam hukuku) dağınık rivayetlerden kurtarıp \"kitap-bab\" düzeninde sistemleştiren ilk kişidir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hadis Okulunun Eleştirisi",
+      "text": "Kendi dönemindeki \"Ehl-i Hadis\" (gelenekçiler), onu \"hadisleri terk edip kendi aklına uymakla\" suçlamıştır. Bazı eleştirmenlere göre kıyas ve istihsan yöntemi, dini metinlerin otoritesini zayıflatma riski taşır."
+    },
+    {
+      "title": "Hukuki Çözümler (Hiyel)",
+      "text": "Takipçileri tarafından geliştirilen bazı \"hukuki çıkış yolları\" (hiyel), sistemin bazen dürüstlüğünü zorlayan teknik oyunlara dönüşmesine neden olmuştur."
+    },
+    {
+      "title": "Aşırı Teorik Yaklaşım",
+      "text": "Zaman zaman \"varsayımsal fıkıh\" (olmamış ama olması muhtemel durumlar üzerine kafa yorma) yöntemiyle, hukuku hayatın gerçeklerinden koparıp soyut bir beyin jimnastiğine dönüştürdüğü iddia edilmiştir."
+    }
+  ]
+}

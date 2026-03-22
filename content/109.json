@@ -1,0 +1,79 @@
+{
+  "subtitle": "İlahiyatın Mimarı ve Cümlelerin Üstadı (1100–1160)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Libri Quattuor Sententiarum (Dört Cümle Kitabı)",
+      "body": "Lombard'ın şaheseri, Hristiyan inancını dört ana başlıkta toplayan devasa bir sentezdir. Bu kitap, ilahiyatı rasyonel bir müfredata dönüştürmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrı",
+          "text": "Üçleme (Teslis), Tanrı'nın nitelikleri ve bilgisi."
+        },
+        {
+          "label": "Yaratılış",
+          "text": "Melekler, dünyanın yaratılışı, günah ve insan doğası."
+        },
+        {
+          "label": "Enkarnasyon",
+          "text": "İsa'nın doğası, kurtuluş ve erdemler."
+        },
+        {
+          "label": "Sakramentler ve Son",
+          "text": "Kilise törenleri ve mahşer günü."
+        }
+      ]
+    },
+    {
+      "title": "Yedi Sakrament: Sayıyı Sabitlemek",
+      "body": "Hristiyanlık tarihinde sakramentlerin (kutsal törenler) sayısı üzerine uzun süre tartışılmıştır. Lombard, bu sayıyı yedi olarak sabitleyen ve her birini felsefi/teolojik olarak tanımlayan isimdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanımlama",
+          "text": "Bir törenin sakrament sayılabilmesi için hem bir \"işaret\" (sembol) hem de \"lütuf aracı\" (gerçek etki) olması gerektiğini savunmuştur. Bu tanım, Katolik Kilisesi'nin resmi doktrini haline gelmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Orta Yol: Uzlaştırmacı Diyalektik",
+      "body": "Abelardus Sic et Non ile otoriteleri karşı karşıya getirip bırakırken; Lombard, bu çelişkileri çözmeye çalışmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sententia (Hüküm)",
+          "text": "Farklı görüşleri yan yana getirir, mantıksal süzgeçten geçirir ve sonunda makul bir \"hüküm\" (sententia) önerir. Bu yöntem, Skolastisizmin standart tartışma biçimi haline gelmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Eğitimde Standardizasyon",
+      "text": "Bilgiyi öyle bir düzene sokmuştur ki, Avrupa'da teoloji eğitimi yüzyıllarca onun çizdiği haritayı takip etmiştir. O olmasaydı, yüksek skolastisizmin o devasa sistemleri (Aquinas gibi) kurulamayabilirdi."
+    },
+    {
+      "title": "Berraklık ve Düzen",
+      "text": "Karmaşık ve çelişkili metinleri temizleyerek, inancı anlaşılabilir ve öğretilebilir bir yapıya kavuşturmuştur."
+    },
+    {
+      "title": "Referans Kaynağı",
+      "text": "Kendi görüşlerini dayatmak yerine, otoritelere (özellikle Augustinus'a) dayanarak kolektif bir hafıza oluşturmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Orijinallik Sorunu",
+      "text": "Lombard yeni bir fikir üretmez; o sadece iyi bir \"editör\"dür. Felsefesi, mevcut olanı düzenlemekle sınırlıdır."
+    },
+    {
+      "title": "Kalıplaşma (Formülasyon)",
+      "text": "İlahiyatı kaskatı bir \"kitap bilgisine\" dönüştürdüğü, dini hayal gücünü ve mistik derinliği \"maddeler\" arasına hapsettiği gerekçesiyle eleştirilmiştir."
+    },
+    {
+      "title": "Aşırı Skolastikleşme",
+      "text": "Onun yöntemi, bazen hakikat arayışından ziyade \"kelime oyunlarına\" ve metinler arası teknik tartışmalara yol açmıştır."
+    }
+  ]
+}

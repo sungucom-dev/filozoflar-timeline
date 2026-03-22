@@ -1,0 +1,83 @@
+{
+  "subtitle": "Bilginin Ansiklopedist Kardeşliği (10. yy)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "52 Risale: Evrensel Müfredat",
+      "body": "İhvân-ı Safâ, tüm bilgileri dört ana başlık altında toplayarak insan aklının kat etmesi gereken yolu çizmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Matematik ve Mantık (14 Risale)",
+          "text": "Pisagorcu bir etkiyle sayıların evrenin dili olduğunu savunurlar."
+        },
+        {
+          "label": "Doğa Bilimleri (17 Risale)",
+          "text": "Astronomi, coğrafya, botanik ve hayvanlar alemi."
+        },
+        {
+          "label": "Psikolojik ve Akli İlimler (10 Risale)",
+          "text": "Ruhun yapısı ve evrenle ilişkisi."
+        },
+        {
+          "label": "İlahiyat ve Hukuk (11 Risale)",
+          "text": "Dinlerin özü ve mistik sırlar."
+        }
+      ]
+    },
+    {
+      "title": "Pisagorcu ve Yeni Platoncu Sentez",
+      "body": "Onlara göre felsefe, sadece kuru bir mantık oyunu değildir; ruhu bedenin hapsinden kurtaracak bir \"kurtuluş reçetesi\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sayıların Gizemi",
+          "text": "\"Sayılar, varlıkların örnekleridir.\" Sayılar arasındaki uyumu kavrayan, evrendeki ilahi düzeni de kavrar."
+        },
+        {
+          "label": "Din ve Felsefe Dostluğu",
+          "text": "En meşhur sözlerinden biri şudur: \"Şeriat cahillikle kirlenmiştir, onu ancak felsefe ile temizleyebiliriz.\" Onlara göre din felsefenin \"elbisesi\", felsefe ise dinin \"ruhu\"dur."
+        }
+      ]
+    },
+    {
+      "title": "Hayvanlar ve İnsanlar Davası",
+      "body": "Risaleler arasında en dikkat çekici olanı, hayvanların insanlardan şikayetçi olduğu o meşhur kurgusal mahkemedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ekolojik Bilinç",
+          "text": "Hayvanlar, insanların kendilerine yaptığı zulmü dile getirir. Mahkemenin sonunda insanların üstünlüğü ancak \"bilgi ve erdem\" ile kabul edilir. Bu, Ortaçağ'da insan-doğa ilişkisine dair en derin felsefi metinlerden biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilginin Demokratikleşmesi",
+      "text": "Fârâbî ve Sicistânî gibi felsefeyi sadece \"seçkinlere\" (el-hâssa) hapsetmemiş; basit bir dille halka (el-âmme) yaymaya çalışmışlardır."
+    },
+    {
+      "title": "Evrensel Hümanizm",
+      "text": "İslam, Yunan, Hint ve İran geleneklerini birleştirerek \"insanlığın ortak aklını\" yüceltmişlerdir."
+    },
+    {
+      "title": "Sistemli Eğitim",
+      "text": "Bilimleri bir merdiven gibi basamaklandırmaları, modern eğitim müfredatlarının habercisidir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Mantıksal Gevşeklik",
+      "text": "Her buldukları bilgiyi (bazen uydurma efsaneleri ve astrolojik batılları bile) sisteme dahil ettikleri için, Fârâbî'nin o keskin ve tutarlı mantık örgüsünden yoksundurlar."
+    },
+    {
+      "title": "Gizemcilik (Okültizm)",
+      "text": "Sayı sembolizmine ve astrolojiye aşırı değer vermeleri, felsefelerini bazen bilimsel zeminden uzaklaştırıp bir tür \"mistik tarikat\" havasına sokmuştur."
+    },
+    {
+      "title": "Politik Belirsizlik",
+      "text": "Kimliklerinin gizli olması ve İsmailî hareketlerle olan iddia edilen bağları, fikirlerinin bazen saf bir bilgi arayışından ziyade siyasi bir propaganda aracı olarak görülmesine neden olmuştur."
+    }
+  ]
+}

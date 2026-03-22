@@ -1,0 +1,79 @@
+{
+  "subtitle": "Hakikatin Evrensel Yolcusu ve İlk Meşşâî (801–873)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Felsefenin Meşruiyeti: \"Hakikat Nereden Gelirse Gelsin...\"",
+      "body": "Kindi'nin en büyük devrimi, felsefeyi yabancı (Yunan) bir unsur olarak görenlere karşı verdiği o meşhur cevaptır. Ona göre hakikat, bir bayrak yarışı gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensellik",
+          "text": "\"Hakikati nereden gelirse gelsin kucaklamaktan utanmamalıyız; ister uzak milletlerden, ister bizden olmayanlardan olsun. Hakikati arayan için hakikatten daha değerli bir şey yoktur.\""
+        },
+        {
+          "label": "Din ve Felsefe Uyumu",
+          "text": "Kindi'ye göre vahyedilmiş din ile akılsal felsefe aynı kaynaktan gelir ve birbirleriyle çelişmezler. Felsefe, dinin sunduğu hakikatlerin rasyonel bir kanıtıdır."
+        }
+      ]
+    },
+    {
+      "title": "Metafizik ve Bilim: Matematiksel Bir Evren",
+      "body": "Kindi, matematik bilmeyenin felsefe yapamayacağını savunan bir Pisagor hayranıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "On First Philosophy (İlk Felsefe Üzerine)",
+          "text": "Bu eserinde Tanrı'yı \"İlk Gerçek\" (el-Hakk el-Evvel) olarak tanımlar. Diğer İslam filozoflarından (Farabi veya İbn Sina gibi) ayrıldığı nokta; evrenin \"yoktan ve zaman içinde\" yaratıldığını savunmasıdır. Bu yönüyle teolojiye daha yakındır."
+        },
+        {
+          "label": "Kriptolojinin Babası",
+          "text": "Tarihte ilk kez \"frekans analizi\" yöntemini keşfederek şifre çözme bilimini kurmuştur. Harflerin bir dildeki kullanım sıklığına göre şifreli metinleri çözmek, onun matematiksel dehasının bir ürünüdür."
+        }
+      ]
+    },
+    {
+      "title": "Optik ve Müzik: Işığın ve Sesin Geometrisi",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "De Aspectibus (Bakış Açıları Üzerine)",
+          "text": "Işığın doğrusal yayılımı ve yansıması üzerine yazdığı eser, yüzyıllar sonra Roger Bacon ve Leonardo da Vinci gibi isimleri etkilemiştir."
+        },
+        {
+          "label": "Müzik Terapi",
+          "text": "Müziği matematiksel oranlarla açıklamış ve seslerin insan ruhu üzerindeki tedavi edici (psikolojik) etkisini sistemleştirmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefi Dilin Mucidi",
+      "text": "Aristoteles ve Platon'un kavramlarını Arapçaya kazandırırken, sadece tercüme yapmamış; İslam felsefesinin o muazzam terminolojisini (Cevher, araz, madde, suret vb.) bizzat inşa etmiştir."
+    },
+    {
+      "title": "Bütünsel Bilim Anlayışı",
+      "text": "Felsefeyi tıptan, astronomiden ve matematikten ayırmamış; bilgiyi bir bütün olarak görmüştür. \"Hezarfen\" (Polymath) idealinin İslam dünyasındaki ilk örneğidir."
+    },
+    {
+      "title": "Rasyonel Savunma",
+      "text": "Akılcı düşünceyi (Mutezile etkisiyle) İslam'ın içine yerleştirerek, sonraki yüzyılların bilimsel patlamasına zemin hazırlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Eklektik (Seçmeci) Yapı",
+      "text": "Aristoteles ve Platon'u bazen birbirine karıştırmış, Yeni Platoncu metinleri (örn. Plotinus'un Ennead'larını) \"Aristoteles'in Teolojisi\" sanarak yorumlamıştır. Bu hata, İslam dünyasında uzun süre devam edecek bir karışıklığa yol açmıştır."
+    },
+    {
+      "title": "Teolojik Sınırlar",
+      "text": "Akılcı olmasına rağmen, evrenin ezeliliği gibi konularda Aristo'dan kopup geleneksel yaratılış inancına sığınması, bazı filozoflar tarafından \"tam bir filozof olamamak\" ile eleştirilmiştir."
+    },
+    {
+      "title": "Siyasi Kırılganlık",
+      "text": "Akılcı Mutezile görüşlerini savunduğu için, halife değişikliğiyle birlikte (Mütevekkil dönemi) kütüphanesine el konulmuş ve gözden düşmüştür. Bu, İslam dünyasında bilimin siyasi otoriteye bağımlılığının ilk üzücü örneğidir."
+    }
+  ]
+}

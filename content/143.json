@@ -1,0 +1,75 @@
+{
+  "subtitle": "İnsanın Onuru ve Sınırsız Tercih (1463–1494)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"İnsanın Onuru Üzerine Söylev\" (De hominis dignitate)",
+      "body": "Bu metin, Rönesans hümanizminin anayasası kabul edilir. Pico, Tanrı'nın ağzından insana şöyle seslenir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Belirsiz Doğa",
+          "text": "\"Sana ne sabit bir yer ne özel bir form ne de belirli bir görev verdik.\""
+        },
+        {
+          "label": "Özgür İrade",
+          "text": "Diğer tüm varlıklar (melekler veya hayvanlar) doğaları gereği sınırlıdır. İnsan ise kendi heykelini yontan bir sanatçı gibidir; isterse alçalarak bir hayvana, isterse yükselerek tanrısal bir varlığa dönüşebilir."
+        }
+      ]
+    },
+    {
+      "title": "Senkretizm: Bilginin Büyük Senfonisi",
+      "body": "Pico, hakikatin tek bir ekolün tekelinde olmadığına inanıyordu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "900 Tez",
+          "text": "Hristiyanlık, Platonculuk, Aristotelesçilik, İslam felsefesi ve Yahudi mistisizmini (Kabala) birleştiren 900 iddia ortaya attı."
+        },
+        {
+          "label": "Evrensel Barış",
+          "text": "Amacı, tüm bu farklı seslerin aslında aynı ilahi hakikati farklı dillerde fısıldadığını kanıtlamaktı. Ancak bu iddiası Kilise tarafından \"sapkınlık\" şüphesiyle karşılandı."
+        }
+      ]
+    },
+    {
+      "title": "Hristiyan Kabalası ve Hermetizm",
+      "body": "Pico, Yahudi mistisizmi olan Kabala'yı Hristiyan düşüncesine entegre eden ilk büyük düşünürdür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gizli Bilgi",
+          "text": "Ona göre Kabala ve Hermetik metinler, İncil'in derinlerindeki sırları çözmek için gereken \"anahtarlar\"dı. Bu, Rönesans'ın o meşhur \"kadim bilgelik\" arayışının en radikal noktasıydı."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bireyin Kutsanması",
+      "text": "İnsanı kaderin veya doğanın kölesi olmaktan çıkarıp, kendi kaderinin efendisi olarak konumlandırmıştır."
+    },
+    {
+      "title": "Kültürel Çoğulculuk",
+      "text": "Farklı din ve felsefelerin (İbn Rüşd'den Kabala'ya kadar) ortak bir zeminde tartışılabileceğini savunarak evrensel bir perspektif sunmuştur."
+    },
+    {
+      "title": "Hümanizmin Zirvesi",
+      "text": "Eğitimi ve bilgiyi sadece bir süs değil, insanın tanrısallaşma sürecindeki en temel araç olarak görmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Hırslı Bir Sentez",
+      "text": "900 teziyle her şeyi birleştirme çabası, bazen birbirine tamamen zıt fikirleri zorla yan yana getirme (eklektisizm) riskini taşımıştır."
+    },
+    {
+      "title": "Seçkinci Vizyon",
+      "text": "Savunduğu o muazzam özgürlük ve yükseliş, sadece çok yüksek düzeyde eğitim almış bir avuç entelektüel için geçerliydi; halkın gerçekliğiyle bağı kopuktu."
+    },
+    {
+      "title": "Siyasi Naiflik",
+      "text": "Kilise ile girdiği tartışmada kendi zekasına o kadar güveniyordu ki, dönemin engizisyon ve güç dengelerini hafife alarak hayatını tehlikeye attı."
+    }
+  ]
+}

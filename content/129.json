@@ -1,0 +1,75 @@
+{
+  "subtitle": "Kelâmın Mimarı ve \"Mevâkıf\"ın Efendisi (1281–1355)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "el-Mevâkıf: İslam Düşüncesinin \"Summa\"sı",
+      "body": "İcî'nin başyapıtı olan el-Mevâkıf (Duraklar), Batı'daki Thomas Aquinas'ın Summa Theologica'sına benzer bir işlev görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tasnif Dehası",
+          "text": "Eserini altı \"mevkıf\"a (durak) ayırmıştır. Sadece dinî konuları değil; varlık, bilgi, madde, gökyüzü ve ruh gibi felsefi ve bilimsel tüm konuları Kelâm ilminin içine dahil etmiştir."
+        },
+        {
+          "label": "Bilgi Teorisi",
+          "text": "İcî, bir şeyi kanıtlamadan önce \"bilginin ne olduğunu\" ve \"nasıl bilinebileceğini\" en ince ayrıntısına kadar tartışır. Onun için şüphe, hakikate giden yolda aşılması gereken bir basamaktır."
+        }
+      ]
+    },
+    {
+      "title": "Felsefeleşen Kelâm (Tahkik Dönemi)",
+      "body": "İcî ile birlikte Kelâm, artık sadece \"savunma\" yapan bir teoloji değil, her şeyi açıklayan \"evrensel bir bilim\" haline gelmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aristoteles ve İbn Sînâ ile Hesaplaşma",
+          "text": "Meşşâî felsefenin kavramlarını (cevher, araz, zorunluluk vb.) alıp onları Eş'arî akidesiyle öyle bir harmanlamıştır ki, artık felsefe ile Kelâmı birbirinden ayırmak neredeyse imkansız hale gelmiştir."
+        },
+        {
+          "label": "Mantık Hakimiyeti",
+          "text": "Mantığı, dini savunmanın tek meşru aracı olarak görür. İcî'nin kaleminde Kelâm, \"akli bir matematik\" kesinliğine ulaşmaya çalışır."
+        }
+      ]
+    },
+    {
+      "title": "Siyasi Güç ve Trajik Son",
+      "body": "İcî sadece bir alim değil, aynı zamanda İlhanlılar ve İncûlular döneminde yüksek mevkilerde bulunmuş bir \"Kadı\"dır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zirve ve Düşüş",
+          "text": "Devletin en kritik diplomatik ve hukuki görevlerini üstlenmiş, ancak dönemin siyasi kargaşaları içinde hapse atılmış ve orada (Kala-i Sefid) hayatını kaybetmiştir. Bu yönüyle o, hem sarayın hem de medresenin en kudretli ve en kırılgan figürüdür."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Düşünceyi Standartlaştırması",
+      "text": "Dağınık haldeki bin yıllık tartışmaları tek bir disiplin altında toplayarak, İslam dünyasına ortak bir \"entelektüel dil\" ve \"müfredat\" kazandırmıştır."
+    },
+    {
+      "title": "Rasyonel Zemin",
+      "text": "İnancı körü körüne bir teslimiyetten çıkarıp, her bir önermenin akli ve mantıki delillerle ispatlandığı devasa bir rasyonalite inşa etmiştir."
+    },
+    {
+      "title": "Etki Alanı",
+      "text": "Onun ardından gelen Seyyid Şerif Cürcânî ve Teftâzânî gibi devler, hep onun açtığı yolda (onun eserlerine şerh yazarak) yürümüşlerdir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kalıplaşma ve Donma",
+      "text": "İcî'nin kurduğu sistem o kadar mükemmel ve kuşatıcı görülmüştür ki, İslam dünyasında yeni ve özgün felsefi fikirlerin üretilmesi yavaşlamıştır. Alimler yeni bir şey söylemek yerine \"İcî'nin ne dediğini açıklamaya\" odaklanmışlardır."
+    },
+    {
+      "title": "Teknik Karmaşa",
+      "text": "Eserleri o kadar yoğun ve teknik terimlerle doludur ki, hakikatin özü bazen mantık labirentlerinin ve kavram oyunlarının arasında kaybolma riski taşır."
+    },
+    {
+      "title": "Sezgi ve Aşkın Dışlanması",
+      "text": "Mevlânâ'nın \"coşkulu ruhu\" bu kaskatı mantık kalesi içinde kendisine pek yer bulamaz. İcî'nin dini, daha çok \"ispatlanması gereken bir teori\" gibidir."
+    }
+  ]
+}

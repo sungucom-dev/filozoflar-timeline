@@ -1,0 +1,79 @@
+{
+  "subtitle": "Varlığın Birliği ve İnsanın Sırrı (1165–1240)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Vahdet-i Vücud: Çokluktaki Teklik",
+      "body": "İbnü'l-Arabî'ye göre varlık tektir ve o da Allah'tır. Gördüğümüz bu çokluk alemi (eşya, insanlar, yıldızlar), o tek varlığın farklı aynalardaki yansımalarından ibarettir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aynalar ve Yansımalar",
+          "text": "Allah, kendi gizli hazinesini görmek ve bilinmek istediği için evreni yaratmıştır. Evren, Allah'ın isim ve sıfatlarının bir \"tecelligahı\" (görünme yeri)dır."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bir güneşin binlerce su damlasında yansıması gibi; damlalar çoktur ama ışık tektir. Bu düşünce, panteizmle karıştırılsa da Arabî'ye göre \"Evren Tanrı değildir, ama evrende Tanrı'dan başka bir şey de yoktur.\""
+        }
+      ]
+    },
+    {
+      "title": "El-İnsan-ı Kâmil: Evrenin Kalbi",
+      "body": "Ona göre insan, evrenin bir özeti ve Tanrı'nın yeryüzündeki \"halifesi\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Küçük Evren (Mikrokozmos)",
+          "text": "Evren \"Büyük İnsan\", insan ise \"Küçük Evren\"dir. Tanrı'nın tüm isimleri insanda toplanmıştır."
+        },
+        {
+          "label": "Ayna Fonksiyonu",
+          "text": "İnsan, Tanrı'nın kendi cemalini en net gördüğü \"cilalı ayna\"dır. Bu aynayı temizleyen (nefsini terbiye eden) kişi, \"İnsan-ı Kâmil\" mertebesine ulaşır."
+        }
+      ]
+    },
+    {
+      "title": "Âlem-i Hayâl: Gerçekliğin Arasındaki Köprü",
+      "body": "İbnü'l-Arabî, felsefe tarihine \"Hayal\" kavramını bir ontolojik seviye olarak sokmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Berzah",
+          "text": "Maddi dünya ile ruhsal dünya arasındaki köprüdür. Rüyalar, keşifler ve ilahi ilhamlar bu alanda gerçekleşir."
+        },
+        {
+          "label": "Yaratıcı Hayal",
+          "text": "İnsanın hayal gücü, aslında evrendeki yaratım sürecinin bir benzeridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Muazzam Bir Sentez",
+      "text": "Kelam, felsefe ve tasavvufu \"Vahdet-i Vücud\" çatısı altında birleştirerek İslam düşüncesine en kapsamlı metafizik sistemi sunmuştur."
+    },
+    {
+      "title": "Hoşgörü ve Aşk",
+      "text": "\"Benim kalbim her sureti kabul eder; o ceylanların otlağı, keşişlerin manastırı, putların evi ve Kabe'dir\" diyerek, dini şekilcilikten çıkarıp evrensel bir \"Aşk Dini\"ne dönüştürmüştür."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "İnsanın iç dünyasını, rüyalarını ve bilinçaltını sembollerle açıklayarak modern psikolojinin bazı kavramlarını (arketipler vb.) yüzyıllar önce sezmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dildeki Muğlaklık",
+      "text": "O kadar kapalı ve sembolik bir dil kullanmıştır ki, eserleri (özellikle Fusus al-Hikam) her dönemde farklı yorumlanmış ve büyük tartışmalara (hatta tekfir edilmesine) yol açmıştır."
+    },
+    {
+      "title": "Sorumluluk Problemi",
+      "text": "Her şeyin Tanrı'nın bir tecellisi olduğunu savunması, \"Kötülük nereden gelir?\" ve \"İnsanın iradesi ne kadar özgürdür?\" sorularını cevaplarken mantıksal zorluklar yaratabilir."
+    },
+    {
+      "title": "Subjektivite",
+      "text": "Hakikati akılla değil \"keşf\" (sezgi) ile bulduğunu iddia etmesi, sistemini rasyonel bir denetime veya bilimsel bir eleştiriye kapalı hale getirir."
+    }
+  ]
+}

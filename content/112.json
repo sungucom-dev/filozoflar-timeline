@@ -1,0 +1,79 @@
+{
+  "subtitle": "Akıl ve Vahyin Kusursuz Dengesi (1135–1204)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Delâletü'l-Hâirîn (Şaşırmışların Rehberi)",
+      "body": "Bu eser, felsefeye ilgi duyan ama kutsal metinlerin zahiri (düz okuma) anlamı ile aklın verileri arasında sıkışıp kalmış entelektüeller için yazılmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sembolik Okuma",
+          "text": "Maimonides'e göre, eğer kutsal metinde (Tevrat) Tanrı'nın bir \"eli\" olduğu veya \"öfkelendiği\" yazıyorsa, bu insan zihnine uygun bir sembolizmdir. Gerçekte Tanrı maddeden ve duygulardan münezzehtir."
+        },
+        {
+          "label": "Aristoteles ile Barış",
+          "text": "İbn Rüşd gibi o da Aristotelesçi mantığı esas alır. Din ve felsefe arasındaki çelişkileri, metni doğru \"yorumlayarak\" (te'vil) çözer."
+        }
+      ]
+    },
+    {
+      "title": "Olumsuz Teoloji (Apophatic Theology)",
+      "body": "Maimonides, Tanrı'nın doğası hakkında konuşurken tarihin en radikal duruşlarından birini sergiler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "\"O, Şudur\" Diyemeyiz",
+          "text": "Tanrı o kadar yüce ve benzersizdir ki, O'na dair olumlu hiçbir sıfat (Alim, Güçlü vb.) O'nun gerçekliğini tam karşılamaz."
+        },
+        {
+          "label": "Ne Değildir?",
+          "text": "Tanrı'yı ancak ne \"olmadığını\" söyleyerek tanıyabiliriz: \"O cahil değildir,\" \"O güçsüz değildir.\" Bilgimiz arttıkça Tanrı'yı daha iyi tanımayız, O'nun ne kadar \"bilinemez\" olduğunu daha iyi anlarız."
+        }
+      ]
+    },
+    {
+      "title": "Mişne Tora ve Hukuk Standardı",
+      "body": "Sadece bir filozof değil, aynı zamanda devasa bir hukukçudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yahudi Şeriatının Kodlanması",
+          "text": "Karmaşık haldeki Yahudi sözlü ve yazılı hukukunu 14 ciltlik muazzam bir sistemde toplamıştır. Bugün bile Yahudi hukuku onun çizdiği bu harita üzerinden işler."
+        },
+        {
+          "label": "13 İman Maddesi",
+          "text": "Yahudi inancının temel direklerini 13 maddede özetleyerek inancı rasyonel bir amentüye dönüştürmüştür."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Köprü",
+      "text": "İslam ve Yunan felsefesini Yahudi dünyasına taşıyarak, Yahudi düşüncesini gettodan çıkarıp dünya mirasının bir parçası haline getirmiştir."
+    },
+    {
+      "title": "Tıp ve Etik",
+      "text": "Bir saray hekimi olarak yazdığı tıp eserleri, sadece ilaçları değil; diyet, hijyen ve ruh sağlığını da içeren bütüncül bir yaklaşım sunar."
+    },
+    {
+      "title": "Hukuki Deha",
+      "text": "İnancı karmaşadan kurtarıp, her seviyeden insanın anlayabileceği sistematik bir düzene sokmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Felsefi Elitizm",
+      "text": "İbn Rüşd ve Farabi gibi o da hakikati sadece \"filozofların\" anlayabileceğini savunmuş; halkı ise sadece \"itikat ve kurallar\" seviyesinde tutmuştur. Bu durum felsefeyi aristokratik bir zirveye hapseder."
+    },
+    {
+      "title": "Gelenekçilerin Tepkisi",
+      "text": "Rasyonalizmi o kadar ileri götürmüştür ki, yaşadığı dönemde ve sonrasında eserleri Yahudi dünyasında bazen \"sapkınlık\" olarak görülmüş ve bazı bölgelerde yasaklanmıştır."
+    },
+    {
+      "title": "Ölümsüzlük Tartışması",
+      "text": "\"Ruhun ölümsüzlüğü\"nü sadece \"akıl\" üzerinden açıklaması, klasik diriliş inancıyla tam örtüşmediği gerekçesiyle çok eleştirilmiştir."
+    }
+  ]
+}

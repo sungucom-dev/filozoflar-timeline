@@ -1,0 +1,79 @@
+{
+  "subtitle": "Tarihin Babası ve Zamanın Efendisi (672–735)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"İngiliz Tarihinin Babası\": Metodolojik Devrim",
+      "body": "Beda'nın başyapıtı olan Historia ecclesiastica gentis Anglorum (İngiliz Halkının Kilise Tarihi), sadece bir anlatı değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kaynak Gösterme",
+          "text": "Beda, tarihte bir ilki gerçekleştirerek bilgiyi nereden aldığını, hangi mektubu kimden okuduğunu titizlikle belirtmiştir. Bu, günümüzdeki \"bilimsel atıf\" sisteminin en ilkel ve dürüst örneğidir."
+        },
+        {
+          "label": "Milli Kimlik İnşası",
+          "text": "Dağınık Anglo-Sakson krallıklarını tek bir \"halk\" olarak tanımlayarak, modern İngiliz kimliğinin zihinsel temellerini atmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Zamanın Hesaplanması (Computus)",
+      "body": "Beda, Ortaçağ zihnini kaos halindeki tarihlerden kurtarıp bir düzene sokmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "AD (Anno Domini)",
+          "text": "Dionysius Exiguus'un başlattığı ama pek yayılmayan \"İsa'dan Sonra\" (Milattan Sonra) tarihleme sistemini yaygınlaştıran ve tüm Avrupa'ya kabul ettiren kişi Beda'dır."
+        },
+        {
+          "label": "Paskalya Hesabı",
+          "text": "Paskalya bayramının ne zaman kutlanacağına dair karmaşık astronomik hesaplamalar yapmış, bu sayede matematiği ve astronomiyi teolojinin ayrılmaz bir parçası kılmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Doğa Bilimleri: Dünya Bir Küredir",
+      "body": "Popüler bir yanlış inanışın aksine, Beda gibi Ortaçağ bilginleri dünyanın düz olduğuna inanmıyordu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kozmoloji",
+          "text": "Beda, dünyanın evrenin merkezinde bir \"küre\" olduğunu ve mevsimlerin, gelgitlerin bu yapıya göre oluştuğunu açıkça yazmıştır."
+        },
+        {
+          "label": "Gelgit Kuramı",
+          "text": "Ay'ın denizler üzerindeki etkisini (gelgitleri) gözlemleyerek, suların hareketindeki gecikmeleri ilk kez bilimsel bir dille tarif etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Disiplin",
+      "text": "Bilgiyi sadece kopyalamamış, onu eleştirmiş ve sistemleştirmiştir. O, \"Karanlık Çağlar\" denilen dönemin aslında ne kadar parlak zihinler barındırabileceğinin en büyük kanıtıdır."
+    },
+    {
+      "title": "Pedagojik Miras",
+      "text": "Yazdığı ders kitapları (gramer, metrik yapı, doğa bilimleri üzerine) Alcuin üzerinden Şarlman'ın okullarına kadar taşınmış ve Avrupa eğitiminin omurgasını oluşturmuştur."
+    },
+    {
+      "title": "Dürüstlük",
+      "text": "Efsanelerle gerçekleri birbirinden ayırmaya çalışmış, tanıklıklara dayanmayı ilke edinmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hagiografik Sapmalar",
+      "text": "Bir tarihçi olmasına rağmen, eserlerini bazen din dışı olaylardan ziyade \"mucizelere\" ve \"azizlerin hayatlarına\" aşırı vurgu yaparak süslemiştir. Bu, objektif tarihçilik ile dini propaganda arasındaki çizgiyi bazen bulandırır."
+    },
+    {
+      "title": "Anglosentrizm",
+      "text": "Dünyayı ve kiliseyi neredeyse tamamen İngiliz adaları üzerinden okuması, evrensel bir perspektife ulaşmasını bazen engellemiştir."
+    },
+    {
+      "title": "Otoriteye Bağlılık",
+      "text": "Her ne kadar gözlem yapsa da, kriz anlarında her zaman Kilise Babaları'nın veya kutsal metinlerin otoritesine sığınmıştır; bu da rasyonel sorgulamanın sınırlarını daraltmıştır."
+    }
+  ]
+}

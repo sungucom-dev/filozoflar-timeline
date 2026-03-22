@@ -1,0 +1,83 @@
+{
+  "subtitle": "Cebirin Sultanı ve Kuşkuculuğun Şairi (1048–1131)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Matematik ve Cebir: \"X\"in Babası",
+      "body": "Hayyam, modern cebirin gerçek kurucularından biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kübik Denklemler",
+          "text": "Üçüncü dereceden denklemleri geometrik yöntemlerle, yani konik kesitlerin (parabol ve daire) kesişimiyle çözen ilk kişidir."
+        },
+        {
+          "label": "Bilinmeyen \"X\"",
+          "text": "Denklemdeki bilinmeyene Arapça \"şey\" demiştir. Bu kelime İspanyolcaya \"xei\" olarak geçmiş, zamanla kısalıp bugün tüm dünyanın kullandığı \"x\" işaretine dönüşmüştür."
+        },
+        {
+          "label": "Pascal Üçgeni",
+          "text": "Pascal'dan yüzyıllar önce bu sayı dizilimini bulmuş ve kullanmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Astronomi ve Zaman: Celali Takvimi",
+      "body": "Sultan Melikşah için hazırladığı takvim, bugün kullandığımız Miladi takvimden çok daha hassastır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hata Payı",
+          "text": "Miladi takvim her 3300 yılda bir gün hata yaparken, Hayyam'ın takvimi 5000 yılda sadece bir gün hata yapar. O, gökyüzünü sadece \"ibadet vakitleri\" için değil, evrenin matematiksel ritmini anlamak için taramıştır."
+        }
+      ]
+    },
+    {
+      "title": "Felsefe ve Rubailer: \"Carpe Diem\"in Şarkı Formu",
+      "body": "Hayyam'ın felsefesi, meşhur rubailerinde saklıdır. Burada karşımıza rasyonel bir şüpheci çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Varoluşsal Kaygı",
+          "text": "\"Nereden geldik, nereye gidiyoruz?\" sorusuna verilen dogmatik cevaplarla tatmin olmaz. Evrenin sonsuzluğu ve insanın kısalığı karşısında bir \"melankoli\" yaşar."
+        },
+        {
+          "label": "Anı Yaşamak",
+          "text": "Madem gelecek belirsiz ve geçmiş ölüdür, o halde tek gerçek \"şu an\"dır. Şarap, gül ve sevgili; onun şiirinde hayatın tadını ve bu anın kutsallığını temsil eden sembollerdir."
+        },
+        {
+          "label": "Sorgulama",
+          "text": "Cennet, cehennem ve kader kavramlarını iğneleyici bir dille sorgular. Onun rasyonalizmi, körü körüne inancın (taklid) karşısındaki en zarif itirazdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Öncülük",
+      "text": "Matematik ve astronomideki başarıları, Ortaçağ İslam biliminin zirve noktalarından biridir. O, aklın ne kadar ileri gidebileceğinin canlı kanıtıdır."
+    },
+    {
+      "title": "Dürüst Şüphecilik",
+      "text": "İnanmadığı şeyi söylemeyen, anladığı şeyi ise (bazen sembollerle) sakınmadan dile getiren bir \"entelektüel onur\" sergilemiştir."
+    },
+    {
+      "title": "Evrensel Miras",
+      "text": "Şiirleri 19. yüzyılda Edward FitzGerald tarafından çevrildikten sonra, Batı dünyasında en çok tanınan ve sevilen \"Doğulu bilge\" haline gelmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Pesimist (Karamsar) Duruş",
+      "text": "Hayatın anlamını bulamayıp sürekli \"boşluk\" ve \"hiçlik\" temalarına sığınması, bazı çevrelerce felsefi bir \"pes ediş\" olarak görülür."
+    },
+    {
+      "title": "Sosyal Kopukluk",
+      "text": "Bir bilim insanı olarak saraylarda saygı görse de, fikirleri nedeniyle geniş halk kitlelerinden ve dini otoritelerden hep uzak (ve bazen hedefte) kalmıştır."
+    },
+    {
+      "title": "Şiir ve Gerçek Karışımı",
+      "text": "Bugün \"Hayyam rubaisi\" olarak bilinen binlerce şiirin hangisinin gerçekten ona ait olduğu belirsizdir. Bu durum, onun gerçek felsefi sesini duymamızı zorlaştırır."
+    }
+  ]
+}

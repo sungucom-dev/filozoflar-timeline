@@ -1,0 +1,85 @@
+{
+  "subtitle": "Ahlakın Tehzibi ve Tekâmülün Merdiveni (932–1030)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ahlakın Tehzibi (Tahdhib al-Akhlaq)",
+      "body": "Miskeveyh'in başyapıtı ve İslam dünyasındaki ilk sistemli etik kitabıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ruhun Eğitimi",
+          "text": "Ona göre ahlak, doğuştan gelen bir özellik değil, eğitim ve alışkanlıkla (meleke) kazanılan bir \"sanat\"tır. Ruhun üç temel gücü (Düşünce, Öfke, Arzu) arasındaki dengeyi kurmak, erdemli olmanın anahtarıdır."
+        },
+        {
+          "label": "Erdemlerin Altın Oranı",
+          "text": "Aristotelesçi \"orta yol\" (itidal) kavramını benimser. Örneğin; cesaret, korkaklık ile atılganlık arasındaki o hassas dengedir."
+        }
+      ]
+    },
+    {
+      "title": "Varlık Merdiveni ve Tekâmül (Evrim)",
+      "body": "Miskeveyh, Darwin'den yüzyıllar önce, varlıklar arasında bir \"geçiş\" ve \"yükseliş\" olduğunu savunan şaşırtıcı bir doğa felsefesi geliştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşamalı Yükseliş",
+          "text": "Cansız maddelerden bitkilere, bitkilerden hayvanlara ve hayvanlardan insanlara uzanan bir \"tekâmül\" süreci tarif eder."
+        },
+        {
+          "label": "İnsanın Eşiği",
+          "text": "Hayvanların en üst seviyesiyle (maymunlar veya atlar) insanların en alt seviyesi (ilkel insanlar) arasında bir bağ olduğunu, ancak insanın \"akıl\" (nutuk) yetisiyle bu zinciri kırıp ilahi olana yaklaştığını söyler."
+        }
+      ]
+    },
+    {
+      "title": "Mutluluk (Sa'ada) ve Sosyal Erdem",
+      "body": "Miskeveyh için gerçek mutluluk, sadece bireysel bir iç huzur değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Medeni Bir Hayvan Olarak İnsan",
+          "text": "Aristoteles gibi, insanın ancak toplum içinde (şehirde) erdemli olabileceğine inanır. Bir mağarada tek başına yaşayan dervişin \"cesaret\" veya \"cömertlik\" göstermesi imkansızdır."
+        },
+        {
+          "label": "Dostluk ve Sevgi",
+          "text": "Ahlakın zirvesini \"dostluk\" (sadakat) olarak görür. Gerçek dostluk, ruhların birbirini tanıması ve iyilikte birleşmesidir."
+        }
+      ]
+    },
+    {
+      "title": "Nefs (Ruh) Teorisi",
+      "body": "Ruhun maddeden ayrı, basit ve ölümsüz bir töz olduğunu savunur. Zihin (akıl), ruhun en yüksek fonksiyonudur ve insanı Tanrı'ya bağlayan o \"nur\"dur.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İslam Etiğinin Kurucusu",
+      "text": "Yunan ahlak felsefesini İslam inancıyla öylesine pürüzsüz bir şekilde sentezlemiştir ki, ondan sonra gelen Gazali ve Kınalızade gibi isimlerin tamamı onun açtığı bu yolu izlemiştir."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "Ahlakı sadece \"günah-sevap\" ikiliğinden çıkarıp, bir \"ruh sağlığı\" ve \"karakter inşası\" meselesi olarak ele alması devrimcidir."
+    },
+    {
+      "title": "Bilimsel Sezgi",
+      "text": "Doğa tarihindeki o aşamalı gelişimi (tekâmül) fark etmesi, onun gözlem gücünün ve entelektüel cesaretinin bir kanıtıdır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Yunan Bağımlılığı",
+      "text": "Bazı eleştirmenler, Miskeveyh'in Aristoteles ve Platon'a o kadar çok yaslandığını söyler ki; sistemindeki \"Kur'ani\" dokunun bazen Yunan rasyonalizminin gölgesinde kaldığını savunurlar."
+    },
+    {
+      "title": "Entelektüel Seçkincilik",
+      "text": "Gerçek mutluluğun ve erdemin ancak \"felsefe yapan\" ve \"aklıyla yaşayan\" bir elit kesim tarafından ulaşılabileceğini ima etmesi, geniş kitleler için felsefesini mesafeli kılabilir."
+    },
+    {
+      "title": "Tarihçiliği",
+      "text": "Bir tarihçi olarak yazdığı Tajarib al-Umam (Milletlerin Tecrübeleri) kitabında çok rasyonel olsa da, bazen siyasi iktidarlara (Büveyhiler) yakınlığı, tarafsızlığı konusunda ufak soru işaretleri yaratmıştır."
+    }
+  ]
+}

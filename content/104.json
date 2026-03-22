@@ -1,0 +1,83 @@
+{
+  "subtitle": "Büyük Kriz ve Aklın Sınırları (1058–1111)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Büyük Şüphe ve Entelektüel Kriz",
+      "body": "Gazzâlî, her şeyin zirvesindeyken (Nizamiye Medresesi başmüderrisiyken) derin bir şüpheye düştü. Duyularına ve hatta aklına bile güvenemediği bir \"epistemolojik kriz\" yaşadı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kurtarıcı Işık",
+          "text": "Bu krizden mantıkla değil, \"Tanrı'nın kalbine attığı bir nur\" ile çıktığını söyler. Bu tecrübe, onun felsefeye olan bakışını sonsuza dek değiştirmiştir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu yönüyle Gazzâlî, Descartes'tan yüzyıllar önce \"metodik şüphe\"yi bir hakikat aracı olarak kullanmış ilk büyük düşünürlerden biridir."
+        }
+      ]
+    },
+    {
+      "title": "Tehâfütü'l-Felâsife (Filozofların Tutarsızlığı)",
+      "body": "İbn Sînâ ve Fârâbî'nin temsil ettiği Meşşâî (Aristotelesçi) geleneğe en ağır darbeyi bu eserle vurmuştur. Felsefecileri 20 noktada eleştirmiş, bunlardan 3 tanesini \"küfür\" (inançsızlık) olarak nitelemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrenin ezeliliği",
+          "text": "Evrenin Tanrı gibi başlangıçsız olduğunu savunmaları."
+        },
+        {
+          "label": "Tanrı'nın tikelleri bilmemesi",
+          "text": "Tanrı'nın sadece evrensel yasaları bildiği iddiası."
+        },
+        {
+          "label": "Cismani dirilişin reddi",
+          "text": "Dirilişin sadece ruhsal olacağı savı."
+        }
+      ]
+    },
+    {
+      "title": "Nedensellik Eleştirisi (Okazyonalizm)",
+      "body": "Gazzâlî, felsefe tarihinin en devrimci \"nedensellik\" eleştirisini yapmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pamuk ve Ateş",
+          "text": "Ateş pamuğa değdiğinde pamuk yanar. Filozoflar bunu \"doğal bir zorunluluk\" sanır. Gazzâlî ise der ki: \"Ateş cansızdır, yakma iradesi yoktur. Yakan ateş değil, o an yanma eylemini yaratan Allah'tır.\""
+        },
+        {
+          "label": "Sonuç",
+          "text": "Doğada zorunlu neden-sonuç ilişkileri yoktur; sadece Allah'ın yaratışındaki \"alışkanlık\" (âdetullah) vardır. Bu fikir, modern bilim felsefesindeki David Hume'un eleştirileriyle şaşırtıcı bir benzerlik taşır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Mantığı Meşrulaştırması",
+      "text": "İlginç bir şekilde, felsefecilere saldırmasına rağmen mantığı (logic) İslam bilimlerinin içine sarsılmaz bir şekilde yerleştirmiştir. \"Mantık bilmeyenin ilmine güvenilmez\" diyerek bu aleti kutsamıştır."
+    },
+    {
+      "title": "Tasavvufun Meşruiyeti",
+      "text": "Şeriat (hukuk) ile Hakikat'i (tasavvuf) birleştirerek mistisizmi İslam dünyasında \"resmi ve kabul edilebilir\" bir zemine oturtmuştur."
+    },
+    {
+      "title": "Aklın Sınırlarını Çizmesi",
+      "text": "İnsana, aklının her şeyi kuşatamayacağını ve \"metafizik küstahlık\" yapmaması gerektiğini hatırlatmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Bilimsel Meraka Darbe",
+      "text": "Nedenselliği reddetmesi, doğada \"değişmez yasalar\" arayan bilimsel düşüncenin İslam dünyasında zayıflamasına neden olduğu gerekçesiyle sıkça eleştirilir."
+    },
+    {
+      "title": "Felsefeyi \"Donatması\"",
+      "text": "Felsefecileri o kadar ağır suçlamıştır ki, bu durum özgür düşünce ortamını daraltmış ve felsefenin \"tehlikeli\" görülmesine yol açmıştır."
+    },
+    {
+      "title": "Kendi İçinde Çelişki",
+      "text": "Felsefeyi eleştirmek için kullandığı yöntemler ve mantık örgüsü o kadar felsefidir ki, aslında felsefeyi kullanarak felsefeyi yıkmaya çalışmış, bir anlamda \"felsefenin içinde kalarak\" ona savaş açmıştır."
+    }
+  ]
+}

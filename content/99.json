@@ -1,0 +1,79 @@
+{
+  "subtitle": "Deneyin Gücü ve Kültürlerin Anatomisi (973–1048)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tahkik: Hakikatin İzinde Tarafsızlık",
+      "body": "Biruni'nin bilim dünyasına bıraktığı en büyük miras, \"tahkik\" (derinlemesine araştırma) yöntemidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Deney ve Gözlem",
+          "text": "O, bir bilginin doğruluğunu sadece kitaplarda aramazdı. \"Tecrübe\"yi (deney) bilginin tek geçerli süzgeci olarak görürdü. Aristo'nun bazı fizik teorilerine karşı çıkarken, \"Eğer Aristo bugün yaşasaydı ve bu deneyi görseydi, fikrini değiştirirdi\" diyecek kadar modern bir bakış açısına sahipti."
+        },
+        {
+          "label": "Kültürel Görelilik",
+          "text": "Hindistan üzerine yazdığı Tahkik ma li'l-Hind eserinde, Hindu kültürünü ve dinini aşağılamadan, tıpkı bir modern antropolog gibi tarafsızca analiz etmiştir. Bu, dönemine göre mucizevi bir \"nesnellik\" başarısıdır."
+        }
+      ]
+    },
+    {
+      "title": "Jeodezi: Dünyayı Bir Dağdan Ölçmek",
+      "body": "Biruni, bugün bile hayranlık uyandıran bir matematiksel deha ile dünyanın çevresini ve yarıçapını hesaplamıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Biruni Formülü",
+          "text": "O dönemde yaygın olan \"düz ovada ölçüm\" yöntemini terk etmiş; Pakistan'daki Nandana Kalesi'nden bir dağın ufuk açısını ölçerek trigonometrik bir hesaplama yapmıştır."
+        },
+        {
+          "label": "Hassas Sonuç",
+          "text": "Hesapladığı yarıçap (6.335 km), bugün uydularla ölçülen değerden (6.371 km) sadece %1 oranında farklıdır. Bu, 11. yüzyıl için akıl almaz bir kesinliktir."
+        }
+      ]
+    },
+    {
+      "title": "El-Asarü'l-Bakiye: Zamanın ve Takvimlerin Bilimi",
+      "body": "Farklı medeniyetlerin (Yahudi, Hristiyan, Pers, Yunan, Hint vb.) zaman algılarını ve takvim sistemlerini incelemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kozmik Ritim",
+          "text": "Takvimlerin sadece dini araçlar değil, astronomik verilere dayalı bilimsel sistemler olduğunu kanıtlamıştır."
+        },
+        {
+          "label": "Ay'ın Evreleri",
+          "text": "Ay'ın hareketlerini ve tutulmaları o kadar net şemalaştırmıştır ki, bu çizimler yüzyıllar boyunca temel kaynak olmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Metodoloji",
+      "text": "İslami ilimler ile pozitif bilimleri birbirine karıştırmadan, her ikisinin de hakkını veren \"bağımsız bilim\" anlayışını kurmuştur."
+    },
+    {
+      "title": "Disiplinlerarası Deha",
+      "text": "Astronomiden farmakolojiye, jeolojiden tarihe kadar her alanda \"birinci sınıf\" eserler vermiştir. O, sadece bilen değil, sistem kuran bir dâhidir."
+    },
+    {
+      "title": "Antropolojinin Babası",
+      "text": "Ötekiyi (Hindu, Yahudi vb.) anlamaya çalışırken gösterdiği entelektüel dürüstlük, onu modern sosyal bilimlerin habercisi yapar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Zorlayıcı Üslup",
+      "text": "Eserleri o kadar yoğun matematik ve teknik detay içerir ki, döneminde sadece en üst düzey alimler tarafından anlaşılabilmiş; bu da fikirlerinin geniş kitlelere yayılmasını zorlaştırmıştır."
+    },
+    {
+      "title": "Siyasi Bağımlılık",
+      "text": "Hayatının büyük bölümünü Gazneli Mahmud gibi sert hükümdarların sarayında geçirmesi, araştırmalarını bazen bu otoritenin gölgesinde ve sınırlı imkanlarla yapmasına neden olmuştur."
+    },
+    {
+      "title": "Teori vs. Keşif",
+      "text": "Bazı konularda (örneğin dünyanın döndüğü ihtimali) çok yaklaşmış olsa da, yerleşik Batlamyus modelini yıkacak radikal bir \"devrimci\" çıkışı tam olarak yapmamış, verileri iyileştirmekle yetinmiştir."
+    }
+  ]
+}

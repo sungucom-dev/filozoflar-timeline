@@ -1,0 +1,79 @@
+{
+  "subtitle": "Koordinatların, Göreceliğin ve Paranın Efendisi (1320–1382)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Matematiğin Görselleşmesi: Grafiğin Atası",
+      "body": "Oresme, bir niteliğin (örneğin hızın veya sıcaklığın) değişimini görselleştirmek için tarihin ilk \"grafik\" yöntemini geliştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Latitudo ve Longitudo",
+          "text": "Bir nesnenin değişimini göstermek için yatay bir çizgi (boylam/zaman) ve ona dik dikey çizgiler (enlem/yoğunluk) kullanmıştır. Bu, bugün bildiğimiz x ve y koordinat düzleminin ilkel ama dahice bir formudur."
+        },
+        {
+          "label": "Hız Denklemi",
+          "text": "Sabit ivmeli harekette alınan yolun, ortalama hız ile geçen zamanın çarpımına eşit olduğunu geometrik olarak kanıtlamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Dünya Dönüyor mu? Görecelik ve Astronomi",
+      "body": "Oresme, Kopernik ve Galileo'dan yüzyıllar önce, gökyüzünün değil de Dünyanın kendi ekseni etrafında dönüyor olabileceğini rasyonel bir şekilde tartışmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Görecelik İlkesi",
+          "text": "Bir gemide giden kişinin, kıyıdaki ağaçların hareket ettiğini sanması gibi; biz de Dünya dönerken yıldızların döndüğünü sanıyor olabiliriz demiştir."
+        },
+        {
+          "label": "Ekonomi ve Basitlik",
+          "text": "Tanrı'nın tüm evreni devasa bir hızla döndürmek yerine, sadece küçük bir dünyayı kendi etrafında döndürmesinin \"daha ekonomik ve mantıklı\" olduğunu savunmuştur. Ancak finalde, dini otoriteye sadık kalarak bu fikri sadece bir \"ihtimal\" olarak bırakmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Ekonomi Politiğin Doğuşu: \"Paranın Doğası\"",
+      "body": "Oresme, tarihin ilk gerçek ekonomik incelemelerinden biri olan De Moneta'yı yazmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Paranın Mülkiyeti",
+          "text": "Paranın krala değil, topluma ait olduğunu savunmuştur. Kralın paranın içindeki değerli maden miktarını düşürerek (tağşiş) gizli vergi toplamasını \"hırsızlık\" olarak nitelendirmiştir."
+        },
+        {
+          "label": "Oresme Kanunu",
+          "text": "\"Kötü para iyi parayı kovar\" prensibini (daha sonra Gresham Yasası olarak bilinecek olan kuralı) ilk kez o formüle etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Analitik Geometrinin Öncüsü",
+      "text": "Niceliksel değişimleri geometrik şekillerle (alanlarla) ifade ederek, modern kalkülüse ve fiziğe giden yolu açmıştır."
+    },
+    {
+      "title": "Bilimsel Şüphecilik",
+      "text": "Astrolojinin bir bilim olmadığını, gök cisimlerinin insan kaderi üzerinde etkisi olamayacağını matematiksel olasılıklarla kanıtlamaya çalışmıştır."
+    },
+    {
+      "title": "Modern Ekonominin Temeli",
+      "text": "Parayı bir meta değil, bir değişim aracı ve toplumsal sözleşme olarak görerek ekonomik rasyonalizmin temelini atmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Geri Adım Atma",
+      "text": "Dünyanın dönmesi gibi en parlak fikirlerini sunduktan sonra, \"Yine de kutsal metinlere göre Dünya sabittir\" diyerek rasyonel sonucundan vazgeçmesi, onun bir \"geçiş dönemi\" düşünürü olduğunun kanıtıdır."
+    },
+    {
+      "title": "Akademik Yalnızlık",
+      "text": "Fikirleri o kadar ileriydi ki, döneminin üniversite yapısı içinde hak ettiği büyük devrimi başlatamamış; bu fikirlerin meyvelerini toplamak 17. yüzyıl bilim insanlarına kalmıştır."
+    },
+    {
+      "title": "Karmaşık Seri Hesapları",
+      "text": "Sonsuz seriler üzerine yaptığı çalışmalar dahice olsa da (örneğin harmonik serinin ıraksak olduğunu ilk o bulmuştur), bunları sistematik bir matematiksel teoriye dönüştürmekte zorlanmıştır."
+    }
+  ]
+}

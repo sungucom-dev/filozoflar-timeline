@@ -1,0 +1,71 @@
+{
+  "subtitle": "Bireysel Kurtuluş ve Akli İnziva (1085–1138)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tedbîrü'l-Mütevahhid (Yalnızın Yönetimi)",
+      "body": "Bu eser, İbn Bâcce'nin başyapıtıdır ve Fârâbî'nin \"Erdemli Şehir\" idealine hüzünlü bir cevaptır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bozuk Toplumda Filozof",
+          "text": "Fârâbî toplumun tamamını düzeltmeye çalışırken, İbn Bâcce gerçeği görür: Eğer toplum bozuksa, bilge adam orayı düzeltemez. Bu durumda bilgeye düşen, toplumun içinde yaşarken zihinsel olarak ondan kopmak, yani bir \"mütevahhid\" (yalnız/yabancı) olmaktır."
+        },
+        {
+          "label": "Zihinsel Bitkiler (Nevabit)",
+          "text": "Bilge adamı, yanlış fikirlerle dolu bir tarlada kendi başına büyüyen \"aykırı bir bitki\"ye benzetir. Onun görevi, bu kalabalık içinde kendi ruhunu ve aklını kemale erdirmektir."
+        }
+      ]
+    },
+    {
+      "title": "İttisal (Faal Akıl ile Birleşme)",
+      "body": "İbn Bâcce'ye göre insan hayatının nihai amacı, duyulardan ve hayal gücünden tamamen arınarak \"Saf Akıl\" (Faal Akıl) ile birleşmektir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mistik Değil, Rasyonel",
+          "text": "Bu birleşme bir \"vecd\" veya mistik sarhoşluk değil, mantıksal bir zorunluluktur. İnsan aklı soyutlama yaparak en üst seviyeye ulaştığında, evrensel akılla tek bir parça haline gelir."
+        }
+      ]
+    },
+    {
+      "title": "Fizik ve Hareket: Aristo'ya İlk İtirazlar",
+      "body": "Fizik alanında Aristoteles'in hareket yasalarına getirdiği eleştirilerle, yüzyıllar sonra Galileo ve Newton'un önünü açacak olan tartışmaları başlatmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İbn Bâcce Yasası",
+          "text": "Bir cismin hızının, ortamın direncine bağlı olduğunu ama bir boşlukta (vakumda) bile hareketin mümkün olabileceğini savunmuştur. Bu, o dönem için devrimci bir \"momentum\" anlayışıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Endülüs Felsefesinin Babası",
+      "text": "O olmasaydı, İbn Tufeyl ve İbn Rüşd gibi isimler aristotelesçi mantığı bu kadar keskin bir şekilde kullanamazlardı."
+    },
+    {
+      "title": "Bireyciliğin Öncüsü",
+      "text": "Felsefeyi toplumsal bir ütopya olmaktan çıkarıp, bireyin kendi başına ulaşabileceği bir \"içsel özgürlük\" alanına dönüştürmüştür."
+    },
+    {
+      "title": "Çok Yönlü Deha",
+      "text": "Müziği tıp ve psikolojiyle birleştirmiş, \"Nubat\" denilen Endülüs müzik geleneğinin temellerini atmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasi Başarısızlık",
+      "text": "Çok parlak bir zekaya sahip olmasına rağmen, sivri dili ve kibri yüzünden çevresindeki herkesi kendine düşman etmiş, sonunda kıskanç rakipleri tarafından zehirlenerek öldürülmüştür."
+    },
+    {
+      "title": "Karamsar Toplum Görüşü",
+      "text": "Toplumdan umudu kesip \"yalnızlığı\" yüceltmesi, felsefeyi sosyal hayattan koparan elitist bir çizgiye çekmiştir."
+    },
+    {
+      "title": "Tamamlanmamış Eserler",
+      "text": "Eserlerinin çoğu bitmemiş fragmanlar halindedir; bu da sisteminin tam olarak anlaşılmasını zorlaştırır."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "subtitle": "Öğrenilmiş Cehalet ve Sonsuzluk (1401–1464)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "De Docta Ignorantia (Öğrenilmiş Cehalet Üzerine)",
+      "body": "Cusanus'un en devrimci kavramı olan \"Öğrenilmiş Cehalet\", bilginin sınırlarını tanıma sanatıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sınırsız Tanrı vs. Sınırlı Akıl",
+          "text": "Tanrı sonsuzdur, insan aklı ise sonludur. Sonlu olan, sonsuz olanı asla tam olarak kavrayamaz."
+        },
+        {
+          "label": "Bilemeyeceğini Bilmek",
+          "text": "Gerçek bilgelik, neyi bilemeyeceğimizi kesin olarak anlamaktır. Bu, şüpheci bir vazgeçiş değil; aksine sonsuzluğa doğru atılan rasyonel bir adımdır."
+        }
+      ]
+    },
+    {
+      "title": "Coincidentia Oppositorum (Zıtların Birliği)",
+      "body": "Cusanus, mantığın klasik sınırlarını (çelişmezlik ilkesi) sonsuzluk kavramıyla aşmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sonsuzda Buluşma",
+          "text": "Ona göre, bir dairenin çapı sonsuza giderse, dairenin yayı ile kirişi artık birbirinden ayırt edilemez hale gelir ve çakışır."
+        },
+        {
+          "label": "Analiz",
+          "text": "Tanrı, tüm zıtlıkların (büyük ve küçük, başlangıç ve son) birleştiği o sonsuz noktadır. Bu düşünce, diyalektik felsefenin ve modern matematiğin öncülüdür."
+        }
+      ]
+    },
+    {
+      "title": "Merkezin Yokluğu: Sonsuz ve Hareketli Evren",
+      "body": "Kopernik'ten bir asır önce, Cusanus yerleşik kozmolojiyi kökten sarsmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dünya Merkez Değildir",
+          "text": "Evren sonsuzsa (veya belirsizse), onun sabit bir merkezi veya çevresi olamaz. Bu durumda Dünya, evrenin merkezinde sabit duran \"ayrıcalıklı\" bir yer değildir."
+        },
+        {
+          "label": "Her Yer Merkez",
+          "text": "Evrende bulunan her gözlemciye göre, kendisi merkezde ve her şey etrafında dönüyor gibi görünür. Bu, Görelilik İlkesi'nin felsefi tarihindeki en erken ve sarsıcı ifadelerinden biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Bilimin Şafağı",
+      "text": "Evrenin merkezsizliği ve yerin hareketi hakkındaki görüşleri, Kopernik, Kepler ve Bruno gibi devlere ilham kaynağı olmuştur."
+    },
+    {
+      "title": "Matematiksel Teoloji",
+      "text": "Metafizik problemleri matematiksel modellerle (üçgenler, daireler, sonsuz doğrular) açıklayarak düşünceye yeni bir hassasiyet kazandırmıştır."
+    },
+    {
+      "title": "Dini Hoşgörü",
+      "text": "De Pace Fidei (İman Barışı) adlı eserinde, tüm dinlerin aslında farklı dillerle aynı tekil hakikati aradığını savunarak, kendi çağının çok ötesinde ekümenik bir vizyon sunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Spekülatif Yapı",
+      "text": "Görüşleri dahicedir ancak modern anlamda \"deneysel\" bir temele dayanmaz; daha çok sezgisel ve teolojik bir çıkarımdır."
+    },
+    {
+      "title": "Paradoks Hapishanesi",
+      "text": "Zıtların birliği ilkesi, bazen mantıksal analizi imkansız kılan bir mistisizme kayma riski taşır."
+    },
+    {
+      "title": "Gelenekle Çatışma Kaçınması",
+      "text": "Fikirleri devrimci olsa da, bir kilise kardinali olarak bu fikirleri mevcut teolojiyle uzlaştırmak için zaman zaman zorlama yorumlara başvurmuştur."
+    }
+  ]
+}

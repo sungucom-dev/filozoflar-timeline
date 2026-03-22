@@ -1,0 +1,79 @@
+{
+  "subtitle": "Bireyin Sırrı ve İradenin Mutlakiyeti (1266–1308)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Varlığın Tekanlamlılığı (Univocitas Entis)",
+      "body": "Scotus'un felsefeye vurduğu en büyük mühür, varlık kavramına getirdiği devrimdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aquinas'ın Analojisi",
+          "text": "Aquinas, \"Tanrı vardır\" ile \"İnsan vardır\" cümlelerindeki \"varlık\" kelimesinin sadece birbirine benzediğini (analoji) savunurdu."
+        },
+        {
+          "label": "Scotus'un İtirazı",
+          "text": "Scotus'a göre, eğer \"varlık\" kelimesi hem Tanrı hem de yaratılan için aynı anlama gelmiyorsa (tekanlamlılık), Tanrı hakkında hiçbir şey bilemeyiz. Varlık, en temel seviyede her şey için aynı anlamı taşır."
+        }
+      ]
+    },
+    {
+      "title": "Haecceitas (Bu-luk / Bunsallık)",
+      "body": "\"Bir şeyi o şey yapan nedir?\" sorusuna Scotus'un verdiği cevap, modern bireyciliğin tohumlarını atmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Türden Bireye",
+          "text": "Aristo ve Aquinas için bireyi belirleyen \"madde\"dir. Scotus ise her varlığın kendine has, paylaşılmaz bir özü olduğunu söyler."
+        },
+        {
+          "label": "Bireyin Kutsallığı",
+          "text": "Socrates'i \"insan\" yapan şey geneldir, ama onu \"Socrates\" yapan şey sadece ona ait olan Haecceitas'tır. Bu, evrensel olandan ziyade \"tekil ve özel\" olanın yüceltilmesidir."
+        }
+      ]
+    },
+    {
+      "title": "Voluntarizm: İradenin Üstünlüğü",
+      "body": "Aquinas \"Tanrı bir şeyi iyi olduğu için emreder\" derken (Akılcılık); Scotus \"Bir şey, Tanrı onu emrettiği için iyidir\" der (İradecilik).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutlak Özgürlük",
+          "text": "Tanrı'nın iradesi, aklından veya herhangi bir mantıksal zorunluluktan üstündür. Tanrı tamamen özgürdür."
+        },
+        {
+          "label": "Ahlakın Temeli",
+          "text": "İnsan için de durum aynıdır; irade, akla rehberlik eder. İnsan, sadece bildiği için değil, istediği için eylemde bulunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bireyin Tanınması",
+      "text": "Haecceitas kavramıyla, bireyi genel bir türün kopyası olmaktan çıkarıp, kendine has bir değer haline getirmiştir."
+    },
+    {
+      "title": "Metafiziğin Bağımsızlığı",
+      "text": "Varlığı tekanlamlı kılarak, felsefeyi teolojinin bir gölgesi olmaktan çıkarıp kendi başına rasyonel bir bilim olarak kurgulama yolunu açmıştır."
+    },
+    {
+      "title": "Keskin Mantık",
+      "text": "Kavramlar arasındaki \"biçimsel ayrım\" (distinctio formalis) gibi keşifleri, mantık tarihinin en ince araçlarından biridir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Karmaşıklık",
+      "text": "Yazıları o kadar yoğundur ki, \"İnce Doktor\" lakabı bazen \"Anlaşılmaz Doktor\"a dönüşür. Felsefeyi o kadar çok teknik terim ve ayrım içine hapsetmiştir ki, sistem kendi ağırlığı altında ezilmeye başlamıştır."
+    },
+    {
+      "title": "Keyfiyet Riski",
+      "text": "İradeyi aklın bu kadar önüne koyması, Tanrı'nın emirlerinin rasyonel olarak sorgulanamayacağı, her şeyin Tanrı'nın \"keyfi\" bir kararı olabileceği algısını doğurmuştur."
+    },
+    {
+      "title": "Skolastisizmin Sonu",
+      "text": "Scotus'un kurduğu bu aşırı karmaşık yapı, bir sonraki neslin (Ockham'ın) bu kadar kavramın \"gereksiz\" olduğuna karar verip her şeyi yıkmasına zemin hazırlamıştır."
+    }
+  ]
+}

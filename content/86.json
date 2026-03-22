@@ -1,0 +1,83 @@
+{
+  "subtitle": "Disiplin, İrade ve Kutsal Resim (759–826)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Studion Reformu: Bir Üretim Merkezi Olarak Manastır",
+      "body": "Theodore, manastır hayatını sadece dua edilen bir yer olmaktan çıkarıp, sosyal ve entelektüel bir mekanizma haline getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çalışma Ahlakı",
+          "text": "Keşişlere sadece ruhsal değil, fiziksel ve zihinsel görevler (çiftçilik, tıp, kopyalama) yüklemiştir."
+        },
+        {
+          "label": "Scriptorium (Yazım Odası)",
+          "text": "Studion Manastırı, antik metinlerin ve dini eserlerin kopyalandığı devasa bir atölyeye dönüşmüştür. Karolenj dünyasındaki yazı reformuna benzer şekilde, Bizans'ta da kitabın korunmasını sağlamıştır."
+        },
+        {
+          "label": "Sosyal Adalet",
+          "text": "Manastır içinde katı bir mülkiyet eşitliği savunmuş, keşişlerin her türlü lüksden uzak durmasını bir kural haline getirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "İkinci İkonoklazm ve Resmin Savunulması",
+      "body": "Şamlı Yuhanna'nın mantığını bir adım öteye taşıyarak, ikonaların neden \"zorunlu\" olduğunu savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Enkarnasyonun Mantığı",
+          "text": "Eğer İsa gerçekten insan olduysa, onun bir bedeni (ve dolayısıyla bir görüntüsü) var demektir. Bu görüntüyü reddetmek, onun insan doğasını reddetmektir."
+        },
+        {
+          "label": "Görüntü ve Hakikat",
+          "text": "İkona, tapınılan bir nesne değil; asıl kişiye (prototip) saygı göstermeye yarayan bir \"işaret\"tir. Theodore için sanat, teolojinin görünür halidir."
+        }
+      ]
+    },
+    {
+      "title": "Vicdan Özgürlüğü: \"Moechian\" Tartışması",
+      "body": "Theodore'un asıl devrimci yanı, imparatorun kişisel hayatına ve otoritesine karşı çıkışıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hukuk Herkes İçindir",
+          "text": "İmparator VI. Konstantin, karısını boşayıp metresiyle evlendiğinde, Theodore buna en sert tepkiyi gösteren kişi olmuştur."
+        },
+        {
+          "label": "Kilise-Devlet Ayrımı",
+          "text": "İmparatorun dini ve ahlaki konularda mutlak yetkili olmadığını, kilisenin bağımsız bir vicdan alanı olduğunu savunmuştur. Bu \"inatçılığı\" yüzünden üç kez sürgün edilmiş ama geri adım atmamıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kurumsal Süreklilik",
+      "text": "Studion Manastırı kuralları (Studite Rule), daha sonra Aynaroz (Mount Athos) ve tüm Ortodoks dünyası manastır geleneği için altın standart haline gelmiştir."
+    },
+    {
+      "title": "Düşünce Özgürlüğünün Tohumları",
+      "text": "Mutlakiyetçi Bizans imparatorlarına karşı \"Hukuk hükümdardan üstündür\" diyebilmesi, siyasi düşünce tarihinde onurlu bir duruştur."
+    },
+    {
+      "title": "Kültürel Muhafız",
+      "text": "Yazı ve kopyalama faaliyetlerine verdiği önem, Bizans entelektüel mirasının karanlık dönemlerden geçerek günümüze ulaşmasını sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Kuralcılık",
+      "text": "Manastır kuralları o kadar katıdır ki, bireysel yaratıcılığı ve özgürlüğü tamamen \"itaat\" potasında eritebilir. Bir hata yapan keşişin günlerce konuşmama cezası alması gibi uygulamalar, sistemi bazen baskıcı kılar."
+    },
+    {
+      "title": "İnatçılığın Bedeli",
+      "text": "Siyasi uzlaşmayı tamamen reddetmesi, bazen kilise ve devlet arasındaki çatışmaları körükleyerek toplumsal barışı zedelemiş ve kendi takipçilerinin büyük acılar çekmesine neden olmuştur."
+    },
+    {
+      "title": "Dar Teolojik Vizyon",
+      "text": "Şamlı Yuhanna kadar geniş bir felsefi ufka sahip değildir; daha çok mevcut inancı savunmaya ve disiplini korumaya odaklanmıştır."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "subtitle": "Platonik Akademi ve Işığın Felsefesi (1433–1499)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Platonik Akademi ve Büyük Çeviriler",
+      "body": "Cosimo de' Medici, Ficino'ya bir villa ve \"Platon'un ruhunu yeniden canlandırma\" görevini verdiğinde, Ficino Batı dünyasını bin yıldır unuttuğu bir hazineyle tanıştırdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tam Metin Platon",
+          "text": "Platon'un tüm eserlerini ilk kez Yunancadan Latinceye çevirerek, Skolastik dönemin \"dolaylı\" Platon bilgisini sonlandırdı."
+        },
+        {
+          "label": "Hermetica",
+          "text": "Mısır'ın efsanevi bilgesi Hermes Trismegistus'un metinlerini çevirerek, Rönesans'ın o meşhur \"kadim bilgelik\" (Prisca Sapientia) arayışını başlattı."
+        }
+      ]
+    },
+    {
+      "title": "Anima Mundi (Dünya Ruhu) ve İnsan",
+      "body": "Ficino'nun kozmolojisinde insan, varlık hiyerarşisinin tam ortasındaki \"düğüm noktasıdır\".",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beş Basamak",
+          "text": "Tanrı - Melekler - Ruh - Nitelikler - Madde."
+        },
+        {
+          "label": "Merkezi Konum",
+          "text": "İnsan ruhu, hem ilahi olana (yukarıya) hem de maddi olana (aşağıya) yönelebilir. Bu yüzden ruh, evreni bir arada tutan \"altın zincir\"dir."
+        }
+      ]
+    },
+    {
+      "title": "Platonik Aşk: Ruhun Yükseliş Merdiveni",
+      "body": "Günümüzde yanlış anlaşılan \"Platonik Aşk\" terimi, Ficino'nun en meşhur katkısıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşk Olarak Tanrı",
+          "text": "Ona göre aşk, sadece bir kişiye duyulan arzu değil; görünen dünyadaki güzellikten yola çıkarak \"Mutlak Güzellik\"e (Tanrı'ya) ulaşma çabasıdır."
+        },
+        {
+          "label": "Ruhların Dostluğu",
+          "text": "İki insanın birbirini sevmesi, aslında her ikisinin de Tanrı'daki ortak ışığı sevmesidir."
+        }
+      ]
+    },
+    {
+      "title": "Theologia Platonica (Platoncu İlahiyat)",
+      "body": "Ficino, Platon felsefesi ile Hristiyanlığı uzlaştırmak için ömrünü verdi. Ona göre Platon, Hz. İsa'dan önce gelmiş bir \"Hristiyan olmayan aziz\" gibiydi. Bu sentez, sanatta (Botticelli'nin tablolarında olduğu gibi) ve düşüncede Rönesans'ın ruhunu şekillendirdi.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Katalizör",
+      "text": "Platon'u ve Yeni-Platonculuğu Batı'ya geri getirerek, Skolastik mantığın kaskatı duvarlarını yıkmış ve hayal gücünün, sanatın, şiirin önünü açmıştır."
+    },
+    {
+      "title": "Hümanizmin Manevi Boyutu",
+      "text": "Hümanizmi sadece bir \"gramer veya siyaset\" işi olmaktan çıkarıp, ona derin bir ruhsal ve ontolojik zemin kazandırmıştır."
+    },
+    {
+      "title": "Sanat Üzerindeki Etkisi",
+      "text": "Botticelli gibi sanatçılara ilham vererek, felsefenin görsel bir şölene dönüşmesini sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Gizemcilik ve Astroloji",
+      "text": "Fikirleri bazen \"doğal büyü\" (magia naturalis) ve astrolojinin sınırlarına o kadar yaklaşır ki, rasyonel felsefe ile batıl inanç arasındaki çizgi bulanıklaşır."
+    },
+    {
+      "title": "Elitist Yaklaşım",
+      "text": "Kurduğu Akademi ve sunduğu felsefe, sadece saray çevresindeki çok dar ve seçkin bir entelektüel grubun anlayabileceği kadar karmaşıktır."
+    },
+    {
+      "title": "Hristiyanlık ile Zoraki Uyum",
+      "text": "Platon'u Hristiyanlaştırma çabası, bazen her iki sistemi de kendi özgün bağlamından koparma riski taşımıştır."
+    }
+  ]
+}

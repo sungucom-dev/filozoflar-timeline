@@ -1,0 +1,79 @@
+{
+  "subtitle": "İlahi Boşluk, Ruhun Kıvılcımı ve \"Bırakma\" (1260–1328)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tanrı (Gott) ve Tanrı-Ötesi (Gottheit)",
+      "body": "Eckhart, teoloji tarihinde sarsıcı bir ayrım yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanrı (Persona)",
+          "text": "Bildiğimiz, dua ettiğimiz, isimler verdiğimiz yaratıcı Tanrı'dır. Bu, Tanrı'nın \"insanla ilişkili\" halidir."
+        },
+        {
+          "label": "Tanrı-Ötesi (Wesen/Essence)",
+          "text": "Tanrı'nın isimlerden, sıfatlardan ve hatta \"Tanrı\" kavramından bile azade olan mutlak, karanlık ve sessiz özüdür. O, bir \"Hiç\"tir (Naught); çünkü bir \"şey\" değildir."
+        }
+      ]
+    },
+    {
+      "title": "Ruhun Kıvılcımı (Seelenfünklein)",
+      "body": "Eckhart'a göre insanın en derin yerinde, yaratılmamış ve zamansız bir nokta vardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Birlik",
+          "text": "Bu kıvılcım, Tanrı'nın özüyle (Gottheit) aynı mahiyettedir. İnsan dış dünyadan ve kendi benliğinden tamamen sıyrıldığında, Tanrı bu kıvılcımın içinde \"doğar\"."
+        },
+        {
+          "label": "Sonsuz Şimdiki Zaman",
+          "text": "Bu doğum geçmişte bir kez olmuş bir olay değil, her an, şimdi gerçekleşen bir süreçtir."
+        }
+      ]
+    },
+    {
+      "title": "Gelassenheit: Bırakmak ve Boşalmak",
+      "body": "Eckhart'ın \"Zor Patika\"ya bıraktığı en büyük yöntem budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mülkiyetsizlik",
+          "text": "Sadece maldan mülkten değil, kendi iradenizden, bilgilerinizden ve hatta \"Tanrı\" hakkındaki fikirlerinizden bile vazgeçmektir."
+        },
+        {
+          "label": "Alıcı Olmak",
+          "text": "İnsan tamamen \"boşaldığında\" (kenosis), ilahi olanın akabileceği bir kap haline gelir. \"Ben\" sustuğunda, sadece \"O\" konuşur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İçsel Özgürlük",
+      "text": "Dini kurumların ve dışsal ritüellerin ötesinde, her bireyin kendi içinde ulaşabileceği mutlak bir özgürlük alanı tanımlamıştır."
+    },
+    {
+      "title": "Modern Felsefeye Etki",
+      "text": "Heidegger'den Fromm'a, Jung'dan modern Zen felsefecilerine kadar pek çok ismi derinden etkilemiştir. Onun \"olmak\" (being) ile \"sahip olmak\" (having) arasındaki ayrımı, modern sosyolojinin temellerinden biridir."
+    },
+    {
+      "title": "Dilin Sınırlarını Zorlamak",
+      "text": "Almancayı felsefi bir dil haline getiren odur; kavramları o kadar yaratıcı kullanmıştır ki, mantığın ötesindeki gerçekliği dile dökebilmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Engizisyon ve Mahkumiyet",
+      "text": "Fikirleri o kadar radikal bulunmuştur ki, hayatının sonunda mahkemeye çıkarılmış ve bazı öğretileri \"sapkınlık\" (heresy) olarak damgalanmıştır. Bu da düşüncelerinin yüzyıllar boyunca \"gizli\" kalmasına neden olmuştur."
+    },
+    {
+      "title": "Pasifizm Riski",
+      "text": "\"Her şeyi bırakma\" ve \"isteksizlik\" vurgusu, toplumsal mücadele ve pratik ahlak alanında bir tür atalete veya pasifliğe yol açabileceği gerekçesiyle eleştirilmiştir."
+    },
+    {
+      "title": "Zorlu Dil",
+      "text": "\"Hiçlik\" ve \"Karanlık\" gibi kavramları o kadar soyuttur ki, bu derinliğe hazırlıklı olmayan bir zihin için felsefesi kolayca bir nihilizm (hiççilik) olarak algılanabilir."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subtitle": "Tıbbın Üstadı ve Mutlak Akılcılığın Sesi (865–925)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tıp ve Bilimde Devrim: Deneyin Gücü",
+      "body": "Razi, tıbbı kitaplardan değil, bizzat hastaların başucundan öğrenmiş ve öğretmiştir.",
+      "ordered": false,
+      "items": [
+        {"label": "Küçük ve Kızamık Ayırımı", "text": "Tarihte çiçek hastalığı ile kızamığı birbirinden ayıran ilk kişidir. Kitab el-Hacer adlı eseri, tıbbi gözlemin şaheseridir."},
+        {"label": "Kimyadan Eczacılığa", "text": "Simyayı mistik bir uğraş olmaktan çıkarıp kimyaya dönüştürmüştür. Sülfürik asit ve alkolü tıbbi amaçlarla kullanan ilk hekimdir."},
+        {"label": "Hastane Yönetimi", "text": "Bağdat'taki büyük hastanenin yerini seçerken şehrin farklı yerlerine et parçaları asmış, etin en geç bozulduğu yeri (en temiz havayı) seçmiştir."}
+      ]
+    },
+    {
+      "title": "Beş Ezeli İlke (El-Kudema el-Hamse)",
+      "body": "Razi, metafiziğinde Aristotelesçi \"yoktan yaratılış\" veya \"sudur\" teorilerini reddeder. Ona göre varlığın temelinde birbirine indirgenemeyen beş ezeli ilke vardır.",
+      "ordered": false,
+      "items": [
+        {"label": "Tanrı (Bari)", "text": "Mutlak Yaratıcı ve Düzenleyici."},
+        {"label": "Ruh (Nefs)", "text": "Maddeye tutkuyla bağlı olan ve ondan kurtulmaya çalışan ilke."},
+        {"label": "Madde (Heyula)", "text": "Maddi dünyanın temel tözü."},
+        {"label": "Zaman (Dehr)", "text": "Ezeli ve mutlak akış."},
+        {"label": "Mekan (Hela)", "text": "Her şeyi kapsayan boşluk. Bu sistem, Tanrı'nın iradesini madde ve zaman gibi ilkelerle sınırlandırdığı için dönemin teologları tarafından çok sert eleştirilmiştir."}
+      ]
+    },
+    {
+      "title": "Radikal Akılcılık: \"Peygambere Ne Gerek Var?\"",
+      "body": "Razi'nin felsefe dünyasındaki en \"tehlikeli\" görüşüdür.",
+      "ordered": false,
+      "items": [
+        {"label": "Eşitlik", "text": "Allah tüm insanlara akıl vermiştir. Bazı insanları \"seçilmiş\" (peygamber) kılıp diğerlerini onlara uymaya zorlamak aklın eşitliğine ve adalete aykırıdır."},
+        {"label": "Akıl Yeterlidir", "text": "Hakikati bulmak için tek ihtiyacımız akıldır. Kitaplara ve otoritelere körü körüne uymak taklittir ve insanı köreltir."},
+        {"label": "Hoşgörü", "text": "Dinlerin insanlar arasında çatışmaya yol açtığını savunarak, evrensel bir \"akıl dini\" önermiştir."}
+      ]
+    },
+    {
+      "title": "Ruhsal Tıp (Et-Tıbbu'r-Ruhani)",
+      "body": "Ona göre felsefe, ruhun ilacıdır. İnsanın korkularından, tutkularından ve ölüm kaygısından kurtulmasının tek yolu felsefi bir disiplindir. Epiktetos'un Stoacılığını andıran bir ahlak anlayışına sahiptir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {"title": "Modern Bilimin Atası", "text": "Sadece teoriyle yetinmeyip deneye, gözleme ve klinik verilere dayanması, onu modern tıbbın ve kimyanın en büyük öncülerinden biri yapar."},
+    {"title": "Düşünce Özgürlüğü", "text": "Otoriteye ve dogmaya karşı gösterdiği o muazzam entelektüel cesaret, özgür düşünce tarihinin en parlak sayfalarından biridir."},
+    {"title": "İnsani Ahlak", "text": "Ahlakı dini korkulara değil, aklın dinginliğine ve başkalarına zarar vermeme ilkesine dayandırmıştır."}
+  ],
+  "weaknesses": [
+    {"title": "Siyasi ve Dini İzolelik", "text": "Görüşleri o kadar radikaldi ki, yaşadığı dönemde ve sonrasında eserlerinin çoğu yakılmış veya yok edilmiştir. Biz onun felsefesini daha çok ona karşı çıkanların (Ebu Hatim er-Razi gibi) eleştirilerinden öğrenebiliyoruz."},
+    {"title": "Sosyal Gerçeklikten Kopuş", "text": "Peygamberlik ve din kurumlarını tamamen reddetmesi, kitlelerin manevi ihtiyaçlarını ve toplumsal birleştirici gücü hafife aldığı şeklinde eleştirilmiştir."},
+    {"title": "Eklektik Metafizik", "text": "Beş ezeli ilke teorisi, hem Platonik hem de Gnostik unsurlar taşıdığı için mantıksal olarak bazı boşluklar ve tutarsızlıklar içerebilir."}
+  ]
+}

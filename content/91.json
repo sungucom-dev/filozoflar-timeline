@@ -1,0 +1,79 @@
+{
+  "subtitle": "Akıl, İrade ve İlahi Hikmet (853–944)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Akıl ve Vahiy Dengesi",
+      "body": "Maturidi, İslam düşüncesindeki iki aşırı uç (sadece vahiy diyenler ile sadece akıl diyenler) arasında muazzam bir köprü kurmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aklın Özerkliği",
+          "text": "Ona göre akıl, iyi ile kötüyü, doğru ile yanlışı ayırabilecek kapasitede yaratılmıştır. Vahiy (nakil), aklın zaten bulabileceği gerçekleri onaylar ve detaylandırır."
+        },
+        {
+          "label": "Evrensel Bilgi",
+          "text": "Bilgiye ulaşmanın üç yolu olduğunu söyler: Sağlıklı duyular, doğru haber (vahiy) ve akıl yürütme (istidlal)."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Özgürlüğü ve \"Kesb\" (İrade)",
+      "body": "Maturidi'nin en radikal ve güncel tarafı, insan eylemleri üzerine kurduğu teoridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Cüz'î İrade",
+          "text": "Tanrı her şeyi yaratandır (Küllî İrade), ancak insan eylemini \"tercih eden\" ve \"başlatan\"dır. İnsan, kendi seçimlerini yaptığı için sorumludur."
+        },
+        {
+          "label": "Eylemin Sahibi",
+          "text": "\"Eğer insan yaptıklarından sorumlu olmasaydı, Tanrı'nın ödül ve ceza vermesi adaletsiz olurdu\" diyerek, ilahi adaleti insan özgürlüğüne bağlar."
+        }
+      ]
+    },
+    {
+      "title": "Hikmet ve Tekvin",
+      "body": "Maturidi, Tanrı'nın her eyleminin bir \"hikmeti\" (amacı) olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Amaçlı Evren",
+          "text": "Evrende tesadüfe veya anlamsızlığa yer yoktur. Tanrı \"boş yere\" hiçbir şey yaratmaz. Her şeyin bir nedeni ve amacı vardır; aklın görevi bu hikmeti keşfetmektir."
+        },
+        {
+          "label": "Tekvin Sıfatı",
+          "text": "Diğer ekollerin aksine \"yaratma\"yı (Tekvin) Tanrı'nın ezeli bir sıfatı olarak görür. Yani Tanrı her an yaratma halindedir ve evren dinamik bir süreçtir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Düşünce Özgürlüğü",
+      "text": "Akla verdiği bu büyük değer, İslam dünyasında (özellikle Türkistan coğrafyasında) bilimin, sanatın ve felsefenin altın çağını yaşamasının fikri altyapısını oluşturmuştur."
+    },
+    {
+      "title": "Sorumluluk Ahlakı",
+      "text": "Kaderi \"pasif bir bekleyiş\" olmaktan çıkarıp, insanı \"kendi hayatının faili\" kılmıştır. Bu, modern \"özne\" kavramının erken bir öncülüdür."
+    },
+    {
+      "title": "Hoşgörü ve Ölçü",
+      "text": "İnanç meselelerinde baskıcı değil, ikna edici ve rasyonel bir dil kullanarak toplumsal barışa hizmet etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Teorik Ağırlık",
+      "text": "\"Kesb\" (kazanım) ve irade üzerine yaptığı açıklamalar o kadar ince ve soyut mantık süzgeçlerinden geçer ki, halkın anlayabileceği basit bir dinden ziyade, elit bir \"kelam felsefesi\"ne dönüşme riski taşır."
+    },
+    {
+      "title": "Gölgede Kalma",
+      "text": "Eş'arilik gibi daha \"gelenekçi\" ve otoriteye yakın ekollerin baskın çıkmasıyla, Maturidi'nin bu parlak rasyonalizmi yüzyıllar boyunca belirli coğrafyalara hapsolmuş veya tam potansiyeline ulaşamamıştır."
+    },
+    {
+      "title": "Siyasi Kullanım",
+      "text": "Her felsefe gibi, onun irade vurgusu da bazen yöneticilerin kendi meşruiyetlerini sağlamak için kullandığı bir \"sosyal düzen\" aracına dönüştürülmüştür."
+    }
+  ]
+}

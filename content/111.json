@@ -1,0 +1,75 @@
+{
+  "subtitle": "Akıl ve Vahyin İki Kardeşliği (1126–1198)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Hakikat Hakikatle Çelişmez: Faslü'l-Makâl",
+      "body": "İbn Rüşd'ün din ve felsefe ilişkisindeki temel tezi şudur: Din de felsefe de hakikati arar, o halde aralarında bir çatışma olamaz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üç Tabaka Teorisi",
+          "text": "İnsanları anlama kapasitelerine göre üçe ayırır: Burhan Ehli (Filozoflar, hakikate mantıksal kanıtlarla ulaşanlar), Cedel Ehli (Kelamcılar/Teologlar, tartışma ve ikna yöntemini kullananlar) ve Hitabet Ehli (Halk, hakikati ancak semboller ve hikayelerle kavrayabilenler)."
+        },
+        {
+          "label": "Te'vil (Yorum)",
+          "text": "Eğer kutsal metin akılla çelişir gibi görünüyorsa, orada metni sembolik olarak yorumlamak (te'vil etmek) \"Burhan Ehli\"nin görevidir."
+        }
+      ]
+    },
+    {
+      "title": "Gazzâlî ile Devlerin Savaşı: Tehâfütü't-Tehâfüt",
+      "body": "Gazzâlî'nin filozofları \"tutarsızlık\"la suçladığı eserine, yıllar sonra \"Tutarsızlığın Tutarsızlığı\" ile cevap vermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nedensellik Savunması",
+          "text": "Gazzâlî'nin \"Ateş pamuğu yakmaz, Allah yakar\" (okazyonalizm) fikrine karşı çıkmış; nesnelerin kendilerine has doğası ve zorunlu neden-sonuç ilişkileri olduğunu savunmuştur. Nedenselliği reddetmenin, \"aklı ve bilgiyi reddetmek\" olduğunu haykırmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Batı'daki Devrim: Latin Averroizmi",
+      "body": "İbn Rüşd'ün eserleri Latinceye çevrildiğinde Avrupa'da bir deprem yarattı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çifte Hakikat (Double Truth)",
+          "text": "Onun fikirlerinden yola çıkan Avrupalı takipçileri, \"Felsefi olarak doğru olan bir şey, dini olarak yanlış olabilir (veya tersi)\" diyerek aklı inançtan bağımsızlaştırmışlardır. Bu durum, modern laikliğin ve bilimsel özerkliğin ilk adımı sayılır."
+        },
+        {
+          "label": "Aristo'nun Sesi",
+          "text": "Batı, Aristoteles'i \"Büyük Şarih\" İbn Rüşd'ün yorumları olmadan anlayamayacağını fark etmiştir. Dante bile onu İlahi Komedya'da diğer büyük bilgelerin arasında onurlandırmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sekülerizmin Babası",
+      "text": "Dini ve felsefi alanları birbirinden ayırarak, bilimin ve felsefenin kendi yasalarıyla işlemesinin yolunu açmıştır."
+    },
+    {
+      "title": "Hukukta Rasyonalizm",
+      "text": "Sadece bir filozof değil, aynı zamanda büyük bir fakihtir (hakimdir). Bidayetü'l-Müctehid ile İslam hukukunu sistematik ve mukayeseli bir metodolojiye oturtmuştur."
+    },
+    {
+      "title": "Tıp Dehası",
+      "text": "Külliyat fi't-Tıbb adlı eseriyle, tıp bilimini felsefi bir temele oturtmuş ve gözün retina tabakasının işlevini ilk kez o keşfetmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Aristotelesçilik",
+      "text": "Aristoteles'e o kadar hayrandı ki, bazen Aristo'nun hatalı fizik görüşlerini bile (örn. evrenin yapısı) mutlak gerçek gibi savunmuştur. Bu durum, onun bilimsel vizyonunu antik çağın sınırlarına hapsetmiştir."
+    },
+    {
+      "title": "Siyasi Kırılganlık",
+      "text": "Hayatının sonunda \"filozofların baştan çıkarıcılığı\" ile suçlanarak sürgüne gönderilmiş, eserleri yakılmıştır. Bu, İslam dünyasında felsefenin uzun sürecek bir kış uykusuna girmesinin de simgesidir."
+    },
+    {
+      "title": "Elitizm",
+      "text": "Hakikati sadece filozofların anlayabileceğini, halkın ise sadece \"hikayelerle\" idare edilmesi gerektiğini savunması, onu halk kitlelerinden kopuk kılmıştır."
+    }
+  ]
+}

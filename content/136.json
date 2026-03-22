@@ -1,0 +1,79 @@
+{
+  "subtitle": "Sonsuz Uzam, Sevgi ve Akılcılığın Sınırı (1340–1410)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Aristo'nun Yıkımı: Sonsuz Uzam ve Boşluk",
+      "body": "Crescas, Aristoteles'in \"boşluk yoktur\" ve \"evren sonludur\" dogmalarına karşı tarihin en sert mantıksal savaşını başlatmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Boşluğun Onuru",
+          "text": "Aristo'nun aksine, boşluğun mantıksal olarak mümkün olduğunu savunur. Ona göre uzam, sadece cisimlerin yeri değil, sonsuz bir \"boş kap\" gibidir."
+        },
+        {
+          "label": "Sonsuz Evren",
+          "text": "Evrenin bir sınırı olması gerektiği fikrini reddeder. \"Neden bu dünyanın ötesinde başka dünyalar olmasın?\" diye sorarak, Kopernik öncesi dönemde çoklu evren ihtimaline kapı aralamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Tanrı Akıl Değil, Sevgidir",
+      "body": "Crescas, Yahudi felsefesinin o dönemki \"aşırı akılcı\" (Maimonidesçi) kanadına karşı radikal bir dönüş yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sevginin Önceliği",
+          "text": "Maimonides için Tanrı \"Mutlak Akıl\"dır. Crescas için ise Tanrı'nın özü Sevgi ve İyiliktir."
+        },
+        {
+          "label": "Eylemin Amacı",
+          "text": "Dinin ve yasaların amacı entelektüel bir mükemmelliğe ulaşmak değil, Tanrı sevgisine (Agape/Hesed) ulaşmaktır. Bu, felsefeyi soğuk bir mantık oyunu olmaktan çıkarıp kalbi bir eyleme dönüştürür."
+        }
+      ]
+    },
+    {
+      "title": "Belirlenimcilik (Determinizm) ve İrade",
+      "body": "Crescas, özgür irade konusunda oldukça şaşırtıcı ve \"zor\" bir pozisyon alır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nedensellik Zinciri",
+          "text": "Dünyadaki her şeyin bir nedeni olduğunu ve bu nedenler zincirinin Tanrı'ya kadar uzandığını savunur (Sert belirlenimcilik)."
+        },
+        {
+          "label": "Uyumlu İrade",
+          "text": "İnsan bir eylemi seçerken \"özgür\" hisseder, ancak o seçim aslında geçmiş nedenler tarafından belirlenmiştir. Bu fikir, yüzyıllar sonra Spinoza'nın kuracağı devasa sistemin en önemli ilham kaynağı olacaktır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Fiziğin Öncüsü",
+      "text": "Sonsuz uzam ve boşluk üzerine fikirleri, Bruno, Newton ve hatta Einstein'a giden yolu açan ilk ciddi mantıksal sarsıntıdır."
+    },
+    {
+      "title": "Spinoza'nın Hocası",
+      "text": "Spinoza'nın panteist ve belirlenimci sisteminin tohumları Crescas'ın Or Adonai (Tanrı'nın Işığı) eserinde atılmıştır."
+    },
+    {
+      "title": "İnsani Din",
+      "text": "Dini sadece \"bilgelerin\" anlayabileceği zorlu bir matematik problemi olmaktan çıkarıp, her insanın kalbiyle katılabileceği bir \"sevgi bağı\" haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Teolojik Korumacılık",
+      "text": "Aristo'yu eleştirirken amacı saf bilim yapmak değil, Yahudi inancını felsefenin boyunduruğundan kurtarmaktı. Bu \"din savunucusu\" kimliği, bazı konularda nesnelliğini kısıtlamış olabilir."
+    },
+    {
+      "title": "Trajik Hayat",
+      "text": "1391 Yahudi katliamlarında oğlunu kaybetmiş ve cemaatini korumak için ömrünü tüketmiştir. Bu acılar felsefesine derin bir hüzün ve \"kader\" vurgusu katmıştır."
+    },
+    {
+      "title": "Karmaşıklık",
+      "text": "Belirlenimcilik ve ilahi adalet arasındaki o ince çizgiyi anlatırken kurduğu mantık o kadar karmaşıktır ki, takipçileri arasında bile ciddi yorum farklarına neden olmuştur."
+    }
+  ]
+}

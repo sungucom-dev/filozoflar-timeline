@@ -1,0 +1,91 @@
+{
+  "subtitle": "Asabiyet, Ümran ve Devletlerin Kaderi (1332–1406)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Mukaddime: Yeni Bir Bilimin Doğuşu",
+      "body": "İbn Haldun'un başyapıtı olan Mukaddime, aslında yedi ciltlik bir dünya tarihinin sadece \"giriş\" kısmıdır. Ancak bu giriş, tarihin kendisinden daha meşhur olmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İlm-i Ümran (Medeniyet Bilimi)",
+          "text": "O, tarihin \"batınî\" (içsel) bir anlamı olduğunu savunur. Tarihi anlamak için toplumsal yapıyı, iklimi ve ekonomik koşulları anlamak gerekir."
+        },
+        {
+          "label": "Eleştirel Tarihçilik",
+          "text": "Duyulan her habere inanılmaması gerektiğini, haberlerin \"akıl ve doğa yasaları\" süzgecinden geçirilmesi gerektiğini savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Asabiyet: Toplumsal Dayanışmanın Gücü",
+      "body": "İbn Haldun'un sistemindeki en merkezi kavram Asabiyet'tir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Grup Dayanışması",
+          "text": "Bir topluluğu bir arada tutan, ortak bir hedef uğruna savaşmasını sağlayan kan bağı veya ortak ülkü duygusudur."
+        },
+        {
+          "label": "Bedevilik vs. Hadarilik (Şehirlilik)",
+          "text": "Çöl hayatı yaşayan bedevilerin asabiyeti çok güçlüdür; serttirler ve dayanıklıdırlar. Şehre yerleşip rahata alışan toplumların asabiyeti ise zamanla zayıflar."
+        }
+      ]
+    },
+    {
+      "title": "Devletlerin Döngüsel Kaderi: Beş Aşama",
+      "body": "Ona göre devletler de canlılar gibidir; doğar, büyür, yaşlanır ve ölürler. Bir devletin ömrü genellikle üç nesil (yaklaşık 120 yıl) sürer.",
+      "ordered": true,
+      "items": [
+        {"label": "Kuruluş", "text": "Güçlü asabiyet, fetih ve sadelik."},
+        {"label": "Mutlakiyet", "text": "Hükümdarın otoriteyi tekelleştirmesi, asabiyetten kopuş."},
+        {"label": "Refah ve Lüks", "text": "Sanatın ve konforun zirveye çıkması, harcamaların artması."},
+        {"label": "Kanaat ve Duraklama", "text": "Eskiyle yetinme, taklit ve verimsizlik."},
+        {"label": "İsraf ve Çöküş", "text": "Hazinenin boşalması, vergilerin artması ve taze bir asabiyete (dışarıdan gelen yeni bir güce) yenilme."}
+      ]
+    },
+    {
+      "title": "Ekonomi: \"İbn Haldun Eğrisi\"",
+      "body": "Arthur Laffer'dan yüzyıllar önce, vergi oranları ile devlet geliri arasındaki ilişkiyi keşfetmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vergi Paradoksu",
+          "text": "Vergi oranları düşükken devletin geliri artar (çünkü üretim teşvik edilir). Vergi oranları çok yükseldiğinde ise üretim durur ve devletin geliri azalır."
+        },
+        {
+          "label": "Emek-Değer",
+          "text": "Emeği varlığın ve değerin tek kaynağı olarak görmüş, ticaretin ve üretimin toplumsal refah üzerindeki etkisini analiz etmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sosyolojinin Öncüsü",
+      "text": "Toplumsal olayları \"ilahî müdahale\" ile değil, nesnel neden-sonuç ilişkileriyle açıklaması, onu modern sosyal bilimlerin babası yapar."
+    },
+    {
+      "title": "Disiplinlerarası Yaklaşım",
+      "text": "Coğrafyayı, iklimi, beslenme alışkanlıklarını ve ekonomiyi tarihin merkezine yerleştiren ilk düşünürdür."
+    },
+    {
+      "title": "Gözlem Yeteneği",
+      "text": "Saraylarda vezirlik yapmış, hapislere düşmüş, istilacı Timur ile pazarlığa oturmuş bir adam olarak; teorilerini bizzat yaşadığı \"hayatın içinden\" süzmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Coğrafi Sınırlılık",
+      "text": "Teorileri büyük ölçüde Kuzey Afrika ve Mağrip coğrafyasındaki kabile yapılarına dayanır. Bu \"döngüsel tarih\" anlayışı, Avrupa'nın çizgisel (ilerlemeci) modernleşme sürecini açıklamakta her zaman yeterli olmayabilir."
+    },
+    {
+      "title": "Karamsar Bakış",
+      "text": "Devletlerin kaçınılmaz olarak çökeceğini savunması, toplumsal gelişimde \"ilerleme\" ve \"kalıcı reform\" imkanını bazen gölgede bırakır."
+    },
+    {
+      "title": "Metafizik Kopukluk",
+      "text": "Toplumu bu kadar rasyonel incelemesine rağmen, din ile sosyolojik gerçeklikler arasındaki bağı kurarken bazen geleneksel kalıplara sığınmak zorunda kalmıştır."
+    }
+  ]
+}

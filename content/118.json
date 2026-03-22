@@ -1,0 +1,82 @@
+{
+  "subtitle": "Meraga'nın Işığı ve Matematiğin Özerkliği (1201–1274)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Meraga Rasathanesi: Ortaçağ'ın CERN'i",
+      "body": "Tûsî'nin en somut mirası, 1259'da kurulan Meraga Rasathanesi'dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Uluslararası Bilim Merkezi",
+          "text": "Burası sadece bir gözlem evi değil, Çin'den Endülüs'e kadar dünyanın dört bir yanından gelen bilim insanlarının çalıştığı bir enstitüydü."
+        },
+        {
+          "label": "Zîc-i İlhânî",
+          "text": "Gökyüzü hareketlerini milimetrik bir kesinlikle kaydeden bu yıldız kataloğu, yüzyıllarca denizcilerin ve astronomların temel rehberi olmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Tûsî Çifti ve Astronomide Devrim",
+      "body": "Tûsî, Aristotelesçi ve Batlamyusçu evren modelindeki tıkanıklıkları aşmak için \"Tûsî Çifti\" (Tusi Couple) denilen muazzam bir geometrik düzenek geliştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğrusaldan Dairesel Harekete",
+          "text": "Bir küçük dairenin, kendisinden iki kat büyük bir dairenin içinde dönerek doğrusal bir hareket üretmesini sağlayan bu model, Kopernik'in güneş merkezli evren teorisine giden yolu açan en kritik matematiksel araçtır."
+        }
+      ]
+    },
+    {
+      "title": "Trigonometrinin Bağımsızlığı",
+      "body": "Tûsî'den önce trigonometri, sadece astronominin veya dinî vakit hesaplamalarının bir alt dalıydı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yeni Bir Bilim",
+          "text": "Şeklü'l-Kattâ adlı eseriyle trigonometriyi başlı başına bir matematik dalı haline getiren ilk kişidir. Sinüs ve Tanjuant kurallarını sistemleştirmiş, küresel trigonometriyi zirveye taşımıştır."
+        }
+      ]
+    },
+    {
+      "title": "Ahlâk-ı Nâsırî: Adaletin ve Toplumun Felsefesi",
+      "body": "Sadece sayılarla değil, insanla da ilgilenmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Psikolojik ve Sosyal Etik",
+          "text": "İnsanın ruhsal dengesinden aile yönetimine, oradan devletin bekasına kadar uzanan bir etik sistemi kurmuştur. Ona göre toplumun temel direği \"Sevgi\" değil, matematiksel bir kesinliğe sahip olan \"Adalet\"tir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Mirasın Koruyucusu",
+      "text": "Alamut Kalesi'nden Bağdat kütüphanelerine kadar binlerce eserin Moğol ateşinden kurtarılmasını sağlayarak, insanlığın ortak hafızasını korumuştur."
+    },
+    {
+      "title": "Yenilikçi Matematikçi",
+      "text": "Geometriyi ve astronomiyi dogmatik kalıplardan çıkarıp, tamamen kanıtlanabilir ve ölçülebilir bir zemine oturtmuştur."
+    },
+    {
+      "title": "Mantık ve Kelâm Sentezi",
+      "text": "İbn Sînâ'nın mantığını ve metafiziğini, teolojik tartışmaların en keskin aracı haline getirmiş, \"Tecrîdü'l-İ'tikâd\" ile Kelâm ilmine yeni bir yön vermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Politik Tartışmalar",
+      "text": "Moğol istilacılarıyla (özellikle Hülâgü Han ile) kurduğu yakın ilişki ve Bağdat'ın düşüşündeki rolü, tarih boyunca birçok çevre tarafından ağır şekilde eleştirilmiştir. \"Bilimi korumak için zalimle işbirliği mi, yoksa haysiyetli bir direniş mi?\" sorusu onun gölgesidir."
+    },
+    {
+      "title": "İsmaili - On İki İmamcı Geçişi",
+      "text": "İnanç dünyasındaki radikal değişimler, onun felsefi tutarlılığı konusunda bazı şüpheler uyandırmıştır. Bazıları bunu \"takiyye\" (gizlenme), bazıları ise samimi bir arayış olarak yorumlar."
+    },
+    {
+      "title": "Aşırı Teknikleşme",
+      "text": "Felsefeyi o kadar çok mantık ve matematiksel kanıt üzerine kurmuştur ki, Yunus Emre veya Mevlânâ'nın sunduğu o insani sıcaklık ve sezgisellik onun eserlerinde yerini soğuk bir akademik disipline bırakmıştır."
+    }
+  ]
+}

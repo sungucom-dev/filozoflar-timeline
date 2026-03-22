@@ -1,0 +1,95 @@
+{
+  "subtitle": "Akıl, İman ve Varlığın Düzeni (1225–1274)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Lütuf Doğayı Yok Etmez, Onu Tamamlar\"",
+      "body": "Aquinas'ın en temel felsefi ilkesi, akıl ile imanın asla çelişmeyeceğidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İki Işık Kaynağı",
+          "text": "Ona göre akıl (felsefe) ve iman (teoloji) farklı yollardır ama aynı hakikate (Tanrı'ya) çıkar. Akıl, insanın kendi doğasıyla hakikati bulma yetisidir; iman ise Tanrı'nın insana doğrudan lütfettiği vahiydir."
+        },
+        {
+          "label": "Sınır Çizgisi",
+          "text": "Akıl, Tanrı'nın varlığını kanıtlayabilir ancak \"Teslis\" (Üçleme) veya \"Enkarnasyon\" gibi sırları kavrayamaz; burada iman bayrağı devralır."
+        }
+      ]
+    },
+    {
+      "title": "Tanrı'nın Beş Yolu (Quinque Viae)",
+      "body": "Aquinas, Tanrı'nın varlığını sadece kutsal metinlere dayanarak değil, saf mantık ve gözlemle kanıtlamaya çalışmıştır.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Hareket",
+          "text": "Her hareket eden bir hareket ettiriciye ihtiyaç duyar; bu zincirin başında bir \"İlk Hareket Ettirici\" (Tanrı) olmalıdır."
+        },
+        {
+          "label": "Etkin Neden",
+          "text": "Hiçbir şey kendi kendinin nedeni olamaz; bir \"İlk Neden\" gereklidir."
+        },
+        {
+          "label": "İmkan ve Zorunluluk",
+          "text": "Her şeyin yok olması mümkünse, bir zamanlar hiçbir şey yoktu demektir. O halde varlığı kendinden olan bir \"Zorunlu Varlık\" olmalıdır."
+        },
+        {
+          "label": "Mükemmellik Dereceleri",
+          "text": "Dünyada iyilik ve güzellik dereceleri varsa, bu derecelerin ölçüldüğü \"En Mükemmel\" bir varlık olmalıdır."
+        },
+        {
+          "label": "Düzen (Teleoloji)",
+          "text": "Evrendeki cansız varlıkların bir amaç doğrultusunda (düzen içinde) hareket etmesi, onları yönlendiren bir \"Akıllı Tasarımcı\"yı gerektirir."
+        }
+      ]
+    },
+    {
+      "title": "Doğal Hukuk (Lex Naturalis)",
+      "body": "Aquinas, hukuk felsefesinde devrim niteliğinde bir hiyerarşi kurmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ebedi Yasa",
+          "text": "Tanrı'nın zihnindeki evrensel düzen."
+        },
+        {
+          "label": "Doğal Yasa",
+          "text": "İnsanın aklı sayesinde Ebedi Yasa'dan pay alması. \"İyilik yap, kötülükten kaçın\" prensibi evrenseldir."
+        },
+        {
+          "label": "Beşeri Yasa",
+          "text": "İnsanların toplumsal düzen için yaptığı yasalar. Eğer bir beşeri yasa doğal yasaya (akla ve adalete) aykırıysa, o \"yasa değil, yasasızlıktır.\""
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Batı Rasyonalizminin Koruması",
+      "text": "Ortaçağ'da aklı dışlamayan bir dindarlık modeli sunarak, Avrupa'nın bilimsel ve felsefi köklerinden kopmamasını sağlamıştır."
+    },
+    {
+      "title": "Sistemli Düşünce",
+      "text": "Summa Theologica adlı eseri, insan zihninin üretebileceği en organize ve kapsamlı düşünce yapılarından biridir."
+    },
+    {
+      "title": "İnsan Onuru",
+      "text": "İnsanın rasyonel bir varlık olarak doğasını yüceltmiş, aklı ilahi bir yetenek olarak kutsamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aristoteles Bağımlılığı",
+      "text": "Sistemin o kadar büyük bir kısmı Aristoteles üzerine kuruludur ki, Aristo'nun fizik veya biyoloji hataları Aquinas'ın teolojik yorumlarını da bazen çıkmaza sokmuştur."
+    },
+    {
+      "title": "İnancın Rasyonalize Edilmesi",
+      "text": "Her şeyi mantıkla açıklama çabası, inancın o \"gizemli, coşkulu ve irrasyonel\" boyutunu bazen soğuk bir denkleme dönüştürmekle eleştirilmiştir."
+    },
+    {
+      "title": "Değişime Direnç",
+      "text": "Tomizm o kadar \"tamamlanmış\" bir sistem olarak sunulmuştur ki, daha sonra ortaya çıkan yeni bilimsel keşiflere uyum sağlamakta zorlanmış ve kilisenin tutucu bir yapıya bürünmesine (istemeden de olsa) katkıda bulunmuştur."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "subtitle": "Aristoteles'in Elçisi ve Doğanın Kaşifi (1200–1280)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Aristoteles'in Sistematik Entegrasyonu",
+      "body": "Albertus'un en büyük projesi, Aristoteles'in o güne kadar parça parça bilinen eserlerini Latince dünyası için anlaşılır ve bütünsel bir sistem haline getirmekti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tefsir Değil, Yeniden İnşa",
+          "text": "Sadece şerh yazmamış, Aristo'nun eksik bıraktığı yerleri kendi gözlemleriyle doldurmuştur. Amacı, \"tüm bilimleri Latinlerin anlayabileceği bir dille yeniden inşa etmek\"ti."
+        },
+        {
+          "label": "Akıl ve İman Ayrımı",
+          "text": "İlahiyatın (vahyin) alanı ile felsefenin (aklın) alanını birbirinden net bir şekilde ayırmış; felsefenin kendi yasaları içinde özgürce çalışması gerektiğini savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Doğa Bilimleri: Gözlemin Gücü",
+      "body": "Albertus, Ortaçağ'da yaygın olan \"kitaplardan öğrenme\" geleneğine karşı \"Gözlem her şeyin üstündedir\" demiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Botanik ve Zooloji",
+          "text": "De Vegetabilibus ve De Animalibus adlı eserlerinde, bitki ve hayvan türlerini o güne kadar görülmemiş bir titizlikle incelemiştir. Balinaların balık olmadığını, bazı bitkilerin ışığa göre hareket ettiğini bizzat gözlemleyerek kaydetmiştir."
+        },
+        {
+          "label": "Mineraloji ve Kimya",
+          "text": "Metallerin ve taşların özelliklerini inceleyen ilk büyük Ortaçağ bilginidir. Arsenik elementini saf halde izole eden ilk kişi olduğu kabul edilir. Simyayı gizemli bir büyüden ziyade, \"maddenin dönüşümü\" olarak rasyonel bir temele oturtmaya çalışmıştır."
+        }
+      ]
+    },
+    {
+      "title": "\"Dilsiz Öküz\"ün Hocası",
+      "body": "Albertus'un en büyük miraslarından biri de en meşhur öğrencisi Thomas Aquinas'tır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Potansiyeli Keşfetmek",
+          "text": "Aquinas'ın sessizliği nedeniyle arkadaşları ona \"Dilsiz Öküz\" lakabını taktığında, Albertus şu meşhur sözü söylemiştir: \"Siz ona dilsiz diyorsunuz ama onun kükremesi bir gün tüm dünyada yankılanacak.\" Aquinas'ın o devasa teolojik sentezi, Albertus'un açtığı bu rasyonel yol üzerinde yükselmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Metodun Yaygınlaşması",
+      "text": "Sadece teorik akıl yürütmeyi değil, \"bizzat görmeyi ve dokunmayı\" (deneyimi) bir bilimsel zorunluluk haline getirmiştir."
+    },
+    {
+      "title": "Aristotelesçiliğin Meşrulaşması",
+      "text": "Antik Yunan felsefesini Hristiyan dünyası için \"tehlikeli bir yabancı\" olmaktan çıkarıp, eğitimin temel direği haline getirmiştir."
+    },
+    {
+      "title": "Ansiklopedik Miras",
+      "text": "Fizikten metafiziğe, astronomiden ahlaka kadar her konuda kalem oynatarak, Ortaçağ zihninin ufkunu muazzam ölçüde genişletmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Kapsam Sorunu",
+      "text": "Her şeyle ilgilenmeye çalışması, bazen derinlikten ziyade bir \"derleme\" havası yaratmıştır. Halefi Aquinas kadar keskin ve odaklanmış bir teolojik sistem kuramamıştır."
+    },
+    {
+      "title": "Aristoteles Sadakati",
+      "text": "Ne kadar deneyci olsa da, bazı konularda Aristo'nun otoritesine aşırı bağlı kalmış ve bu durum kendi gözlemleriyle çeliştiğinde bazen bocalamıştır."
+    },
+    {
+      "title": "Efsaneler ve Simya",
+      "text": "Bilimsel duruşuna rağmen, adının etrafında pek çok büyü ve sihir efsanesi (konuşan otomatlar yaptığı gibi) toplanmıştır. Bu, onun gerçek bilimsel kimliğinin bazen gölgelenmesine neden olmuştur."
+    }
+  ]
+}

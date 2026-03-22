@@ -1,0 +1,83 @@
+{
+  "subtitle": "Vivarium ve Bilginin Kutsal Emaneti (485–585)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Vizyon: Vivarium Manastırı",
+      "body": "Cassiodorus, Roma'nın idari yapısı çökerken bilginin de yok olacağını fark etti. Emekliliğinde İtalya'nın güneyinde Vivarium adında bir manastır kurdu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kopyalamak Bir İbadettir",
+          "text": "Keşişlere sadece dua etmeyi değil, antik metinleri titizlikle kopyalamayı da dini bir görev olarak yükledi. Bu, Avrupa tarihindeki en kritik dönemeçlerden biridir; çünkü Yunan ve Roma mirası bu sayede \"kutsal bir emanet\" olarak korunmuştur."
+        },
+        {
+          "label": "Entelektüel Sığınak",
+          "text": "Vivarium, sadece dini metinlerin değil, tıp, tarım ve felsefe kitaplarının da toplandığı bir \"bilgi havuzu\" haline geldi."
+        }
+      ]
+    },
+    {
+      "title": "Institutiones: Ortaçağ'ın Müfredatı",
+      "body": "En önemli eseri olan Institutiones, keşişler ve öğrenciler için bir eğitim rehberidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Trivium",
+          "text": "Dil sanatları (Gramer, Retorik, Diyalektik)."
+        },
+        {
+          "label": "Quadrivium",
+          "text": "Sayı sanatları (Aritmetik, Geometri, Müzik, Astronomi)."
+        },
+        {
+          "label": "Felsefenin Rolü",
+          "text": "Felsefeyi teolojinin (ilahiyatın) bir hazırlık aşaması olarak görmüştür. Ona göre kutsal metinleri anlamak için önce seküler (dünyevi) bilimleri ve mantığı öğrenmek şarttır."
+        }
+      ]
+    },
+    {
+      "title": "Variae ve De Anima",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Variae",
+          "text": "Got krallarının yanında sekreterlik yaparken yazdığı mektuplardır. Roma devlet geleneğinin ve nezaketinin barbar krallıklar içinde nasıl hayatta tutulmaya çalışıldığının eşsiz bir kaydıdır."
+        },
+        {
+          "label": "De Anima (Ruh Üzerine)",
+          "text": "Ruhun doğasını, kökenini ve bedenden ayrılışını Stoacı ve Yeni Platoncu etkilerle, ancak Hristiyan bir perspektifle incelemiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Batı Medeniyetinin Kurtarıcısı",
+      "text": "Eğer o, kitap kopyalamayı manastır hayatının merkezine yerleştirmeseydi, bugün Latin edebiyatı ve antik felsefeden elimizde sadece bir avuç kırıntı kalmış olabilirdi."
+    },
+    {
+      "title": "Eğitim Sisteminin Babası",
+      "text": "Kurduğu Trivium ve Quadrivium sistemi, Rönesans'a kadar Avrupa üniversitelerinin ve okullarının temel müfredatını oluşturmuştur."
+    },
+    {
+      "title": "Hizmet Odaklı Bilgelik",
+      "text": "Felsefeyi bir soyutlama olmaktan çıkarıp, toplumun ve eğitimin hizmetine sunmuş; \"bilginin pratik faydası\"na odaklanmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Derleyicilik vs. Özgünlük",
+      "text": "Cassiodorus, bir fikir üreticisi değildir. O, mevcut bilgileri özetleyen, sınıflandıran ve saklayan bir \"ansiklopedist\"tir. Derin felsefi tartışmalara girmek yerine, \"bilgi nasıl korunur?\" sorusuyla ilgilenmiştir."
+    },
+    {
+      "title": "Dini Süzgeç",
+      "text": "Antik mirası korurken, onu Hristiyanlık için \"yararlı olanlar\" ve \"zararlı olanlar\" olarak ayırmıştır. Bu seçicilik, bazı antik metinlerin günahkar veya gereksiz görülerek kopyalanmamasına ve dolayısıyla yok olmasına zemin hazırlamış olabilir."
+    },
+    {
+      "title": "Gotik Bürokrasiye Bağlılık",
+      "text": "Roma'nın işgalcileri olan Got krallarının yanında bu kadar uzun süre yüksek görevlerde kalması, onun siyasi etik açısından eleştirilmesine neden olmuştur. Ancak bu sayede kültürel yıkımı engellediği de bir gerçektir."
+    }
+  ]
+}

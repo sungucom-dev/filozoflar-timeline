@@ -1,0 +1,75 @@
+{
+  "subtitle": "Kuzari ve Tarihin Canlı Şahitliği (1075–1141)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "el-Huzerî (Kuzari): Bir İnanç Savunması",
+      "body": "Halevi'nin başyapıtı, Hazar Kralı'nın rüyasında gördüğü hakikati arayışını konu alan kurgusal bir diyalogdur. Kral; bir filozof, bir Hristiyan, bir Müslüman ve en sonunda bir Yahudi alim (Haver) ile görüşür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tarihsel Kanıt vs. Mantıksal Kanıt",
+          "text": "Halevi'ye göre felsefe, soyut çıkarımlarla \"muhtemel\" bir tanrıya ulaşır. Oysa din, tarihin içinde yaşanmış, binlerce kişinin şahitlik ettiği mucizelere ve vahiylere dayanır."
+        },
+        {
+          "label": "Sıradan Akıl vs. İlahi Nur",
+          "text": "Filozoflar akıl yoluyla bilgiye ulaşırken, peygamberler \"İlahi Emir\" (al-amr al-ilahi) sayesinde doğrudan hakikati görürler."
+        }
+      ]
+    },
+    {
+      "title": "İsrail Toprağı ve Dili: Manevi Coğrafya",
+      "body": "Halevi için din, sadece soyut bir inanç değil; belirli bir toprak (Filistin/Eretz Yisrael) ve belirli bir dille (İbranice) organik bağı olan canlı bir organizmadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kalp Olarak İsrail",
+          "text": "Dünyayı bir vücuda benzetir; İsrail bu vücudun \"kalbi\"dir. Kalp hastalanırsa tüm vücut etkilenir."
+        },
+        {
+          "label": "Siyon Özlemi",
+          "text": "Şiirlerinde ve hayatının sonunda yaptığı Kudüs yolculuğunda, inancın ancak \"vatanında\" tam manasıyla yaşanabileceğini savunmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Felsefe Eleştirisi: \"Aklın Sınırı\"",
+      "body": "Halevi felsefeye düşman değildir; felsefenin kendi sınırlarını bilmemesine düşmandır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Etik vs. Metafizik",
+          "text": "Mantık ve matematik gibi alanlarda felsefeye güvenir, ancak Tanrı'nın doğası ve ruhun kaderi gibi konularda aklın sadece \"tahmin\" yürütebileceğini, kesin bilginin ise sadece vahiyde olduğunu söyler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Din Psikolojisinin Öncüsü",
+      "text": "İnancın sadece soğuk bir mantık yürütme değil, bir \"tecrübe\" ve \"ilişki\" olduğunu vurgulayarak dini düşünceye derin bir insani boyut katmıştır."
+    },
+    {
+      "title": "Milli Kimlik İnşası",
+      "text": "Yahudi toplumuna sürgün yıllarında büyük bir moral ve kimlik bilinci aşılamış, onları pasif bir bekleyişten manevi bir uyanışa davet etmiştir."
+    },
+    {
+      "title": "Lirik Deha",
+      "text": "Felsefesini şiirsel bir dille sunması, fikirlerinin sadece bilginlere değil, geniş halk kitlelerinin kalbine ulaşmasını sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Spiritüel Partikülarizm (Ayrıcalıkçılık)",
+      "text": "Yahudi halkını biyolojik ve ruhsal olarak diğer insanlardan \"farklı ve üstün\" bir yaratılışa sahipmiş gibi tasvir etmesi, evrensel hümanizm açısından ciddi şekilde eleştirilmiştir."
+    },
+    {
+      "title": "Anti-Rasyonalizm",
+      "text": "Aklı vahyin karşısında bu kadar pasifize etmesi, Yahudi düşüncesindeki bilimsel ve rasyonel gelişimi sekteye uğratma riski taşımıştır."
+    },
+    {
+      "title": "Tarihsel Zorlama",
+      "text": "Hazar Kralı'nın din değiştirmesi hikayesini mutlak bir hakikat zemini olarak kullanması, felsefi argümanlarını tarihsel bir mite bağımlı kılar."
+    }
+  ]
+}

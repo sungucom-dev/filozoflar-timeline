@@ -1,0 +1,79 @@
+{
+  "subtitle": "Devletin Savunucusu ve Egemenliğin Kaynağı (1275–1342)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Defensor Pacis (Barışın Savunucusu)",
+      "body": "Marsilius'un başyapıtı, siyaset tarihinin en devrimci metinlerinden biridir. Bu eserde \"barışın\" bozulmasının tek bir nedeni olduğunu söyler: Kilisenin dünyevi işlere karışması.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İş Bölümü",
+          "text": "Marsilius'a göre kilisenin görevi sadece \"ruhların selameti\" ile ilgilenmektir. Kilisenin elinde zorlayıcı bir güç (polis, mahkeme, ordu) olamaz."
+        },
+        {
+          "label": "Devletin Üstünlüğü",
+          "text": "Toplumsal düzeni sağlamak sadece devletin (sivil otoritenin) işidir. Din adamları da dahil olmak üzere herkes devletin yasalarına uymak zorundadır."
+        }
+      ]
+    },
+    {
+      "title": "Legislator Humanus (İnsan Yapısı Yasa Koyucu)",
+      "body": "Marsilius, egemenliğin kaynağı konusunda Thomas Aquinas'ın o meşhur \"Tanrısal Yasa\" hiyerarşisini altüst etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Halkın İradesi",
+          "text": "Yasaların meşruiyeti Tanrı'dan veya Papa'dan değil, \"halktan\" veya \"halkın temsilcilerinden\" gelir. Bu, modern demokrasinin Ortaçağ'daki en net sesidir."
+        },
+        {
+          "label": "Yasa Koyucu Olarak Halk",
+          "text": "Kanunları kimin yapacağına halk karar vermelidir, çünkü o kanunlara uyacak olanlar onlardır."
+        }
+      ]
+    },
+    {
+      "title": "Kilise Eleştirisi ve \"Genel Kurul\"",
+      "body": "Kilisenin mutlak monarşi (Papalık) gibi yönetilmesine karşı çıkmış; kilise yönetiminin bile demokratikleşmesi gerektiğini savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hiyerarşi Reddi",
+          "text": "Papa'nın diğer piskoposlardan üstün olmadığını, Kilise'nin en yüksek otoritesinin ruhban sınıfı ile halkın temsilcilerinden oluşan bir \"Genel Kurul\" olması gerektiğini söylemiştir."
+        },
+        {
+          "label": "Yoksulluk",
+          "text": "Franciscan arkadaşı Ockham gibi o da Kilise'nin mülkiyet sahibi olmasına karşı çıkmış, İsa'nın ve havarilerin yoksulluğunu örnek göstermiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sekülerizmin (Laikliğin) Doğuşu",
+      "text": "Dini otoriteyi tamamen sivil otoriteye bağlayarak, modern devlet yapısının zihinsel temelini atmıştır."
+    },
+    {
+      "title": "Halk Egemenliği",
+      "text": "Gücün kaynağını halka indirmesi, onu Fransız İhtilali'ne kadar uzanan demokratik hareketlerin dedesi yapar."
+    },
+    {
+      "title": "Hukukun Üstünlüğü",
+      "text": "Adaletin \"teolojik yorumlarla\" değil, \"halkın onayladığı yazılı yasalarla\" sağlanması gerektiğini vurgulamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Devletçilik",
+      "text": "Kiliseyi devlete o kadar bağımlı kılmıştır ki, bu durum devletin \"vicdan ve din özgürlüğü\" üzerinde mutlak bir baskı kurmasına kapı açabilecek bir yapıya bürünmüştür."
+    },
+    {
+      "title": "Döneminin Ötesinde Olmak",
+      "text": "Fikirleri o kadar radikaldi ki, 14. yüzyılda bu düşünceleri uygulayacak toplumsal bir sınıf henüz oluşmamıştı. Bu yüzden ömrünü sürgünde ve aforoz edilmiş bir kaçak olarak tamamlamıştır."
+    },
+    {
+      "title": "İmparatorluk Bağımlılığı",
+      "text": "Kendi fikirlerini korumak için Bavyeralı Louis'nin (İmparator) himayesine sığınması, teorisini bazen \"İmparatorluk propagandasının bir aracı\" gibi göstermiştir."
+    }
+  ]
+}

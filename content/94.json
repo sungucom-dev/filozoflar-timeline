@@ -1,0 +1,82 @@
+{
+  "subtitle": "Akıl ve Vahyin Büyük Uzlaşısı (882–942)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bilginin Kaynakları Teorisi",
+      "body": "Saadia, hakikate ulaşmak için dört ana kaynak tanımlar. Ona göre bu kaynaklar birbirleriyle çelişmez, aksine birbirlerini teyit ederler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duyusal Algı",
+          "text": "Beş duyu ile elde edilen bilgiler."
+        },
+        {
+          "label": "Zihinsel Onay (Aksiyomlar)",
+          "text": "\"Bütün, parçadan büyüktür\" gibi apaçık doğrular."
+        },
+        {
+          "label": "Mantıksal Çıkarım",
+          "text": "Akıl yürütme yoluyla ulaşılan sonuçlar."
+        },
+        {
+          "label": "Güvenilir Gelenek (Vahiy)",
+          "text": "Peygamberler aracılığıyla gelen kutsal metinler."
+        }
+      ]
+    },
+    {
+      "title": "Emunoth ve-Deoth (İnançlar ve Görüşler Kitabı)",
+      "body": "Yahudi felsefesinin ilk sistematik eseri olan bu kitapta Saadia, Mutezile ekolünün yöntemlerini (Kelam) kullanarak Yahudi dogmalarını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yoktan Yaratılış (Creatio ex nihilo)",
+          "text": "Aristoteles'in \"evren ezelidir\" fikrine karşı, evrenin zaman içinde ve yoktan yaratıldığını mantıksal kanıtlarla savunur."
+        },
+        {
+          "label": "Tanrı'nın Birliği",
+          "text": "Tanrı'nın bölünemez, maddesiz ve tek olduğunu ispatlar. Antropomorfik (insan biçimli) ifadeleri metaforik olarak yorumlar."
+        },
+        {
+          "label": "Özgür İrade",
+          "text": "İnsanın seçimlerinde özgür olduğunu, aksi takdirde Tanrı'nın ödül ve ceza vermesinin adaletsiz olacağını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Kültürel Devrim: Arapça Tafsir",
+      "body": "Saadia, Tevrat'ı Arapçaya çeviren ve yorumlayan (Tafsir) ilk kişidir. Bu hamleyle Yahudiliği İslam medeniyetinin ortak diline taşımış, Yahudi toplumunun entelektüel olarak asimile olmasını engellerken aynı zamanda dönemin bilimsel diliyle konuşmalarını sağlamıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Yahudi Felsefesinin Temeli",
+      "text": "O olmasaydı, daha sonra gelecek olan İbn Meymun (Maimonides) gibi devlerin üzerine yükseleceği bir felsefi zemin olmayacaktı."
+    },
+    {
+      "title": "Dilbilimsel Deha",
+      "text": "İbranice dilbilgisini ve sözlüğünü sistemleştirerek, kutsal metinlerin doğru anlaşılması için bilimsel bir altyapı kurmuştur."
+    },
+    {
+      "title": "Dogmatizme Karşı Akıl",
+      "text": "\"İnanmak için anlamak gerekir\" ilkesini benimseyerek, körü körüne itaati değil, sorgulayan bir imanı yüceltmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Mutezile Bağımlılığı",
+      "text": "Felsefi yöntemleri o kadar büyük oranda İslam Kelamı'na (Mutezile) dayanır ki, bazen Yahudi inancını bu yabancı kalıplara sığdırmak için zorlama yorumlar yapmakla eleştirilmiştir."
+    },
+    {
+      "title": "Hırçın Polemikçilik",
+      "text": "Karailer (sadece Tevrat'ı kabul eden grup) gibi muhalif akımlara karşı çok sert, hatta bazen saldırgan bir üslup kullanmıştır. Bu, toplumsal gerginlikleri artırmıştır."
+    },
+    {
+      "title": "Geçici Bir Sentez",
+      "text": "Mantıksal kanıtları kendi dönemi için çok etkileyici olsa da, daha sonra Aristotelesçi felsefenin (İbn Sina ve İbn Rüşd ekolü) tam anlamıyla anlaşılmasıyla birlikte bazı argümanları \"eskimiş\" kabul edilmiştir."
+    }
+  ]
+}

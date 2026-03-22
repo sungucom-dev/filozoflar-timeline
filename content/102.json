@@ -1,0 +1,87 @@
+{
+  "subtitle": "\"Anlamak İçin İnanıyorum\" ve Varlığın Mantığı (1033–1109)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel İlke: Fides Quaerens Intellectum",
+      "body": "Anselmus'un tüm felsefesi bu cümle üzerine kuruludur: \"Anlamak için inanıyorum.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İman Önce Gelir",
+          "text": "Ona göre önce inanmak gerekir, çünkü inanmayan bir zihin hakikatin ne olduğunu kavrayamaz."
+        },
+        {
+          "label": "Akıl İhmal Edilemez",
+          "text": "Ancak inanmak yetmez; Tanrı insana akıl verdiyse, bu aklı inandığı şeyleri rasyonel bir temele oturtmak için kullanmalıdır. Din, \"kör bir itaat\" değil, \"aydınlanmış bir onay\" olmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Ontolojik Kanıt: \"Daha Büyüğü Tasavvur Edilemeyen\"",
+      "body": "Anselmus, felsefe tarihinin en meşhur ve en çok tartışılan Tanrı kanıtını (Proslogion) sunar.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Tanrı Tanımı",
+          "text": "Tanrı, kendisinden daha büyüğü tasavvur edilemeyen bir varlıktır."
+        },
+        {
+          "label": "Zihindeki Varlık",
+          "text": "Bu kavram zihnimizde vardır (Hatta bir ateist bile \"Tanrı yoktur\" derken zihnindeki bu kavramı kasteder)."
+        },
+        {
+          "label": "Gerçeklik vs. Zihin",
+          "text": "Bir şeyin sadece zihinde olması mı daha büyüktür, yoksa hem zihinde hem de gerçeklikte olması mı? Elbette hem zihinde hem gerçekte olması."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Eğer Tanrı \"en büyük\" ise ve sadece zihnimizdeyse, ondan daha büyük olan (hem zihinde hem gerçekte olan) başka bir şey tasavvur edilebilir demektir. Bu bir çelişkidir. O halde Tanrı, tanımı gereği gerçekten var olmak zorundadır."
+        }
+      ]
+    },
+    {
+      "title": "Cur Deus Homo (Tanrı Neden İnsan Oldu?): Tatmin Kuramı",
+      "body": "Anselmus sadece metafizikle değil, teolojik \"hukukla\" da ilgilenmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Borç ve Adalet",
+          "text": "İnsan günah işleyerek Tanrı'nın onurunu zedelemiş ve ödenemez bir borç altına girmiştir. Bir insanın bu borcu ödemeye gücü yetmez, ancak borç \"insan\" tarafından ödenmelidir."
+        },
+        {
+          "label": "Çözüm",
+          "text": "Bu yüzden hem Tanrı olan hem de insan olan biri (İsa) gelip bu borcu ödeyerek adaleti sağlamıştır. Bu, Ortaçağ hukuk mantığının din üzerine bir izdüşümüdür."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Skolastisizmin Temeli",
+      "text": "İnanç meselelerini saf mantıkla tartışmaya açarak Avrupa'da üniversite geleneğinin ve rasyonel teolojinin kapısını açmıştır."
+    },
+    {
+      "title": "Zihinsel Cesaret",
+      "text": "Tanrı'nın varlığını kutsal kitaplara veya mucizelere başvurmadan, sadece \"tanım\" üzerinden kanıtlama çabası, insan aklına duyulan muazzam güvenin bir göstergesidir."
+    },
+    {
+      "title": "Analitik Derinlik",
+      "text": "Kavramlar arasındaki ince ayrımları yapma yeteneği, Batı felsefesinin dilini ve yöntemini keskinleştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Gaunilo'nun İtirazı",
+      "text": "Çağdaşı keşiş Gaunilo, \"Kayıp Ada\" örneğiyle ona saldırır: \"Zihnimde mükemmel bir ada tasavvur edebilirim, bu tanım gereği o adanın gerçekte var olması gerektiğini kanıtlamaz.\" Anselmus bu itirazı \"Tanrı istisnadır\" diyerek savuşturmaya çalışsa da, eleştiri hala geçerlidir."
+    },
+    {
+      "title": "Dilin Sınırları",
+      "text": "Sadece bir \"tanım\"dan yola çıkarak \"gerçeklik\" hakkında hüküm vermek, mantık ile ontoloji arasındaki sınırı ihlal etmek olarak eleştirilmiştir (özellikle Kant tarafından)."
+    },
+    {
+      "title": "İçe Kapalı Devre",
+      "text": "Eğer zaten inanıyorsanız Anselmus'un kanıtı muhteşemdir; ancak inanmayan biri için bu sadece şık bir kelime oyunundan ibaret kalabilir."
+    }
+  ]
+}

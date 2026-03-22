@@ -1,0 +1,86 @@
+{
+  "subtitle": "Akıl, Kozmoloji ve Özgür İrade (1288–1344)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tanrı'nın Savaşları (Milhamot HaShem)",
+      "body": "Gersonides'in başyapıtıdır. Bu isim tesadüf değildir; o, Aristotelesçi felsefe ile Tevrat arasındaki çelişkileri çözmek için felsefi bir \"savaş\" başlatmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Akıl Hakemdir",
+          "text": "Ona göre akıl ve vahy (din) asla çelişmez. Eğer bir ayet aklın apaçık kanıtlarına aykırı görünüyorsa, o ayet \"akla uygun şekilde\" yeniden yorumlanmalıdır. Gersonides, geleneğe teslim olmak yerine aklı sonuna kadar yarıştırmayı seçer."
+        }
+      ]
+    },
+    {
+      "title": "Tanrı Neyi Bilir? (İlahi Bilgi Problemi)",
+      "body": "Gersonides'in en sarsıcı ve tartışmalı fikri budur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tümel Bilgi",
+          "text": "Tanrı'nın mükemmel olduğunu savunur. Ancak ona göre, mükemmel bir varlık \"değişen\" şeyleri (örneğin senin bugün ne yediğini veya yarın ne seçeceğini) bilmez. Çünkü bu, Tanrı'nın zihninde bir değişime yol açar."
+        },
+        {
+          "label": "Yasaların Bilgisi",
+          "text": "Tanrı, bireyleri değil, evrenin genel yasalarını (tümelleri) bilir. O, \"insan\" türünün kaderini ve doğa kanunlarını bilir ama senin o anki özgür seçimini bilmez. Bu, insan özgürlüğünü (iradeyi) mutlak olarak kurtaran ama Tanrı'nın her şeyi bildiği (külli ilim) inancını sarsan bir devrimdir."
+        }
+      ]
+    },
+    {
+      "title": "Yoktan mı, Maddeden mi? (Yaratılış)",
+      "body": "Klasik \"yoktan yaratılış\" (ex nihilo) fikrine karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ezeli Madde",
+          "text": "Gersonides'e göre Tanrı, evreni mutlak bir hiçlikten değil, \"formsuz, atıl bir madde\"den yaratmıştır. Bu madde Tanrı ile beraber ezelidir ancak bir \"varlık\" değil, sadece bir \"imkân\"dır. Tanrı bu amorf maddeye form vererek düzenli evreni (kozmos) kurmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Bilim İnsanı Olarak Gersonides",
+      "body": "O sadece bir filozof değil, döneminin en büyük astronomu ve matematikçisidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Jacob's Staff (Yakup'un Asası)",
+          "text": "Denizcilikte ve astronomide açıları ölçmek için kullanılan bu aleti geliştirmiş (veya icat etmiş), bu alet yüzyıllarca gemicilerin en büyük yardımcısı olmuştur."
+        },
+        {
+          "label": "Camera Obscura",
+          "text": "Güneş tutulmalarını gözlemlemek için iğne deliği kamera yöntemini geliştirmiş ve Ay'ın hareketleri üzerine o dönem için imkansız doğrulukta tablolar hazırlamıştır. Hatta Ay'daki bir kratere onun adı (Rabbi Levi) verilmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Tavizsiz Rasyonalizm",
+      "text": "Felsefeyi bir \"savunma sanatı\" (kelam) olmaktan çıkarıp, bağımsız bir hakikat arayışı haline getirmiştir. Maimonides'in bile \"burada duralım\" dediği yerde o devam etmiştir."
+    },
+    {
+      "title": "Bilim ve Felsefe Sentezi",
+      "text": "Gözlemsel veriyi felsefi teorinin önüne koyarak, modern bilimin \"deney ve gözlem\" ruhuna öncülük etmiştir."
+    },
+    {
+      "title": "İnsan Özgürlüğü",
+      "text": "Tanrı'nın bilgisini sınırlama pahasına insan iradesini mutlaklaştırması, insanın ahlaki sorumluluğunu en üst düzeye çıkarmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dışlanma",
+      "text": "Fikirleri o kadar radikal bulunmuştur ki, kitabı Milhamot HaShem (Tanrı'nın Savaşları) için rakipleri \"Tanrı'ya Karşı Savaşlar\" demişlerdir. Yahudi ana akımı tarafından uzun süre reddedilmiştir."
+    },
+    {
+      "title": "Soğuk Sistem",
+      "text": "Bonaventura gibi isimlerin sunduğu o sıcak, duygusal ve mistik dindarlık Gersonides'te yoktur. Onun Tanrı'sı, daha çok evrensel bir \"Geometri Ustası\" gibidir."
+    },
+    {
+      "title": "Anakronizm Riski",
+      "text": "Aristotelesçi fiziğe o kadar sıkı sıkıya bağlıdır ki, bu fizik çöktüğünde sisteminin bazı parçaları da bilimsel olarak geçerliliğini yitirmiştir (fakat metodolojisi hala değerlidir)."
+    }
+  ]
+}

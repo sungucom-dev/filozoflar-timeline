@@ -1,0 +1,79 @@
+{
+  "subtitle": "Sadelik, İsimler ve İnancın Özerkliği (1285–1347)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ockham'ın Usturası (Lex Parsimoniae)",
+      "body": "Ockham'ın en meşhur mirası, \"Ekonomi İlkesi\" olarak da bilinen usturasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kural",
+          "text": "\"Gereksiz yere varlıklar çoğaltılmamalıdır.\" (Entia non sunt multiplicanda praeter necessitatem)"
+        },
+        {
+          "label": "Mantık",
+          "text": "Bir olguyu açıklamak için iki yol varsa, en az varsayım içeren, en sade olanı doğrudur. Ockham bu ilkeyle Ortaçağ metafiziğinin uydurduğu o \"görünmez güçleri\" ve \"soyut özleri\" felsefeden kazıyıp atmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Adcılık (Nominalizm): \"İnsan\" Yok, \"İnsanlar\" Var",
+      "body": "Ockham, tümeller (genel kavramlar) tartışmasına son noktayı koymaya çalışmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İsimlerden İbaret",
+          "text": "Ona göre \"İnsanlık\", \"Güzellik\" veya \"Hayvanlık\" gibi kavramların dış dünyada gerçek bir karşılığı yoktur. Bunlar sadece zihnimizin benzer nesneleri gruplamak için kullandığı \"isimler\" veya \"etiketler\"dir."
+        },
+        {
+          "label": "Gerçek Olan Tekildir",
+          "text": "Gerçek olan sadece şu masadır, şu kedidir veya şu insandır. Bu yaklaşım, dikkati soyut tartışmalardan somut ve ölçülebilir gerçekliğe kaydırmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Akıl ve İnancın Kesin Ayrımı",
+      "body": "Aquinas akıl ile imanı birleştirmeye çalışırken, Ockham onları tamamen ayırmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fideizm (İmancılık)",
+          "text": "Ona göre Tanrı'nın varlığı veya ruhun ölümsüzlüğü akılla kanıtlanamaz. Bunlar sadece iman konusudur."
+        },
+        {
+          "label": "Bilimin Özgürlüğü",
+          "text": "Eğer din ve bilim (felsefe) farklı alanlarsa, bilim insanı artık teolojik kaygılar gütmeden doğayı kendi yasalarıyla inceleyebilir. Bu, laik bir bilim anlayışının ilk tohumudur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Bilimin Öncüsü",
+      "text": "Tekil olana (deneye/gözleme) verdiği önemle, 17. yüzyıl bilimsel devriminin zihinsel altyapısını kurmuştur."
+    },
+    {
+      "title": "Düşünce Özgürlüğü",
+      "text": "Kiliseyi siyasetten ve felsefeden ayırma çabasıyla, bireyin ve devletin özerkliğini savunmuştur."
+    },
+    {
+      "title": "Sadelik Tutkusu",
+      "text": "Karmaşık ve içinden çıkılmaz hale gelen Skolastik tartışmaları bitirerek, felsefeyi yeniden \"anlaşılabilir\" kılmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Anlam Kaybı",
+      "text": "Her şeyi sadece \"isim\" ve \"tekil nesne\"ye indirgemesi, evrensel doğruların ve etik değerlerin zeminini sarsmış, her şeyin \"keyfi\" olduğu bir sürece kapı açmıştır."
+    },
+    {
+      "title": "Tanrı'nın Keyfiyeti",
+      "text": "İradecilik (Voluntarizm) yaklaşımıyla Tanrı'yı o kadar özgür kılmıştır ki, Tanrı'nın rasyonel bir ahlakı olmadığı, her an her şeyi değiştirebileceği (kötüyü iyi yapabileceği) gibi radikal bir sonuca varmıştır."
+    },
+    {
+      "title": "Birlik Bozulması",
+      "text": "Ortaçağ'ın o bütünsel ve anlamlı dünya tablosunu parçalamış; geriye birbirinden kopuk nesnelerden oluşan bir evren bırakmıştır."
+    }
+  ]
+}

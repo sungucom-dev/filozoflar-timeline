@@ -1,0 +1,83 @@
+{
+  "subtitle": "Vicdanın, Zamanın ve İki Şehrin Mimarı (354–430)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kötülük Problemi: Kötülük Bir \"Şey\" Değildir (Privatio Boni)",
+      "body": "Gençliğinde Manicilik (ışık ve karanlığın savaşı) gibi düalist akımlarda teselli arayan Augustinus, Plotinus sayesinde bu sorunu çözmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yoksunluk Olarak Kötülük",
+          "text": "Tanrı mutlak iyidir, dolayısıyla kötü bir şey yaratmış olamaz. Kötülük, iyiliğin eksikliği veya yokluğudur (Privatio Boni). Tıpkı karanlığın bir \"madde\" değil, sadece ışığın yokluğu olması gibi."
+        },
+        {
+          "label": "Özgür İrade",
+          "text": "Kötülük, insanın iradesini daha yüksek olan \"İyi\"den (Tanrı) daha aşağı olan \"Geçici Hazlar\"a çevirmesinden doğar."
+        }
+      ]
+    },
+    {
+      "title": "Zamanın Öznelliği: \"Zaman Nedir?\"",
+      "body": "Augustinus, zaman üzerine tarihin en derin sorgulamalarından birini yapmıştır. Ona göre zaman, dışarıda akan bir nehir değil, zihnin bir boyutudur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üçlü Şimdiki Zaman",
+          "text": "Geçmiş artık yoktur (bellektir), gelecek henüz gelmemiştir (beklentidir). Var olan tek şey \"şimdiki an\"dır."
+        },
+        {
+          "label": "Zihin Olarak Zaman",
+          "text": "Geçmişi \"şimdi\" hatırlarız, geleceği \"şimdi\" tahayyül ederiz. Zaman, ruhun bir yayılımıdır (distentio animi)."
+        }
+      ]
+    },
+    {
+      "title": "İki Şehir Doktrini: Civitas Dei (Tanrı Şehri)",
+      "body": "Roma'nın Vizigotlar tarafından yağmalanması üzerine (MS 410) yazdığı bu devasa eser, Batı siyaset felsefesinin temelidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yeryüzü Şehri",
+          "text": "Kendini sevme ve bedensel hazlar üzerine kurulu olan geçici krallıklardır (Roma gibi)."
+        },
+        {
+          "label": "Tanrı Şehri",
+          "text": "Tanrı sevgisi üzerine kurulu olan manevi topluluktur."
+        },
+        {
+          "label": "Analiz",
+          "text": "Tarih, bu iki şehrin birbirine karıştığı ama sonunda Tanrı Şehri'nin zafer kazanacağı bir süreçtir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Antik ve Ortaçağ Arasındaki Köprü",
+      "text": "Platon'un felsefesini Hristiyanlıkla öyle bir sentezlemiştir ki, antik dünyanın bilgeliği bu sayede Ortaçağ boyunca hayatta kalabilmiştir."
+    },
+    {
+      "title": "Öznelliğin Keşfi",
+      "text": "İtiraflar eseriyle, insanın iç dünyasını, günahlarını ve şüphelerini dürüstçe ortaya koyan ilk \"otobiyografi\"yi yazmıştır. Descartes'ın \"Düşünüyorum, öyleyse varım\" demesinden bin yıl önce \"Yanılıyorsam, varım\" (Si fallor, sum) demiştir."
+    },
+    {
+      "title": "Hukuk ve Tarih Bilinci",
+      "text": "Tarihi amaçsız bir döngüden çıkarıp, bir sonu ve amacı olan doğrusal bir süreç olarak tanımlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Orijinal Günah Takıntısı",
+      "text": "İnsan doğasının \"doğuştan günahkar\" olduğu fikrini o kadar sert işlemiştir ki, bu durum Batı kültüründe derin bir suçluluk ve beden düşmanlığı yaratmıştır."
+    },
+    {
+      "title": "Kadercilik ve İrade Çelişkisi",
+      "text": "Tanrı'nın her şeyi önceden bildiğini savunurken insanın özgür iradesini açıklamaya çalışması, felsefesinin en büyük mantıksal çıkmazıdır. Daha sonra \"Lütuf\" (Grace) kavramıyla insan çabasını iyice gölgede bırakmıştır."
+    },
+    {
+      "title": "Hoşgörüsüzlük",
+      "text": "Hakikati bulduğuna o kadar emindir ki, aykırı düşünenleri (heretikleri) devlet gücüyle baskı altına almayı savunmuştur. Bu da Ortaçağ'ın engizisyon zihniyetine felsefi bir zemin hazırlamıştır."
+    }
+  ]
+}

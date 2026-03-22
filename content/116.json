@@ -1,0 +1,75 @@
+{
+  "subtitle": "Işığın Metafiziği ve Deneyin Şafağı (1175–1253)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "De Luce (Işık Üzerine): Ortaçağ'ın Big Bang Teorisi",
+      "body": "Grosseteste'in en devrimci fikri, evrenin kökenini \"ışık\" üzerinden açıklamasıdır. Bu teori, modern kozmoloji ile şaşırtıcı benzerlikler taşır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Işık Olarak İlk Madde",
+          "text": "Ona göre Tanrı'nın yarattığı ilk şey ışık noktasıdır. Bu nokta, saniyeler içinde her yöne yayılarak (ekspansiyon) maddeyi ve evrenin boyutlarını oluşturmuştur."
+        },
+        {
+          "label": "Işık Metafiziği",
+          "text": "Işık, tüm varlıkların \"ilk formu\"dur. Bu yüzden evreni anlamak için ışığın yasalarını (yani optiği ve geometriyi) anlamak gerekir."
+        }
+      ]
+    },
+    {
+      "title": "Matematiksel Doğa ve Optik",
+      "body": "Grosseteste, Galileo'dan yüzyıllar önce \"Doğanın kitabı matematik diliyle yazılmıştır\" diyenlerin öncüsüdür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Geometrik Evren",
+          "text": "Işığın hareketleri çizgiler, açılar ve şekillerle gerçekleştiği için; fiziksel dünyayı anlamanın tek yolu geometridir."
+        },
+        {
+          "label": "Gökkuşağı ve Kırılma",
+          "text": "Gökkuşağının nasıl oluştuğunu, ışığın kırılma ve yansıma yasalarını inceleyerek açıklamaya çalışmıştır. Merceklerin ve aynaların büyütme gücü üzerine yaptığı çalışmalar, daha sonra gözlüğün icadına ve teleskoba giden yolu açmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel Yöntem: Çözümleme ve Sentez",
+      "body": "Aristoteles'in tümevarım ve tümdengelim yöntemlerini birleştirerek, bugün \"bilimsel yöntem\" dediğimiz sürecin temellerini atmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Deneyin Önemi",
+          "text": "Sadece teorik akıl yürütmenin yetmeyeceğini, bir hipotezin doğruluğunu kanıtlamak için kontrollü gözlemler (deneyler) yapılması gerektiğini savunmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Doğa Bilimlerinin Meşruiyeti",
+      "text": "Bilimi teolojinin bir \"alt dalı\" olmaktan çıkarıp, onu matematiksel bir kesinliğe kavuşturmaya çalışmıştır. Oxford Üniversitesi'nin bilimsel geleneğini kuran odur."
+    },
+    {
+      "title": "Işık ve Kozmoloji",
+      "text": "Işığı evrenin merkezine koyarak, fiziksel dünya ile ilahi olan arasında rasyonel bir köprü kurmuştur."
+    },
+    {
+      "title": "Hukuki ve Etik Duruş",
+      "text": "Piskopos olarak hem kilisedeki yolsuzluklara karşı çıkmış hem de Kral III. Henry'ye karşı Magna Carta ilkelerini savunarak \"Hukukun üstünlüğü\" için savaşmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Teknik Yetersizlik",
+      "text": "Fikirleri muazzam olsa da, o dönemde yeterli ölçüm aletleri ve teknik altyapı olmadığı için teorilerinin çoğu spekülatif (varsayımsal) kalmıştır."
+    },
+    {
+      "title": "Metafiziksel Prangalar",
+      "text": "Ne kadar bilimsel olursa olsun, her şeyi hala \"Tanrı'nın ışığı\" ile açıklama zorunluluğu hissetmesi, onu modern anlamda \"saf bir fizikçi\" olmaktan ziyade \"bilimsel bir teolog\" yapar."
+    },
+    {
+      "title": "Zor Dil ve Kavramlar",
+      "text": "Yazıları o kadar yoğundur ki, fikirlerinin halka veya geniş kitlelere ulaşması ancak öğrencisi Roger Bacon üzerinden mümkün olmuştur."
+    }
+  ]
+}

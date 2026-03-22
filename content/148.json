@@ -1,0 +1,83 @@
+{
+  "subtitle": "Salamanca Okulu ve Küresel Vicdan (1483–1546)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "De Indis: Yerli Hakları ve Mülkiyet",
+      "body": "Vitoria'nın en devrimci çıkışı, Amerika'nın yerlileri (İndisler) üzerine verdiği derslerdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğal Haklar",
+          "text": "Yerlilerin \"Hristiyan olmadıkları için\" haklarından mahrum edilemeyeceğini savundu. Ona göre mülkiyet ve özgürlük hakkı dine değil, \"insan olma\" vasfına (doğal hukuk) dayanır."
+        },
+        {
+          "label": "Egemenlik",
+          "text": "İspanya'nın yeni topraklar üzerindeki iddiasını sarsmıştır. \"Papa dünyayı parsellere ayırıp krallara dağıtamaz\" diyerek hem Papalığın hem de imparatorluğun sınırsız gücüne entelektüel bir set çekmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Modern Uluslararası Hukuk (Ius Gentium)",
+      "body": "Vitoria, dünyayı sadece Hristiyanların yaşadığı bir yer değil, tüm ulusların oluşturduğu bir \"insanlık topluluğu\" (totus orbis) olarak kurguladı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Uluslararası Toplum",
+          "text": "Devletlerin kendi aralarında uyması gereken evrensel kurallar olduğunu ve bu kuralların sadece antlaşmalarla değil, doğal hukukla belirlendiğini savunmuştur. Bu, günümüzdeki Birleşmiş Milletler mantığının 500 yıl önceki ilk tohumudur."
+        },
+        {
+          "label": "İletişim Hakkı",
+          "text": "Uluslar arasında serbest ticaret ve seyahat hakkını savunmuş, ancak bunun \"işgal\" için bir bahane olamayacağını da eklemiştir."
+        }
+      ]
+    },
+    {
+      "title": "Adil Savaş Teorisi (Bellum Iustum)",
+      "body": "Savaşın sadece \"düşman Hristiyan değil\" diye yapılamayacağını net bir şekilde ortaya koydu. Bir savaşın \"adil\" olması için üç şart getirdi.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Meşru Otorite",
+          "text": "Savaşı sadece devlet başkanı ilan edebilir."
+        },
+        {
+          "label": "Haklı Neden",
+          "text": "Sadece savunma veya ağır bir haksızlığın giderilmesi için savaşılabilir."
+        },
+        {
+          "label": "Ölçülülük",
+          "text": "Savaşın getirdiği yıkım, elde edilecek adaletten büyük olmamalıdır. (Siviller asla hedef alınmamalıdır)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Evrensel İnsan Hakları",
+      "text": "İnsan haklarını dinsel kimlikten koparıp \"doğal hukuk\" zeminine oturtarak modern seküler hukuka giden yolu açmıştır."
+    },
+    {
+      "title": "Sömürgecilik Eleştirisi",
+      "text": "Gücün ve silahın haklılık doğurmayacağını, bir ulusun başka bir ulus üzerinde sadece \"daha gelişmiş\" olduğu için egemenlik kuramayacağını haykırmıştır."
+    },
+    {
+      "title": "Ekonomik Düşünce",
+      "text": "Salamanca Okulu'nun kurucusu olarak; arz-talep dengesi ve paranın değeri gibi konularda da (bugünkü iktisat bilimine temel teşkil eden) rasyonel analizler yapmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Paternalist Bakış",
+      "text": "Yerlilerin haklarını savunurken bile, onları bazen \"eğitilmesi gereken çocuklar\" gibi görmesi, dönemin kaçınılmaz Avrupa merkezli (eurocentric) bakış açısını yansıtır."
+    },
+    {
+      "title": "Aralanan Kapılar",
+      "text": "Vitoria yerlilerin haklarını savundu, ancak \"eğer yerliler ticaret veya misyonerlik faaliyetlerini şiddetle engellerse\" İspanya'nın müdahale hakkı doğabileceğini söyleyerek, farkında olmadan fatihlerin eline yeni meşruiyet araçları da vermiş oldu."
+    },
+    {
+      "title": "Eylem Eksikliği",
+      "text": "O bir eylem adamı değil, bir teorisyendir. Fikirleri Las Casas gibi isimler tarafından sokağa ve saraya taşınmış olsa da kendisi üniversite kürsüsünün dışına pek çıkmamıştır."
+    }
+  ]
+}

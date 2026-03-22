@@ -1,0 +1,71 @@
+{
+  "subtitle": "İki Kilisenin ve İki Dünyanın Birleştiricisi (1403–1472)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ferrara-Floransa Konseyi (1438-39): Birlik Arayışı",
+      "body": "Bessarion, Bizans heyetinin en parlak zihni olarak İtalya'ya geldiğinde amacı tekti: Doğu (Ortodoks) ve Batı (Katolik) kiliselerini birleştirerek İstanbul'u Osmanlı'ya karşı korumak.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Diplomatik Deha",
+          "text": "İki tarafın dogmatik farklarını uzlaştırmak için muazzam bir çaba sarf etti. Her ne kadar siyasi birlik tam olarak sağlanamasa da, bu süreç onun Roma'da kalarak bir Katolik Kardinali olmasına yol açtı."
+        }
+      ]
+    },
+    {
+      "title": "Platon'u Savunmak: In Calumniatorem Platonis",
+      "body": "Plethon'un hocası olmasına rağmen, Bessarion çok daha dengeli bir yol izledi. George of Trebizond'un Platon'a yönelik sert saldırılarına karşı meşhur bir savunma yazdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sentezci Yaklaşım",
+          "text": "Hocası Plethon gibi Hristiyanlığı reddetmedi; aksine Platon'un Hristiyan vahyine Aristoteles'ten daha yakın olduğunu savundu."
+        },
+        {
+          "label": "Analiz",
+          "text": "Onun bu eseri, Rönesans'ın o meşhur \"Platoncu uyanışı\"nın felsefi anayasası haline geldi."
+        }
+      ]
+    },
+    {
+      "title": "Venedik'e En Büyük Miras: Biblioteca Marciana",
+      "body": "Bessarion'un insanlığa en büyük somut hizmeti, ömrü boyunca topladığı paha biçilemez Yunan el yazmalarını (yaklaşık 800 adet) Venedik Cumhuriyeti'ne bağışlamasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hafızayı Kurtarmak",
+          "text": "İstanbul düşerken, Homeros'tan Sofokles'e, matematik metinlerinden ilahiyat kitaplarına kadar antik dünyanın mirasını bu sayede kurtardı. Bu koleksiyon, bugün dünyanın en önemli kütüphanelerinden biri olan Marciana Kütüphanesi'nin çekirdeğini oluşturur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Klasik Mirasın Kurtarıcısı",
+      "text": "Eğer o yüzlerce el yazmasını Batı'ya taşımasaydı, bugün Antik Yunan edebiyatı ve bilimi hakkında bildiklerimizin yarısı muhtemelen Moğol veya Osmanlı fırtınaları arasında yok olup gitmişti."
+    },
+    {
+      "title": "Entelektüel Uzlaştırıcı",
+      "text": "Doğu'nun mistisizmini Batı'nın skolastik disipliniyle birleştirerek, Rönesans'ın o zengin düşünce iklimini beslemiştir."
+    },
+    {
+      "title": "Hümanistlerin Hamisi",
+      "text": "Roma'daki evi, dönemin tüm büyük hümanistlerinin (Valla, Poggio vb.) buluşma noktası olan bir akademi gibiydi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Vatanında \"Hain\" Görülmek",
+      "text": "Kiliselerin birliğini savunduğu ve Katolik olduğu için kendi halkı (Yunanlılar) tarafından dışlanmış, iki dünya arasında bir \"göçmen ruh\" olarak kalmıştır."
+    },
+    {
+      "title": "Pragmatik Tavizler",
+      "text": "Fikirlerini ve felsefesini yaymak için Vatikan'ın hiyerarşisine ve siyasetine çok fazla entegre olması, onu hocası Plethon'un o aykırı ve özgür ruhundan uzaklaştırmıştır."
+    },
+    {
+      "title": "Başarısız Siyaset",
+      "text": "İstanbul'un kurtarılması için Batı'yı harekete geçirme çabaları büyük ölçüde sonuçsuz kalmış, vizyonu siyasi gerçeklerin duvarına çarpmıştır."
+    }
+  ]
+}

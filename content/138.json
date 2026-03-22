@@ -1,0 +1,79 @@
+{
+  "subtitle": "Tarihin Bölünmesi ve Aktif Yaşamın Zaferi (1370–1444)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tarihin Üçlü Taksimi: \"Orta Çağ\"ın İcadı",
+      "body": "Bruni, tarihe bakış açımızı sonsuza dek değiştiren o meşhur ayrımı yapan ilk kişidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kadim, Orta ve Yeni",
+          "text": "Tarihi; Antik Çağ (Roma'nın ihtişamı), Orta Çağ (Roma'nın çöküşüyle başlayan \"karanlık\" dönem) ve modern dönem (Rönesans ile başlayan uyanış) olarak üçe böldü."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu, tarihin sadece dini bir akış (Yaratılış'tan Kıyamet'e) değil, kültürel ve siyasi bir döngü olduğunu gösteren devrimci bir sekülerleşme adımıydı."
+        }
+      ]
+    },
+    {
+      "title": "Sivil Hümanizm: Fildişi Kuleden Meydanlara",
+      "body": "Bruni, Petrarca'nın o \"yalnız ve kederli\" hümanizmini alıp sokağa indirdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vita Activa (Aktif Yaşam)",
+          "text": "Ona göre gerçek erdem, bir manastıra kapanıp tefekkür etmekle değil; devlet işlerine katılarak, aile kurarak ve topluma hizmet ederek kazanılır."
+        },
+        {
+          "label": "Retorik ve Siyaset",
+          "text": "Güzel konuşma (retorik) ve tarih bilmek, sadece süs değil; bir yurttaşın özgürlüğünü koruması için gereken en temel silahlardır."
+        }
+      ]
+    },
+    {
+      "title": "Historiarum Florentini populi libri XII",
+      "body": "Bruni, Floransa halkının tarihini yazarken efsaneleri bir kenara bırakıp belgelere dayanan ilk modern tarih yazımını başlattı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özgürlük Narratifi",
+          "text": "Floransa'nın tarihini, tiranlığa karşı bir \"özgürlük mücadelesi\" olarak kurguladı. Bu eser, bir şehrin kimliğini ve vatanseverlik duygusunu inşa eden en güçlü metinlerden biri oldu."
+        },
+        {
+          "label": "Ciceronian Latin",
+          "text": "Orta Çağ'ın \"kaba\" Latincesini reddetti ve Cicero'nun o akıcı, zarif ve retorik gücü yüksek üslubunu yeniden canlandırdı."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Modern Tarihçiliğin Temeli",
+      "text": "Olayları mucizelerle değil, insani nedenlerle ve belgelerle açıklaması, tarih bilimini rasyonel bir zemine oturtmuştur."
+    },
+    {
+      "title": "Cumhuriyetçi İdealler",
+      "text": "Gücün tek bir kişide toplanmasına karşı halkın (en azından seçkinlerin) yönetime katılımını savunması, modern demokratik değerlerin öncüsüdür."
+    },
+    {
+      "title": "Kültürel Rönesans",
+      "text": "Yunancadan yaptığı Aristoteles ve Platon çevirileriyle, antik bilgeliği Orta Çağ'ın skolastik yorumlarından arındırarak saf haliyle Batı'ya sunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tarafgirlik (Florentin-merkezcilik)",
+      "text": "Tarih yazımı ne kadar rasyonel olsa da, Floransa'yı her zaman haklı ve üstün gösterme çabası, eserlerini zaman zaman birer \"devlet propagandası\"na dönüştürür."
+    },
+    {
+      "title": "Elitist Hümanizm",
+      "text": "Savunduğu \"halk\" aslında geniş kitleler değil, eğitimli ve varlıklı seçkinlerdir. Sıradan halkın yönetime katılımı konusunda pek de hevesli değildi."
+    },
+    {
+      "title": "Orta Çağ'ı Karalamak",
+      "text": "Kendi dönemini yüceltmek için bin yıllık bir dönemi \"karanlık\" olarak damgalaması, Orta Çağ'ın gerçek değerlerinin ve ilerlemelerinin uzun süre göz ardı edilmesine yol açmıştır."
+    }
+  ]
+}

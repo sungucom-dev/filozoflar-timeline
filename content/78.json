@@ -1,0 +1,75 @@
+{
+  "subtitle": "Zindandaki Bilge ve Ortaçağ'ın Mantık Mimarı (477–524)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Felsefenin Tesellisi (De Consolatione Philosophiae)",
+      "body": "İhanete uğrayıp hapse atıldığında, her şeyini kaybetmiş bir adam olarak yazdığı bu eser, dünya edebiyatının en etkili metinlerinden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Leydi Felsefe",
+          "text": "Boethius zindanda ağlarken, karşısına görkemli bir kadın suretinde \"Felsefe\" çıkar. Ona talihin (Fortuna) ne kadar değişken olduğunu ve gerçek mutluluğun dışsal zenginlikte değil, içsel erdemde olduğunu anlatır."
+        },
+        {
+          "label": "Kader Çarkı (Rota Fortunae)",
+          "text": "Talih bir çark gibidir; bugün seni zirveye taşır, yarın ise en dibe fırlatır. Boethius, bu çarkın dönüşüne üzülmenin anlamsızlığını, çünkü çarkın doğasının zaten \"değişkenlik\" olduğunu savunur."
+        }
+      ]
+    },
+    {
+      "title": "Büyük Çeviri Projesi ve Mantık Mirası",
+      "body": "Boethius'un asıl hedefi, Platon ve Aristoteles'in tüm eserlerini Latinceye çevirmekti. Ömrü buna yetmese de, Aristoteles'in mantık eserlerini (Organon) çevirerek Batı dünyasına ulaştırmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tümel Tartışmasının Kıvılcımı",
+          "text": "Porphyrios'un Isagoge eserine yazdığı şerh ile Ortaçağ felsefesini yüzyıllarca meşgul edecek olan \"Tümeller Problemi\"ni (Kavramlar gerçekten var mıdır yoksa sadece isim midir?) başlatmıştır."
+        },
+        {
+          "label": "Quadrivium",
+          "text": "Eğitimi dört temel yola (Aritmetik, Müzik, Geometri, Astronomi) ayırarak bin yıl sürecek eğitim sisteminin temellerini atmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Tanrısal Öngörü ve Özgür İrade",
+      "body": "En büyük felsefi sorulardan birine dâhice bir cevap sunar: \"Eğer Tanrı her şeyi önceden biliyorsa, biz nasıl özgür olabiliriz?\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ebedi Şimdi",
+          "text": "Ona göre Tanrı zamanın dışındadır. Bizim için \"geçmiş\" ve \"gelecek\" olan her şeyi, O tek bir \"ebedi şimdi\" içinde görür. Tanrı'nın görmesi, bir şeyi \"zorlaması\" değildir; tıpkı senin o an yürüyen birini görmenin, onu yürümeye zorlamaması gibi."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Muazzam Bir Entelektüel Köprü",
+      "text": "O olmasaydı, Aristoteles mantığı Latince konuşan Batı için tamamen kaybolmuş olabilirdi. Ortaçağ rasyonalitesinin tek kaynağı uzun süre onun çevirileri olmuştur."
+    },
+    {
+      "title": "Direnç ve Onur",
+      "text": "Felsefeyi hayattan kopuk bir uğraş olarak değil, insanın en karanlık anında tutunabileceği bir \"can simidi\" olarak sunması, felsefeye insani bir derinlik kazandırmıştır."
+    },
+    {
+      "title": "Hristiyan-Pagan Sentezi",
+      "text": "Eserlerinde Hristiyan dogmalarından ziyade Platonik ve Stoacı kavramları kullanması, felsefeyi her türlü inanç için evrensel bir şemsiye haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dini Sessizlik",
+      "text": "Bir Hristiyan azizi olarak kabul edilmesine rağmen, en meşhur eseri Felsefenin Tesellisi'nde İsa'dan veya Hristiyanlığın temel ilkelerinden hiç bahsetmemesi, onun gerçek inancı ve felsefesi arasındaki tutarlılığı sorgulatmaktadır."
+    },
+    {
+      "title": "Özgünlükten Ziyade Tercüme",
+      "text": "Birçok eleştirmen onu yeni bir sistem kurmaktan ziyade, Yunan mirasını kopyalayan bir \"derleyici\" olarak görür. Ancak o dönemdeki kültürel yıkım düşünüldüğünde, bu derleme bile hayati önemdedir."
+    },
+    {
+      "title": "Soyut Teselli",
+      "text": "Zindandaki bir adama \"talih değişkendir, üzülme\" demek çok bilgece görünse de, somut haksızlıklar karşısında pasif bir kabullenişi de beraberinde getirebilir."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "subtitle": "Deneyin Gücü ve Geleceğin Vizyonu (1214–1292)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Scientia Experimentalis (Deneysel Bilim)",
+      "body": "Bacon, Skolastiklerin sonsuz mantık tartışmalarından bıkmıştı. Ona göre bilgiye ulaşmanın üç yolu vardı: Otorite, akıl yürütme ve deney.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Deneyin Üstünlüğü",
+          "text": "Otorite sadece inanç sağlar, akıl yürütme bir sonuca varır ama bu sonucu doğruluğundan emin kılan tek şey deneydir."
+        },
+        {
+          "label": "İlk Gerçek Bilim İnsanı",
+          "text": "Bilimi teolojinin bir alt dalı olmaktan çıkarıp, kendi başına bir disiplin olarak kurgulamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Hakikatin Önündeki Dört Engel (Offendicula)",
+      "body": "Bacon, insanların neden sürekli hata yaptığını analiz etmiş ve dört büyük engeli belirlemiştir.",
+      "ordered": true,
+      "items": [
+        {
+          "label": "Değersiz Otoriteye Güven",
+          "text": "Sırf \"büyükler söyledi\" diye bir şeye inanmak."
+        },
+        {
+          "label": "Gelenek ve Alışkanlık",
+          "text": "\"Eskiden beri böyle yapılıyor\" diyerek körü körüne takip etmek."
+        },
+        {
+          "label": "Halkın Önyargıları",
+          "text": "Çoğunluğun doğru bildiğinin doğru olduğunu sanmak."
+        },
+        {
+          "label": "Bilgisizliği Bilgelik Maskesiyle Örtmek",
+          "text": "En tehlikelisi budur; bilmediğini bilmemek."
+        }
+      ]
+    },
+    {
+      "title": "Teknolojik Kehanetler: \"Geleceği Gören Adam\"",
+      "body": "Bacon'ın hayal gücü 13. yüzyılın çok ötesindeydi. Yazılarında şunları öngörmüştü.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Uçan Makineler",
+          "text": "Kanat çırparak uçan araçlar."
+        },
+        {
+          "label": "Kendi Kendine Giden Gemiler",
+          "text": "Kürekçiye ihtiyaç duymayan devasa tekneler."
+        },
+        {
+          "label": "Optik Devrim",
+          "text": "Büyüteçler sayesinde uzaktaki şeylerin yakına getirilmesi (teleskop ve mikroskobun ilk fikri)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Yöntemin Babası",
+      "text": "Sadece \"ne\" bildiğimizle değil, \"nasıl\" bildiğimizle de ilgilenmiş; deneysel metodun felsefesini yapmıştır."
+    },
+    {
+      "title": "Optik ve Matematik",
+      "text": "Işığın kırılması ve yansıması üzerine yaptığı çalışmalar, modern optiğin temellerini atmıştır."
+    },
+    {
+      "title": "Otoriteye Başkaldırı",
+      "text": "Kilise ve üniversite yapısı içindeki yozlaşmaya ve dogmatizme karşı çıkma cesareti göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Uyumsuz Kişilik",
+      "text": "Çağdaşı olan diğer bilginleri (Albertus Magnus ve Aquinas dahil) sert ve çoğu zaman haksız şekilde eleştirmiş, bu da onun yalnızlaşmasına ve hapse atılmasına yol açmıştır."
+    },
+    {
+      "title": "Simya ve Astrolojinin Karışımı",
+      "text": "Ne kadar \"bilimsel\" olsa da, hala astrolojiyi ve metalleri altına çevirme (simya) çabalarını gerçek bilimin bir parçası olarak görmüştür."
+    },
+    {
+      "title": "Düzensiz Yazım",
+      "text": "Eserleri (Opus Majus vb.) muazzam bilgiler içerse de, bazen çok dağınık ve sistematik olmaktan uzaktır."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "subtitle": "Bağdat'ın Bilgelik Meclisi ve Saf Akıl (912–985)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Entelektüel Merkez: Bağdat Meclisleri",
+      "body": "Ebû Süleyman bir kitap yazarı olmaktan çok, bir \"konuşmacı\" ve \"yönlendirici\"dir. Evinde topladığı farklı dinlerden ve milletlerden bilginlerle yaptığı tartışmalar, öğrencisi Ebû Hayyân et-Tevhîdî tarafından el-Mukābesât adlı eserde ölümsüzleştirilmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Felsefi Hümanizm",
+          "text": "Onun meclisi; Hristiyan, Müslüman ve Sâbiî bilginlerin sadece \"akıl\" paydasında buluştuğu, Ortaçağ'ın en özgürlükçü düşünce adalarından biriydi."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu meclislerde felsefe, teknik bir konu olmaktan çıkıp \"insan olmanın anlamı\" üzerine derin bir sohbete dönüşmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Din ve Felsefe: \"İkisi Ayrı Dünyalar\"",
+      "body": "Ebû Süleyman, Kindî ve Fârâbî'nin aksine, din ile felsefeyi yapay bir şekilde \"uzlaştırmaya\" çalışmanın her iki tarafa da zarar vereceğini savunmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Alan Ayırımı",
+          "text": "Din, vahiydir ve kalbe hitap eder; felsefe ise rasyoneldir ve akla hitap eder. Din sembolik ve toplumsaldır; felsefe ise kanıta dayalı ve bireyseldir."
+        },
+        {
+          "label": "Özerklik",
+          "text": "Felsefeyi dinin bir \"alt dalı\" veya \"savunma aracı\" (Kelam) yapmaya karşı çıkmış, felsefenin kendi yasaları olan bağımsız bir disiplin olarak kalması gerektiğini vurgulamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Metafizik: Ruhun Yolculuğu",
+      "body": "Yeni Platoncu bir gelenekten gelen Ebû Süleyman, varlığı bir hiyerarşi olarak görür. Ancak onun asıl odağı \"insan ruhu\"dur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nefs ve Akıl",
+          "text": "Ruhun bedene hapsolmuş ilahi bir töz olduğunu ve felsefi arınma yoluyla \"Küllî Akıl\"a ulaşabileceğini savunur."
+        },
+        {
+          "label": "Sıvânü'l-Hikme",
+          "text": "Ona atfedilen bu eser (veya derleme), antik Yunan'dan kendi dönemine kadar olan bilgelerin hayatlarını ve sözlerini içeren devasa bir \"bilgelik arşivi\"dir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Entelektüel Dürüstlük",
+      "text": "Din ve felsefeyi zorla barıştırmaya çalışmak yerine, her ikisinin de kendi sınırları içinde saygın olduğunu söylemesi, rasyonalizmin onurunu korumuştur."
+    },
+    {
+      "title": "Sokratik Yöntem",
+      "text": "Bilgiyi kaskatı metinlere hapsetmek yerine, canlı diyaloglar ve tartışmalarla üretmesi, felsefeyi yaşayan bir organizma haline getirmiştir."
+    },
+    {
+      "title": "Hümanizm",
+      "text": "İnsan aklının evrenselliğine olan inancı, mezhep savaşlarının gölgesinde bir \"entelektüel barış\" alanı yaratmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aristokratik İçe Kapanma",
+      "text": "Felsefeyi sadece seçkin bir azınlığın (el-Hâssa) anlayabileceği \"yüksek bir sır\" olarak görmesi, halk kitleleriyle felsefe arasındaki bağı tamamen koparmıştır."
+    },
+    {
+      "title": "Eser Azlığı",
+      "text": "Kendi kaleminden çıkan sistemli başyapıtların az olması, fikirlerinin daha çok öğrencilerinin notları üzerinden günümüze ulaşmasına ve bazen yanlış yorumlanmasına neden olmuştur."
+    },
+    {
+      "title": "Siyasi Pasifizm",
+      "text": "Bağdat'ın o fırtınalı siyasi ortamında tamamen \"kendi fildişi kulesine\" çekilmesi, felsefenin toplumsal dönüşüm gücünü zayıflatmıştır."
+    }
+  ]
+}

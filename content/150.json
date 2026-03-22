@@ -1,0 +1,90 @@
+{
+  "subtitle": "Doğanın İlacı ve Zehrin Sırrı (1493–1541)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kitapları Yakmak: Otoriteye Başkaldırı",
+      "body": "1527 yılında Basel Üniversitesi'nde ders vermeye başladığında, tıp dünyasının kutsal kitapları sayılan Galen ve İbn Sînâ'nın eserlerini herkesin gözü önünde ateşe vermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Deneyim vs. Kitap",
+          "text": "\"Benim ayakkabı bağlarım, sizin Galen ve İbn Sînâ'nızdan daha çok şey biliyor\" diyerek, bin yıllık tıbbi geleneği çöpe atmış; hekimliğin tek öğretmeninin \"hasta başı gözlemi\" ve \"doğa\" olduğunu savunmuştur."
+        },
+        {
+          "label": "Anadil Devrimi",
+          "text": "Tıpkı Luther'in İncil'i Almancaya çevirmesi gibi, o da tıp derslerini Latince yerine halkın anlayacağı Almanca dilinde vermiştir."
+        }
+      ]
+    },
+    {
+      "title": "Tria Prima (Üç İlke): Maddenin Anatomisi",
+      "body": "Paracelsus, antik çağın \"Dört Element\" (ateş, su, toprak, hava) kuramını, simyasal bir temel üzerine yeniden inşa etmiştir. Maddenin üç temel ilkeden oluştuğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kükürt (Sulfur)",
+          "text": "Yanıcılığı ve ruhu temsil eder."
+        },
+        {
+          "label": "Cıva (Mercury)",
+          "text": "Akışkanlığı ve canı temsil eder."
+        },
+        {
+          "label": "Tuz (Salt)",
+          "text": "Katılığı ve bedeni temsil eder. Hastalıkları, bu üç ilkenin vücuttaki dengesinin bozulması olarak görmüş ve tedavide ilk kez bitkisel karışımlar yerine kimyasal ilaçları (mineraller, metaller) kullanmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Toksikolojinin Altın Kuralı",
+      "body": "Tıp tarihine kazıdığı en meşhur cümle şudur: \"Her şey zehirdir, zehir olmayan hiçbir şey yoktur; ilacı zehirden ayıran tek şey dozdur.\" (Dosis facit venenum)",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Modern Eczacılık",
+          "text": "Bu ilke, modern farmakolojinin temelidir. Paracelsus, maddelerin tedavi edici gücünün ancak doğru dozajla mümkün olduğunu keşfetmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Makrokozmos ve Mikrokozmos",
+      "body": "Felsefi olarak, insanın evrenin (Makrokozmos) küçük bir kopyası (Mikrokozmos) olduğuna inanıyordu.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bütünsel Şifa",
+          "text": "Gökyüzündeki yıldızların ve dünyadaki elementlerin, insan vücudundaki organlarla doğrudan bir bağı olduğunu savunurdu. Ona göre iyi bir hekim, hem iyi bir kimyager hem de iyi bir astronom (evrenin ritmini bilen biri) olmalıydı."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kimyasal Tıbbın Doğuşu",
+      "text": "Hastalıkları \"vücut sıvıları dengesizliği\" gibi soyut kavramlardan çıkarıp, dışsal nedenlere (mikroorganizmalar, kimyasal eksiklikler) dayandırması devrim niteliğindedir."
+    },
+    {
+      "title": "Meslek Hastalıkları Analizi",
+      "text": "Madenlerde çalışan işçilerin akciğer hastalıklarını inceleyerek, iş sağlığı ve güvenliği konusundaki ilk bilimsel çalışmaları yapmıştır."
+    },
+    {
+      "title": "Yara Bakımı",
+      "text": "Dönemin yaraları yakma veya deşme yöntemine karşı çıkmış, yaraların doğal temizlikle kendi kendine iyileşme sürecini savunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İmkansız Üslup",
+      "text": "Yazıları o kadar karmaşık, simyasal sembollerle dolu ve hırçındır ki, fikirlerinin tam olarak anlaşılması yüzyıllar sürmüştür."
+    },
+    {
+      "title": "Kibir ve Çatışma",
+      "text": "Gittiği her yerde üniversite ve saray çevreleriyle kavga etmiş, bu yüzden ömrünü bir göçebe gibi kaçarak geçirmek zorunda kalmıştır."
+    },
+    {
+      "title": "Mistisizm ve Bilim Karışımı",
+      "text": "Çok parlak bilimsel tespitlerinin arasına \"cinler, periler ve büyüsel etkiler\" serpiştirmesi, onun rasyonel bir bilim insanı olarak kabul edilmesini zorlaştırmıştır."
+    }
+  ]
+}

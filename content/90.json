@@ -1,0 +1,79 @@
+{
+  "subtitle": "Aklın Işığı ve Doğanın Bölünüşü (815–877)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Periphyseon: Doğanın Dörtlü Dansı",
+      "body": "Eriugena'nın başyapıtı De Divisione Naturae (Doğanın Bölünüşü Üzerine), var olan her şeyi \"Doğa\" çatısı altında toplar ve onu dört aşamada inceler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yaratan ve Yaratılmayan",
+          "text": "Tanrı, her şeyin kaynağı ve başlangıcıdır. Bilinemez ve tanımlanamazdır."
+        },
+        {
+          "label": "Yaratan ve Yaratılan",
+          "text": "Tanrı'nın zihnindeki \"İlk Nedenler\" veya \"İdealar\"dır. (Platonik etkiler burada zirve yapar)."
+        },
+        {
+          "label": "Yaratılan ve Yaratmayan",
+          "text": "Bizim içinde yaşadığımız, zaman ve mekanla sınırlı fiziksel dünyadır."
+        },
+        {
+          "label": "Yaratılmayan ve Yaratmayan",
+          "text": "Her şeyin sonunda geri döndüğü, amaç olarak Tanrı."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Akılcılık: \"Gerçek Din, Gerçek Felsefedir\"",
+      "body": "Eriugena, Karolenj dünyasında bomba etkisi yaratan o meşhur önermesini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Önce Akıl, Sonra Otorite",
+          "text": "\"Otorite akıldan doğar, akıl otoriteden değil.\" Ona göre kutsal metinler (otorite) bazen sembolik ve kapalı olabilir; ancak akıl, bu sembolleri çözmek ve hakikate ulaşmak için en temel araçtır. Eğer bir otorite akla aykırıysa, o otorite zayıftır."
+        }
+      ]
+    },
+    {
+      "title": "Teofani: Her Şeyde Tanrı'yı Görmek",
+      "body": "Eriugena için dünya, Tanrı'nın bir \"görünüşü\"dür (Theophania).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensel Ayna",
+          "text": "Maddi dünya, Tanrı'nın görünmez ışığının kırılıp bize yansıyan halidir. Bu fikir, her şeyin Tanrı'nın bir parçası olduğunu ima ettiği için, yüzyıllar sonra kilise tarafından \"panteizm\" (kamutanrıcılık) suçlamasıyla karşı karşıya kalacaktır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Doğu-Batı Köprüsü",
+      "text": "Sahte Dionysios'un eserlerini Grekçeden Latinceye çevirerek, Doğu mistisizmini Batı teolojisinin damarlarına zerk etmiştir. O olmasaydı, Eckhart veya Nikolaus von Kues gibi mistikler asla var olamazdı."
+    },
+    {
+      "title": "Entelektüel Cesaret",
+      "text": "Dogmaların ve kaba saba inançların hüküm sürdüğü bir çağda, \"Sorgulamayan iman, iman değildir\" diyerek felsefeye onurunu iade etmiştir."
+    },
+    {
+      "title": "Sistemli Metafizik",
+      "text": "Ortaçağ'ın başındaki o kopuk bilgileri, antik çağın görkemli sistemlerine benzer bütünsel bir yapıya dönüştürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Panteizm Riski",
+      "text": "Tanrı ile yarattıklarını birbirine o kadar yaklaştırmıştır ki, Tanrı'nın kendine has \"kişiliğini\" ve dünyadan ayrılığını tehlikeye atmıştır. Bu yüzden eserleri 1225 yılında yakılmak üzere mahkum edilmiştir."
+    },
+    {
+      "title": "Elitizm",
+      "text": "Felsefesi o kadar karmaşık ve o kadar yüksek bir Grek kültürü gerektiriyordu ki, döneminin insanları tarafından ya hiç anlaşılamadı ya da çok yanlış anlaşıldı."
+    },
+    {
+      "title": "Kötülük Problemi",
+      "text": "Her şeyi Tanrı'nın bir yansıması (ışığı) olarak gördüğü için, kötülüğü sadece bir \"yokluk\" veya \"ışığın azlığı\" olarak tanımlaması, pratik hayatın acımasız gerçekleri karşısında bazen fazla soyut kalmaktadır."
+    }
+  ]
+}

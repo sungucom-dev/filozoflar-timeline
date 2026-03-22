@@ -1,0 +1,85 @@
+{
+  "subtitle": "Zihin İlkedir, Eylem Bilgidir (1472–1529)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Zihin İlkedir (Xin Ji Li)",
+      "body": "Yangming, kendisinden önceki büyük usta Zhu Xi'nin \"ilkeleri dış dünyadaki nesnelerde (eşyada) arama\" (Ge-wu) yöntemini kökten reddeder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçsel Hakikat",
+          "text": "Ona göre evrenin ilkeleri (Li), dışarıdaki bir ağaçta veya taşta değil, bizzat insanın zihnindedir. Eğer zihniniz aydınlanmışsa, dış dünya da anlam kazanır."
+        },
+        {
+          "label": "Bambu Deneyi",
+          "text": "Gençliğinde günlerce bir bambu ağacına bakarak onun \"ilkesini\" bulmaya çalışmış ama sonunda hastalanmıştır. Bu başarısızlık ona asıl \"ilkenin\" zihnin içinde olduğunu fark ettirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Bilgi ve Eylemin Birliği (Zhi Xing He Yi)",
+      "body": "Yangming'in felsefesinin en meşhur ve sarsıcı kavramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ayrılmaz İkili",
+          "text": "\"Bilip de yapmamak, aslında henüz bilmemektir\" der. Bilgi eylemin başlangıcı, eylem ise bilginin tamamlanmasıdır."
+        },
+        {
+          "label": "Örnek",
+          "text": "Güzel bir koku aldığınızda, önce kokuyu \"bilip\" sonra onu \"sevmezsiniz\". Kokuyu aldığınız (bilgi) an, ondan hoşlanırsınız (eylem). Bilgi ve eylem aynı anda, tek bir hareket olarak gerçekleşir."
+        }
+      ]
+    },
+    {
+      "title": "Doğuştan Gelen Bilgelik (Liangzhi)",
+      "body": "Her insanın içinde, doğruyu yanlıştan ayırt edebilecek saf bir vicdan ve bilgi çekirdeği olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tozlanan Ayna",
+          "text": "Zihnimiz aslında parlayan bir ayna gibidir. Ancak bencillik, hırs ve kötü arzular bu aynayı tozlandırır. Felsefenin ve eğitimin amacı, aynadaki bu tozları silip o \"doğuştan gelen bilgeliği\" (Liangzhi) tekrar görünür kılmaktır."
+        },
+        {
+          "label": "Eşitlikçi Damar",
+          "text": "Bu yetiye herkes (bir azizden bir çiftçiye kadar) eşit derecede sahiptir."
+        }
+      ]
+    },
+    {
+      "title": "İş Başında Tefekkür",
+      "body": "Yangming, bilgeliğin dağ tepelerinde veya manastırlarda değil, hayatın tam içinde kazanılacağını savunur. Kendisi başarılı bir general olarak, savaş meydanında bile zihnini dingin tutmayı ve etik kararlar vermeyi başarmıştır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dinamik Etik",
+      "text": "Ahlakı kuru bir kurallar manzumesi olmaktan çıkarıp, anlık ve samimi bir \"eylem\" biçimine dönüştürmüştür."
+    },
+    {
+      "title": "Bireysel Güç",
+      "text": "Hakikati dış otoritelerde (imparator, kitaplar, gelenekler) değil, bireyin kendi vicdanında araması; o dönem için devrimci bir \"özgürleşme\" çağrısıdır."
+    },
+    {
+      "title": "Moderniteye Etki",
+      "text": "Japonya'daki Samuray kültüründen modern iş dünyasındaki \"aksiyon odaklı\" liderlik modellerine kadar çok geniş bir alanı etkilemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Öznellik Tehlikesi",
+      "text": "\"Her şey zihindedir\" ve \"Herkesin kendi bilgeliği vardır\" anlayışı; ortak, nesnel ve toplumsal ahlak kurallarının zayıflamasına yol açabilir. Herkesin \"kendi doğrusu\" kaosa neden olabilir."
+    },
+    {
+      "title": "Dış Dünyanın İhmali",
+      "text": "Bilimsel ve teknik gelişme için gerekli olan \"dış dünyayı nesnel olarak inceleme\" (ampirizm) geleneğini zayıflattığı gerekçesiyle daha sonraki dönemlerde eleştirilmiştir."
+    },
+    {
+      "title": "Mistik Kayış",
+      "text": "Felsefesi zaman zaman Budist ve Taoist mistisizme çok yaklaştığı için, Konfüçyüsçülüğün o \"sosyal düzen kuran\" rasyonel yapısından koptuğu savunulur."
+    }
+  ]
+}

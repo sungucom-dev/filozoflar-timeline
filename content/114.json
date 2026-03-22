@@ -1,0 +1,79 @@
+{
+  "subtitle": "Işığın Ontolojisi ve Bilgeliğin Doğuşu (1154–1191)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İşrâk Felsefesi: Varlık Değil, Işık",
+      "body": "Sühreverdî, İbn Sînâ'nın \"Varlık\" (Vücud) kavramını merkeze alan sistemini eleştirir. Ona göre evrenin temel yapı taşı \"Varlık\" değil, \"Işık\"tır (Nûr).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nûru'l-Envâr (Işıkların Işığı)",
+          "text": "Her şeyin kaynağı olan en yüce ışıktır (Tanrı). Evrendeki her varlık, bu ana kaynaktan gelen ışığın yoğunluğuna göre bir mertebeye sahiptir."
+        },
+        {
+          "label": "Gölge ve Karanlık",
+          "text": "Maddi dünya, ışığın en az olduğu, adeta \"karanlığın\" hüküm sürdüğü en alt basamaktır. İnsanın amacı, bu karanlık zindandan (bedenden) kurtulup asli ışığına dönmektir."
+        }
+      ]
+    },
+    {
+      "title": "Bilgi Kuramı: \"Huzûrî Bilgi\" (Knowledge by Presence)",
+      "body": "Sühreverdî, bilginin sadece mantıksal tanımlarla (temsilî bilgi) kazanılamayacağını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Keşif ve Müşahede",
+          "text": "Gerçek bilgi, insanın kendi özündeki ışığı fark etmesiyle, yani nesneyle öznenin birleştiği \"doğrudan tecrübe\" ile elde edilir."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu yaklaşım, rasyonel felsefeyi mistik bir sezgiyle birleştirir. Akıl bir yere kadar götürür, ama hakikati ancak \"ışık\" gösterir."
+        }
+      ]
+    },
+    {
+      "title": "Sembolik Anlatım ve Felsefi Öyküler",
+      "body": "Sühreverdî, fikirlerini sadece teknik metinlerle değil, muazzam güzellikteki alegorik öykülerle anlatmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gurbetü'l-Garbiyye (Batı Gurbeti)",
+          "text": "Ruhun sürgünde olduğu bu dünyayı ve kendi aslına dönüş yolculuğunu anlatan şiirsel bir yolculuktur."
+        },
+        {
+          "label": "Antik Hikmetin Birliği",
+          "text": "O, hakikatin tek olduğunu; bunun Hermetik gelenek, Antik Yunan (Platon, Pisagor) ve Kadim İran bilgeliğinde farklı dillerle anlatıldığını savunmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefi Sentez",
+      "text": "Mantığı dışlamadan sezgiyi merkeze alması, İslam dünyasında felsefenin \"kurumuş\" damarlarına taze kan pompalamıştır."
+    },
+    {
+      "title": "Özgünlük",
+      "text": "Aristotelesçi geleneğe ilk defa bu kadar sistemli ve kökten bir alternatif (İşrâkîlik) sunabilen tek isimdir."
+    },
+    {
+      "title": "Etki Alanı",
+      "text": "Onun felsefesi yüzyıllar sonra Şah Veliyullah Dehlevi'den Molla Sadra'ya kadar pek çok büyük düşünürü derinden etkilemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Sembolizm",
+      "text": "Fikirlerini o kadar çok sembol ve mecazla süslemiştir ki, felsefesi bazen anlaşılmaz bir \"gizemciliğe\" (okültizm) kayma riski taşır."
+    },
+    {
+      "title": "Gençlik Ateşi ve Tedbirsizlik",
+      "text": "Zekasına olan aşırı güveni ve fikirlerini savunurken kullandığı tavizsiz dil, dönemin ulemasını ve Selahaddin Eyyubi gibi siyasi liderleri korkutmuş, sonunu hazırlamıştır."
+    },
+    {
+      "title": "Subjektivite",
+      "text": "\"Huzûrî Bilgi\" (sezgisel bilgi) kişisel bir tecrübe olduğu için, bu bilginin doğruluğunu başkalarına kanıtlamak veya evrensel bir bilimsel zemin kurmak zordur."
+    }
+  ]
+}

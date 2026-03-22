@@ -1,0 +1,75 @@
+{
+  "subtitle": "Ney'in İniltisinden Kozmik Raksa (1207–1273)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ayrılık ve Dönüş: Ney Metaforu",
+      "body": "Mesnevi'nin o meşhur ilk 18 beyti, tüm sistemin özetidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sürgün Ruh",
+          "text": "Kamışlıktan (asli vatanından/Tanrı'dan) koparılan \"Ney\", içindeki boşluğu ayrılığın acısıyla doldurur. Çıkardığı her ses, aslına dönme arzusunun bir feryadıdır."
+        },
+        {
+          "label": "İnsan-ı Kamil",
+          "text": "İnsan da bir ney gibidir; içi boşaldıkça (nefsinden arındıkça) içinden ilahi nefes geçmeye başlar."
+        }
+      ]
+    },
+    {
+      "title": "Akıl vs. Aşk: \"Aklın Ayağı Tahtadır\"",
+      "body": "Mevlânâ, felsefi aklı (cüzi akıl) küçümsemez ama onun sınırlarını çok net çizer.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aklın Sınırı",
+          "text": "Akıl, kapıya kadar götüren bir kılavuzdur; ancak kapıdan içeri sadece \"aşk\" ile girilebilir. Ona göre felsefecilerin kanıtları \"tahta ayaklar\" gibidir, çabuk kırılır ve üzerinde sabit durulamaz."
+        },
+        {
+          "label": "Hamuş (Sessizlik)",
+          "text": "Hakikatin en yüksek mertebesinde kelimeler ve mantık susar; yerini doğrudan tecrübeye ve hayrete bırakır."
+        }
+      ]
+    },
+    {
+      "title": "Sema: Evrenin Ritmik Devranı",
+      "body": "Sema, sadece bir dans değil, evrendeki her şeyin (atomlardan galaksilere) dönmekte olduğu gerçeğinin bedenselleşmiş halidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sembolizm",
+          "text": "Sağ elin yukarı (Tanrı'ya), sol elin aşağı (halka) bakması; \"Hakk'tan alıp halka dağıtmak\" demektir. Semazen, kendi benliğini bir kenara bırakarak evrensel ritmin bir parçası olur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Evrensel Hümanizm",
+      "text": "Dini ve tarihsel sınırları aşan bir insan sevgisi inşa ederek, her kültürden insana hitap eden evrensel bir dil kurmuştur."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "İnsanın içsel çatışmalarını, korkularını ve arzularını hikayeler üzerinden analiz ederek, modern derinlik psikolojisine (Jung gibi) yüzyıllar öncesinden ışık tutmuştur."
+    },
+    {
+      "title": "Sanat ve Felsefe Sentezi",
+      "text": "Felsefeyi kütüphanelerin tozlu raflarından çıkarıp; şiire, müziğe ve sokağa indirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistem Dışılık",
+      "text": "Mevlânâ bir \"sistem filozofu\" değildir. Fikirleri Mesnevi'nin binlerce beyti içinde dağınıktır ve bazen çelişkili görünebilir. Bu durum, onun düşüncelerinin rasyonel bir metodolojiyle incelenmesini zorlaştırır."
+    },
+    {
+      "title": "Aklın Geri Plana İtilmesi",
+      "text": "Aşkı o kadar yüceltmiştir ki, bu durum bazı takipçilerinde rasyonel düşüncenin, bilimin ve mantığın tamamen ihmal edilmesine (mistik bir pasifizme) yol açabilmiştir."
+    },
+    {
+      "title": "Popüler Kültürde Yüzeyselleşme",
+      "text": "Günümüzde Mevlânâ, derin metafizik bağlamından koparılarak \"güzel sözler\" ve \"New Age\" mistisizminin bir parçası haline getirilme (Rumi-washing) tehlikesiyle karşı karşıyadır."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "subtitle": "Varlığın Mimarı ve Tıbbın Tartışmasız Otoritesi (980–1037)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Varlık Felsefesi (Ontoloji): \"Zorunlu Varlık\"",
+      "body": "İbn Sînâ, varlığı (vücud) ve özü (mahiyet) birbirinden ayırarak metafiziğin en temel problemini çözmeye çalışmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vâcibü'l-Vücud (Zorunlu Varlık)",
+          "text": "Var olmak için bir başkasına ihtiyaç duymayan, varlığı özünden gelen tek varlık (Tanrı)."
+        },
+        {
+          "label": "Mümkinü'l-Vücud (Mümkün Varlık)",
+          "text": "Var olması da yok olması da eşit derecede mümkün olan, varlığı ancak \"Zorunlu Varlık\"ın bir sonucu olarak ortaya çıkan tüm evren."
+        },
+        {
+          "label": "Analiz",
+          "text": "Bu ayrım, felsefeyi teoloji ile rasyonel bir düzlemde birleştiren en güçlü köprü olmuştur."
+        }
+      ]
+    },
+    {
+      "title": "Ruh ve Zihin: \"Uçan Adam\" (The Floating Man)",
+      "body": "İbn Sînâ, Descartes'tan yüzyıllar önce \"Düşünüyorum, o halde varım\" mantığının ilk ve en etkileyici versiyonunu ortaya koymuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Düşünce Deneyi",
+          "text": "Hiçbir duyusal verinin olmadığı, boşlukta süzülen, bedensel duyularından arınmış bir \"Uçan Adam\" düşünün. Bu adam dış dünyayı bilmese bile \"kendisinin var olduğunu\" bilecektir."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Ruh, bedenden tamamen bağımsız ve manevi bir tözdür. Beden sadece ruhun kullandığı bir alettir."
+        }
+      ]
+    },
+    {
+      "title": "Tıbbın Kanunu: el-Kânûn fi't-Tıbb",
+      "body": "Batı dünyasında 17. yüzyıla kadar tıp fakültelerinde ders kitabı olarak okutulan bu eser, antik tıp birikimini (Galen ve Hipokrat) sistematik bir yapıya kavuşturmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bütüncül Tıp",
+          "text": "Hastalıkları sadece fiziksel değil, psikolojik, çevresel ve beslenme odaklı bir bütünlük içinde incelemiştir."
+        },
+        {
+          "label": "Keşifler",
+          "text": "Mikropların varlığına dair ilk sezgiler, şeker hastalığının idrarla teşhisi ve karantina uygulamasının önemi gibi devrimci tespitlerde bulunmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "En Büyük Sentezci",
+      "text": "Aristoteles, Platon ve Yeni Platoncu unsurları İslam monoteizmiyle öyle bir harmanlamıştır ki, felsefe artık dinin bir rakibi değil, onun rasyonel bir açıklaması haline gelmiştir."
+    },
+    {
+      "title": "Modern Tıbbın Temeli",
+      "text": "Gözlem ve deneyi sistematik bir tıp doktrinine dönüştürerek insan ömrünü uzatan bilimsel bir disiplin inşa etmiştir."
+    },
+    {
+      "title": "Mantıksal Disiplin",
+      "text": "Mantığı ve ontolojiyi o kadar sağlam kurmuştur ki, ona karşı çıkanlar (Gazâlî gibi) bile onu eleştirmek için onun mantık silahlarını kullanmak zorunda kalmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Zorunluluk ve Tanrı",
+      "text": "Varlığın Tanrı'dan \"zorunlu bir taşma\" (sudur) olarak çıktığını savunması, Tanrı'nın özgür iradesini kısıtladığı gerekçesiyle daha sonra Gazâlî tarafından \"küfür\" sayılacak kadar ağır eleştirilmiştir."
+    },
+    {
+      "title": "Ölümsüzlük Problemi",
+      "text": "İbn Sînâ'ya göre ruh ölümsüzdür ancak \"cismani diriliş\" (bedenle dirilme) aklen kanıtlanamaz, sadece inançla kabul edilebilir. Bu rasyonel dürüstlüğü, geleneksel çevrelerle arasının açılmasına neden olmuştur."
+    },
+    {
+      "title": "Aşırı Determinizm",
+      "text": "Evrendeki her şeyi neden-sonuç ilişkisine o kadar sıkı bağlamıştır ki, bu durum bazen mucizelere veya mutlak özgürlüğe alan bırakmamıştır."
+    }
+  ]
+}

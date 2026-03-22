@@ -1,0 +1,70 @@
+{
+  "subtitle": "Felsefenin Sürgün Dehası ve Arşivci Ruhu (490–560)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tarihin Dönüm Noktası: MS 529 ve Pers Sürgünü",
+      "body": "İmparator Jüstinyen, \"pagan zehri\" yaydığı gerekçesiyle Atina Akademisi'ni kapattığında, Simplicius ve hocası Damascius'un önünde iki yol vardı: Susmak ya da gitmek.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Khosrow'un Sarayı",
+          "text": "Yedi filozof, \"Filozof Kral\" olarak nam salan Sasani hükümdarı I. Khosrow'un (Enuşirvan) sarayına, Ctesiphon'a sığındılar."
+        },
+        {
+          "label": "Hayal Kırıklığı ve Dönüş",
+          "text": "Pers sarayının da hayallerindeki \"ideal devlet\" olmadığını görünce geri döndüler. Ancak Khosrow, Bizans ile yaptığı barış antlaşmasına özel bir madde ekletti: Bu yedi filozof, inançlarından dolayı hiçbir baskı görmeden Bizans topraklarında yaşayacaktır. Bu, tarihin ilk \"akademik özgürlük\" antlaşmalarından biridir."
+        }
+      ]
+    },
+    {
+      "title": "Temel Misyon: Hafızayı Kaydetmek",
+      "body": "Simplicius'un en büyük hizmeti, kendisinden önceki filozofların eserlerinden yaptığı devasa alıntılardır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pre-Sokratiklerin Kurtarıcısı",
+          "text": "Bugün Parmenides, Empedokles veya Anaksagoras hakkında bildiğimiz pek çok şeyi, Simplicius'un Aristoteles şerhlerine \"kaybolmasın\" diye titizlikle eklediği orijinal fragmanlara borçluyuz. O olmasaydı, Batı düşüncesinin temelleri bugün koca bir boşluktan ibaret olacaktı."
+        },
+        {
+          "label": "Aristoteles Şerhleri",
+          "text": "Aristoteles'in Fizik, Gökler Üzerine ve Kategoriler eserlerine yazdığı yorumlar, antik fiziğin ve mantığın ulaştığı en yüksek noktadır."
+        }
+      ]
+    },
+    {
+      "title": "Ezeli Evren Savunusu",
+      "body": "Hristiyan düşünürlerin (özellikle sınıf arkadaşı Philoponus'un) \"evrenin bir başlangıcı vardır\" iddiasına karşı, Aristotelesçi \"evrenin ezeliliği\" fikrini ölümüne savunmuştur. Onun için zaman ve madde bir döngüdür; yaratılmamıştır ve yok edilemez.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Muazzam Bir Entelektüel Dürüstlük",
+      "text": "Bir fikri eleştirirken bile o fikrin sahibinden sayfalarca alıntı yapması, onun gerçeğe ve emeğe duyduğu saygıyı gösterir. O, antik dünyanın en güvenilir referans kaynağıdır."
+    },
+    {
+      "title": "Sentez ve Derinlik",
+      "text": "Sadece bir \"noter\" değil, Platon ve Aristoteles'i Yeni Platoncu bir potada eriten derin bir düşünürdür. Mantıksal analizleri, Ortaçağ fiziğinin temelini atmıştır."
+    },
+    {
+      "title": "Kültürel Köprü",
+      "text": "Atina, Ctesiphon ve muhtemelen Harran hattında kurduğu o görünmez entelektüel köprü, kadim bilginin İslam dünyasına geçişindeki en kritik halkadır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Muhafazakar Katılık",
+      "text": "Değişen dünyayı ve yükselen yeni inançları anlamak yerine, onları sadece \"cehalet\" olarak görüp reddetmesi, felsefesini biraz fazla \"reaksiyoner\" kılmıştır."
+    },
+    {
+      "title": "Laf Kalabalığı (Verbosity)",
+      "text": "Şerhleri o kadar uzundur ki (bazen bir sayfalık orijinal metne yüz sayfa yorum yazar), asıl fikir bu devasa metin yığınları arasında bazen kaybolabilir."
+    },
+    {
+      "title": "Kendi Sisteminin Olmayışı",
+      "text": "Tıpkı Porphyrios gibi, o da devlerin omuzlarında durmayı, yeni bir dev olmaya tercih etmiştir. O bir \"koruyucu\"dur, bir \"fatih\" değil."
+    }
+  ]
+}

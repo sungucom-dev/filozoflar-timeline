@@ -1,0 +1,74 @@
+{
+  "subtitle": "Varlığın Geometrisi ve Tanrısal Zincir (412–485)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Öğreti: Üçlü Devinim (Triad)",
+      "body": "Proclus, varlığın \"taşma\" (sudur) sürecini Plotinus'tan devralmış ama onu çok daha disiplinli bir döngüye oturtmuştur. Ona göre evrendeki her oluşum şu üçlü aşamadan geçer.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mone (Kalma)",
+          "text": "Her şey önce kaynağında (nedeninde) sükunetle durur."
+        },
+        {
+          "label": "Proodos (Çıkma)",
+          "text": "Nedenden bir taşma olur, varlık çoğalarak aşağı doğru akar."
+        },
+        {
+          "label": "Epistrophe (Geri Dönme)",
+          "text": "Çıkan her şey, özlemle tekrar kaynağına dönmeye çalışır. Bu döngü, evrenin nefes alıp vermesi gibidir. Proclus için felsefenin amacı, bu \"geri dönüş\" (epistrophe) yolculuğuna rehberlik etmektir."
+        }
+      ]
+    },
+    {
+      "title": "Henadlar: Bir ile Çok Arasındaki Köprü",
+      "body": "Proclus, \"Mutlak Bir\"in nasıl olup da bu kadar çok tanrıya ve varlığa dönüştüğünü açıklamak için Henadlar (Birlikler) kavramını getirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çoğulcu Monizm",
+          "text": "Henadlar, \"Bir\"den hemen sonra gelen tanrısal güçlerdir. Bunlar sayesinde hem \"Bir\"in mutlaklığı korunur hem de Pagan dünyasının çok tanrılı yapısı felsefi bir mantığa oturtulur."
+        },
+        {
+          "label": "Hiyerarşi",
+          "text": "Evren; melekler, cinler (daimonlar), kahramanlar ve ruhlarla dolu, kaskatı ve muazzam bir hiyerarşik zincirdir."
+        }
+      ]
+    },
+    {
+      "title": "Geometrik Metot: Elementa Theologica",
+      "body": "Proclus, felsefeyi Öklid'in geometrisi gibi yazmıştır. En ünlü eseri Teolojinin İlkeleri, tıpkı bir geometri kitabı gibi \"Tanım-Önerme-Kanıt\" sırasıyla ilerler. Bu, Batı tarihinde felsefenin matematiksel bir kesinlikle ifade edildiği ilk büyük girişimdir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Sistemleştirme Zirvesi",
+      "text": "Plotinus'un şiirsel ve dumanlı vizyonunu, herkesin anlayabileceği (veya en azından takip edebileceği) kaskatı bir mantık sistemine dönüştürmüştür."
+    },
+    {
+      "title": "Muazzam Etki",
+      "text": "Proclus'un fikirleri, \"Sahte Dionysios\" takma adıyla Hristiyanlığın içine sızmış, oradan da hem İslam dünyasını (özellikle Liber de Causis üzerinden) hem de Hegel gibi modern filozofları derinden etkilemiştir. Hegel, Proclus için \"gerçek bir diyalektik ustası\" demiştir."
+    },
+    {
+      "title": "Kültürel Muhafız",
+      "text": "Antik Yunan mirasını, bilimini ve teolojisini yok olmanın eşiğindeyken toparlayıp bir \"külliyat\" haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Teknikleşme",
+      "text": "Evreni o kadar çok katmana ve hiyerarşiye bölmüştür ki, felsefe bazen yaşayan bir hakikat arayışından ziyade, karmaşık bir \"bürokratik çizelgeye\" dönüşme riski taşır."
+    },
+    {
+      "title": "Gelenekçiliğin Prangası",
+      "text": "Pagan inançlarını kurtarmak için o kadar çok \"yama\" (Henadlar gibi) yapmıştır ki, sistem bazen rasyonel temellerinden kopup sadece eskiyi savunma çabasına dönüşebilir."
+    },
+    {
+      "title": "İrade Kaybı",
+      "text": "Her şeyin bu kadar kaskatı bir \"çıkış ve dönüş\" döngüsüne bağlı olması, bireyin özgür iradesini ve yaratıcılığını sistemin dişlileri arasında ezebilir."
+    }
+  ]
+}

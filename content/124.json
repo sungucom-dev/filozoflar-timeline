@@ -1,0 +1,79 @@
+{
+  "subtitle": "Anadolu Hümanizmi ve Türkçenin Şafağı (1238–1328)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "\"Bir Ben Vardır Bende, Benden İçerü\"",
+      "body": "Yunus, felsefede \"kendini bilme\" (nosce te ipsum) geleneğini en saf haliyle temsil eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçsel Yolculuk",
+          "text": "Hakikatin dışarıda, uzak diyarlarda veya sadece kitaplarda değil; insanın kendi iç dünyasında saklı olduğunu savunur."
+        },
+        {
+          "label": "Dikey Derinlik",
+          "text": "İnsanın biyolojik varlığının ötesinde, Tanrısal bir öze sahip olduğunu vurgular. Bu, bireyin kendi kutsallığını keşfetme sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Evrensel Hümanizm: \"Yaradılanı Severiz, Yaradan'dan Ötürü\"",
+      "body": "Yunus'un ahlak felsefesi, dini veya etnik sınırları tanımaz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Koşulsuz Sevgi",
+          "text": "Sevginin bir nesnesi olmadığını, sevginin kaynağının Tanrı olduğu için tüm varlığın sevilmeye layık olduğunu savunur."
+        },
+        {
+          "label": "İnsan Onuru",
+          "text": "72 millete bir gözle bakmayan kişinin \"halk içinde akil olsa da hakikatte asi\" olduğunu söyleyerek, evrensel bir eşitlik ve kardeşlik manifestosu sunar."
+        }
+      ]
+    },
+    {
+      "title": "Dilin Gücü: Türkçeyi Felsefe Dili Yapmak",
+      "body": "Yunus'un en büyük devrimlerinden biri de dildedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Öz Türkçe",
+          "text": "Karmaşık Arapça ve Farsça terimlerin hakim olduğu bir dönemde, halkın konuştuğu sade Türkçeyle en karmaşık ontolojik problemleri (Vahdet-i Vücud vb.) anlatabilmiştir."
+        },
+        {
+          "label": "Kalıcı Miras",
+          "text": "Onun şiirleri, Anadolu Türkçesinin bin yıl boyunca ayakta kalmasını sağlayan en güçlü kolonlardan biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefeyi Halkla Buluşturması",
+      "text": "Bilgeliği seçkinlerin tekelinden alıp sokağa ve tarlaya indirmiştir. Bu, Anadolu'nun ruhsal ve toplumsal inşasında hayati bir rol oynamıştır."
+    },
+    {
+      "title": "Seküler Şiddete Karşı Manevi Direniş",
+      "text": "Moğol istilalarının yarattığı kaos ve umutsuzluk ortamında, insanlara \"sevgiyi\" bir hayatta kalma stratejisi olarak sunmuştur."
+    },
+    {
+      "title": "Hümanizmin Öncüsü",
+      "text": "Batı'daki hümanist akımlardan yüzyıllar önce, insanı merkeze alan ve liyakati \"aşk\" ile ölçen bir değerler sistemi kurmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Akademik Sistem Eksikliği",
+      "text": "Yunus bir sistem filozofu değildir. Görüşleri deyişler ve şiirler arasındadır. Bu durum, onun düşüncelerinin rasyonel bir metodolojiyle analiz edilmesini zorlaştırabilir."
+    },
+    {
+      "title": "Metaforların Gölgesinde Kalmak",
+      "text": "Fikirlerini o kadar çok metafor (dağ, dere, çiçek vb.) ile anlatır ki, bazen bu edebi güzellik, altındaki derin felsefi analizin önüne geçebilir."
+    },
+    {
+      "title": "Kurumsal Din ile Çatışma",
+      "text": "Şekilci din anlayışına (şeriatın zahirine) getirdiği sert eleştiriler, döneminde bazı çevrelerce \"sapkınlık\" olarak görülmesine ve eserlerinin sansürlenmeye çalışılmasına yol açmıştır."
+    }
+  ]
+}

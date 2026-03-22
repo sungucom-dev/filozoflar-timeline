@@ -1,0 +1,75 @@
+{
+  "subtitle": "Bağdat'ın Melankolik ve Eşsiz Kalemi (923–1023)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Edebiyat ve Felsefenin İzdivacı",
+      "body": "Tevhîdî'nin en büyük başarısı, kuru mantık dilini edebiyatın estetiğiyle birleştirmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "el-İmtâ' ve'l-Muânese",
+          "text": "Bir vezirin meclislerinde kırk gece boyunca anlattığı hikayelerden oluşan bu eser, 10. yüzyılın adeta bir \"panoramasıdır\". İçinde her şey vardır: Siyaset, aşk, matematik, hayvanlar alemi ve metafizik."
+        },
+        {
+          "label": "el-Mukābesât",
+          "text": "Hocası Sicistânî'nin meclislerindeki o derin felsefi tartışmaları kağıda dökerek, bize o dönemin \"canlı\" felsefe tarihini miras bırakmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Büyük Tartışma: Mantık mı, Gramer mi?",
+      "body": "Tevhîdî'nin bize aktardığı en meşhur olay, mantıkçı Ebû Bişr Mattâ ile dilci Ebû Saîd es-Sîrâfî arasındaki düellodur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Savunma",
+          "text": "Sîrâfî, mantığın Yunan diline ait bir kural olduğunu ve Arapçayı anlamak için gramerin yeterli olduğunu savunurken; Mattâ, mantığın evrensel bir akıl dili olduğunu iddia eder."
+        },
+        {
+          "label": "Tevhîdî'nin Rolü",
+          "text": "Tevhîdî bu tartışmayı aktarırken aslında kültürler arası çatışmanın ve \"bilginin yerelliği vs. evrenselliği\" probleminin altını çizer."
+        }
+      ]
+    },
+    {
+      "title": "İnsan: \"Üzerinde Her Şeyin Düğümlendiği Varlık\"",
+      "body": "Tevhîdî'nin felsefesi \"İnsan\" merkezlidir. Ona göre insan, evrenin küçük bir kopyasıdır ve anlaşılması en zor bilmecedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hümanizm",
+          "text": "İnsanın acılarını, yalnızlığını, çaresizliğini ve aynı zamanda yüceliğini anlatırken gösterdiği derinlik, onu Rönesans hümanistlerinden yüzyıllar önce bu akımın temsilcisi yapar."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefeyi Sosyalleştirmek",
+      "text": "Felsefeyi teknik terimlerden kurtarıp, onu hayatın içine, sohbete ve edebiyata taşımıştır. Onun sayesinde felsefe \"okunabilir\" ve \"hissedilebilir\" olmuştur."
+    },
+    {
+      "title": "Psikolojik Derinlik",
+      "text": "İnsan karakterlerini, vezirlerin kibrini, bilginlerin hasedini öyle bir anlatır ki, bugün bile modern bir roman okuyormuş hissine kapılırsınız."
+    },
+    {
+      "title": "Hafıza Kaydı",
+      "text": "Bağdat'ın \"altın çağını\" tüm çıplaklığıyla, dedikodularıyla ve fikir ayrılıklarıyla bize ulaştıran en dürüst (ve en sivri dilli) tanıktır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Karamsarlık ve Melankoli",
+      "text": "Hayatı boyunca beklediği takdiri görememesi onu hırçınlaştırmıştır. Bu durum, eserlerinde bazen \"objektiflikten uzak\" sert eleştirilere (özellikle vezirlere karşı) neden olmuştur."
+    },
+    {
+      "title": "Kitaplarını Yakması",
+      "text": "Ömrünün sonunda binlerce sayfalık eserini \"beni anlamadılar\" diyerek yakması, felsefe tarihi için büyük bir kayıp ve bir \"entelektüel pes ediş\" olarak görülür."
+    },
+    {
+      "title": "Sistemli Bir Metafizik Yokluğu",
+      "text": "O bir \"sistem kurucu\" değildir. Fikirleri dağınıktır, bir konudan diğerine savrulur. Onun felsefesi daha çok bir \"perspektifler yığınıdır\"."
+    }
+  ]
+}

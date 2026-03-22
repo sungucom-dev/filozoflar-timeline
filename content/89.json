@@ -1,0 +1,79 @@
+{
+  "subtitle": "Beytü'l-Hikme'nin Beyni ve Bilimin Arapça Sesi (809–873)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Metodolojik Devrim: Tercümede Bilimsel Yaklaşım",
+      "body": "Huneyn'den önce tercüme, kelime kelime yapılan ve anlamın sıkça kaybolduğu hantal bir işti. Huneyn bunu kökten değiştirdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Metin Tenkidi",
+          "text": "Bir eseri çevirmeden önce, o eserin bulabildiği tüm Yunanca ve Süryanice nüshalarını toplar, karşılaştırır ve \"en doğru\" metni (edisyon kritik) ortaya çıkarırdı."
+        },
+        {
+          "label": "Anlam Odaklı Tercüme",
+          "text": "Kelime kelime değil, yazarın ne demek istediğini anlayıp onu hedef dilde (Arapça) en akıcı şekilde yeniden inşa etme yöntemini geliştirdi."
+        },
+        {
+          "label": "Terim İnşası",
+          "text": "Bugün Arapça ve Türkçede hala kullandığımız binlerce tıp ve felsefe teriminin ilk mucidi odur."
+        }
+      ]
+    },
+    {
+      "title": "Gözlerin Işığı: Bir Tıp Dehası",
+      "body": "Huneyn sadece bir dilbilimci değil, aynı zamanda döneminin en büyük hekimlerinden biriydi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "On Risale (el-Aşr Makalat fi'l-Ayn)",
+          "text": "Gözün anatomisi, fizyolojisi ve hastalıkları üzerine tarihin ilk sistemli tıp kitabını yazmıştır. Gözü, bugün bile tıp öğrencilerinin tanıdığı o meşhur katmanlı yapısıyla tasvir etmiştir."
+        },
+        {
+          "label": "Galen'in Mirasçısı",
+          "text": "Antik Yunanlı hekim Galen'in eserlerini Süryanice ve Arapçaya kazandırarak, İslam dünyasındaki tıp devriminin (Razi ve İbn Sina'nın) temelini atmıştır."
+        }
+      ]
+    },
+    {
+      "title": "İnanç ve Sadakat: Saraydaki Hristiyan",
+      "body": "Huneyn, Abbasi Halifesi Mütevekkil'in sarayında yaşayan bir Nasturi Hristiyan'dı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Etik Duruş",
+          "text": "Halife, düşmanlarına zehir hazırlaması için ona devasa paralar teklif ettiğinde, \"Dinim ve mesleğim insanları öldürmeyi değil, yaşatmayı emrediyor\" diyerek reddetmiş ve bu uğurda hapis yatmıştır. Bu tavrı, onu bilimsel etiğin ilk kahramanlarından biri yapar."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilginin Kurtarıcısı",
+      "text": "Yunan mirası Bizans'ta dini baskılarla yok olma tehlikesi yaşarken, o bu mirası Arapçaya taşıyarak ölümsüz kılmıştır. O olmasaydı, Rönesans'ı tetikleyecek metinler asla korunamazdı."
+    },
+    {
+      "title": "Kusursuz Doğruluk",
+      "text": "Onun yaptığı tercümeler o kadar titizdir ki, bugün kayıp olan bazı Yunanca orijinalleri bilim insanları Huneyn'in Arapça metinlerinden geri çevirerek bulmaya çalışmaktadır."
+    },
+    {
+      "title": "Bilimsel İşbirliği",
+      "text": "Kendi oğlu İshak ve yeğeni Hubeyş ile kurduğu \"tercüme ekibi\", tarihin ilk büyük bilimsel kolektif çalışma örneğidir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Galen Takıntısı",
+      "text": "Galen'in tıbbi otoritesine o kadar güveniyordu ki, bazen Galen'in yaptığı hataları bile \"hakikat\" olarak savunmuştur. Bu durum, İslam tıbbında deneysel yeniliklerin gelmesini bir süre geciktirmiştir."
+    },
+    {
+      "title": "Özgünlükten Ziyade Aktarım",
+      "text": "Huneyn bir \"filozof\" değil, bir \"alim\"dir. Yeni bir felsefi sistem kurmaktan ziyade, mevcut sistemleri mükemmel şekilde aktarmayı seçmiştir."
+    },
+    {
+      "title": "Siyasi Kırılganlık",
+      "text": "Saray entrikalarına çok yakındı. Bu durum, dehasının bazen felsefi tartışmalardan ziyade saraydaki güç savaşları arasında (örn. Kindi ile olan rekabeti) harcanmasına neden olmuştur."
+    }
+  ]
+}

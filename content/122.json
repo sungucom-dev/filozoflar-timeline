@@ -1,0 +1,79 @@
+{
+  "subtitle": "Bilimlerin Kökeni ve Formların Çatışması (1215–1279)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "De Ortu Scientiarum (Bilimlerin Doğuşu Üzerine)",
+      "body": "Kilwardby'nin en büyük felsefi mirası, bilimlerin sınıflandırılması ve eğitimin haritasını çizdiği bu eseridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eğitim Tasarımı",
+          "text": "Bilgiyi; felsefe, matematik, fizik ve teoloji gibi alanlara ayırırken, her birinin kökenini ve metodunu titizlikle analiz etmiştir. Bu eser, Ortaçağ üniversitelerinde \"neyin, nasıl öğretilmesi gerektiği\" konusunda temel bir rehber olmuştur."
+        },
+        {
+          "label": "Sentetik Zekâ",
+          "text": "O, bilimleri birbirinden kopuk alanlar olarak değil, insan zihninin hakikate ulaşmak için kullandığı bir merdivenin basamakları olarak görmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Formların Çokluğu (Plurality of Forms)",
+      "body": "Kilwardby'nin Aquinas ile yaşadığı en büyük entelektüel kavga buradadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aquinas'ın İddiası",
+          "text": "İnsanda sadece \"tek bir form\" (makul ruh) vardır; bu form hem canlılığı hem de düşünmeyi sağlar."
+        },
+        {
+          "label": "Kilwardby'nin İtirazı",
+          "text": "Kilwardby, daha gelenekçi (Augustinusçu) bir çizgide kalarak insanda \"birden fazla form\" olduğunu savunmuştur: Bitkisel ruh (yaşam için), hayvani ruh (duyu için) ve akli ruh (düşünme için)."
+        },
+        {
+          "label": "Endişesi",
+          "text": "Eğer Aquinas'ın dediği gibi sadece tek bir form varsa, bedenden ayrıldığında bedenin kimliği (ve kutsal emanetlerin statüsü) tehlikeye girer diye düşünmüştür."
+        }
+      ]
+    },
+    {
+      "title": "1277 Oxford Yasakları",
+      "body": "Sadece bir düşünür değil, aynı zamanda Canterbury Başpiskoposu olarak büyük bir otoriteye sahipti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yasaklama",
+          "text": "1277 yılında Oxford Üniversitesi'nde, aralarında Thomas Aquinas'ın bazı fikirlerinin de bulunduğu 30 kadar felsefi önermeyi yasaklamıştır. Bu hamle, felsefe tarihinde \"Saf Aristotelesçilik\" ile \"Hristiyan inancı\" arasındaki gerilimin en somut örneklerinden biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Pedagojik Düzen",
+      "text": "Bilimleri sistematik bir yapıya oturtarak, Batı'nın eğitim geleneğine (liberal arts) sarsılmaz bir metodoloji kazandırmıştır."
+    },
+    {
+      "title": "Gelenekle Bağ",
+      "text": "Aristotelesçi mantığı, Augustinusçu teolojiyle uyumlu halde tutmaya çalışarak, Hristiyan düşüncesinin köklerinden kopmamasını sağlamıştır."
+    },
+    {
+      "title": "Hukuki Titizlik",
+      "text": "Gramer ve dil felsefesi üzerine yaptığı çalışmalar, Ortaçağ Latincesinin ve mantığının gelişimine büyük katkı sunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yeniliğe Kapalılık",
+      "text": "Thomas Aquinas gibi dahi bir ismin getirdiği taze ve rasyonel bakış açısını \"tehlikeli\" görerek yasaklaması, onu tarihin ilerleyişi karşısında biraz \"reaksiyoner\" (tepkici) bir konumda bırakmıştır."
+    },
+    {
+      "title": "Otoriter Müdahale",
+      "text": "Akademik tartışmaları idari yasaklarla çözmeye çalışması, özgür düşüncenin Oxford'da bir dönem baskılanmasına neden olmuştur."
+    },
+    {
+      "title": "Karmaşıklık",
+      "text": "Formların çokluğu teorisi, evreni ve insanı açıklarken Aquinas'ın sadeliğine kıyasla çok daha karmaşık ve bazen hantal bir ontoloji yaratmıştır."
+    }
+  ]
+}

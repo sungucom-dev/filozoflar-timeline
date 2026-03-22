@@ -1,0 +1,79 @@
+{
+  "subtitle": "Kozmos, Kadın ve İlahi Yeşillik (1098–1179)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Vizyoner Teoloji: Scivias (Yolları Bil)",
+      "body": "Hildegard, çocukluğundan beri \"yaşayan ışığın yansıması\" dediği vizyonlar gördüğünü iddia etmiştir. Bu vizyonlar, onun için soyut bir felsefe değil, görsel bir kozmolojidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kozmik Adam",
+          "text": "İnsanı evrenin merkezine ve tam kalbine yerleştirir. Ona göre evren bir \"yumurta\" gibidir ve Tanrı'nın sevgisiyle kuşatılmıştır."
+        },
+        {
+          "label": "Kadınlık İlkesi",
+          "text": "Tanrı'nın dişilliğini ve \"Bilgelik\" (Sophia) kavramını öne çıkararak, teolojide eril hegemonyaya zarif ama güçlü bir denge getirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Viriditas: Hayat Veren Yeşillik",
+      "body": "Hildegard'ın felsefeye kattığı en özgün kavram Viriditas'tır (Yeşillik/Tazelik).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İlahi Yaşam Gücü",
+          "text": "Bu kavram, bitkilerdeki büyütücü gücü, topraktaki bereketi ve insandaki ruhsal canlılığı temsil eder. Günah, ona göre \"kuruluk\" ve \"sararıp solma\"dır."
+        },
+        {
+          "label": "Ekolojik Teoloji",
+          "text": "Doğayı Tanrı'dan ayrı bir \"madde\" olarak değil, O'nun nefesiyle sürekli yeşeren canlı bir organizma olarak görmüştür. Bu yönüyle modern ekofelsefenin en erken öncülerinden biridir."
+        }
+      ]
+    },
+    {
+      "title": "Bilim, Tıp ve Müzik: Bütünsel Şifa",
+      "body": "Ona göre müzik, cennetin yeryüzündeki yankısıdır. Tıp ise bu müziği bedende yeniden kurma sanatıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Lingua Ignota",
+          "text": "Kendi tasarladığı, 1000'den fazla kelimeden oluşan gizli bir dil oluşturmuştur."
+        },
+        {
+          "label": "Doğa Tarihi (Physica)",
+          "text": "Bitkilerin, taşların ve hayvanların tedavi edici özelliklerini bilimsel bir merakla incelemiş, Batı tıp geleneğine halk hekimliği ile teorik bilgiyi birleştiren eserler bırakmıştır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kadın Entelektüel Kimliği",
+      "text": "Ortaçağ'da kadının sadece \"itaat eden\" değil, \"vahyeden ve düşünen\" bir özne olabileceğini kanıtlamıştır."
+    },
+    {
+      "title": "Bütünsel (Holistik) Yaklaşım",
+      "text": "Ruh, beden ve doğa arasındaki kopmaz bağı savunarak, tıbbı ve felsefeyi birbirinden ayırmayan bir bilgelik yolu çizmiştir."
+    },
+    {
+      "title": "Sanatsal Miras",
+      "text": "Bestelediği ilahiler ve yazdığı Ordo Virtutum (Erdemler Düzeni) ile müziği felsefi bir ifade aracı olarak zirveye taşımıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Otoriteye Bağımlılık",
+      "text": "Kendi fikirlerini sunarken \"Ben sadece zayıf bir kadınım, bunları bana Tanrı gösterdi\" diyerek vizyonlara sığınması, rasyonel felsefe açısından bir \"kanıt\" sorunu yaratır. (Ancak bu, o dönemde bir kadının hayatta kalması için tek yoldu.)"
+    },
+    {
+      "title": "Feudal Muhafazakârlık",
+      "text": "Toplumsal sınıfların Tanrı tarafından belirlendiğini savunarak, mevcut hiyerarşik düzeni kutsamış ve sosyal değişime kapalı bir duruş sergilemiştir."
+    },
+    {
+      "title": "Analoji Karmaşası",
+      "text": "Her şeyi her şeyle (bitkileri organlarla, yıldızları erdemlerle) ilişkilendiren o muazzam analoji dünyası, bazen nedenselliği ve rasyonel analizi gölgeleyebilir."
+    }
+  ]
+}

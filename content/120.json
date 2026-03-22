@@ -1,0 +1,43 @@
+{
+  "subtitle": "Küçük Kan Dolaşımının Mimarı ve Anatomik Devrimci (1213–1288)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Galen'in \"Görünmez Delik\" Teorisini Yıkması",
+      "body": "Antik çağın tıp otoritesi Galen ve onun izinden giden İbn Sînâ, kanın kalbin sağ karıncığından sol karıncığına, septumdaki (kalp bölmesi) \"görünmez delikler\" yoluyla geçtiğine inanıyordu.",
+      "ordered": false,
+      "items": [
+        {"label": "Büyük İtiraz", "text": "İbnü'n-Nefis, bizzat yaptığı gözlemlerle kalbin bölmesinin (septum) kalın olduğunu ve üzerinde hiçbir delik bulunmadığını haykırdı."},
+        {"label": "Küçük Kan Dolaşımı", "text": "Kanın sağ karıncıktan akciğer atardamarı ile akciğerlere gittiğini, burada hava ile karıştığını (oksijenlendiğini) ve akciğer toplardamarı yoluyla kalbin sol tarafına geri döndüğünü ilk kez o tarif etti."}
+      ]
+    },
+    {
+      "title": "Şerh Teşrîhu'l-Kânûn (Kanun'un Anatomi Şerhi)",
+      "body": "İbnü'n-Nefis, İbn Sînâ'nın ünlü el-Kânûn fi't-Tıbb eserine yazdığı bu şerhte, sadece anatomiyi değil; tıbbın felsefi temellerini de eleştirdi.",
+      "ordered": false,
+      "items": [
+        {"label": "Gözleme Dayalı Anatomi", "text": "Kitabi bilgilere dayanmak yerine, \"bedeni bizzat görmeyi\" esas aldı. Kılcal damarların varlığına dair ilk sezgileri ve koroner damarların (kalbi besleyen damarlar) işleyişini bu eserde sundu."},
+        {"label": "Felsefi Tıp", "text": "Ona göre beden, ruhun sadece bir aleti değildir; beden ile ruh arasında biyolojik bir zorunluluk ve uyum vardır."}
+      ]
+    },
+    {
+      "title": "er-Risâletü'l-Kâmiliyye (Theologus Autodidactus)",
+      "body": "İbn Tufeyl'in Hayy bin Yakzan'ına nazire olarak yazdığı bu eser, tarihin ilk teolojik ve bilimsel kurgu romanlarından biridir.",
+      "ordered": false,
+      "items": [
+        {"label": "Kendi Kendine Yetişen Kamil", "text": "Issız bir adada doğan Kamil, sadece aklıyla değil; tıp, astronomi ve biyoloji bilgisiyle Tanrı'nın varlığına ve dini hakikatlere ulaşır."},
+        {"label": "Analiz", "text": "Bu kitapla İbnü'n-Nefis, rasyonel bilimin (tıp ve biyolojinin) dini düşünceyle nasıl tam bir uyum içinde olduğunu göstermeye çalışmıştır."}
+      ]
+    }
+  ],
+  "strengths": [
+    {"title": "Otoriteyi Gözlemle Yıkması", "text": "Galen ve İbn Sînâ gibi \"dokunulmaz\" kabul edilen otoritelerin yanlışlarını sadece kitap okuyarak değil, fizyolojik gerçekleri analiz ederek düzeltmiştir."},
+    {"title": "Modern Fizyolojinin Öncüsü", "text": "Kan dolaşımı hakkındaki tespitleri, modern kardiyolojinin temel taşıdır. Onun bu keşfi, tıp bilimini karanlık çağlardan kurtarıp rasyonel bir zemine oturtmuştur."},
+    {"title": "Çok Yönlü Bilgelik", "text": "Sadece bir hekim değil, aynı zamanda fıkıh, mantık ve felsefe uzmanıdır. Bilgiyi kompartımanlara ayırmadan bütüncül bir bakış açısıyla işlemiştir."}
+  ],
+  "weaknesses": [
+    {"title": "Dil ve Üslup", "text": "Eserlerini Arapça kaleme almış olsa da, dönemin siyasi kargaşası ve Haçlı/Moğol istilaları nedeniyle bu keşiflerin Batı'ya (ve hatta İslam dünyasının diğer bölgelerine) yayılması yüzyıllar sürmüştür."},
+    {"title": "Klinik Uygulama Sınırı", "text": "Kan dolaşımını teorik ve anatomik olarak mükemmel açıklasa da, o dönemin teknik imkansızlıkları nedeniyle bu bilgisini cerrahi veya klinik tedavide tam kapasiteyle kullanamamıştır."},
+    {"title": "Gölgede Kalmışlık", "text": "Batı'da kan dolaşımı keşfi uzun süre William Harvey'e mal edilmiş; İbnü'n-Nefis'in hakkı ancak 1924 yılında Mısırlı bir tıp öğrencisinin (Muhyiddin el-Tatawi) Berlin kütüphanesinde onun el yazmalarını bulmasıyla teslim edilmiştir."}
+  ]
+}

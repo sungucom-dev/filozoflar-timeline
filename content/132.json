@@ -1,0 +1,75 @@
+{
+  "subtitle": "Hareketin Sırrı ve Seçimin Paradoksu (1300–1358)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İmpetus Teorisi: Newton'dan 300 Yıl Önce",
+      "body": "Aristoteles, bir nesnenin hareket etmeye devam etmesi için dışarıdan sürekli bir itici güç (hava gibi) gerektiğini savunurdu. Buridan bu saçmalığa son verdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçsel Güç",
+          "text": "Buridan'a göre, bir nesne fırlatıldığında ona \"İmpetus\" (itici güç/hız) denilen bir şey aktarılır. Nesne, hava direnci ve yerçekimi onu durdurana kadar bu içsel güçle hareketine devam eder."
+        },
+        {
+          "label": "Matematiksel Sezgi",
+          "text": "Buridan, bu gücün nesnenin madde miktarı (kütle) ve hızı ile doğru orantılı olduğunu söylemiştir. Bu, modern fizikteki p = mv (momentum) formülünün ilk sözel tanımıdır."
+        }
+      ]
+    },
+    {
+      "title": "Buridan'ın Eşeği: Kararsızlığın Bedeli",
+      "body": "Bu meşhur paradoks aslında Buridan'ın kendi eserlerinde tam bu haliyle geçmez, ancak onun \"özgür irade\" ve \"rasyonellik\" tartışmalarını özetlemek için kullanılır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Senaryo",
+          "text": "Tamamen aynı çekicilikte, aynı mesafede iki saman balyası arasında kalan bir eşek, hangisini seçeceğine karar veremediği için açlıktan ölür."
+        },
+        {
+          "label": "Felsefi Soru",
+          "text": "Akıl, birbirinin aynısı iki seçenek arasında seçim yapabilir mi? Buridan, insanın akıl yoluyla \"daha iyi olanı\" seçmesi gerektiğini savunurdu; ancak iki şey tamamen eşitse, irade kilitlenebilir mi? Bu, rasyonalizmin sınırlarını zorlayan muazzam bir paradokstur."
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel Metodun Sekülerleşmesi",
+      "body": "Buridan, doğayı açıklarken \"mucizelere\" veya \"Tanrı'nın doğrudan müdahalesine\" başvurmayı reddetmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gözlem ve Mantık",
+          "text": "O, gökyüzündeki yıldızların hareketinden yerdeki bir taşın düşüşüne kadar her şeyin aynı fiziksel yasalarla (impetus) açıklanabileceğini savunmuştur. Bu, evrensel fizik yasalarına giden yoldaki en devrimci adımlardan biridir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Fiziğin Bağımsızlığı",
+      "text": "Aristoteles'in hatalı fizik görüşlerini deneysel bir mantıkla çürüterek, modern mekaniğin (eylemsizlik ilkesi vb.) temellerini atmıştır."
+    },
+    {
+      "title": "Mantıksal Keskinlik",
+      "text": "Nominalizmi (Adcılığı) bilimsel araştırmalar için bir araç haline getirmiş, metafiziksel spekülasyonlar yerine kanıtlanabilir olgulara odaklanmıştır."
+    },
+    {
+      "title": "Akademik Liderlik",
+      "text": "Paris Üniversitesi'nde iki kez rektörlük yaparak, özgür düşüncenin ve bilimsel merakın kurumsallaşmasını sağlamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Gölgede Kalmışlık",
+      "text": "Keşifleri o kadar moderndir ki, tarih kitapları onun başarılarını çoğu zaman yüzyıllar sonra gelen Galileo veya Newton'a mal eder. Buridan hak ettiği \"bilim babası\" unvanını geç almıştır."
+    },
+    {
+      "title": "Hala Bir Skolastik",
+      "text": "Ne kadar yenilikçi olsa da, hala Ortaçağ terimleriyle ve mantık kalıplarıyla düşünmektedir. Tamamen \"saf deneysel\" bir bilime geçiş yapamamış, teorik düzeyde kalmıştır."
+    },
+    {
+      "title": "Paradoks Hapishanesi",
+      "text": "\"Eşek\" metaforunda olduğu gibi, insan davranışlarını bazen o kadar rasyonalize etmiştir ki, duyguların ve iradenin karmaşıklığını basite indirgeme riski taşımıştır."
+    }
+  ]
+}

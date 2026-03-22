@@ -1,0 +1,75 @@
+{
+  "subtitle": "Zahir'in Kılıcı ve Aşkın Filozofu (994–1064)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Aşkın Anatomisi: Tavk el-Hamâme (Güvercin Gerdanlığı)",
+      "body": "İbn Hazm, sert bir hukukçu olmadan önce ruhun derinliklerini keşfeden bir psikologdur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duyguların Analizi",
+          "text": "Bu eser, sadece bir şiir antolojisi değil; aşkın evrelerini, aşıkların psikolojisini ve insan ruhunun karanlık dehlizlerini inceleyen bir \"sosyal psikoloji\" şaheseridir."
+        },
+        {
+          "label": "Gözlem",
+          "text": "Aşkı, ruhların birbirine olan ezeli aşinalığı olarak görür. Onun bu eseri, Ortaçağ Avrupası'ndaki \"saray aşkı\" (troubadour) geleneğini bile derinden etkilemiştir."
+        }
+      ]
+    },
+    {
+      "title": "Zâhirîlik: Mantığın ve Metnin Mutlakiyeti",
+      "body": "İbn Hazm, hukukta ve teolojide \"Kıyas\"ı (analojiyi) ve \"Taklid\"i (körü körüne itaati) tamamen reddeder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sadece Metin",
+          "text": "Ona göre din, Allah'ın söylediklerinden ibarettir. İnsan aklı, Allah'ın söylemediği bir şeyi \"kıyas\" yoluyla dine ekleyemez."
+        },
+        {
+          "label": "Radikal Rasyonalizm",
+          "text": "Şaşırtıcı bir şekilde, bu lafızcı (literalist) tutumu onu kaskatı bir dogmacılığa değil, aksine metnin dışındaki her türlü otoriteyi (mezhep imamları dahil) sorgulayan özgür bir akılcılığa götürmüştür."
+        }
+      ]
+    },
+    {
+      "title": "Dinler Tarihinin Öncüsü: el-Fasl",
+      "body": "İbn Hazm, tarihin ilk \"karşılaştırmalı dinler tarihi\" uzmanlarından biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kritik Yöntem",
+          "text": "Kendi inancı dışındaki dinleri ve felsefi akımları sadece reddetmekle kalmamış; onların kutsal metinlerini titizlikle inceleyerek tutarsızlıkları mantık süzgecinden geçirmiştir. Bu, o dönem için devrim niteliğinde bir \"metin tenkidi\" çalışmasıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Muazzam Bir Özgünlük",
+      "text": "Hiçbir otoriteye boyun eğmeden, sadece delile dayanan bir düşünce sistemi kurmuştur. \"Sadece metin ve akıl\" diyerek taklitçiliğin kökünü kazımaya çalışmıştır."
+    },
+    {
+      "title": "Bilimsel Titizlik",
+      "text": "Dilbilim, mantık ve tarihi bir arada kullanarak İslam bilimlerine yüksek bir standart getirmiştir. Yazdığı 400 civarı cilt ile tam bir \"tek kişilik ordu\"dur."
+    },
+    {
+      "title": "Ruhun Bilgesi",
+      "text": "İnsan duygularını analiz ederken sergilediği hassasiyet, onu sadece bir bilgin değil, bir \"hümanist\" kılar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Sert Üslup",
+      "text": "Tartışmalarında kullandığı hırçın ve bazen hakarete varan dil, fikirlerinin geniş kitlelere yayılmasını engellemiş ve eserlerinin meydanlarda yakılmasına neden olmuştur."
+    },
+    {
+      "title": "Lafızcılığın Çıkmazı",
+      "text": "Kıyası tamamen reddetmesi, değişen hayat şartları karşısında hukuku bazen fazla kaskatı ve \"uygulanamaz\" bir hale getirme riski taşır."
+    },
+    {
+      "title": "Siyasi Talihsizlik",
+      "text": "Emevi taraftarlığı ve prens gibi yetişmiş olması, Endülüs'ün değişen siyasi dengelerinde onu sürekli sürgünlere ve yalnızlığa mahkum etmiştir."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "subtitle": "Kozmik Düzenin ve Erdemli Şehrin Mimarı (872–950)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Sudur (Emanasyon) Teorisi: Varlığın Hiyerarşisi",
+      "body": "Farabi, Tanrı (Zorunlu Varlık - Vacibü'l-Vücud) ile çokluk halindeki evren arasındaki uçurumu Yeni Platoncu bir \"taşma\" modeliyle açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "On Akıl",
+          "text": "Tanrı kendi üzerine düşünür ve bu düşünceden \"Birinci Akıl\" taşar. Bu süreç Onuncu Akıl'a (Faal Akıl) kadar devam eder."
+        },
+        {
+          "label": "Faal Akıl",
+          "text": "Bu akıl, bizim dünyamızın ve zihnimizin yöneticisidir. Bilginin kaynağı ve ruhun aydınlanma durağıdır."
+        }
+      ]
+    },
+    {
+      "title": "Siyaset Felsefesi: el-Medinetü'l-Fâzıla (Erdemli Şehir)",
+      "body": "Farabi, siyaseti teolojinin bir parçası olarak görür. Ona göre mutluluk ancak mükemmel bir toplumda elde edilebilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Filozof-Kral (İmam)",
+          "text": "Şehrin yöneticisi, Faal Akıl ile irtibat kurabilen, yani vahyi ve felsefi hakikati bünyesinde birleştiren \"üstün insan\" olmalıdır."
+        },
+        {
+          "label": "Organik Toplum",
+          "text": "Şehir, bir insan vücudu gibidir. Kalp (yönetici) sağlamsa, tüm organlar (halk) uyum içinde çalışır. Erdemli olmayan şehirleri (Cahil, Fasık, Değişmiş Şehirler) birer \"hastalık\" olarak tanımlar."
+        }
+      ]
+    },
+    {
+      "title": "Bilimlerin Tasnifi ve Mantık",
+      "body": "Aristo mantığını İslam dünyasına öyle bir titizlikle yerleştirmiştir ki, felsefe bu sayede \"ciddi ve rasyonel\" bir kimlik kazanmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ihsaü'l-Ulûm (İlimlerin Sayımı)",
+          "text": "Bilimleri mantık, dil, matematik, fizik, metafizik ve siyaset olarak sınıflayarak Ortaçağ eğitim sisteminin (hem Doğu'da hem Batı'da) temelini atmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Müzik Teorisi: Kitabü'l-Musiqa'l-Kebir",
+      "body": "Farabi sadece bir teorisyen değil, bir müzisyendi. Kanun benzeri bir enstrüman olan \"Rübab\"ı geliştirdiği ve müziği matematiksel oranlarla açıklayarak modern müzikolojinin temellerini attığı kabul edilir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Muazzam Sentez",
+      "text": "Din ile felsefeyi, siyaset ile metafiziği öyle bir birbirine bağlamıştır ki, İslam düşüncesi ilk kez bütünsel ve rasyonel bir dünya görüşüne sahip olmuştur."
+    },
+    {
+      "title": "Siyaset Biliminin Kurucusu",
+      "text": "Toplumların yapısını, yönetim biçimlerini ve ahlaki çürümeyi sistematik olarak inceleyerek sosyolojinin ve siyaset biliminin öncüsü olmuştur."
+    },
+    {
+      "title": "Mantığın Zaferi",
+      "text": "Mantığı \"tüm bilimlerin terazisi\" yaparak, düşüncenin duygusal ve dogmatik savrulmalarını önlemeye çalışmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Elitizm",
+      "text": "Farabi'ye göre gerçek mutluluğa ancak \"faal akıl\" ile birleşen filozoflar ulaşabilir. Bu, felsefeyi halktan kopuk, ulaşılamaz ve aristokratik bir zirveye hapseder."
+    },
+    {
+      "title": "Ütopik Yaklaşım",
+      "text": "\"Erdemli Şehir\" ideali o kadar mükemmeldir ki, gerçek dünyanın karmaşası, insan hırsları ve siyasi gerçeklikler karşısında pratik bir çözüm sunmaktan ziyade bir \"hayal\" olarak kalma riski taşır."
+    },
+    {
+      "title": "Deterministik Kozmoloji",
+      "text": "Her şeyin Tanrı'dan zorunlu olarak taşması (sudur), Tanrı'nın iradesini ve insanın özgürlüğünü mekanik bir sürecin parçası haline getirebilir."
+    }
+  ]
+}

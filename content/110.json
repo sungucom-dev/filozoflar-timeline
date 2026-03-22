@@ -1,0 +1,42 @@
+{
+  "subtitle": "Hayy bin Yakzan ve \"Kendi Kendine Öğrenen\" İnsan (1105–1185)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Hayy bin Yakzan: İlk Felsefi Roman",
+      "body": "İbn Tufeyl'in başyapıtı, bir adada tek başına büyüyen Hayy bin Yakzan'ın (Diri oğlu Uyanık) hikayesidir. Hayy, hiçbir insani eğitim almadan, sadece deney ve gözlemle evreni keşfeder.",
+      "ordered": false,
+      "items": [
+        {"label": "Biyolojik Keşif", "text": "Hayy, kendisini büyüten ceylan öldüğünde, ölümün ne olduğunu anlamak için ceylanın vücudunu parçalayarak \"otopsi\" yapar. Kalbi ve organları keşfederek yaşamın kaynağını arar."},
+        {"label": "Metafizik Yükseliş", "text": "Doğadaki düzeni gördükçe, bu düzenin bir \"Düzenleyici\"si olması gerektiği sonucuna varır. Maddeyi aşarak \"Zorunlu Varlık\" (Tanrı) kavramına kendi aklıyla ulaşır."}
+      ]
+    },
+    {
+      "title": "Tabula Rasa: Boş Levhadan Bilgeliğe",
+      "body": "İbn Tufeyl, insanın doğuştan getirdiği bir bilgi olmadığını, zihnin boş bir levha (tabula rasa) olduğunu ve bilginin duyular yoluyla inşa edildiğini savunan ilk isimlerden biridir.",
+      "ordered": false,
+      "items": [
+        {"label": "Empirizm ve Rasyonalizm", "text": "Hayy hem bir deneycidir (ateşi keşfeder, aletler yapar) hem de bir akılcıdır (mantıksal çıkarımlar yapar). Bu, felsefe tarihinin en dengeli sentezlerinden biridir."}
+      ]
+    },
+    {
+      "title": "Din ve Felsefe Uzlaşısı: Hayy ve Absal",
+      "body": "Romanın sonunda Hayy, komşu adadan gelen ve vahiy dinine inanan Absal ile karşılaşır.",
+      "ordered": false,
+      "items": [
+        {"label": "Aynı Hakikat", "text": "Hayy aklıyla neyi bulduysa, Absal'ın dininde de aynı hakikatlerin (sembollerle de olsa) anlatıldığını fark ederler."},
+        {"label": "Toplum Eleştirisi", "text": "Hayy, Absal'ın adasına (topluma) gider ancak insanların hakikati aramak yerine şekilcilik ve hırslarla uğraştığını görünce, hakikatin kitlelere anlatılamayacak kadar derin olduğunu anlayıp adasına geri döner."}
+      ]
+    }
+  ],
+  "strengths": [
+    {"title": "Eğitim Felsefesi", "text": "İnsanın bir öğretmene ihtiyaç duymadan, merak ve gözlemle evreni kavrayabileceğini gösteren \"otodidaktik\" (kendi kendine öğrenme) modelin öncüsüdür."},
+    {"title": "Evrensel Hümanizm", "text": "Hakikatin belirli bir coğrafyaya, dile veya topluma ait olmadığını; her insanın içindeki akıl ışığının onu gerçeğe götürebileceğini savunmuştur."},
+    {"title": "Edebi Deha", "text": "Felsefeyi bir \"hikaye\" içinde anlatarak, soyut fikirleri somut ve unutulmaz bir deneyime dönüştürmüştür."}
+  ],
+  "weaknesses": [
+    {"title": "Elitist Yaklaşım", "text": "Toplumun genelinin felsefeyi anlayamayacağını ve sadece \"şekilsel bir din\" ile idare edilmesi gerektiğini savunması, onu halktan kopuk, aristokratik bir çizgide bırakır."},
+    {"title": "Yalnızlık Ütopyası", "text": "İnsanın sosyal bir varlık olduğu gerçeğini (dilin ve kültürün aktarımı) bir kenara bırakarak, \"tek başına insan\" üzerinden bir teori kurması, antropolojik açıdan eksik olarak eleştirilmiştir."},
+    {"title": "İbn Rüşd'ün Gölgesinde", "text": "Felsefeyi bir hikaye gibi sunduğu için, halefi İbn Rüşd kadar \"keskin ve teknik\" bir mantık sistemi kurmamış, daha çok bir \"ilham kaynağı\" olarak kalmıştır."}
+  ]
+}

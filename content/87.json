@@ -1,0 +1,79 @@
+{
+  "subtitle": "Evrimin Öncüsü ve Sosyal Psikolojinin Üstadı (776–868)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kitab el-Hayavan: Biyolojik Devrim",
+      "body": "Cahiz, Darwin'den tam bin yıl önce, canlıların hayatta kalma mücadelelerini ve çevreye uyumlarını gözlemlemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Varolma Savaşı",
+          "text": "Hayvanların besin zincirindeki yerini, birbirlerini avlamalarını ve hayatta kalmak için geliştirdikleri stratejileri anlatır. \"Her canlı, bir başkasının rızkıdır,\" diyerek doğadaki acımasız dengeyi betimler."
+        },
+        {
+          "label": "Çevresel Adaptasyon",
+          "text": "İklimin ve çevrenin canlıların fiziksel yapılarını nasıl değiştirdiğini fark etmiştir. Örneğin, farklı coğrafyalardaki insanların ten renklerini tamamen çevresel faktörlere bağlar."
+        }
+      ]
+    },
+    {
+      "title": "Kitab el-Buhala (Cimriler Kitabı): Sosyal Hiciv",
+      "body": "Cahiz, sadece bir doğa bilimci değil, aynı zamanda muazzam bir toplum gözlemcisidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Psikolojik Derinlik",
+          "text": "Cimrileri sadece gülmek için anlatmaz; onların mantık yürütme biçimlerini, tutumluluklarını nasıl \"felsefileştirdiklerini\" ve insan doğasının tuhaflıklarını inceler."
+        },
+        {
+          "label": "Gerçekçi Tasvirler",
+          "text": "Eseri, dönemin Bağdat ve Basra hayatına dair en canlı, en renkli sosyolojik belgedir."
+        }
+      ]
+    },
+    {
+      "title": "Mutezile Akılcılığı ve \"El-Bayan\"",
+      "body": "O, bir Mutezile kelamcısıdır. Yani aklın, nakilden (rivayetten) önce gelmesi gerektiğini savunan rasyonalist kanadın temsilcisidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Edebiyat Kuramı",
+          "text": "Kitab el-Bayan ve't-Tabyin adlı eseriyle, sadece \"ne\" söylendiğine değil, \"nasıl\" söylendiğine (belagat) odaklanarak Arap edebiyatının teorik temellerini atmıştır."
+        },
+        {
+          "label": "Bilgiye Şüpheyle Yaklaşım",
+          "text": "Cahiz, duyduğu her şeye inanmaz; deney ve gözlemin (tecrübe) önemini vurgular. Karıncaları günlerce izleyip notlar alacak kadar sabırlı bir gözlemcidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilimsel Sezgi",
+      "text": "Evrimsel düşünceye, besin zincirine ve çevresel etkiye dair tespitleri, modern biyolojinin en erken ve en parlak kıvılcımlarıdır."
+    },
+    {
+      "title": "Hümanist ve Seküler Yaklaşım",
+      "text": "Dini konuları tartışırken bile insan doğasını, mizahı ve rasyonel mantığı asla elden bırakmaz. İslam dünyasında \"Adab\" (genel kültür ve nezaket) literatürünün kurucusudur."
+    },
+    {
+      "title": "Dil Devrimi",
+      "text": "Ağdalı ve yapay dilden kaçınarak, halkın ve hayatın içinden gelen, akıcı ve esprili bir düzyazı tarzı geliştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Düzensiz Metodoloji",
+      "text": "Eserleri bazen aşırı dağınıktır. Bir konudan bahsederken aniden bir şiire, oradan bir fıkraya, sonra tekrar bilimsel bir gözleme atlayabilir. Bu \"ansiklopedik dağınıklık\", sistemli bir teori kurmasını zorlaştırmıştır."
+    },
+    {
+      "title": "Rivayet ve Gözlem Karışımı",
+      "text": "Kendi yaptığı gözlemlerin arasına bazen halk efsanelerini ve doğrulanmamış rivayetleri de \"gerçek\" gibi serpiştirmiştir. Örneğin bazı fantastik yaratıklara dair anlatıları."
+    },
+    {
+      "title": "Polemikçilik",
+      "text": "Zekası o kadar keskindir ki, bazen muhatabını anlamaktan ziyade onu yerle bir etmeye ve alaya almaya odaklanabilir."
+    }
+  ]
+}

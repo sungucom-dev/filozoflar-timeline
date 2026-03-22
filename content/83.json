@@ -1,0 +1,74 @@
+{
+  "subtitle": "İkonaların Savunucusu ve Doğu'nun Mantık Mimarı (675–749)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Temel Eser: Bilginin Kaynağı (Pēgē Gnōseōs)",
+      "body": "Yuhanna, tıpkı Isidor gibi, kendinden önceki bilgiyi sistemleştirmeyi görev edinmiştir. Bu devasa eseri üç ana bölüme ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Felsefi Bölümler (Dialectica)",
+          "text": "Aristoteles'in mantığını ve Porphyrios'un kavramlarını açıklayarak başlar. Amacı, doğru düşünmeyi öğretmektir çünkü ona göre yanlış mantık, yanlış inanca yol açar."
+        },
+        {
+          "label": "Sapkınlıklar Üzerine",
+          "text": "Dönemindeki tüm aykırı akımları (Hristiyan mezhepleri ve yeni yükselen İslam dahil) listelemiş ve eleştirmiştir."
+        },
+        {
+          "label": "Ortodoks İnancın Doğru Açıklaması (De Fide Orthodoxa)",
+          "text": "Hristiyan dogmalarını felsefi bir dille sistemleştirdiği, Ortaçağ boyunca hem Doğu hem Batı teolojisini derinden etkileyen başyapıtıdır."
+        }
+      ]
+    },
+    {
+      "title": "İkona Savunusu ve Enkarnasyon Mantığı",
+      "body": "Bizans İmparatorları ikonaları yasakladığında, Yuhanna Şam'ın (Emevi korumasının) güvenliğinde buna en güçlü cevabı vermiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Madde Kutsaldır",
+          "text": "\"Tanrı insan oldu (İsa), yani maddeye büründü. Eğer Tanrı maddeye büründüyse, madde artık aşağılık bir şey değildir.\""
+        },
+        {
+          "label": "İmaj vs. İdol",
+          "text": "İkonaların birer tapınma nesnesi (put) değil, asıl hakikate açılan birer \"pencere\" olduğunu savunmuştur. Bu mantık, sanatın Hristiyanlık içindeki felsefi meşruiyetini sağlamıştır."
+        }
+      ]
+    },
+    {
+      "title": "İslam ile Erken Karşılaşma: \"Sarasenlerin Sapkınlığı\"",
+      "body": "Yuhanna, felsefe tarihinde İslam üzerine yazan ilk büyük Hristiyan düşünürlerden biridir. Onu bir \"sapkınlık\" (Hristiyanlık içinden çıkan bir sapma) olarak sınıflandırmış ve iki inanç arasındaki ilk büyük diyalektik tartışmaları (Kader, İsa'nın doğası vb.) başlatmıştır. Bu metinler, erken dönem Kelam (İslam teolojisi) tartışmalarını da etkilemiş olabilir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Aristotelesçiliğin Muhafızı",
+      "text": "Aristoteles mantığını teolojiye öyle sıkı entegre etmiştir ki, Doğu Hristiyanlığı bu sayede rasyonel bir zemin kazanmıştır."
+    },
+    {
+      "title": "Sentez Gücü",
+      "text": "Kendinden önceki tüm Kilise Babaları'nın (Kapadokyalı babalar vb.) dağınık fikirlerini tek bir \"doktrin\" haline getirerek Doğu Ortodoksluğunun \"resmi\" sesine dönüşmüştür."
+    },
+    {
+      "title": "Kültürel Köprü",
+      "text": "İslam dünyasının tam merkezinde bir Hristiyan bilge olarak yaşaması, iki kültür arasındaki ilk entelektüel sürtünmeyi ve dolayısıyla gelişimi tetiklemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yaratıcılık Eksikliği",
+      "text": "Yuhanna bir \"kaşif\" değildir. Kendisinden \"ben yeni bir şey söylemiyorum, sadece eskilerin söylediklerini topluyorum\" diye bahseder. Felsefe onun ellerinde dinamik bir arayıştan ziyade, \"bitmiş bir yapı\" haline gelir."
+    },
+    {
+      "title": "Polemikçi Üslup",
+      "text": "Eleştirdiği akımlara karşı bazen felsefi bir anlayış yerine, sert ve dışlayıcı bir polemik dilini tercih etmiştir. Bu da tartışmaların hakikat arayışından ziyade bir \"kimlik savaşına\" dönüşmesine neden olmuştur."
+    },
+    {
+      "title": "Felsefenin İkincilleştirilmesi",
+      "text": "Felsefeyi tamamen teolojinin hizmetine sokması, bağımsız bilimsel ve felsefi düşüncenin Bizans etkisindeki topraklarda uzun süre \"sınırlandırılmasına\" yol açmıştır."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "subtitle": "Gücün Grameri ve Ulusal Birlik (1469–1527)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Siyasal Realizm: \"Olan\" ile \"Olması Gereken\"",
+      "body": "Machiavelli'den önce siyaset, Platon veya Aquinas gibi \"ideal bir düzen\" arayışıydı. Machiavelli ise masayı devirdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hakikat-i Vakıa",
+          "text": "\"İnsanların nasıl yaşaması gerektiğiyle ilgilenenler, nasıl yaşadıklarını gözden kaçıranlar; kendilerini kurtarmak yerine mahvederler\" der."
+        },
+        {
+          "label": "Seküler Siyaset",
+          "text": "Siyasetin başarısını Tanrı'nın rızasında veya ahlaki üstünlükte değil, devletin bekasında ve düzenin korunmasında arar."
+        }
+      ]
+    },
+    {
+      "title": "Virtù ve Fortuna: İrade vs. Kader",
+      "body": "Machiavelli'ye göre bir hükümdarın başarısı bu iki kavramın dansına bağlıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fortuna (Kader/Talih)",
+          "text": "Hayatın rastgeleliği, kontrol edilemeyen fırtınalardır. O, kaderi \"azgın bir nehre\" benzetir."
+        },
+        {
+          "label": "Virtù (Yetenek/Erim)",
+          "text": "Bu, ahlaki \"erdem\" değil; hükümdarın hızı, cesareti, zekası ve enerjisidir. İyi bir lider, kaderin (Fortuna) önüne setleri ancak enerjisi (Virtù) ile çekebilir."
+        }
+      ]
+    },
+    {
+      "title": "Aslan ve Tilki: Hükümdarın İki Yüzü",
+      "body": "Machiavelli'ye göre bir liderin sadece \"iyi\" olması yetmez; hayatta kalmak için iki hayvanın doğasını kuşanmalıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aslan",
+          "text": "Tuzakları bozamasa da kurtları korkutacak kadar güçlü olmalıdır (Kaba kuvvet)."
+        },
+        {
+          "label": "Tilki",
+          "text": "Aslanın gücü yetmediğinde tuzakları fark edecek kadar kurnaz olmalıdır (Diplomasi ve hile)."
+        }
+      ]
+    },
+    {
+      "title": "Hükümdar (Prens) vs. Söylevler",
+      "body": "Çoğu kişi onu sadece zalimliği öğreten Prens kitabıyla tanır, ancak o aynı zamanda büyük bir Cumhuriyetçidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Prens",
+          "text": "İtalya'nın kaostan kurtulması için \"tek bir güçlü adamın\" (Sezar modelinin) gerekliliğini anlatır."
+        },
+        {
+          "label": "Söylevler",
+          "text": "Roma tarihinden yola çıkarak, halkın katılımına dayalı özgür bir cumhuriyetin nasıl daha kalıcı ve erdemli olacağını savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Siyasetin Bilimselleşmesi",
+      "text": "Siyaseti ahlaktan ayırarak, iktidarın nasıl işlediğini nesnel bir şekilde analiz eden ilk kişidir. Modern sosyolojinin ve uluslararası ilişkilerin (Realpolitik) temelini atmıştır."
+    },
+    {
+      "title": "Yurtseverlik",
+      "text": "Tüm bu \"acımasız\" tavsiyeleri aslında kendi kişisel hırsı için değil; istilalar altında inleyen İtalya'nın birleşmesi ve huzura kavuşması için vermiştir."
+    },
+    {
+      "title": "İnsan Doğası Analizi",
+      "text": "İnsanların nankör, değişken ve çıkarcı olduğunu söyleyerek, devlet tasarımının \"melekler\" için değil \"kusurlu insanlar\" için yapılması gerektiğini vurgulamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Ahlaki Boşluk",
+      "text": "\"Amaca giden her yol mübahtır\" (bu ifadeyi tam olarak bu şekilde kullanmasa da) anlayışı, tarihteki pek çok tiranın zulümlerini meşrulaştırmasına zemin hazırlamıştır."
+    },
+    {
+      "title": "Aşırı Kötümserlik",
+      "text": "İnsan doğasını sadece \"korku ve çıkar\" üzerinden okuması, insanın iş birliği yapabilen, fedakâr ve değer odaklı yönünü ihmal eder."
+    },
+    {
+      "title": "İstikrar Saplantısı",
+      "text": "Devletin bekasını o kadar merkeze koyar ki, bireysel haklar ve özgürlükler bu bekaya her an kurban edilebilir hale gelir."
+    }
+  ]
+}

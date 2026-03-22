@@ -1,0 +1,94 @@
+{
+  "subtitle": "Adlandırma, Zorunluluk ve Mümkün Dünyalar (1940–2022)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Sert Belirleyiciler (Rigid Designators)",
+      "body": "Kripke'nin dil felsefesindeki en büyük devrimidir. Russell ve Frege'ye göre bir isim (örneğin \"Aristoteles\"), aslında o kişiyi niteleyen bir \"tanımlar demeti\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kripke'nin İtirazı",
+          "text": "Aristoteles hiç felsefe yapmamış olsaydı bile o yine Aristoteles olacaktı."
+        },
+        {
+          "label": "Sert Belirleyici",
+          "text": "Bir isim, o nesnenin var olduğu her mümkün dünyada aynı nesneye işaret eder. \"Aristoteles\" ismi, onun özelliklerinden bağımsız olarak bizzat o bireye yapışmış sarsılmaz bir etikettir."
+        }
+      ]
+    },
+    {
+      "title": "Adlandırma ve Zorunluluk (Naming and Necessity)",
+      "body": "1970'te verdiği bu konferans dizisiyle Kant'ın o meşhur ayrımlarını altüst etmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zorunlu A Posteriori",
+          "text": "Bilimsel keşifler (Örn: \"Su = H2O\") tecrübe ile öğrenilir (a posteriori). Ancak Kripke'ye göre bu bir kez doğruysa, her mümkün dünyada doğrudur (zorunludur). Yani suyun H2O olmadığı bir dünya mantıksal olarak imkânsızdır."
+        },
+        {
+          "label": "Arızi A Priori",
+          "text": "Deneyden önce bildiğimiz ama \"başka türlü de olabilecek\" doğrular. (Örn: Paris'teki \"standart metre çubuğu\"nun 1 metre olması)."
+        }
+      ]
+    },
+    {
+      "title": "Mümkün Dünyalar Semantiği",
+      "body": "Kripke, \"zorunluluk\" ve \"olasılık\" gibi modal kavramları matematiksel bir zemine oturtmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kripke Modelleri",
+          "text": "Bir önerme her mümkün dünyada doğruysa zorunludur; en az bir dünyada doğruysa olasıdır."
+        },
+        {
+          "label": "Dünyalar Arası Ulaşılabilirlik",
+          "text": "Bir dünyadan diğerine hangi mantıksal kurallarla geçebileceğimizi formalize ederek yapay zekâ ve bilgisayar dillerinin önünü açmıştır."
+        }
+      ]
+    },
+    {
+      "title": "Kripkenstein: Kurallara Uymak ve Şüphecilik",
+      "body": "Kripke, Geç dönem Wittgenstein'ı öyle özgün (ve tartışmalı) bir şekilde yorumlamıştır ki, felsefe dünyası bu yeni figüre \"Kripkenstein\" adını takmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kural Takibi Paradoksu",
+          "text": "Bir kurala (Örn: Toplama işlemi) uymamızı sağlayan şey nedir? Geçmişteki tüm uygulamalarımız, gelecekteki yeni bir durumu kapsamaz."
+        },
+        {
+          "label": "Şüpheci Çözüm",
+          "text": "Kurala uymak bireysel bir mantık değil, toplumsal bir \"uzlaşı\" ve \"yaşam biçimi\"dir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Metafiziğin Dönüşü",
+      "text": "Mantıksal pozitivistlerin \"anlamsız\" diyerek kovduğu metafiziksel zorunluluk kavramını, dil analizi yoluyla yeniden felsefenin merkezine taşımıştır."
+    },
+    {
+      "title": "Bilimsel Realizm",
+      "text": "Bilimsel özdeşliklerin (Su = H2O) neden sarsılmaz doğrular olduğunu açıklayarak bilim felsefesine güçlü bir zemin sunmuştur."
+    },
+    {
+      "title": "Matematiksel Deha",
+      "text": "Modal mantık alanındaki teknik çalışmaları, bugün bilişsel bilimlerden dilbilime kadar pek çok alanın temel taşıdır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İsimlerin Gizemi",
+      "text": "İsimlerin nesnelere nasıl \"yapıştığına\" dair sunduğu \"Nedensel Aktarım Teorisi\" (birinin bebeğe isim vermesi ve bunun kulaktan kulağa yayılması), bazı karmaşık tarihsel durumlarda yetersiz kalabilir."
+    },
+    {
+      "title": "Zihin-Beden Sorunu",
+      "text": "Kripke, özdeşlik teorisini kullanarak zihnin bedene (beyne) indirgenemeyeceğini savunur. Ancak bu argüman, fizikselci filozoflar tarafından \"mümkün dünyaların yanlış yorumlanması\" olarak eleştirilmiştir."
+    },
+    {
+      "title": "Teknik Kapalılık",
+      "text": "Çalışmaları o kadar yüksek seviyede mantık ve sembolik dil içerir ki, felsefesinin insani ve toplumsal sonuçlarını kavramak bazen uzmanlık gerektirir."
+    }
+  ]
+}

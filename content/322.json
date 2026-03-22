@@ -1,0 +1,90 @@
+{
+  "subtitle": "Emotisizm, Anlatı ve Gelenek (1929–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ahlaki Felaket ve Emotisizm",
+      "body": "MacIntyre'a göre bugün yaşadığımız ahlaki tartışmalar (kürtaj, savaş, adalet vb.) asla çözülemez. Neden mi?",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Anlamsız Kelimeler",
+          "text": "Eskiden ahlaki kavramlar bir \"amaç\" (telos) ve \"toplum\" hiyerarşisi içindeydi. Modernite bu yapıyı yıktı, geriye sadece içi boşalmış \"hak\", \"görev\", \"iyi\" gibi kelimeler kaldı."
+        },
+        {
+          "label": "Emotisizm",
+          "text": "Modern insan için ahlaki yargılar aslında sadece kişisel tercihlerdir. \"Bu kötüdür\" demek aslında \"Ben bunu sevmiyorum\" demektir. Bu yüzden rasyonel bir tartışma zemini kalmamıştır; sadece \"çığırtkanlık\" ve güç savaşı vardır."
+        }
+      ]
+    },
+    {
+      "title": "Anlatısal Benlik (Narrative Self)",
+      "body": "Sartre veya Rawls gibi \"her şeyden bağımsız, boş bir irade\" olduğumuz fikrini reddeder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hayat Bir Hikâyedir",
+          "text": "İnsan sadece \"seçen\" bir varlık değildir; o, bir hikâyenin parçasıdır. \"Ne yapmalıyım?\" sorusuna cevap verebilmem için önce \"Hangi hikâyenin (ailenin, milletin, geleneğin) içindeyim?\" sorusunu sormalıyım."
+        },
+        {
+          "label": "Bağlılık",
+          "text": "Ben sadece \"ben\" değilim; birinin oğlu, bir şehrin vatandaşı, bir mesleğin üyesiyim. Bu kimlikler benim ahlaki pusulamdır."
+        }
+      ]
+    },
+    {
+      "title": "Pratikler ve İçsel İyiler",
+      "body": "MacIntyre, erdemlerin nerede \"yaşadığını\" bir ayrımla açıklar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Pratikler",
+          "text": "Satranç oynamak, tarım yapmak, bilim üretmek veya bir orkestrada çalmak gibi karmaşık insani faaliyetlerdir."
+        },
+        {
+          "label": "Dışsal vs. İçsel İyiler",
+          "text": "Bir çocuk satranç oynarken sadece para veya statü için oynuyorsa dışsal bir iyinin peşindedir. Ama satrancın o kendine has mükemmelliğini keşfediyorsa içsel bir iyinin peşindedir. Erdemler, sadece bu pratiklerin içinde gelişir."
+        }
+      ]
+    },
+    {
+      "title": "Gelenek ve Adalet",
+      "body": "\"Kimin adaleti? Hangi rasyonalite?\" diye sorar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Evrensellik Yanılgısı",
+          "text": "Rawls'un aradığı o \"evrensel ve tarafsız\" adalet bir seraptır. Her adalet ve her akıl yürütme biçimi, mutlaka bir Gelenek içinden konuşur. Aristotelesçi, Augustinusçu veya Liberal gelenek... Hangisinde olduğunuz, \"doğru\"yu nasıl tanımladığınızı belirler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ahlaki Teşhis",
+      "text": "Modern dünyadaki o bitmek bilmeyen ve sonuçsuz tartışmaların (kürtaj, idam vb.) neden rasyonel bir yere varamadığını dâhiyane bir şekilde açıklamıştır."
+    },
+    {
+      "title": "Kimlik ve Toplum",
+      "text": "İnsanı köksüz bir birey olmaktan çıkarıp, onu tarihsel ve toplumsal bir bağlama (anlatıya) oturtarak kimlik arayışına derinlik katmıştır."
+    },
+    {
+      "title": "Erdemlerin Dönüşü",
+      "text": "Ahlakı \"yasaklar listesi\" olmaktan çıkarıp, \"karakter inşası\" ve \"yaşam ustalığı\" haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Nostalji Tehlikesi",
+      "text": "Eleştirmenler, MacIntyre'ın ortaçağ ve antik dünya tasvirinin fazla \"pembe\" olduğunu, o dönemlerdeki baskı ve şiddeti göz ardı ettiğini savunurlar."
+    },
+    {
+      "title": "Gelenekler Savaşı",
+      "text": "Eğer her akıl bir geleneğe hapsolmuşsa, farklı geleneklerin (örneğin laik liberalizm ile dini bir gelenek) birbirleriyle nasıl barış içinde anlaşabileceği sorusu cevapsız kalabilir."
+    },
+    {
+      "title": "Muhafazakârlık Etiketi",
+      "text": "Her ne kadar kendisi reddetse de, bireysel özgürlüğü geleneğin altına koyması, onu bireyin \"gelenek hapisanesine\" tıkılmasını isteyen biri olarak gösterdiği gerekçesiyle eleştirilir."
+    }
+  ]
+}

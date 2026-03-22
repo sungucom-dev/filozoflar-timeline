@@ -1,0 +1,102 @@
+{
+  "subtitle": "Olay, Sadakat ve Hakikat Prosedürleri (1937–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Matematik Olarak Ontoloji",
+      "body": "Badiou'nun en radikal iddiası şudur: \"Ontoloji (Varlık Bilimi) matematiktir.\"",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Varlık ve Sayı",
+          "text": "Ona göre varlığı şiirle veya dille değil, ancak küme kuramı ile tam olarak kavrayabiliriz."
+        },
+        {
+          "label": "Çokluk",
+          "text": "Varlık, bir \"tek\" değil, sonsuz bir \"çokluk\"tur. Bir düzen (devlet, toplum, dil) bu sonsuz çokluğu sayarak ve sınıflandırarak kontrol altına almaya çalışır."
+        }
+      ]
+    },
+    {
+      "title": "Olay (L'événement)",
+      "body": "Badiou felsefesinin kalbi budur. Bir \"Olay\", mevcut sistemin (durumun) içindeki kurallarla açıklanamayan, beklenmedik ve sarsıcı bir \"yırtılma\"dır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beklenmedik Kırılma",
+          "text": "1789 Fransız Devrimi, Schoenberg'in on iki tonlu müziği, kuantum fiziğinin doğuşu veya birine delicesine aşık olmak... Bunların hepsi birer \"Olay\"dır."
+        },
+        {
+          "label": "Durumun Ötesi",
+          "text": "Olay, mevcut düzenin \"sayamadığı\", \"isimlendiremediği\" o boşluktan çıkar ve her şeyi değiştirir."
+        }
+      ]
+    },
+    {
+      "title": "Özne ve Sadakat (Fidelity)",
+      "body": "Badiou'ya göre biz \"özne\" olarak doğmayız; bir Olay'a sadık kalarak özne oluruz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Karar Anı",
+          "text": "Bir Olay gerçekleştiğinde (örneğin bir devrim veya büyük bir aşk), ona \"Evet, bu gerçektir ve hayatımı buna göre değiştireceğim\" demek gerekir."
+        },
+        {
+          "label": "Süreç Olarak Özne",
+          "text": "Özne olmak, o Olay'ın getirdiği yeni hakikati günlük hayatta inşa etme, ona sadık kalma ve geri adım atmama sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "Dört Hakikat Prosedürü",
+      "body": "Badiou, hakikatin sadece dört alanda üretilebileceğini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşk",
+          "text": "\"İki\"nin (iki farklı insanın) dünyayı tek bir perspektiften değil, farkın içinden nasıl gördüğünün deneyimidir."
+        },
+        {
+          "label": "Sanat",
+          "text": "Dünyanın yeni bir duyusal formla temsil edilmesidir."
+        },
+        {
+          "label": "Bilim",
+          "text": "Maddi gerçekliğin matematiksel olarak deşifre edilmesidir."
+        },
+        {
+          "label": "Siyaset",
+          "text": "Kolektif bir kurtuluşun (Komünist Hipotez) peşinden gidilmesidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Hakikati Kurtarmak",
+      "text": "Post-modern nihilizme ve \"her şey mubahtır\" anlayışına karşı; evrensel, sarsılmaz ve ahlaki bir hakikat zemini kurmuştur."
+    },
+    {
+      "title": "Umut ve İrade",
+      "text": "Felsefeyi pasif bir gözlemcilikten çıkarıp; bir \"sadakat\" ve \"inşa\" eylemine dönüştürerek insana yeniden \"dünyayı değiştirme\" iradesi vermiştir."
+    },
+    {
+      "title": "Disiplinlerarası Zirve",
+      "text": "Matematik, tiyatro, şiir ve siyaseti tek bir devasa sistemde birleştirerek, felsefenin o \"büyük anlatı\" geleneğini 21. yüzyılda yaşatmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Matematiksel Bariyer",
+      "text": "Felsefesini anlamak için ileri düzey küme kuramı bilmeyi şart koşması, onu geniş kitleler (ve hatta birçok felsefeci) için \"ulaşılamaz\" ve \"elitist\" kılar."
+    },
+    {
+      "title": "Radikal Kaskatılık",
+      "text": "Bazı eleştirmenler, Badiou'nun \"Olay\" ve \"Sadakat\" vurgusunun bazen fanatizme veya otoriter bir dogmatizme yol açabileceği uyarısında bulunurlar."
+    },
+    {
+      "title": "Gündelik Hayatın İhmali",
+      "text": "Olay'ı o kadar yüceltir ki; \"Olay\" olmayan sıradan, gri ve gündelik yaşamın (ki hayatın %99'u budur) değerini biraz fazla küçümsemiş olabilir."
+    }
+  ]
+}

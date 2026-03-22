@@ -1,0 +1,79 @@
+{
+  "subtitle": "Evrensel Dil, Üretken Dilbilgisi ve Rıza İmalatı (1928–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Evrensel Dilbilgisi (UG) ve Doğuştancılık",
+      "body": "Chomsky, dilin öğrenilen bir şey değil, \"büyüyen\" bir organ olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "LAD (Dil Edinme Cihazı)",
+          "text": "Çocuklar, maruz kaldıkları kısıtlı veriye rağmen karmaşık dilleri inanılmaz bir hızla öğrenirler. Chomsky'ye göre bu, beynimizde doğuştan var olan bir \"dil modülü\" (LAD) sayesindedir."
+        },
+        {
+          "label": "Derin Yapı vs. Yüzey Yapı",
+          "text": "Tüm dillerin altında, insan türüne özgü ortak bir matematiksel yapı (UG) yatar. Cümlelerin dış görünüşü (yüzey yapı) değişse de, temel mantığı (derin yapı) aynıdır."
+        },
+        {
+          "label": "Özyineleme (Recursion)",
+          "text": "İnsanı hayvandan ayıran, sınırlı sayıda kuraldan sonsuz sayıda cümle üretme yeteneğidir."
+        }
+      ]
+    },
+    {
+      "title": "Rıza İmalatı (Manufacturing Consent)",
+      "body": "Siyasal düşüncesinin kalbi, medyanın bir \"propaganda makinesi\" olduğu tespitidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Propaganda Modeli",
+          "text": "Demokratik toplumlarda iktidar, insanları sopayla değil, \"rıza\" üreterek yönetir. Medya, haberi 5 ana filtreden geçirerek servis eder: Mülkiyet (medya dev şirketlere aittir), Reklam (asıl müşteri reklamverendir), Haber Kaynakları (hükümete bağımlılık), Tepki (muhalif seslerin cezalandırılması) ve Dış Düşman (toplumu korkuyla tutan öcü)."
+        }
+      ]
+    },
+    {
+      "title": "Anarşist-Sendikalizm ve İktidar Eleştirisi",
+      "body": "Chomsky kendini \"özgürlükçü sosyalist\" olarak tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gayrimeşru Otorite",
+          "text": "Her türlü otorite (devlet, şirket, okul) kendini meşrulaştırmak zorundadır. Eğer meşrulaştıramıyorsa (ki Chomsky'ye göre çoğu zaman yapamazlar), o otorite yıkılmalıdır."
+        },
+        {
+          "label": "Sorumluluk",
+          "text": "Entelektüelin görevi, \"iktidara gerçeği söylemek\" değil; zaten gerçeği bilen ama sesini çıkaramayan kitlelere güç vermektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilişsel Devrim",
+      "text": "Psikolojiyi ve dilbilimi davranışçılığın elinden kurtarıp, zihinsel süreçlerin bilimsel incelenmesinin yolunu açmıştır."
+    },
+    {
+      "title": "Cesur Muhalefet",
+      "text": "Vietnam'dan Filistin'e kadar her krizde, ana akım medyanın dışındaki \"rahatsız edici\" gerçekleri söylemekten asla çekinmemiştir."
+    },
+    {
+      "title": "Minimalist Program",
+      "text": "Dilbilimi en basit matematiksel işleme indirgeyerek zihnin ekonomik yapısını ortaya koymuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yapay Zekâ ve LLM'ler",
+      "text": "ChatGPT gibi modellerin başarısı, Chomsky'nin \"dil sadece istatistikle öğrenilemez\" iddiasını sarsmış görünse de; Chomsky bu modellerin \"anlamadan\" sadece \"tahmin\" yaptığını savunmaya devam etmektedir."
+    },
+    {
+      "title": "Siyasi Yanılgılar",
+      "text": "Bazı eleştirmenler, ABD karşıtlığının onu bazen otoriter rejimlerin suçlarını görmezden gelmeye veya küçümsemeye ittiğini savunurlar."
+    },
+    {
+      "title": "Kişisel Tartışmalar",
+      "text": "Son dönemde Jeffrey Epstein ile olan geçmişteki randevularına dair çıkan yeni belgeler (2025-2026 raporları), onun sarsılmaz ahlaki otoritesini tartışmaya açan bir \"leke\" olarak takip edilmektedir."
+    }
+  ]
+}

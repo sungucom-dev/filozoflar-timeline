@@ -1,0 +1,94 @@
+{
+  "subtitle": "Bölünme, Küçülme ve Ekolojik Adalet (1982–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bölünme (The Divide): Zenginlik Nereden Geliyor?",
+      "body": "Hickel'ın ilk büyük çıkışı, \"fakir ülkeler gelişiyor\" masalını yerle bir etmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sömürgeci Miras",
+          "text": "Zengin ülkelerin (Küresel Kuzey) refahının, fakir ülkelerin (Küresel Güney) kaynaklarının ve emeğinin yüzyıllardır süren sistemli transferine dayandığını kanıtlar."
+        },
+        {
+          "label": "Borç Tuzağı",
+          "text": "Yardımların aksine, fakir ülkelerden zengin ülkelere akan paranın (faizler, vergi kaçırma, kaynak transferi) çok daha fazla olduğunu verilerle gösterir."
+        }
+      ]
+    },
+    {
+      "title": "Küçülme (Degrowth): Bir İntihar Senaryosu Olarak Büyüme",
+      "body": "En ses getiren eseri Less is More (Daha Azı Daha Çoktur) ile büyüme odaklı kapitalizmin mantığını sorgular.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Büyüme Bir Zorunluluk mu?",
+          "text": "Kapitalizmin ayakta kalmak için her yıl daha fazla büyümeye ihtiyaç duyması, sınırlı kaynakları olan bir gezegende matematiksel bir imkansızlıktır."
+        },
+        {
+          "label": "Nitelik vs. Nicelik",
+          "text": "Hickel, \"Küçülme\"nin ekonomiyi daraltmak değil, \"gereksiz üretimi\" (silahlanma, lüks tüketim, planlı eskitme) durdurup; kaynakları eğitim, sağlık ve ekolojiye kaydırmak olduğunu savunur."
+        }
+      ]
+    },
+    {
+      "title": "Ekolojik Sınırlar ve Antroposen",
+      "body": "Hickel, iklim krizini sadece bir \"karbon\" sorunu olarak değil, bir \"kaynak tüketimi\" sorunu olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gezegensel Sınırlar",
+          "text": "Karbon salınımını azaltsak bile, hammadde tüketimi bu hızla devam ederse biyolojik çeşitliliği ve ekosistemi kurtaramayacağımızı söyler."
+        },
+        {
+          "label": "Yeşil Büyüme Bir İllüzyondur",
+          "text": "Teknolojik verimliliğin tek başına yeterli olmayacağını; çünkü kapitalizmin her verimlilik artışını \"daha fazla üretim\" için harcadığını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Radikal Bolluk ve Zamanın Özgürleşmesi",
+      "body": "Hickel'ın ütopyası, \"az tüketip çok yaşadığımız\" bir dünyadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Çalışma Süresinin Azaltılması",
+          "text": "Üretimi yavaşlatmak, insanlara daha fazla boş zaman ve daha az stresli bir hayat sunar."
+        },
+        {
+          "label": "Müştereklerin Geri Alınması",
+          "text": "Barınma, enerji ve temel ihtiyaçların piyasanın elinden alınıp birer \"hak\" haline getirilmesini önerir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Veriye Dayalı Eleştiri",
+      "text": "Sömürgecilik ve eşitsizlik üzerine yaptığı analizler, romantik bir söylemden ziyade somut ekonomik verilere dayanır; bu da onu akademik dünyada çok güçlü kılar."
+    },
+    {
+      "title": "Tabu Yıkıcılık",
+      "text": "\"Büyüme iyidir\" dogmasını sarsarak, ekonomi biliminin sormaktan korktuğu o en temel soruyu sormuştur: \"Yeteri ne kadardır?\""
+    },
+    {
+      "title": "Küresel Adalet",
+      "text": "İklim krizini sadece teknik bir sorun olmaktan çıkarıp, Küresel Kuzey'in Küresel Güney'e olan \"ekolojik borcu\" üzerinden ahlaki bir tartışmaya çevirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasi Gerçeklik",
+      "text": "Eleştirmenler, \"Küçülme\" fikrinin seçimlerde oy kazandıracak bir proje olamayacağını, insanların refah (tüketim) seviyelerinden vazgeçmeyeceklerini savunurlar."
+    },
+    {
+      "title": "Jeopolitik Güç",
+      "text": "Bir ülkenin küçülmeye gitmesinin, büyüme hırsı devam eden diğer ülkeler karşısında onu savunmasız bırakacağı endişesi sıklıkla dile getirilir."
+    },
+    {
+      "title": "Ütopik Doz",
+      "text": "Sunduğu çözümlerin mevcut finansal sistemin (faiz ve borç üzerine kurulu) tamamen yıkılmasını gerektirmesi, geçiş sürecinin nasıl olacağına dair belirsizlikler yaratır."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Petrol, Akıl ve İnsandışıcılık (1977–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Cyclonopedia: Petrolün Canlı Laneti",
+      "body": "Negarestani'nin felsefe dünyasına bir bomba gibi düşen ilk büyük eseri (2008), felsefeyle korku edebiyatını birleştirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Petrol Bir Faildir",
+          "text": "Negarestani, petrolü sadece bir yakıt değil, yerin altında yaşayan, kendi amaçları olan, habis ve \"canlı\" bir varlık olarak kurgular. Orta Doğu'daki savaşlar, siyaset ve din; aslında bu canlı \"petrol tanrısı\"nın yüzeye çıkma ve dünyayı ele geçirme çabasının bir parçasıdır."
+        },
+        {
+          "label": "Toz ve Delikler",
+          "text": "Dünyayı pürüzsüz bir küre değil, deliklerle dolu bir sünger (porous) olarak görür. Gerçeklik, bu deliklerden sızan \"isimsiz materyallerin\" sızıntısıdır."
+        }
+      ]
+    },
+    {
+      "title": "İnsandışıcılık (Inhumanism)",
+      "body": "Negarestani, \"insancıl\" (humanist) değerlerin aklı kısıtladığını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aklın Kurtuluşu",
+          "text": "İnsandışıcılık, \"insan\" olduğumuz için sahip olduğumuz ayrıcalıkları terk edip, \"aklı\" (reason) kendi başına bir proje olarak ele almaktır. Akıl, biyolojik bir türün (insanın) malı değil, evrensel bir navigasyon aracıdır."
+        },
+        {
+          "label": "Yeniden İnşa",
+          "text": "İnsan, kendini sürekli \"insan olmayan\" bir akıl aracılığıyla yeniden tasarlamalıdır. Bu süreçte eski \"insan\" ölürken, evrensel bir \"Zekâ\" doğar."
+        }
+      ]
+    },
+    {
+      "title": "Zekâ ve Ruh (Intelligence and Spirit)",
+      "body": "Son dönem çalışmalarında (özellikle 2018 sonrası), Hegel ve Kant'ın felsefesini bilgisayar bilimleri ve mantıkla birleştirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yapay Zekâ ve Geist (Ruh)",
+          "text": "Yapay zekâyı sadece veri işleyen bir kutu olarak değil, Hegelci \"Ruh\"un (Geist) teknolojik bir aşaması olarak görür. Ona göre yapay zekâ tasarlamak, aslında \"akıl nedir?\" sorusuna verilmiş bir laboratuvar cevabıdır."
+        },
+        {
+          "label": "Rasyonalist Program",
+          "text": "Felsefeyi bir \"oyun\" değil, aklı inşa etme süreci olarak görür. Akıl, kendi kendini düzelten (self-correcting) bir algoritma gibidir."
+        }
+      ]
+    },
+    {
+      "title": "Navigasyon Olarak Felsefe",
+      "body": "Negarestani için düşünmek, bilinmez bir arazide harita çıkarmaktır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Vektörler ve Protokoller",
+          "text": "Dünyayı anlamak için katı dogmalara değil, esnek ve sürekli güncellenen mantıksal protokollere ihtiyacımız vardır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Türler Arası Felsefe",
+      "text": "Felsefeyi sadece edebiyat veya tarihle değil; kimya, jeoloji ve bilgisayar bilimleriyle harmanlayarak \"melez\" bir düşünce biçimi yaratmıştır."
+    },
+    {
+      "title": "Rasyonalizmin Rönesansı",
+      "text": "Post-modernizmin \"her şey görecelidir\" anlayışına karşı, aklın ve mantığın sarsılmaz (ama sürekli gelişen) gücünü yeniden savunmuştur."
+    },
+    {
+      "title": "Teorik Kurgu (Theory-Fiction)",
+      "text": "Zorlu felsefi kavramları \"korku ve bilim kurgu\" atmosferinde anlatarak, felsefeyi çok daha sarsıcı ve akılda kalıcı bir deneyime dönüştürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dildeki Opaklık",
+      "text": "Yazıları o kadar yoğun ve teknik terimlerle doludur ki, profesyonel felsefeciler bile bazen labirentte kaybolabilir. \"Anlaşılmazlık\" bazen derinliğin önüne geçebilir."
+    },
+    {
+      "title": "Anti-Hümanist Soğukluk",
+      "text": "İnsanı merkeze koymayan bakışı, ahlak ve şefkat gibi \"insani\" değerleri aklın buz gibi rasyonalitesi içinde biraz fazla eritmiş olabilir."
+    },
+    {
+      "title": "Spekülatif Boşluklar",
+      "text": "Petrolün canlı bir varlık olduğu gibi iddiaları, metaforik olarak dâhiyane olsa da, rasyonel bir sistem kurmaya çalıştığında bu \"mistik\" öğelerle mantık arasında bir gerilim yaratabilir."
+    }
+  ]
+}

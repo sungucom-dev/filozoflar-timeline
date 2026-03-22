@@ -1,0 +1,94 @@
+{
+  "subtitle": "Yarasa, Absürt ve Ahlaki Şans (1937–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yarasa Olmak Nasıldır? (What Is It Like to Be a Bat?)",
+      "body": "Nagel'in 1974 tarihli bu makalesi, zihin felsefesinde bir devrimdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Öznel Deneyim (Qualia)",
+          "text": "Bir yarasanın beynindeki tüm nörofizyolojik süreçleri (sonar sistemi, kanat çırpışları) bilsek bile, hala bir şeyi bilemeyiz: Bir yarasa olmanın \"kendisi için\" nasıl bir şey olduğunu."
+        },
+        {
+          "label": "Nesnellik Çıkmazı",
+          "text": "Bilim dünyayı \"üçüncü şahıs\" (dışarıdan) bakışıyla açıklar. Ancak bilinç, doğası gereği \"birinci şahıs\"tır (içeriden). Nagel'e göre zihin, fiziksel dünyaya indirgenemez bir \"özellik\" barındırır."
+        }
+      ]
+    },
+    {
+      "title": "Hiçbir Yerin Bakış Açısı (The View from Nowhere)",
+      "body": "Modern insanın temel trajedisini bu ikilem üzerine kurar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İçsel Bakış",
+          "text": "Hayatımızı kendi penceremizden, arzularımız ve acılarımızla çok ciddiye alarak yaşarız."
+        },
+        {
+          "label": "Dışsal Bakış",
+          "text": "Evrenin tepesinden (hiçbir yerden) kendimize baktığımızda ise bir toz zerresi kadar önemsiz olduğumuzu görürüz. Nagel, bu iki bakış açısını asla tam olarak birleştiremeyeceğimizi ama her ikisine de sahip olduğumuzu söyler."
+        }
+      ]
+    },
+    {
+      "title": "Absürt (The Absurd)",
+      "body": "Nagel için absürt, dünyanın anlamsız olması değildir; bizim kendi içimizdeki o bitmek bilmeyen çatışmadır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ciddiyet vs. Şüphe",
+          "text": "Hayatımızı muazzam bir ciddiyetle (kariyer, aile, idealler) planlarız; ama aynı zamanda tüm bunların bir saniye sonra anlamsız kalabileceğini bilecek kadar rasyonelizdir."
+        },
+        {
+          "label": "Tutum",
+          "text": "Nagel, bu durumu bir trajedi olarak değil, hayatın bir \"ironisi\" olarak görmemizi önerir. Absürt, zihnimizin ne kadar geniş olduğunun bir kanıtıdır."
+        }
+      ]
+    },
+    {
+      "title": "Ahlaki Şans (Moral Luck)",
+      "body": "Ahlak felsefesindeki o çok rahatsız edici gerçeği ifşa eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kontrol Dışındaki Etkenler",
+          "text": "Genellikle birini sadece kendi iradesiyle yaptığı şeylerden sorumlu tutarız. Ancak Nagel, ahlaki değerimizin çoğunlukla kontrolümüz dışındaki \"şans\" faktörlerine (genetik, çevre, tesadüfler) bağlı olduğunu gösterir."
+        },
+        {
+          "label": "Örnek",
+          "text": "Alkollü araç kullanan iki kişiden biri kaza yapıp birine çarparsa \"katil\" olur, diğeri ise sadece \"şanslı bir sarhoş\". İkisinin de kararı aynıdır ama ahlaki hükümleri şans tarafından belirlenir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bilincin Onuru",
+      "text": "Zihni sadece bir \"hesaplama makinesi\" olarak gören sığ yaklaşımlara karşı, öznel deneyimin kutsallığını ve indirgenemezliğini savunmuştur."
+    },
+    {
+      "title": "Dengeli Perspektif",
+      "text": "Hem analitik felsefenin titizliğini hem de kıta felsefesinin varoluşsal derinliğini birleştirmeyi başarmıştır."
+    },
+    {
+      "title": "Etik Derinlik",
+      "text": "\"Ahlaki Şans\" gibi kavramlarla, insanları yargılarken ne kadar kırılgan bir zeminde olduğumuzu bize hatırlatmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Bilim Karşıtlığı Suçlaması",
+      "text": "Son dönem eseri Zihin ve Kozmos'ta, bilimin (özellikle Darwinci evrimin) dünyayı tek başına açıklayamayacağını savunması, bilim çevrelerinden çok sert eleştiriler almasına neden olmuştur."
+    },
+    {
+      "title": "Çözümsüzlük",
+      "text": "Analizleri genellikle bir \"çıkmaz\" (paradoks) ile biter. Sorunları çok iyi teşhis eder ama \"nasıl yaşamalıyız?\" sorusuna net ve pratik bir reçete sunmaz."
+    },
+    {
+      "title": "Metafiziksel Muğlaklık",
+      "text": "Zihnin evrenin temel bir özelliği olduğunu (Panpsişizme yakın bir görüş) savunması, bazıları için fazla \"mistik\" veya spekülatif bulunur."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Subversiyon, Radikal Aşk ve Kıyamet Sonrası (1983–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Aşkın Radikalliği (The Radicality of Love)",
+      "body": "Horvat'ın en popüler ve etkileyici eseri, aşkı bir \"pembe dizi\" konusu olmaktan çıkarıp siyasetin merkezine yerleştirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aşk Bir Direniştir",
+          "text": "Kapitalizmin bizi narsisizme ve atomize olmuş bireylere dönüştürdüğü bir dünyada; \"öteki\"ne gerçekten kapılmak ve bir \"biz\" oluşturmak en büyük devrimci eylemdir."
+        },
+        {
+          "label": "Devrim ve Eros",
+          "text": "Büyük toplumsal dönüşümlerin (Arap Baharı'ndan 68 kuşağına kadar) her zaman erotik ve duygusal bir patlamayla el ele gittiğini savunur."
+        }
+      ]
+    },
+    {
+      "title": "Kıyamet Sonrası (After the Apocalypse)",
+      "body": "Horvat, \"kıyamet\" (apocalypse) kelimesinin kökenine (Grekçe: apokalypsis - örtünün kalkması, açığa çıkma) geri döner.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Son Değil, Başlangıç",
+          "text": "Ona göre iklim krizi veya teknolojik çöküş bir \"son\" değildir; aksine, mevcut sistemin (kapitalizmin) sürdürülemezliğini \"açığa çıkaran\" bir andır."
+        },
+        {
+          "label": "Şimdi ve Burada",
+          "text": "Gelecekteki bir felaketi beklemek yerine, zaten felaketin içinde yaşadığımızı fark edip; bu yıkıntının arasından yeni bir yaşam inşa etmemiz gerektiğini savunur."
+        }
+      ]
+    },
+    {
+      "title": "DiEM25 ve Avrupa Ütopyası",
+      "body": "Varoufakis ile birlikte kurduğu Avrupa'da Demokrasi Hareketi (DiEM25) üzerinden aktif siyaset yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Teknokrasiye Karşı Demokrasi",
+          "text": "Brüksel'in soğuk teknokratlarına karşı, Avrupa'nın ancak halkın katılımıyla ve radikal bir demokratikleşmeyle kurtulabileceğini söyler."
+        },
+        {
+          "label": "Ulus-Devletin Ötesi",
+          "text": "Sorunların küresel olduğunu (iklim, göç, teknoloji), bu yüzden çözümlerin de ulus-devlet sınırlarını aşan bir \"Enternasyonal\" ile mümkün olduğunu savunur."
+        }
+      ]
+    },
+    {
+      "title": "Subversiyon (Yıkıcılık) Olarak Felsefe",
+      "body": "Horvat için felsefe kütüphanede yapılacak bir şey değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sistemi İçeriden Hacklemek",
+          "text": "Subversiyon, sistemi dışarıdan yıkmak değil; sistemin kendi araçlarını (medya, teknoloji, sanat) kullanarak onu \"ters yüz etmek\" ve kendi lehine çevirmektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefeyi Gençleştirmek",
+      "text": "Karmaşık teorik tartışmaları, popüler kültür ve güncel siyasetle harmanlayarak genç kuşaklara felsefeyi yeniden sevdirmeyi başarmıştır."
+    },
+    {
+      "title": "Umut İnşası",
+      "text": "Felaket senaryoları arasında boğulmak yerine, her zaman bir \"çıkış yolu\" ve \"direniş alanı\" (özellikle aşk ve sanat üzerinden) göstermesi çok değerlidir."
+    },
+    {
+      "title": "Küresel Ağ kuruculuğu",
+      "text": "Julian Assange'dan Varoufakis'e kadar pek çok aykırı ismi bir araya getirerek, ana akım medyanın dışında güçlü bir entelektüel direniş hattı kurmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Teorik Derinlik Tartışması",
+      "text": "Bazı geleneksel filozoflar, Horvat'ın yaklaşımını \"fazla popülist\" veya \"aktivizme çok odaklı, teoriye az vakit ayıran\" bir tarzda bulabilirler."
+    },
+    {
+      "title": "Sonuç Odaklılık",
+      "text": "Kurduğu hareketlerin (DiEM25 gibi) henüz somut ve büyük bir siyasi zafer kazanamamış olması, önerdiği yöntemlerin etkinliğine dair soru işaretleri yaratır."
+    },
+    {
+      "title": "Romantizm",
+      "text": "Aşkı bu denli siyasallaştırması, bazen siyasetin o kaba, stratejik ve duygusuz olan \"reel\" tarafını göz ardı etmesine yol açabilir."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subtitle": "Zor Problem, Zombiler ve Sanal Gerçeklik (1966–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bilincin Zor Problemi (The Hard Problem)",
+      "body": "Chalmers, zihin felsefesini ikiye ayırarak bir devrim yaptı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kolay Problemler",
+          "text": "Beynin bilgiyi nasıl işlediği, görsel veriyi nasıl ayırdığı veya uyaranlara nasıl tepki verdiği gibi konulardır. Bunlar zordur ama \"sinirbilim\" ile çözülebilirler."
+        },
+        {
+          "label": "Zor Problem",
+          "text": "Neden tüm bu fiziksel süreçlere bir \"içsel tecrübe\" eşlik ediyor? Bir gülün kırmızılığını \"hissetmek\" veya bir melodinin hüznünü \"duymak\" (Qualia), neden sadece nöronların ateşlenmesinden ibaret değil de bir \"duygu\" olarak yaşanıyor?"
+        }
+      ]
+    },
+    {
+      "title": "Felsefi Zombiler (Philosophical Zombies)",
+      "body": "Fizikselciliğin (zihnin sadece beyin olduğunu söyleyen görüşün) sınırlarını zorlayan o meşhur düşünce deneyi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zombi Nedir?",
+          "text": "Sizinle tamamen aynı moleküler yapıya sahip, sizin gibi konuşan, gülen ama içinde hiçbir \"bilinç ışığı\" olmayan, tamamen karanlık bir varlık hayal edin."
+        },
+        {
+          "label": "Argüman",
+          "text": "Eğer bir zombi mantıksal olarak mümkünse, o zaman \"bilinç\" sadece fiziksel parçaların bir toplamı olamaz; fiziksel dünyanın ötesinde bir şey olmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Doğalcı Düalizm ve Panpsişizm",
+      "body": "Chalmers, ruh-beden ayrımına (Descartes) modern ve bilimsel bir yorum getirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Temel Özellik",
+          "text": "Kütle ve yük gibi, bilincin de evrenin temel, indirgenemez bir özelliği olduğunu savunur."
+        },
+        {
+          "label": "Panpsişizm Eğilimi",
+          "text": "Eğer bilinç temel bir özellikse, belki de her şeyin (fotonlardan atomlara kadar) bir tür \"bilinç kırıntısına\" sahip olduğunu kabul etmemiz gerekir."
+        }
+      ]
+    },
+    {
+      "title": "Reality+ ve Simülasyon Hipotezi",
+      "body": "2020'lerdeki çalışmalarında Chalmers, gerçekliğin doğasını sanal dünyalar üzerinden sorgular.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sanal Gerçeklik Gerçektir",
+          "text": "Chalmers'a göre bir simülasyonun içinde yaşıyor olsak bile, o dünya \"sahte\" değildir; sadece \"dijital bir temel\" üzerine kuruludur. Sanal nesneler de fiziksel nesneler kadar gerçektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Gizemi Tanımlamak",
+      "text": "Bilincin sadece \"işlevsel\" bir süreç olmadığını, öznel tecrübenin (qualia) açıklanması gereken asıl devasa boşluk olduğunu tüm dünyaya kabul ettirmiştir."
+    },
+    {
+      "title": "Düşünce Deneyleri",
+      "text": "Zombi argümanı gibi araçlarla, materyalizmin \"her şeyi açıkladığı\" kibrine karşı çok güçlü bir felsefi baraj kurmuştur."
+    },
+    {
+      "title": "Teknoloji ve Felsefe",
+      "text": "Yapay zekâ ve sanal gerçeklik gibi modern konuları kadim metafizik sorularla birleştirerek felsefeyi güncel tutmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Açıklama Boşluğu",
+      "text": "Bilinci \"temel bir özellik\" olarak tanımlamak, bazı eleştirmenler (özellikle Daniel Dennett) tarafından \"sorunu çözmek yerine ona yeni bir isim takıp kaçmak\" olarak görülür."
+    },
+    {
+      "title": "Gizemcilik Suçlaması",
+      "text": "\"Zor Problem\" diye bir ayrım yapmanın, aslında çözülebilecek bilimsel sorunları \"metafizik bir gizem\" haline getirerek bilimsel ilerlemeyi yavaşlattığı savunulur."
+    },
+    {
+      "title": "Epifenomenalizm Riski",
+      "text": "Eğer zombiler mümkünse ve bilinç fiziksel dünyayı etkilemeyen bir \"eklenti\" ise; neden evrimsel süreçte bilince sahip olduğumuz sorusu havada kalır."
+    }
+  ]
+}

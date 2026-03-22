@@ -1,0 +1,90 @@
+{
+  "subtitle": "Bilinç, Evrim ve Özgür İrade (1942–2024)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kartezyen Tiyatro'nun Yıkılışı ve Çoklu Taslaklar",
+      "body": "Dennett'in en büyük savaşı, beynin içinde her şeyi izleyen bir \"ben\" (homunculus) olduğu fikrine karşıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İllüzyon",
+          "text": "Beyinde tüm bilgilerin toplandığı merkezi bir yer (Kartezyen Tiyatro) yoktur."
+        },
+        {
+          "label": "Çoklu Taslaklar Modeli",
+          "text": "Beyin, sürekli olarak farklı veri akışlarını işler. \"Bilinç\" dediğimiz şey, bu akışlardan birinin o anlık baskın gelmesidir. Tıpkı bir gazetenin sürekli güncellenen taslakları gibi; sabit bir metin değil, sürekli bir \"oluş\" hali vardır."
+        }
+      ]
+    },
+    {
+      "title": "Niyetçi Tutum (The Intentional Stance)",
+      "body": "Bir sistemin (insan, hayvan veya bilgisayar) davranışlarını nasıl tahmin ederiz? Dennett üç seviye önerir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fiziksel Tutum",
+          "text": "Nesneyi atomlar ve fizik yasalarıyla açıklamak (Çok yavaş)."
+        },
+        {
+          "label": "Tasarım Tutumu",
+          "text": "Nesneyi nasıl programlandığına bakarak açıklamak (Bir bilgisayar gibi)."
+        },
+        {
+          "label": "Niyetçi Tutum",
+          "text": "Nesneye \"arzuları\" ve \"inançları\" varmış gibi davranmak. Bir satranç bilgisayarına \"Vezirimi almak istiyor\" dediğimizde niyetçi tutum takınırız. Bu, karmaşık sistemleri anlamak için kullandığımız evrimsel bir kısa yoldur."
+        }
+      ]
+    },
+    {
+      "title": "Darwin'in Tehlikeli Fikri: Evrensel Darwinizm",
+      "body": "Dennett için evrim sadece biyolojik bir süreç değil, \"evrensel bir asit\"tir; dokunduğu her şeyi (ahlak, zihin, kültür) dönüştürür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Algoritmik Süreç",
+          "text": "Evrim, \"tasarımcı olmayan bir tasarım\" sürecidir. Zihin, bu kör sürecin milyarlarca yıl içinde ürettiği en karmaşık algoritmadır. Dennett'e göre, \"yukarıdan aşağıya\" (Tanrı'dan insana) değil, \"aşağıdan yukarıya\" (molekülden zihne) bir inşa söz konusudur."
+        }
+      ]
+    },
+    {
+      "title": "Bağdaşabilirlik (Compatibilism) ve Özgür İrade",
+      "body": "\"Eğer her şey fizikselse özgür değil miyiz?\" sorusuna dâhice bir cevap verir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yeterli Alan",
+          "text": "Özgür irade, doğa kanunlarından muaf olmak değildir. Özgürlük, seçeneklerimizi değerlendirme ve kararlarımıza göre eyleme geçme yeteneğimizdir. Dennett için özgür irade, evrimsel süreçte kazandığımız bir \"beceri\"dir ve sahip olmaya değer tek özgürlük budur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Gizemden Arındırma",
+      "text": "Zihin felsefesini mistisizmden kurtarıp, onu bilimin test edebileceği ve açıklayabileceği bir zemine taşımıştır."
+    },
+    {
+      "title": "Bilişsel Bilim Köprüsü",
+      "text": "Felsefeyi yapay zeka ve nörolojiyle birleştirerek, \"disiplinlerarası\" çalışmanın öncüsü olmuştur."
+    },
+    {
+      "title": "Cesaret",
+      "text": "Din ve inanç gibi tabu konuları \"Büyüyü Bozmak\" (Breaking the Spell) adlı eseriyle evrimsel birer fenomen olarak cesurca incelemiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Nitelikleri (Qualia) Yok Saymak",
+      "text": "Nagel ve Chalmers gibi rakipleri, Dennett'in bilinci \"açıklamak\" yerine onu \"yok saydığını\" iddia ederler. Acı çekmenin veya bir rengi görmenin o \"saf hissini\" mekanik bir illüzyona indirgemesi çoğu kişi için tatmin edici değildir."
+    },
+    {
+      "title": "Aşırı Adaptasyonculuk",
+      "text": "Her türlü insani özelliği evrimsel bir faydaya (adaptasyona) bağlama eğilimi, biyolojik bir indirgemecilik olarak eleştirilebilir."
+    },
+    {
+      "title": "Soğuk Rasyonalizm",
+      "text": "Şiirsel ve duygusal olanı tamamen algoritmik bir dile dökmesi, insan tecrübesinin o tarif edilemez derinliğini biraz fazla \"kurutmuş\" olabilir."
+    }
+  ]
+}

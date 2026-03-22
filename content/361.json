@@ -1,0 +1,90 @@
+{
+  "subtitle": "Platformlar, Otomasyon ve Geleceği İcat Etmek (1982–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Platform Kapitalizmi (Platform Capitalism)",
+      "body": "Srnicek'in 2017 tarihli bu eseri, modern ekonominin nasıl değiştiğini anlamak için \"altın standart\" kabul edilir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yeni Hammadde: Veri",
+          "text": "Kapitalizm artık sadece mal üretmiyor; veri emiyor. Veri, 21. yüzyılın ham petrolüdür ve platformlar (Google, Amazon, Uber vb.) bu veriyi çıkaran ve işleyen devasa \"altyapı\"lardır."
+        },
+        {
+          "label": "Platform Türleri ve Tekelleşme",
+          "text": "Reklam platformları (Google/Meta), Bulut platformları (AWS/Azure), Endüstriyel platformlar, Ürün platformları ve Yalın (Lean) platformlar (Uber/Airbnb). Platformlar doğası gereği \"kazanan hepsini alır\" mantığıyla çalışarak kaçınılmaz bir dijital tekelleşmeye yol açar."
+        }
+      ]
+    },
+    {
+      "title": "Sol Akselerasyonizm (Hızlandırmacılık)",
+      "body": "Alex Williams ile yazdıkları Akselerasyonist Manifesto, sol düşüncede bir deprem yarattı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Geriye Değil, İleriye",
+          "text": "Solun genellikle teknolojiye karşı mesafeli veya nostaljik olmasına karşı çıkarlar. Onlara göre çözüm teknolojiden kaçmak değil, teknolojinin kapasitesini kapitalist kısıtlamaların ötesine \"hızlandırmaktır.\""
+        },
+        {
+          "label": "Altyapıyı Geri Almak",
+          "text": "Mevcut teknolojik altyapı (lojistik, AI, veri ağları), kapitalist kâr hırsı yerine toplumsal ihtiyaçlar için yeniden programlanmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "\"Halk Siyaseti\" Eleştirisi ve Strateji",
+      "body": "Fisher'ın melankolisine en güçlü cevabı burada verir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Halk Siyaseti (Folk Politics)",
+          "text": "Srnicek, modern solun \"yerel, küçük, yatay ve kısa vadeli\" eylemlerine \"halk siyaseti\" der ve bunların sistemik değişimi başaramayacağını savunur."
+        },
+        {
+          "label": "Stratejik Modernite",
+          "text": "Solun yeniden büyük, evrensel ve uzun vadeli bir \"gelecek vizyonu\" kurması gerektiğini söyler."
+        }
+      ]
+    },
+    {
+      "title": "Çalışma Sonrası (Post-Work) Toplumu",
+      "body": "Srnicek, otomasyonun insanları işsiz bırakacağı korkusunu bir \"fırsata\" çevirmeyi önerir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dört Sütun",
+          "text": "Tam Otomasyon (istenmeyen işleri makineler yapar), Çalışma Haftasının Kısaltılması, Evrensel Temel Gelir (UBI) ve Çalışma Etiğinin Yıkılması (insanın değerinin \"çalışmakla\" ölçülmesinin terk edilmesi)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ekonomik Netlik",
+      "text": "\"Platform\" kavramını sadece teknik bir terim olmaktan çıkarıp, kapitalizmin yeni evrimsel aşaması olarak tanımlaması dâhiyane bir teşhistir."
+    },
+    {
+      "title": "Gelecek İnşası",
+      "text": "Solu nostaljiden ve savunma pozisyonundan çıkarıp; teknolojiyi kullanarak \"nasıl bir dünya istiyoruz?\" sorusuna cesur ve somut cevaplar vermeye zorlamıştır."
+    },
+    {
+      "title": "Stratejik Derinlik",
+      "text": "Sadece felsefe yapmaz; UBI ve otomasyon gibi konuları siyasi bir programın parçası haline getirerek teoriyi pratiğe yaklaştırır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tekno-İyimserlik",
+      "text": "Eleştirmenler, Srnicek'in otomasyonun ve yapay zekânın \"kurtuluş\" getireceği fikrini fazla iyimser bulur."
+    },
+    {
+      "title": "Ekolojik Maliyet",
+      "text": "\"Hızlandırma\" ve \"tam otomasyon\" senaryolarının gerektirdiği devasa enerji ve hammadde ihtiyacının, gezegenin sınırlarıyla nasıl uyumlu olacağı konusu bazen ikinci planda kalabilir."
+    },
+    {
+      "title": "Devlet Rolü",
+      "text": "Stratejik hedefleri için devleti merkezi bir araç olarak görmesi, anarşist ve otonomist çevreler tarafından \"otoriter bir risk\" olarak eleştirilir."
+    }
+  ]
+}

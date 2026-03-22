@@ -1,0 +1,90 @@
+{
+  "subtitle": "Yapabilirlikler, Duygular ve İyiliğin Kırılganlığı (1947–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yapabilirlik (Kapabilite) Yaklaşımı",
+      "body": "Amartya Sen ile birlikte geliştirdiği bu model, modern ekonomi ve siyaset felsefesinde devrim yapmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "GSYH'den Öte",
+          "text": "Bir ülkenin gelişmişliğini sadece kişi başına düşen gelirle ölçemeyiz. Önemli olan, insanların gerçekte ne yapabildikleri ve ne olabildikleridir."
+        },
+        {
+          "label": "10 Temel Yapabilirlik",
+          "text": "Yaşam hakkı, bedensel sağlık, hayal gücü ve düşünce, duygular, pratik akıl, bağlılık (sosyalleşme), diğer türlerle yaşama, oyun ve siyasi/maddi çevre üzerinde kontrol. Bu liste, onurlu bir insan yaşamı için \"olmazsa olmaz\" asgari sınırdır."
+        }
+      ]
+    },
+    {
+      "title": "Duyguların Bilişsel Değerlendirmesi (Upheavals of Thought)",
+      "body": "Nussbaum, duygu ile akıl arasındaki o kadim uçurumu kapatır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Duygular Yargılardır",
+          "text": "Duygular (yas, öfke, sevgi, korku) sadece irrasyonel patlamalar değildir; onlar bizim için neyin değerli olduğuna dair verdiğimiz \"akılcı yargılardır.\" Örneğin yas tutarız, çünkü kaybettiğimiz şey bizim için değerlidir."
+        },
+        {
+          "label": "Siyasi Duygular",
+          "text": "Adil bir toplumun sadece iyi kanunlara değil, \"şefkat\" ve \"empati\" gibi siyasi duyguları besleyen bir kültüre de ihtiyacı olduğunu savunur."
+        }
+      ]
+    },
+    {
+      "title": "İyiliğin Kırılganlığı (The Fragility of Goodness)",
+      "body": "Aristoteles ve Antik Yunan tragedyalarından ilham alarak etiği yeniden yorumlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Şansın Rolü",
+          "text": "İyi bir insan olmak sadece bizim irademize bağlı değildir. İyilik, dışsal koşullara, tesadüflere ve \"şansa\" karşı kırılgandır."
+        },
+        {
+          "label": "Bitki vs. Cevher",
+          "text": "İnsan ahlakı kırılmaz bir elmas (Platoncu ideal) değil, bakıma muhtaç bir bitki gibidir. Felsefe, bu kırılganlığı yok etmek yerine onu kucaklamalı ve bu riskli dünyada nasıl erdemli kalınabileceğini öğretmelidir."
+        }
+      ]
+    },
+    {
+      "title": "Adaletin Sınırlarını Aşmak",
+      "body": "Geleneksel \"toplumsal sözleşme\" teorilerinin (Rawls gibi) dışladığı alanlara odaklanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Engelliler ve Hayvanlar",
+          "text": "Adalet sadece \"akılcı ve eşit\" bireyler arasında bir pazarlık değildir. Nussbaum, ağır engellilerin, yaşlıların ve hayvanların da \"yapabilirlik hakları\" olduğunu ve adaletin bu grupları da kapsaması gerektiğini savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "İnsani Bir Ekonomi",
+      "text": "Ekonomiyi rakamlardan kurtarıp insan onuruna odaklamış; Birleşmiş Milletler'in \"İnsani Gelişme Endeksi\"ne felsefi temel sağlamıştır."
+    },
+    {
+      "title": "Edebiyat ve Felsefe Sentezi",
+      "text": "Romanların (Dickens, James, Proust) ahlaki hayal gücümüzü geliştiren en iyi \"etik laboratuvarları\" olduğunu göstererek felsefeye estetik bir boyut katmıştır."
+    },
+    {
+      "title": "Kapsayıcılık",
+      "text": "Hayvan haklarından engelli haklarına kadar, adaletin ulaşamadığı en uç köşelere ışık tutmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Batı Merkezli Evrensellik",
+      "text": "Hazırladığı \"10 Temel Yapabilirlik\" listesi, bazı eleştirmenler tarafından farklı kültürlerin değerlerini göz ardı eden \"liberal ve Batılı\" bir dayatma olarak görülmüştür."
+    },
+    {
+      "title": "Devletin Rolü",
+      "text": "Herkesin bu 10 yeteneğe sahip olmasını sağlamak için devlete çok büyük bir görev (ve güç) yüklemesi, bireysel özgürlükler ve devlet müdahalesi arasındaki dengeyi bozabilir."
+    },
+    {
+      "title": "Duygusallık Riski",
+      "text": "Siyaseti duygular üzerine kurma çabası, popülizmin veya duygusal manipülasyonun önünü açabileceği gerekçesiyle rasyonalist filozoflarca eleştirilmiştir."
+    }
+  ]
+}

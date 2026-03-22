@@ -1,0 +1,90 @@
+{
+  "subtitle": "Yapıbozum, Différance ve İz (1930–2004)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yapıbozum (Déconstruction)",
+      "body": "Derrida'nın en çok yanlış anlaşılan ama en güçlü kavramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yıkım Değil, Çözümleme",
+          "text": "Yapıbozum, bir binayı yıkmak değil; o binanın hangi çatlaklar üzerinde durduğunu göstermektir. Bir metni (veya sistemi) kendi içindeki çelişkilerini kullanarak \"açmaya\" çalışır."
+        },
+        {
+          "label": "İkili Karşıtlıklar",
+          "text": "Batı düşüncesi hep ikilikler üzerine kurulmuştur: Varlık/Yokluk, Akıl/Duygu, Erkek/Kadın, Konuşma/Yazı. Derrida, bu ikiliklerin her zaman bir tarafı üstün tuttuğunu ve bu hiyerarşinin aslında bir \"kurgu\" olduğunu kanıtlamıştır."
+        }
+      ]
+    },
+    {
+      "title": "Différance: Fark ve Erteleme",
+      "body": "Derrida, Fransızca \"farklılaşmak\" ve \"ertelemek\" kelimelerini birleştirerek bu yeni terimi yaratmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Anlam Asla Tam Değildir",
+          "text": "Bir kelimenin anlamı, ancak diğer kelimelerle olan \"farkı\" sayesinde vardır (Örn: \"Siyah\"ın anlamı \"Beyaz\" olmadığı içindir)."
+        },
+        {
+          "label": "Sonsuz Erteleme",
+          "text": "Bir kelimenin sözlükteki anlamı bizi başka bir kelimeye, o da başka birine götürür. Anlam asla \"şimdi ve burada\" tam olarak ele geçmez; o her zaman bir sonraki işarete \"ertelenir.\""
+        }
+      ]
+    },
+    {
+      "title": "Logosantrizm ve Ses Merkezcilik",
+      "body": "",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Logosantrizm",
+          "text": "Batı'nın \"Logos\"a (Akıl, Söz, Hakikat) olan saplantısıdır."
+        },
+        {
+          "label": "Söz vs. Yazı",
+          "text": "Felsefe tarihinin \"konuşmayı\" (canlı, sıcak, gerçek) \"yazıya\" (ölü, mesafeli, taklit) üstün tutmasına karşı çıkar. Derrida'ya göre yazı, konuşmadan önce gelir; çünkü her türlü iletişim zaten bir \"iz\" bırakma ve farklılaşma sürecidir."
+        }
+      ]
+    },
+    {
+      "title": "\"Metnin Dışında Hiçbir Şey Yoktur\"",
+      "body": "Derrida'nın en meşhur ve en çok saldırıya uğrayan cümlesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gerçeklik Bir Metindir",
+          "text": "Bu, \"dünya yok, sadece kitaplar var\" demek değildir. Dünyayı ancak dil, kavramlar ve yorumlar (yani metinsel yapılar) aracılığıyla kavrayabileceğimizi anlatır. Bağlamın dışında hiçbir \"saf gerçeklik\" yoktur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dogma Karşıtlığı",
+      "text": "\"Mutlak hakikat\" adı altında dayatılan her türlü otoriteyi (siyasi, dini, felsefi) sorgulamanın muazzam bir yolunu açmıştır."
+    },
+    {
+      "title": "Azınlık Hakları ve Etik",
+      "text": "Yapıbozum, \"merkezin\" dışında kalan her şeyi (Öteki'yi) fark etmemizi sağlar. Bu yüzden post-kolonyal ve feminist teoriler için vazgeçilmez bir araç olmuştur."
+    },
+    {
+      "title": "Hukuk ve Adalet",
+      "text": "Adaletin \"yasalardan\" daha büyük ve \"yapıbozuma uğratılamaz\" tek şey olduğunu savunarak hukuk felsefesine derinlik katmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Obskürantizm (Kapalılık)",
+      "text": "Üslubu o kadar karmaşık ve kelime oyunlarıyla doludur ki, eleştirmenler (özellikle analitik filozoflar) onu \"bir şey söylememek için çok konuşan biri\" olarak nitelemişlerdir."
+    },
+    {
+      "title": "Rölativizm Tehlikesi",
+      "text": "Eğer anlam sonsuza kadar erteleniyorsa ve her şey bir yorumsa; o zaman \"her şey mubahtır\" gibi bir nihilizme düşme riski vardır."
+    },
+    {
+      "title": "Akademik Fetişizm",
+      "text": "Fikirlerinin bazen gerçek hayattaki sorunlardan kopuk, sadece üniversite koridorlarında yapılan bir \"entelektüel jimnastik\" haline geldiği söylenir."
+    }
+  ]
+}

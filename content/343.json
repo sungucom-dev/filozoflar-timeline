@@ -1,0 +1,90 @@
+{
+  "subtitle": "Hakların Sonu, Hukuk ve Adalet (1951–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İnsan Haklarının Sonu (The End of Human Rights)",
+      "body": "Douzinas'ın en meşhur eseri, insan haklarının tarihsel başarısının aslında onun \"etik olarak iflası\" olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İdeolojik Araç",
+          "text": "İnsan hakları, başlangıçta devlete karşı bir direnç odağıyken; bugün güçlü devletlerin zayıf olanlara müdahale etmek için kullandığı bir \"ahlaki sopa\" haline gelmiştir."
+        },
+        {
+          "label": "Hakların Enflasyonu",
+          "text": "Her şeyin bir \"hak\" olarak tanımlandığı bir dünyada, hak kavramı radikal gücünü kaybeder ve bürokratik bir işleme dönüşür."
+        }
+      ]
+    },
+    {
+      "title": "Hukuk vs. Adalet (Levinasçı Etik)",
+      "body": "Douzinas, hukuk ile adaleti birbirinden keskin bir şekilde ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hukuk Statükodur",
+          "text": "Hukuk, devletin koyduğu, sınırları olan ve mevcut düzeni koruyan kurallar sistemidir."
+        },
+        {
+          "label": "Adalet \"Öteki\"dir",
+          "text": "Emmanuel Levinas'tan esinlenen Douzinas için adalet; hukukun sınırlarını aşan, \"öteki\"ne karşı duyulan sonsuz ve hesapsız bir sorumluluktur. Adalet, her zaman hukukun \"fazlası\" ve \"ötesi\"dir."
+        }
+      ]
+    },
+    {
+      "title": "Direnişin Estetiği ve Sokak Siyaseti",
+      "body": "Douzinas, felsefesini Atina meydanlarındaki (Syntagma) protestolarla ve Syriza dönemi siyasetiyle harmanlamıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Direniş Bir \"Olay\"dır",
+          "text": "Badiou'ya paralel olarak, direnişi mevcut hukuk sistemini yırtan ve yeni bir \"hakikat\" alanı açan estetik bir eylem olarak görür."
+        },
+        {
+          "label": "Hukukun Dışına Çıkmak",
+          "text": "Gerçek siyasi özne, hukuk ona izin verdiği için değil; \"başka yolu olmadığı için\" ve adaleti hukuka karşı savunduğu için sokağa çıkandır."
+        }
+      ]
+    },
+    {
+      "title": "Psikanalitik Hukuk Teorisi",
+      "body": "Lacan'dan esinlenerek hukuku bir \"arzu\" ve \"fantezi\" alanı olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Eksiklik",
+          "text": "Hukuk, toplumsal bir \"bütünlük\" vaat eder ama bu vaat her zaman bir fantezidir. Hukuk metinleri, toplumun o hiç kapanmayan yarasını (travmasını) örtmeye yarayan birer maskedir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Hukukun Maskesini Düşürmek",
+      "text": "Liberal demokrasilerin \"insan hakları\" üzerinden yürüttüğü ikiyüzlü politikaları ve hukukun \"tarafsızlık\" illüzyonunu muazzam bir keskinlikle deşifre etmiştir."
+    },
+    {
+      "title": "Etik ve Siyaset Sentezi",
+      "text": "Siyaseti sadece güç mücadelesi olmaktan çıkarıp, onu \"öteki\"nin acısına cevap veren ahlaki bir zemine (Levinasçı etik) oturtmuştur."
+    },
+    {
+      "title": "Yaşayan Teori",
+      "text": "Teorisini sadece kitaplarda bırakmamış, Yunanistan'daki ekonomik kriz ve direniş süreçlerinde aktif rol alarak \"eylem halindeki felsefe\"nin örneğini vermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yapıcı Alternatif Eksikliği",
+      "text": "Mevcut hukuk sistemini çok iyi yıkar (deconstruct); ancak yıkılanın yerine \"nasıl bir yeni hukuk düzeni\" kurulacağı sorusuna verilen cevaplar bazen fazla şiirsel ve muğlak kalabilir."
+    },
+    {
+      "title": "Hukuki Nihilizm Riski",
+      "text": "Hakları bu kadar sert eleştirmek, özellikle hukuk güvenliğinin zayıf olduğu coğrafyalarda, bireyleri devlet şiddeti karşısında tamamen savunmasız bırakabilecek bir \"hak-sızlık\" zeminine yol açabilir."
+    },
+    {
+      "title": "Romantizm",
+      "text": "Direnişi ve sokak siyasetini bazen o kadar çok estetize eder ki; siyasetin o kaba, kurumsal ve \"sıkıcı\" bürokrasiyle baş etme zorunluluğunu biraz hafifsemiş olabilir."
+    }
+  ]
+}

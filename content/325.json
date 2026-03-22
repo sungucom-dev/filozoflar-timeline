@@ -1,0 +1,98 @@
+{
+  "subtitle": "Makineler, Rizom ve Üç Ekoloji (1930–1992)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Şizoanaliz (Psikanalize Karşı)",
+      "body": "Guattari, Freud ve Lacan'ın kurduğu o meşhur \"Anne-Baba-Ben\" (Oedipus) üçgenine savaş açmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Arzu Makineleri",
+          "text": "Ona göre arzu, bir eksiklik (bir şeyi istemek) değil, bir üretim sürecidir. Biz birer \"arzu makinesi\"yiz ve arzumuz toplumsal alanın her yerine yayılır."
+        },
+        {
+          "label": "Ailenin Ötesi",
+          "text": "Şizoanaliz, bireyin sorunlarını sadece ailesinde değil; okulda, fabrikada, bankada ve devlette arar. Hedef, hastayı topluma \"uyumlu\" hale getirmek değil, içindeki yaratıcı enerjiyi (şizoid akışı) serbest bırakmaktır."
+        }
+      ]
+    },
+    {
+      "title": "Rizom (Kök-Sap) Modeli",
+      "body": "Gilles Deleuze ile birlikte geliştirdikleri bu kavram, hiyerarşik düşünce sistemlerine bir alternatiftir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yatay Ağlar",
+          "text": "Ağaçsı yapılar (hiyerarşik, merkezî, yukarıdan aşağıya) yerine \"Rizom\" (patates veya zencefil kökü gibi her yöne yayılan, merkezi olmayan) yapıları savunur."
+        },
+        {
+          "label": "Bağlantısallık",
+          "text": "Rizomda herhangi bir nokta, herhangi bir başka noktaya bağlanabilir. Bir kopuş olduğunda, yeni bir hat üzerinden büyümeye devam eder. Bu, günümüz internet ağının ve merkezsiz hareketlerin en temel felsefi modelidir."
+        }
+      ]
+    },
+    {
+      "title": "Ekosofi: Üç Ekoloji",
+      "body": "Guattari, ekolojinin sadece ağaçları korumak olmadığını söyler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zihinsel Ekoloji",
+          "text": "İnsanın kendi öznelliği, hayalleri ve ruh sağlığı."
+        },
+        {
+          "label": "Toplumsal Ekoloji",
+          "text": "İnsanlar arası ilişkiler, dayanışma ve politika."
+        },
+        {
+          "label": "Çevresel Ekoloji",
+          "text": "Doğal çevre ve ekosistem. Bu üç alan birbirine bağlıdır; zihnimizdeki kirliliği (tüketim hırsı, tekdüzelik) çözmeden doğadaki kirliliği çözemeyiz."
+        }
+      ]
+    },
+    {
+      "title": "Kurumsal Psikoterapi ve La Borde",
+      "body": "Guattari sadece bir teorisyen değildi; La Borde kliniğinde aktif olarak çalıştı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hiyerarşinin Yıkılması",
+          "text": "Klinikte doktorlar ve hastalar arasındaki keskin ayrımı kaldırdı. Hastaların da yönetime katıldığı, mutfakta çalıştığı veya sanatla uğraştığı bir \"kolektif yaşam\" deneyi kurdu."
+        },
+        {
+          "label": "Enine Geçişlilik (Transversality)",
+          "text": "Kurumların içindeki dikey otoriteyi kırıp, yatay ve akışkan iletişim yolları açmayı hedefledi."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Psikanalizin Politikleşmesi",
+      "text": "Psikolojiyi bireysel bir terapi odasından çıkarıp, toplumsal mücadelelerin merkezine oturtmuştur."
+    },
+    {
+      "title": "Ağ Tipi Örgütlenme",
+      "text": "Hiyerarşik olmayan, esnek ve \"göçebe\" örgütlenme modelleriyle modern aktivizme (Örn: Occupy hareketleri) ilham vermiştir."
+    },
+    {
+      "title": "Bütüncül Ekoloji",
+      "text": "Ekolojiyi politik ve psikolojik bir boyuta taşıyarak \"Yeşil Politika\"ya derinlik katmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dildeki Zorluk",
+      "text": "Yarattığı kavramlar (makinesel asamblajlar, yersiz-yurtsuzlaşma vb.) o kadar karmaşık ve kendine hastır ki; fikirlerinin geniş kitleler tarafından anlaşılmasını zorlaştırır."
+    },
+    {
+      "title": "Deleuze'ün Gölgesinde Kalma",
+      "text": "Genellikle \"Deleuze ve Guattari\" olarak anıldığı için, özgün ve sarsıcı klinik deneyimleri ile tek başına geliştirdiği teoriler bazen yeterince fark edilmez."
+    },
+    {
+      "title": "Pratik Uygulanabilirlik",
+      "text": "Önerdiği \"kurumsal yıkım\" ve \"sürekli akış\" fikirleri, büyük ölçekli modern toplumlarda düzen ve istikrar arayan yapılar için kaotik ve sürdürülemez görülebilir."
+    }
+  ]
+}

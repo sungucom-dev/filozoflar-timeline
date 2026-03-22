@@ -1,0 +1,90 @@
+{
+  "subtitle": "Siborglar, Yerleşik Bilgiler ve Yoldaş Türler (1944–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Siborg Manifestosu (A Cyborg Manifesto)",
+      "body": "1985'te yayımlanan bu metin, sadece feminist teoriyi değil, teknolojiye bakışımızı da kökten değiştirdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sınırların Yıkımı",
+          "text": "Haraway, modernitenin üç kritik sınırı ihlal ettiğini savunur: İnsan/Hayvan (biyoloji artık ayrımı yıktı), Organizma/Makine (protezler ve nöral arayüzler arası sınır eridi) ve Fiziksel/Fiziksel Olmayan (mikro çipler maddeyi görünmez ve her yerde olan bir akışa çevirdi)."
+        },
+        {
+          "label": "Siborg Bir Mit Olarak",
+          "text": "Haraway \"Bir tanrıça olmaktansa, bir siborg olmayı tercih ederim\" der. Çünkü siborgun bir \"köken hikâyesi\" (Cennetten kovulma, saf doğa vb.) yoktur. O, melezdir, parçalıdır ve kimliğini kendisi kurgular."
+        }
+      ]
+    },
+    {
+      "title": "Yerleşik Bilgiler (Situated Knowledges)",
+      "body": "Bilimin \"tarafsızlık\" iddiasına karşı en güçlü eleştirilerden biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "\"Tanrı Yanılsaması\" (The God Trick)",
+          "text": "Her şeyi yukarıdan, sanki hiçbir yerde değilmiş gibi izleyen o \"saf nesnellik\" iddiasına \"Tanrı Yanılsaması\" der."
+        },
+        {
+          "label": "Bakış Açısı",
+          "text": "Bilgi her zaman bir bedenden, bir tarihten ve bir konumdan üretilir. \"Gerçek\" bilgi, kendi konumunu dürüstçe itiraf eden ve diğer bakış açılarıyla \"kısmi\" bağlar kuran bilgidir."
+        }
+      ]
+    },
+    {
+      "title": "Sorunla Beraber Kalmak (Staying with the Trouble)",
+      "body": "Geç dönem çalışmalarında ekolojik krize ve türler arası ilişkilere odaklanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Chthulucene",
+          "text": "İçinde bulunduğumuz çağı \"Antroposen\" (İnsan Çağı) olarak adlandırmayı reddeder, çünkü bu hala insanı merkeze koyan bir kibirdir. Bunun yerine, tüm türlerin birbirine örüldüğü Chthulucene kavramını önerir."
+        },
+        {
+          "label": "Sympoiesis (Birlikte-Yapma)",
+          "text": "Hiçbir canlı tek başına \"var olmaz.\" Biz ancak diğer türlerle (bakterilerle, bitkilerle, makinelerle) \"birlikte var oluruz.\""
+        }
+      ]
+    },
+    {
+      "title": "Yoldaş Türler (Companion Species)",
+      "body": "Haraway, sadece teknolojiyle değil, biyolojik dostlarımızla olan bağımızı da yeniden tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Köpeklerin Felsefesi",
+          "text": "Köpeğiyle olan ilişkisini analiz ederken, bunun bir \"efendi-köle\" ilişkisi değil, iki farklı türün birbirini dönüştürdüğü bir \"yoldaşlık\" olduğunu savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Siber-Feminizmin Doğuşu",
+      "text": "Teknolojiyi erkek egemen bir alan olarak görüp reddetmek yerine, onu özgürleşme için bir \"oyun alanı\"na çevirmiştir."
+    },
+    {
+      "title": "Ekolojik Derinlik",
+      "text": "İnsanı doğanın \"efendisi\" değil, o muazzam ağın \"bir parçası\" olarak konumlandırarak çevre etiğine yeni bir soluk getirmiştir."
+    },
+    {
+      "title": "Metaforik Güç",
+      "text": "\"Siborg\" gibi kavramlarla, karmaşık teorik tartışmaları herkesin hayal gücüne dokunabilecek güçlü imgelere dönüştürmüştür."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Dilin Zorluğu",
+      "text": "Haraway'in yazıları şiirsel olduğu kadar karmaşıktır. Bazen \"bilim kurgu mu, biyoloji mi, yoksa felsefe mi okuyorum?\" sorusu okuru yorabilir."
+    },
+    {
+      "title": "Teknoloji İyimserliği/Karamsarlığı",
+      "text": "Bazı eleştirmenler, onun siborg figürünün kapitalist sömürü mekanizmalarını yeterince ciddiye almadığını; bazıları ise teknolojiyi fazla \"romantize\" ettiğini savunur."
+    },
+    {
+      "title": "Merkezsizlik",
+      "text": "Her şeyi \"akış ve melezlik\" üzerinden okuması, somut siyasi hak arayışlarında ihtiyaç duyulan o \"sabit duruşu\" zayıflatabilir."
+    }
+  ]
+}

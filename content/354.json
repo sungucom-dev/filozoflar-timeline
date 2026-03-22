@@ -1,0 +1,94 @@
+{
+  "subtitle": "Nesne Yönelimli Ontoloji ve Nesnelerin Gizli Hayatı (1968–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Düz Ontoloji (Flat Ontology): Her Şey Bir Nesnedir",
+      "body": "Harman için varlık hiyerarşisi yoktur. Bir atom, bir insan, Hollanda Doğu Hindistan Şirketi veya Sherlock Holmes; hepsi aynı derecede \"nesne\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Küçültmeciliğe (Undermining) Karşı",
+          "text": "Nesneyi sadece parçalarına (atomlar, sicimler) indirgeyip \"aslında bu sadece fiziksel bir yığındır\" diyen bilimsel bakışa karşı çıkar."
+        },
+        {
+          "label": "Nesnenin Onuru",
+          "text": "Nesne, ne parçalarının toplamıdır ne de etkilerinin sonucudur; o, kendine has bir \"töz\"dür."
+        }
+      ]
+    },
+    {
+      "title": "Geri Çekilme (Withdrawal)",
+      "body": "Harman, Heidegger'in ünlü \"çekiç\" analizini alıp tüm evrene yayar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Asla Tam Bilinemez",
+          "text": "Bir nesneyle ne kadar ilgilenirsek ilgilenelim, o nesne her zaman bir yönünü bizden saklar. Çekiçle çivi çakarken onun \"çekiçliğini\" düşünmeyiz; o ancak bozulduğunda kendini \"gösterir\". Ama bozulduğunda bile çekicin içsel gerçekliği bizden \"geri çekilir\"."
+        },
+        {
+          "label": "Karanlık Nesneler",
+          "text": "Nesneler birbirlerine sadece yüzeysel olarak dokunurlar; gerçek özleri ise mutlak bir karanlıkta, birbirlerinden uzakta yaşar."
+        }
+      ]
+    },
+    {
+      "title": "Dörtlü Nesne (The Quadruple Object)",
+      "body": "Harman, bir nesneyi dört kutuplu bir yapı olarak tasvir eder. Bu kutuplar arasındaki gerilim, dünyadaki tüm değişimin ve estetiğin kaynağıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gerçek Nesne (Real Object)",
+          "text": "Nesnenin bizden ve diğer nesnelerden gizlenen, dokunulmaz özü."
+        },
+        {
+          "label": "Duyusal Nesne (Sensual Object)",
+          "text": "Bizim algıladığımız, etkileşime girdiğimiz \"görüntü\" nesne ve onun bize görünen özellikleri (rengi, sertliği vb.)."
+        }
+      ]
+    },
+    {
+      "title": "Dolaylı Nedensellik (Vicarious Causality)",
+      "body": "Eğer nesneler birbirlerinden bu kadar \"geri çekilmiş\"lerse, nasıl etkileşime girerler?",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Estetiğin Gücü",
+          "text": "Harman'a göre iki nesne birbirine doğrudan dokunamaz; ancak bir \"aracı\" (duyusal bir alan) vasıtasıyla etkileşirler. Bu etkileşim bir tür \"metafor\" veya \"sanat\" gibidir."
+        },
+        {
+          "label": "Dünya Bir Sahnedir",
+          "text": "Nedensellik bilimsel bir çarpışma değil, nesnelerin birbirinin \"duyusal vekilliği\" üzerinden kurduğu gizemli bir danstır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Nesnelere Saygı",
+      "text": "Dünyayı sadece insanın \"algısı\" veya \"kullanımı\" üzerinden görmeyi bırakıp, her varlığa kendi içsel değerini iade etmiştir."
+    },
+    {
+      "title": "Yaratıcı Metafizik",
+      "text": "Felsefeyi kuru bir mantık analizi olmaktan çıkarıp, edebiyat (özellikle H.P. Lovecraft hayranlığı) ve sanatla beslenen zengin bir hikâyeye dönüştürmüştür."
+    },
+    {
+      "title": "Post-Hümanist Vizyon",
+      "text": "İnsanı evrenin merkezinden silmeden, onu diğer nesnelerle yan yana konumlandırarak yeni bir ekolojik bakış sunmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Spekülatif Boşluk",
+      "text": "\"Geri çekilen nesne\" asla bilinemediği için, bu iddianın kendisi bilimsel olarak kanıtlanamaz bir inanç gibi kalabilir."
+    },
+    {
+      "title": "Siyaset ve Etik Eksikliği",
+      "text": "Eğer bir taşla bir insan \"nesne\" olarak eşitse, ahlaki sorumluluk ve siyasi mücadele nasıl temellendirilecektir? Harman'ın bu konudaki cevapları genellikle soyut kalmaktadır."
+    },
+    {
+      "title": "Tanım Karmaşası",
+      "text": "Her şeyi (örneğin \"Pazartesi sabahı\" veya \"bir ordu\") nesne olarak tanımlamak, \"nesne\" kavramının içini boşaltma ve onu işlevsizleştirme riski taşır."
+    }
+  ]
+}

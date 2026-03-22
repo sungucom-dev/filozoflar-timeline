@@ -1,0 +1,90 @@
+{
+  "subtitle": "Kesişimsellik, Özgürlük ve Hapishane Endüstrisi (1944–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kesişimsellik (Intersectionality): Tek Boyutlu Olmayan Ezilme",
+      "body": "Davis, siyah bir kadın ve bir Marksist olarak, ezilme biçimlerinin birbirinden koparılamayacağını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üçlü Sarmal",
+          "text": "Irkçılık, cinsiyetçilik ve kapitalizm (sınıf) bir madalyonun farklı yüzleri değil, birbirini besleyen ve güçlendiren tek bir sistemin parçalarıdır."
+        },
+        {
+          "label": "Bütünleşik Mücadele",
+          "text": "Sadece kadın haklarını savunup ırkçılığı görmezden gelmek veya sadece işçi sınıfını savunup cinsiyetçiliği yok saymak, Davis'e göre sistemin ekmeğine yağ sürmektir."
+        }
+      ]
+    },
+    {
+      "title": "Cezaevi-Endüstriyel Kompleksi (The Prison-Industrial Complex)",
+      "body": "Davis'in en radikal ve sarsıcı teorisidir. Hapishanelerin suçla mücadele etmek için değil, toplumsal sorunları gizlemek ve kâr etmek için kullanıldığını söyler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Görünmezlik Mekânı",
+          "text": "Toplumun çözemediği \"istenmeyen\" insanları (evsizler, işsizler, göçmenler) hapishanelere kapatarak sorunların çözüldüğü illüzyonu yaratılır."
+        },
+        {
+          "label": "İptalcilik (Abolitionism)",
+          "text": "Davis, sadece hapishane reformunu değil, hapishanelerin tamamen ortadan kaldırılmasını ve bu bütçenin eğitim, sağlık ve konuta aktarılmasını savunan bir \"yıkım ve yeniden inşa\" projesidir."
+        }
+      ]
+    },
+    {
+      "title": "Özgürlük Sürekli Bir Mücadeledir (Freedom is a Constant Struggle)",
+      "body": "Özgürlük, Davis için ulaşılan bir durak değil, her gün yeniden kazanılması gereken bir eylemdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kolektif Bellek",
+          "text": "Geçmişteki direnişlerin (kölelik karşıtlığı, sivil haklar) mirasını bugün Filistin'den Black Lives Matter'a kadar uzanan küresel mücadelelerle birleştirir."
+        },
+        {
+          "label": "Uluslararası Dayanışma",
+          "text": "Yerel bir adaletsizliğin, küresel bir sistemin parçası olduğunu vurgular."
+        }
+      ]
+    },
+    {
+      "title": "Kadınlar, Irk ve Sınıf",
+      "body": "En önemli eserlerinden birinde, feminist hareketin tarihini sınıf ve ırk süzgecinden geçirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bütüncül Analiz",
+          "text": "Beyaz orta sınıf feminizminin, siyah ve emekçi kadınların deneyimlerini nasıl dışladığını ve bu yüzden eksik kaldığını harika bir şekilde analiz eder."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Praksis Ustası",
+      "text": "Felsefeyi (özellikle Frankfurt Okulu'ndan aldığı eleştirel teoriyi) doğrudan toplumsal harekete dönüştürmüş, teoriyle eylemi birleştirmiştir."
+    },
+    {
+      "title": "Hapishane Analizi",
+      "text": "\"Hapishane endüstrisi\" kavramıyla, modern devletin cezalandırma mantığını sorgulatarak kriminolojide devrim yapmıştır."
+    },
+    {
+      "title": "Küresel İlham",
+      "text": "Sadece ABD'deki siyahların değil, dünyadaki tüm ezilen halkların (Filistinliler, Kürtler, yerli halklar) sesi ve müttefiki olmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Siyasi Geçmiş Tartışmaları",
+      "text": "Soğuk Savaş döneminde Sovyetler Birliği ve Doğu Bloku rejimlerine karşı sessiz kalması veya onları desteklemesi, insan hakları savunuculuğuyla çeliştiği gerekçesiyle sıkça eleştirilmiştir."
+    },
+    {
+      "title": "Radikalizmin Pratikliği",
+      "text": "Hapishanelerin tamamen kaldırılması gibi önerileri, toplumun güvenlik algısı ve suçun gerçekliği karşısında birçok kişi için \"ütopik\" ve \"uygulanamaz\" bulunmaktadır."
+    },
+    {
+      "title": "Kimlik Siyaseti Riski",
+      "text": "Kesişimsellik çok güçlü bir araç olsa da, bazen sınıfsal birliği parçalayan bir \"kimlik parçalanmasına\" yol açabileceği yönünde Marksist çevrelerden eleştiriler almaktadır."
+    }
+  ]
+}

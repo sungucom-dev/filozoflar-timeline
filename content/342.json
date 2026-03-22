@@ -1,0 +1,98 @@
+{
+  "subtitle": "İdeoloji, Lacan ve Gerçeğin Dehşeti (1949–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İdeoloji: \"Görmediğimizi Biliyoruz Ama Yine de Yapıyoruz\"",
+      "body": "Žižek, Marksist ideoloji tanımını tersyüz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sinik Mesafelenme",
+          "text": "Klasik tanım \"Bilmiyorlar ama yapıyorlar\" şeklindeydi. Žižek ise \"Bunun bir yalan olduğunu çok iyi biliyorlar ama yine de yapmaya devam ediyorlar\" der."
+        },
+        {
+          "label": "İdeoloji Gözlükleri",
+          "text": "John Carpenter'ın They Live filmindeki gibi; ideoloji dünyayı kaplayan bir sis değil, dünyayı \"anlamlı\" kılan o görünmez gözlüktür. İdeolojiden kurtulmak \"özgürleşmek\" değil, gerçekliğin o çiğ ve katlanılmaz yüzüyle karşılaşmaktır."
+        }
+      ]
+    },
+    {
+      "title": "Lacancı Üçleme: Gerçek, Simgesel, İmgesel",
+      "body": "Žižek, felsefesini Jacques Lacan'ın psikanaliz teorisi üzerine kurar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İmgesel (Imaginary)",
+          "text": "Kendimizi ve dünyayı gördüğümüz o bütünlüklü ama aldatıcı ayna görüntüsü."
+        },
+        {
+          "label": "Simgesel (Symbolic)",
+          "text": "Dil, yasalar ve toplumsal düzen. \"Büyük Öteki\" buradadır."
+        },
+        {
+          "label": "Gerçek (The Real)",
+          "text": "Dile dökülemeyen, simgeleşmeyen o travmatik çekirdek. Žižek'e göre \"Gerçek\", gerçeklikten (reality) farklıdır; o, sistemin içindeki o ürkütücü boşluktur."
+        }
+      ]
+    },
+    {
+      "title": "Paralaks Bakış (The Parallax View)",
+      "body": "Žižek'in en güçlü yöntemsel kavramıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Perspektif Kayması",
+          "text": "Bir nesneye bakarken bakış açınızı değiştirdiğinizde sadece nesne değişmez, nesnenin kendisindeki o temel \"çatlak\" görünür hale gelir."
+        },
+        {
+          "label": "Diyalektik",
+          "text": "Hegelci bir şekilde, çelişkinin çözülmesini değil, çelişkinin bizzat \"gerçeğin kendisi\" olduğunu savunur."
+        }
+      ]
+    },
+    {
+      "title": "\"Kafeinsiz Kahve\" ve Kültürel Eleştiri",
+      "body": "Modern dünyayı \"öznesi çıkarılmış\" deneyimler üzerinden eleştirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fantezi ve Gerçeklik",
+          "text": "Kafeinsiz kahve, alkolsüz bira, kurbanı olmayan savaş... Modern sistem bize \"tehlikesi çıkarılmış\" bir hayat vaat eder."
+        },
+        {
+          "label": "Büyük Öteki Yoktur",
+          "text": "Devletin, Tanrı'nın veya Bilim'in bizi gerçekten kurtaracak o \"gizli plana\" sahip olmadığını, Büyük Öteki'nin de bizim kadar şaşkın (ve aslında var olmayan bir kurgu) olduğunu söyler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Popüler Kültürü Ciddiye Almak",
+      "text": "The Matrix, Joker veya Batman üzerinden Hegel anlatarak felsefeyi akademik gettolardan çıkarmıştır."
+    },
+    {
+      "title": "İdeolojik Keskinlik",
+      "text": "Liberal demokrasinin ve çokkültürlülüğün altındaki o sinsi \"yasaklama\" ve \"dışlama\" mekanizmalarını dâhice ifşa eder."
+    },
+    {
+      "title": "Psikanalitik Siyaset",
+      "text": "Siyaseti sadece ekonomiyle değil, arzular, korkular ve fantezilerle açıklaması muazzam bir derinlik sağlar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tekrar ve Üslup",
+      "text": "Eleştirmenler onun hep aynı fıkraları anlattığını ve teorisinin bazen bir \"şov\" içinde kaybolduğunu söylerler."
+    },
+    {
+      "title": "Somut Çözüm Eksikliği",
+      "text": "Sistemi dâhice eleştirir ama \"Peki ne yapmalıyım?\" sorusuna verdiği cevaplar (genellikle radikal bir pasiflik veya kestirilemez bir devrimcilik) muğlak kalabilir."
+    },
+    {
+      "title": "Hızlı Tüketim",
+      "text": "Her olaya (pandemi, savaş, AI) anında kitap yazması, analizlerinin bazen yeterince demlenmediği eleştirilerini doğurur."
+    }
+  ]
+}

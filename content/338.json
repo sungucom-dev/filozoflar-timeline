@@ -1,0 +1,94 @@
+{
+  "subtitle": "Aktörler, Hibritler ve Hiç Olmamış Modernite (1947–2022)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Aktör-Ağ Teorisi (ANT): Her Şey Bağlantıdır",
+      "body": "Latour'un en büyük devrimi, \"fail\" (aktör/actant) kavramını genişletmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesneler de Faildir",
+          "text": "Bir kapıyı kapatan sadece insan değildir; o kapıdaki \"yay\" da bir faildir. Eğer o yay olmasaydı, insan davranışını değiştirmek zorunda kalırdı."
+        },
+        {
+          "label": "Düz Ontoloji",
+          "text": "Latour'a göre dünya, insan ve insan-olmayan aktörlerin birbirine bağlandığı devasa bir ağdır. Bir bilimsel gerçek, laboratuvar cihazları, fon sağlayanlar, makaleler ve mikroskoplar bir araya gelip bir \"ittifak\" kurduğunda \"doğru\" olur."
+        }
+      ]
+    },
+    {
+      "title": "Biz Hiç Modern Olmadık (Nous n'avons jamais été modernes)",
+      "body": "Modernite, en büyük iddiasını \"Doğa\" ile \"Kültür\"ü birbirinden keskin bir şekilde ayırmak üzerine kurar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Büyük Ayrım",
+          "text": "Modern insan, doğayı \"orada duran dilsiz bir şey\", kültürü ise \"insana ait bir alan\" sanır."
+        },
+        {
+          "label": "Hibritlerin Çoğalması",
+          "text": "Oysa Latour, bu ayrımın bir yanılsama olduğunu söyler. Küresel ısınma nedir? Hem siyasidir (kültür) hem de atmosferiktir (doğa). Biz sürekli bu iki alanı birleştiren \"hibritler\" üretiriz ama modern olduğumuz iddiasıyla bu birleşmeyi inkar ederiz."
+        }
+      ]
+    },
+    {
+      "title": "Bilim Uygulamada (Science in Action)",
+      "body": "Latour, bilim insanlarını laboratuvarlarında birer antropolog gibi izlemiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kara Kutular",
+          "text": "Bir teori bir kez kabul edildiğinde \"kara kutu\"ya dönüşür; içindeki tartışmalar unutulur ve o artık bir \"doğa yasası\" sanılır."
+        },
+        {
+          "label": "Yazım Cihazları",
+          "text": "Bilim, dünyayı kağıt üzerindeki verilere, grafiklere ve sayılara döken muazzam bir \"yazım\" sürecidir. Gerçeklik, bu yazıların birbirini desteklemesiyle inşa edilir."
+        }
+      ]
+    },
+    {
+      "title": "Gaya (Gaia) ve Karaya İniş",
+      "body": "Geç döneminde, iklim kriziyle beraber siyaseti \"yeryüzüne\" indirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gaya",
+          "text": "Dünya, üzerinde yaşadığımız sessiz bir platform değil; bizimle etkileşime giren, tepki veren canlı ve hassas bir sistemdir."
+        },
+        {
+          "label": "Yersel Siyaset",
+          "text": "Artık \"sağ\" veya \"sol\" değil, \"Yersel\" (Terrestrial) olanlar ile dünyadan kopuk olanlar arasında bir savaş vardır. Latour, bizi yeniden yeryüzüne \"iniş yapmaya\" çağırır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Antroposen Rehberi",
+      "text": "İnsanı merkeze koymayan (non-anthropocentric) bakışıyla, ekolojik krizleri anlamamız için en güçlü teorik altyapıyı o kurmuştur."
+    },
+    {
+      "title": "Nesnelerin Sosyolojisi",
+      "text": "Teknolojiyi ve eşyaları \"dilsiz araçlar\" olmaktan çıkarıp, toplumu inşa eden ortaklar olarak görmemizi sağlamıştır."
+    },
+    {
+      "title": "Laboratuvarın Perdesini Aralamak",
+      "text": "Bilimin nasıl \"üretildiğini\" göstererek, otoriteye karşı körü körüne bir inanç yerine rasyonel bir anlayış geliştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Bilim Savaşları (Sokal Vakası)",
+      "text": "90'larda bilimin \"inşa edildiğini\" söylemesi, onun gerçekliği inkar ettiği sanılarak fizikçiler tarafından sertçe eleştirilmiştir. Latour daha sonra bu \"yanlış anlaşılmayı\" düzeltmek için çok çabalamıştır."
+    },
+    {
+      "title": "Siyasi Belirsizlik",
+      "text": "Her şeyi bir \"ağ\" ve \"ittifak\" olarak gördüğünde, haksız güç ilişkilerini ve sınıfsal baskıları analiz etmekte bazen fazla \"teknik\" kalabilir."
+    },
+    {
+      "title": "Dilin Zorluğu",
+      "text": "Yarattığı terminoloji (translation, inscription, actant vb.) bazen felsefesini takip etmeyi zorlaştırabilir."
+    }
+  ]
+}

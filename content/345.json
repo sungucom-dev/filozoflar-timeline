@@ -1,0 +1,90 @@
+{
+  "subtitle": "Sevgi Etiği, Tahakküm Matrisi ve Özgürlük Pedagojisi (1952–2021)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tahakkümün Kesişimselliği",
+      "body": "Angela Davis ile aynı gelenekten beslenen hooks, sistemi tek bir \"kötü\" üzerinden değil, devasa bir ağ olarak tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Emperyalist Beyaz Üstünlükçü Kapitalist Ataerki",
+          "text": "hooks'un meşhur ettiği bu uzun ifade, sistemin tüm katmanlarını aynı anda isimlendirir. Ona göre bu yapıların hiçbiri diğerinden bağımsız değildir; her biri birbirini besleyen tek bir \"tahakküm matrisi\"dir."
+        },
+        {
+          "label": "Marjinaliteden Merkeze",
+          "text": "hooks, ezilenlerin sadece \"kurban\" olmadığını; marjinal olmanın, dünyayı daha geniş ve derinlikli bir perspektifle (çift görüşlü) algılamak için stratejik bir avantaj sağladığını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Bir Eylem Olarak Sevgi (Love as a Practice)",
+      "body": "hooks için sevgi, romantik bir duygu veya pasif bir his değil, bilinçli bir \"seçim\" ve \"eylem\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sevgi Etiği",
+          "text": "Adaletin temelinin sevgi olduğuna inanır. All About Love (Sevgi Üstüne) kitabında, sevginin ancak dürüstlük, açıklık ve karşılıklı saygı ortamında yeşerebileceğini; tahakkümün olduğu yerde sevginin barınamayacağını söyler."
+        },
+        {
+          "label": "Toplumsal İyileşme",
+          "text": "Sevgi, bireysel bir mesele olduğu kadar toplumsal bir direniş biçimidir. \"Yaralı\" toplumlarda birbirini sevmek, sistemin nefret politikasına karşı en büyük başkaldırıdır."
+        }
+      ]
+    },
+    {
+      "title": "Özgürleştirici Eğitim: İhlal Etmeyi Başlatmak",
+      "body": "Paulo Freire'den etkilenen hooks, sınıfı \"özgürlüğün en radikal alanı\" olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Öğretmeyi İhlal Etmek (Teaching to Transgress)",
+          "text": "Eğitim, sadece bilgi aktarımı değil; öğrencilerin kendilerini ve dünyayı sorgulamalarını sağlayan bir \"özgürlük pratiği\" olmalıdır."
+        },
+        {
+          "label": "Bütüncül Eğitim",
+          "text": "Eğitimin sadece zihne değil, bedene ve ruha da dokunması gerektiğini savunur. Öğretmen de öğrenci kadar kırılgan ve öğrenmeye açık olmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Feminizm Herkes İçindir",
+      "body": "hooks, feminizmi orta sınıf beyaz kadınların \"erkeklerle eşit olma\" talebinden çıkarıp; cinsiyetçi baskının, ırkçılığın ve sınıf ayrımcılığının tamamen ortadan kalktığı bir dünya hayaline dönüştürmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Barışçıl Dil",
+          "text": "\"Erkekler düşmanımız değil, sistemin diğer kurbanlarıdır\" diyerek barışçıl ve kapsayıcı bir dil kurmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dili Demokratikleştirme",
+      "text": "En karmaşık teorik kavramları (ırkçılık, ataerki, sınıf), herkesin anlayabileceği, şiirsel ve doğrudan bir dille anlatmayı başarmıştır."
+    },
+    {
+      "title": "Siyasetin Kalbi",
+      "text": "Siyaseti sadece meclislerde veya meydanlarda değil; mutfakta, yatak odasında ve çocuk bakımında, yani \"gündelik hayatın\" içinde aramıştır."
+    },
+    {
+      "title": "Kapsayıcı Feminizm",
+      "text": "Beyaz feminizmi içten eleştirerek, siyah, işçi sınıfı ve marjinalleştirilmiş tüm kadınların sesini feminist teorinin merkezine yerleştirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Öznellik Tartışması",
+      "text": "Yazılarında kendi kişisel deneyimlerine çok fazla yer vermesi, bazı akademik çevrelerce \"yeterince bilimsel/nesnel\" olmamakla eleştirilmiştir."
+    },
+    {
+      "title": "Kavramsal Belirsizlik",
+      "text": "\"Sevgi\" gibi geniş ve yoruma açık bir kavramı siyasetin merkezine koyması, somut hukuki ve siyasi stratejiler arayanlar için bazen fazla \"soyut\" veya \"spiritüel\" kalabilmektedir."
+    },
+    {
+      "title": "Radikal Barışçıllık",
+      "text": "Sistemin şiddetine karşı önerdiği sevgi temelli yaklaşım, bazı devrimci çevreler tarafından sistemin kaba gerçekliği karşısında fazla \"yumuşak\" bulunmuştur."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subtitle": "Metabolik Yarılma ve Müştereklerin Dönüşü (1987–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Marx'ın Gizli Defterleri (MEGA Projesi)",
+      "body": "Saito'nun en büyük başarısı, Marx'ı sadece bir \"sanayi devrimi\" düşünürü olmaktan çıkarmasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Geç Dönem Marx",
+          "text": "Saito, Marx'ın ölümünden önce tuttuğu ancak yayımlanmamış notlarını (MEGA projesi kapsamında) inceleyerek; Marx'ın ömrünün sonunda ekolojiye, tarıma ve toprağın korunmasına takıntılı derecede odaklandığını kanıtlamıştır."
+        },
+        {
+          "label": "Metabolik Yarılma (Metabolic Rift)",
+          "text": "Kapitalizmin, doğa ile insan arasındaki o doğal döngüyü (metabolizmayı) kopardığını savunur. Topraktan aldığımızı toprağa geri vermediğimiz bu \"yarılma\", bugünkü iklim krizinin temel sebebidir."
+        }
+      ]
+    },
+    {
+      "title": "Küçülme Komünizmi (Degrowth Communism)",
+      "body": "Saito, \"komünizm\" kavramını 20. yüzyılın o gri, devasa sanayileşmiş devlet modellerinden kurtarır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Büyüme Bir Prangadır",
+          "text": "Ona göre sorun sadece üretim araçlarının kimde olduğu değil; bu araçların sürekli \"daha fazla büyüme\" için çalışmasıdır."
+        },
+        {
+          "label": "Müşterek Zenginlik (Common Wealth)",
+          "text": "Özel mülkiyet yerine; suyun, elektriğin, eğitimin ve toprağın \"herkese ait\" (müşterek) olduğu, ancak kâr için değil \"ihtiyaç için\" üretimin yapıldığı yerel, demokratik bir sistem önerir."
+        }
+      ]
+    },
+    {
+      "title": "Sürdürülebilir Kalkınma Amaçları (SDG) Eleştirisi",
+      "body": "Saito, modern kurumların sunduğu \"yeşil büyüme\" çözümlerine karşı oldukça serttir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Halkın Yeni Afyonu",
+          "text": "Saito'ya göre modern sürdürülebilirlik sloganları (SDGs), insanları sistemin gerçekten değiştiğine ikna edip uyutmaya yarayan \"yeni bir dindir.\" Pipetleri değiştirmekle gezegenin kurtulmayacağını, asıl meselenin \"üretim biçimi\" olduğunu söyler."
+        }
+      ]
+    },
+    {
+      "title": "Antroposen'de Kapital (Capital in the Anthropocene)",
+      "body": "Japonya'da yarım milyondan fazla satan bu eseriyle, akademik felsefeyi bir \"best-seller\" (çok satan) fenomenine dönüştürmüştür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Net Mesaj",
+          "text": "Eğer kapitalizmden vazgeçmezsek, biyolojik varlığımızdan vazgeçeceğiz."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Marx'ı Güncellemek",
+      "text": "Klasik Marksizm'i, 21. yüzyılın en büyük sorunu olan iklim kriziyle kusursuz bir şekilde birleştirerek, sol düşünceye taze bir kan pompalamıştır."
+    },
+    {
+      "title": "Gençlik Heyecanı",
+      "text": "Felsefeyi sıkıcı bir teori olmaktan çıkarıp; \"küçülme\"yi (degrowth) arzulanan, daha az stresli ve daha anlamlı bir yaşam biçimi olarak sunmayı başarmıştır."
+    },
+    {
+      "title": "Tarihsel Temel",
+      "text": "\"Küçülme\" fikrini sadece bir \"temenni\" olarak değil, Marx'ın kendi metinlerindeki gizli bir \"zorunluluk\" olarak temellendirmesi çok etkileyicidir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Ütopik Beklentiler",
+      "text": "İnsanlığın \"büyüme\" hırsından ve özel mülkiyet tutkusundan bu kadar kısa sürede nasıl vazgeçeceği, geçiş sürecindeki o devasa ekonomik şokun nasıl yönetileceği belirsizdir."
+    },
+    {
+      "title": "Siyasi Uygulanabilirlik",
+      "text": "Önerdiği \"yerel komünler\" modeli, 2026'nın devasa teknolojik ve askeri güç yapıları karşısında ne kadar dayanıklı olabilir?"
+    },
+    {
+      "title": "Hümanizm Kısıtlaması",
+      "text": "Eleştirmenler, Saito'nun çözümünü \"fazla insan odaklı\" bulabilirler; doğanın sadece insanın ihtiyacı için değil, kendi hatırına korunması gerektiği vurgusu bazen bu ekonomik modelde ikinci planda kalabilir."
+    }
+  ]
+}

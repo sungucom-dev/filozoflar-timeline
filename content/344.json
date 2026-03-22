@@ -1,0 +1,90 @@
+{
+  "subtitle": "Teknik, Zaman ve Belleğin Dışsallaşması (1952–2020)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Epifilojenez: Teknikten Önce İnsan Yoktur",
+      "body": "Stiegler, antropoloji ve felsefeyi sarsan bir iddiayla başlar. İnsan, diğer hayvanlar gibi \"doğal\" bir donanımla gelmez; o bir \"eksiklik\" ile doğar (Epimetheus efsanesi).",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dışsal Miras",
+          "text": "Hayvanlar bilgilerini genetikle (filojenez) aktarır. İnsan ise bilgisini \"aletlere\" (teknik nesnelere) aktarır."
+        },
+        {
+          "label": "Teknik Evrim",
+          "text": "İnsan aklı teknikle birlikte gelişmiştir. Taş balta sadece bir alet değil, beynimizin dışarıdaki bir parçasıdır. Stiegler buna \"Epifilojenez\" (teknik aracılığıyla biriken bellek) der."
+        }
+      ]
+    },
+    {
+      "title": "Üçüncü Bellek (Tertiary Retention)",
+      "body": "Husserl'in bellek ayrımına devrimci bir ekleme yapar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İlk İki Bellek",
+          "text": "Birinci bellek algı anındaki bellek, ikinci bellek hatırlama ve anılardır."
+        },
+        {
+          "label": "Üçüncü Bellek",
+          "text": "Dışarıda saklanan bellek (yazı, fotoğraflar, sabit diskler, bulut sistemleri). Günümüzde tüm belleğimizi Google'a veya yapay zekaya devrettiğimizde, kendi \"içsel belleğimizi\" ve düşünme yetimizi kaybetme riskiyle karşı karşıya kalırız."
+        }
+      ]
+    },
+    {
+      "title": "Farmakoloji: Zehir ve İlaç Olarak Teknoloji",
+      "body": "Antik Yunan'daki \"Pharmakon\" kavramını modern teknolojiye uygular.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İki Yüzlü Güç",
+          "text": "Teknoloji hem bir \"ilaç\"tır (bizi güçlendirir, dünyayı birbirine bağlar) hem de bir \"zehir\"dir (dikkatimizi dağıtır, bizi aptallaştırır, proleterleştirir)."
+        },
+        {
+          "label": "Tedavi",
+          "text": "Felsefenin görevi, teknolojiyi reddetmek değil; o zehri nasıl bir ilaca dönüştüreceğimizi, yani teknolojiyi nasıl \"bilgece\" kullanacağımızı bulmaktır."
+        }
+      ]
+    },
+    {
+      "title": "Yeni Proleterleşme: \"Nasıl Yaşanacağını\" Unutmak",
+      "body": "Marx'ın işçilerin \"üretim bilgisini\" kaybetmesi olarak tanımladığı proleterleşmeyi, Stiegler tüm topluma yayar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Becerisizleşme",
+          "text": "Artık sadece fabrikadaki işçi değil, tüketici de proleterleşmiştir. GPS olmadan yolumuzu bulamıyor, yemek yapmayı bilmiyor, dijital ekranlar olmadan eğlenemiyoruz. Bu, savoir-faire (nasıl yapılacağı bilgisi) ve savoir-vivre (nasıl yaşanacağı bilgisi) kaybıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Teknoloji Felsefesini Merkeze Almak",
+      "text": "Teknolojiyi felsefenin \"yan bir konusu\" olmaktan çıkarıp, varoluşun temel şartı haline getirmiştir."
+    },
+    {
+      "title": "Dijital Eleştiri",
+      "text": "Sosyal medyanın ve algoritmaların \"dikkat ekonomisi\" üzerinden ruhumuzu nasıl sömürdüğünü en derinlemesine analiz eden isimdir."
+    },
+    {
+      "title": "Eylemci Kimlik",
+      "text": "Sadece teoride kalmamış, Ars Industrialis derneğiyle teknolojinin insan yararına nasıl dönüştürülebileceğine dair projeler üretmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Karmaşıklık",
+      "text": "Heidegger ve Derrida geleneğinden geldiği için dili bazen o kadar yoğundur ki, sunduğu acil çözümler bu entelektüel ağırlığın altında ezilebilir."
+    },
+    {
+      "title": "Teknolojik Determinizm",
+      "text": "İnsan iradesini teknolojik gelişmelere o kadar bağlı görür ki; bazen bireyin bu sarmaldan kendi başına çıkma ihtimalini fazla küçümsediği söylenebilir."
+    },
+    {
+      "title": "Melankoli",
+      "text": "Yazılarındaki o derin \"kayıp\" ve \"entropi\" hissi, okuyucuda bazen bir felç edici karamsarlık yaratabilir."
+    }
+  ]
+}

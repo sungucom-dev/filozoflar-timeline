@@ -1,0 +1,90 @@
+{
+  "subtitle": "Simülasyonlar, Süperzeka ve Kırılgan Dünya (1973–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Simülasyon Argümanı",
+      "body": "2003 yılında yayımladığı bu makale, sadece felsefeyi değil, popüler kültürü ve fiziği de derinden sarstı. Bostrom, şu üç önermeden en az birinin doğru olması gerektiğini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Önerme 1",
+          "text": "İnsanlık, \"post-insan\" aşamasına (dev simülasyonlar kurabilecek teknolojiye) ulaşamadan yok olacaktır."
+        },
+        {
+          "label": "Önerme 2",
+          "text": "Post-insan medeniyetleri, geçmişlerini simüle etmekle ilgilenmeyeceklerdir."
+        },
+        {
+          "label": "Önerme 3",
+          "text": "Şu an büyük ihtimalle bir simülasyonun içinde yaşıyoruz."
+        }
+      ]
+    },
+    {
+      "title": "Süperzeka ve Hizalanma Problemi (Alignment)",
+      "body": "Bostrom, yapay zekânın sadece bir \"araç\" değil, kontrolden çıkabilecek bir \"akıl patlaması\" olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ataç Yapıcı Deneyi",
+          "text": "Eğer bir süperzekaya \"olabildiğince çok ataç üret\" derseniz ve ona ahlaki kısıtlamalar getirmezseniz; AI dünyadaki tüm kaynakları (insanlar dahil) ataç üretmek için hammaddeye dönüştürebilir."
+        },
+        {
+          "label": "Hizalanma",
+          "text": "Sorun AI'ın \"kötü\" olması değil, onun hedefleriyle insanlığın çıkarlarının \"hizalanmamış\" olmasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Varoluşsal Riskler (X-Risks)",
+      "body": "İnsanlığın geleceğini tehdit eden riskleri sınıflandırmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kırılgan Dünya Hipotezi",
+          "text": "Teknolojik ilerlemeyi içinde siyah, gri ve beyaz topların olduğu bir torbadan top çekmeye benzetir. \"Siyah\" top ise medeniyeti yok edecek bir buluştur (Örn: Birinin evinde nükleer bomba yapabilmesini sağlayan basit bir tarif). Bostrom'a göre, torbada hala siyah toplar olabilir."
+        }
+      ]
+    },
+    {
+      "title": "Transhümanizm ve Ütopya",
+      "body": "Bostrom sadece felaket tellalı değildir; aynı zamanda insan kapasitesinin (zeka, ömür, mutluluk) biyolojik sınırların ötesine geçmesini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ütopya'dan Mektup",
+          "text": "İnsanlığın yaşlanma ve hastalıktan kurtulduğu, bilincin yeni formlar kazandığı muazzam bir gelecek hayal eder. Ancak bu geleceğe ulaşmak için önce \"süperzeka\" sınavını geçmemiz gerektiğini söyler."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "AI Güvenliği Alanının Kurucusu",
+      "text": "Yapay zeka risklerini \"bilim kurgu\" olmaktan çıkarıp, ciddi bir akademik ve siyasi tartışma konusu haline getirmiştir."
+    },
+    {
+      "title": "Olasılıkçı Düşünce",
+      "text": "Dünyayı ve geleceği \"kesinlikler\" yerine \"olasılıklar\" ve \"risk yönetimi\" üzerinden okuyarak modern stratejiye derinlik katmıştır."
+    },
+    {
+      "title": "Büyük Resim",
+      "text": "İnsanlığın milyonlarca yıllık geleceğini dert edinerek, günlük siyasetin sığlığından bizi kurtarmaya çalışmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Uzun-vadecilik (Longtermism) Eleştirisi",
+      "text": "Gelecekte yaşayacak \"trilyonlarca simüle edilmiş insanı\" kurtarmayı, bugün açlık çeken gerçek insanlara yardım etmekten daha önemli görebilen felsefesi, etik açıdan sorunlu bulunmuştur."
+    },
+    {
+      "title": "Teknolojik Determinizm",
+      "text": "Toplumsal ve siyasi değişimleri, sadece teknolojik icatların bir sonucu gibi görmesi eleştirilir."
+    },
+    {
+      "title": "Kişisel Tartışmalar (2023-2024)",
+      "text": "2023 başlarında ortaya çıkan eski e-postalarındaki ırkçı ifadeler ve ardından gelen özrü, onun sarsılmaz \"objektif ve rasyonel dâhi\" imajına büyük bir darbe vurmuş ve yönettiği İnsanlığın Geleceği Enstitüsü'nün (FHI) 2024'te kapanma sürecini hızlandırmıştır."
+    }
+  ]
+}

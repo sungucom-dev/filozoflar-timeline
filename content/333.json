@@ -1,0 +1,90 @@
+{
+  "subtitle": "Tekil Çoğul Varlık ve Cemaatin Sınırları (1940–2021)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tekil Çoğul Varlık (Being Singular Plural)",
+      "body": "Nancy'nin temel ontolojik devrimidir. Ona göre \"Ben\"den önce \"Biz\" gelir; ama bu \"Biz\" homojen bir kütle değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Birlikte Olmak",
+          "text": "Varlık, doğası gereği \"birlikte\"dir. Bir \"Ben\"in var olabilmesi için mutlaka bir \"Öteki\" ile temas halinde olması gerekir."
+        },
+        {
+          "label": "Tekillik",
+          "text": "Biz birer \"birey\" (bölünemez parça) değiliz, biz birer \"tekillik\"iz. Yani başkalarıyla kurduğumuz ilişkilerde parıldayan, sürekli yer değiştiren noktalarız. Varlık, \"ben\" ve \"sen\" arasındaki o \"ile\" (avec) kelimesinde gizlidir."
+        }
+      ]
+    },
+    {
+      "title": "Eylemsiz Cemaat (The Inoperative Community)",
+      "body": "Cemaat kavramını siyasi ve dini bir \"proje\" olmaktan çıkarır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üretilmeyen Bağ",
+          "text": "Genellikle cemaat, ortak bir amaca (ulus, din, ideoloji) hizmet eden bir \"yapıt\" olarak görülür. Nancy buna karşı çıkar. Gerçek cemaat, bir şey \"üretmeyen\", sadece birbirimize karşı olan \"açıklığımızı\" ve \"sonluluğumuzu\" (ölümlülüğümüzü) paylaştığımız yerdir."
+        },
+        {
+          "label": "Paylaşım",
+          "text": "Cemaat, bir şeye sahip olmak değil; o \"sahip olamayışımızı\" ve birbirimize dokunuşumuzu paylaşmaktır."
+        }
+      ]
+    },
+    {
+      "title": "Corpus: Bedenin Ontolojisi",
+      "body": "Nancy için beden, ruhun bir hapishanesi veya bir makine değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dışsallaşma",
+          "text": "Beden, varlığın \"dışarıya\" açıldığı yerdir. \"Ben buradayım\" diyebilmemiz bedenimiz sayesindedir."
+        },
+        {
+          "label": "Dokunma (Le Toucher)",
+          "text": "Bilgi sadece akılla değil, dokunmayla (temasla) olur. Dokunmak, iki tekilliğin arasındaki o aşılmaz ama bağlayıcı sınırı hissetmektir."
+        }
+      ]
+    },
+    {
+      "title": "Hristiyanlığın Yapısökümü",
+      "body": "Nancy, Batı kültürünün temelindeki Hristiyanlığı reddetmek yerine onu \"içeriden\" sarsar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dünyevileşme",
+          "text": "İnancın dogmatik kısımlarını ayıklayıp; \"açıklık\", \"bekleyiş\" ve \"aşkınlık\" gibi kavramların modern ve seküler dünyada nasıl hala yaşadığını gösterir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Anti-Totaliter Cemaat",
+      "text": "Cemaati \"aynılık\" üzerine kurmayan vizyonuyla, faşizm ve katı milliyetçilik gibi \"biz\"i tek tipleştiren ideolojilere karşı en güçlü felsefi barajı inşa etmiştir."
+    },
+    {
+      "title": "İlişkisel Varlık",
+      "text": "Bireyi yalıtılmış bir atom olarak gören modern anlayışı yıkarak, insanı her zaman \"başkasıyla\" tanımlanan bir \"açıklık\" olarak konumlandırmıştır."
+    },
+    {
+      "title": "Estetik Derinlik",
+      "text": "Sanat ve sinema üzerine yazdıklarıyla, görselliği ve imajı varoluşun bir parçası olarak analiz etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Fazla Şiirsel ve Soyut",
+      "text": "Üslubu o kadar yoğun ve kapalıdır ki; \"Eylemsiz Cemaat\" gibi kavramların somut siyasi bir programa nasıl dönüşeceği belirsiz kalır."
+    },
+    {
+      "title": "Uygulama Zorluğu",
+      "text": "\"Hiçbir ortak noktası olmayanların cemaati\" fikri, pratikte toplumsal dayanışmayı ve örgütlenmeyi kurmakta zayıf kalabilir."
+    },
+    {
+      "title": "Heidegger'in Gölgesi",
+      "text": "Bazı eleştirmenler, Nancy'nin Heidegger'in terminolojisinden ne kadar kurtulabildiğini ve gerçekten \"yeni\" bir şey söyleyip söylemediğini tartışırlar."
+    }
+  ]
+}

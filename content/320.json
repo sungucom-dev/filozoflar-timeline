@@ -1,0 +1,94 @@
+{
+  "subtitle": "Bilgi, İktidar ve Özne (1926–1984)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Bilgi-İktidar Sarmalı (Pouvoir/Savoir)",
+      "body": "Foucault'nun en sarsıcı tespiti şudur: Bilgi ve iktidar birbirinden ayrılamaz.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hakikat Rejimleri",
+          "text": "\"Hakikat\" dışarıda keşfedilmeyi bekleyen bir şey değildir; her toplumun neyin \"doğru\" kabul edileceğine dair bir \"hakikat rejimi\" vardır."
+        },
+        {
+          "label": "Karşılıklı İnşa",
+          "text": "İktidar bilgiyi üretir (örneğin psikiyatri veya kriminoloji bilimleri); bu bilgi de iktidarı meşrulaştırır ve güçlendirir."
+        }
+      ]
+    },
+    {
+      "title": "Panoptikon ve Disiplinci Toplum",
+      "body": "Jeremy Bentham'ın hapishane tasarımından yola çıkarak modern toplumu analiz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gözetleme",
+          "text": "Panoptikon'da mahkûm, merkezdeki kuleden her an izlendiğini düşünür ama izlenip izlenmediğinden asla emin olamaz."
+        },
+        {
+          "label": "İçselleştirilmiş Denetim",
+          "text": "Modern insan artık başında bir polis beklediği için değil, o \"bakışı\" (normları) içine yerleştirdiği için \"uslu\" durur. Hapishane, okul, kışla ve fabrika; hepsi bireyi \"uysal bir bedene\" dönüştürmek için aynı disiplin mantığıyla çalışır."
+        }
+      ]
+    },
+    {
+      "title": "Arkeoloji ve Episteme",
+      "body": "Foucault, düşünce tarihini derin katmanlar halinde inceler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Episteme",
+          "text": "Bir çağda nelerin konuşulabilir, nelerin düşünülebilir olduğunu belirleyen o gizli, derin yapıdır."
+        },
+        {
+          "label": "Kopuşlar",
+          "text": "Tarih doğrusal ilerlemez; bir epistemeden diğerine ani \"kopuşlarla\" geçilir. İnsan (bir kavram olarak), 18. yüzyılda bu epistemik değişimle \"icat edilmiş\" bir figürdür ve bir gün \"deniz kıyısındaki kumdaki bir yüz gibi\" silinebilir."
+        }
+      ]
+    },
+    {
+      "title": "Biyo-iktidar (Bio-pouvoir)",
+      "body": "İktidarın 18. yüzyıldan itibaren değişen doğasını anlatır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yaşatmak ve Bırakmak",
+          "text": "Eski hükümdarların gücü \"öldürmek ve yaşatmak\" üzerineydi. Modern iktidarın gücü ise \"yaşatmak ve ölüme bırakmak\" üzerinedir."
+        },
+        {
+          "label": "Nüfus Yönetimi",
+          "text": "Biyo-iktidar; doğum oranları, sağlık, cinsellik ve hijyen üzerinden \"tüm bir nüfusu\" kontrol etmeyi amaçlar. Bedenimiz artık bir siyaset alanıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Görünmeyeni Göstermek",
+      "text": "Sadece devletin değil; tıbbın, psikolojinin ve dilin içindeki o sinsi iktidar biçimlerini ifşa ederek muazzam bir farkındalık yaratmıştır."
+    },
+    {
+      "title": "Marjinallere Ses Vermek",
+      "text": "Delilerin, suçluların ve dışlananların tarihini yazarak, \"normal\" kavramının ne kadar keyfi ve inşa edilmiş olduğunu kanıtlamıştır."
+    },
+    {
+      "title": "Disiplinlerarası Etki",
+      "text": "Sosyolojiden sanata, mimariden tıbba kadar her alanda \"eleştirel bakışın\" temel referans noktası olmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Direnç Çıkmazı",
+      "text": "Eğer iktidar her yerdeyse (ve direniş de iktidarın bir parçasıysa), gerçek bir özgürleşme nasıl mümkün olacaktır? Foucault, bazen insanı iktidarın içinde hapsolmuş bir kurban gibi gösterdiği için eleştirilir."
+    },
+    {
+      "title": "Tarihsel Doğruluk",
+      "text": "Profesyonel tarihçiler, Foucault'nun kendi teorisini desteklemek için tarihi bazen fazla \"esnettiğini\" veya bazı detayları görmezden geldiğini savunurlar."
+    },
+    {
+      "title": "Normatif Boşluk",
+      "text": "Neye karşı çıkılması gerektiğini söyler ama \"yerine ne konulması gerektiği\" konusunda (Sartre'ın aksine) sessiz kalmayı tercih eder."
+    }
+  ]
+}

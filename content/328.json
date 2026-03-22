@@ -1,0 +1,90 @@
+{
+  "subtitle": "Çince Odası, Niyetlilik ve Sosyal Kurumlar (1932–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Çince Odası (The Chinese Room Argument)",
+      "body": "Searle'ün yapay zekaya (Güçlü YZ) indirdiği en büyük darbedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sözdizimi vs. Anlambilim (Syntax vs. Semantics)",
+          "text": "Bir odada olduğunuzu ve Çince bilmediğinizi hayal edin. Elinizde bir kural kitabı var: \"Şu sembol gelince şu sembolü dışarı at.\" Dışarıdan bakanlar sizin Çince bildiğinizi sanır ama siz sadece sembolleri eşleştiriyorsunuzdur."
+        },
+        {
+          "label": "Sonuç",
+          "text": "Bilgisayarlar da böyledir. Sembolleri işlerler (Syntax) ama o sembollerin ne \"anlama\" geldiğini (Semantics) asla bilmezler. Hesaplama, düşünmek değildir."
+        }
+      ]
+    },
+    {
+      "title": "Biyolojik Natüralizm (Biological Naturalism)",
+      "body": "Zihin-beden problemine getirdiği özgün çözümdür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Beynin Ürünü",
+          "text": "Bilinç, tıpkı sindirimin mide tarafından üretilmesi gibi, beynin \"biyolojik\" bir özelliğidir."
+        },
+        {
+          "label": "İndirgenemezlik",
+          "text": "Bilinç biyolojiktir ama nesnel bir gözlemle (dışarıdan bakarak) tamamen açıklanamaz; çünkü bilinç her zaman bir \"birinci şahıs ontolojisi\"ne (öznel bir deneyime) sahiptir."
+        }
+      ]
+    },
+    {
+      "title": "Toplumsal Gerçekliğin İnşası",
+      "body": "\"Kâğıt parçaları nasıl para olur?\" veya \"İki kişi nasıl evli sayılır?\" sorularına cevap arar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kurumsal Gerçekler (Institutional Facts)",
+          "text": "Dağlar ve nehirler \"ham gerçekler\"dir (brute facts). Ancak para, mülkiyet veya devlet, biz onlara o işlevi yüklediğimiz için vardır."
+        },
+        {
+          "label": "Temel Formül",
+          "text": "X, {C bağlamında, Y olarak sayılır.} Örnek: Bu kâğıt parçası (X), Türkiye sınırları içinde (C), para (Y) olarak kabul edilir."
+        }
+      ]
+    },
+    {
+      "title": "Söz Edimleri (Speech Acts)",
+      "body": "Dilin sadece dünyayı tasvir etmediğini, aynı zamanda bir şeyler \"yaptığını\" savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İlahi Güç Olarak Dil",
+          "text": "\"Seni işe alıyorum\" veya \"Sizi karı koca ilan ediyorum\" dediğinizde, dünyada yeni bir gerçeklik yaratırsınız. Konuşmak, bir tür eylemdir (performative)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "YZ Sınırlarını Belirlemek",
+      "text": "Yapay zekanın bir \"simülasyon\" olduğunu, \"gerçeklik\" olmadığını göstererek teknoloji dünyasına felsefi bir fren koymuştur."
+    },
+    {
+      "title": "Sağduyu Felsefesi",
+      "text": "Dünyanın zihnimizden bağımsız olarak var olduğunu (Gerçekçilik) ve zihnimizin de gerçek bir biyolojik olgu olduğunu savunarak felsefeyi ayakları yere basan bir zemine oturtmuştur."
+    },
+    {
+      "title": "Sosyal Ontoloji",
+      "text": "Toplumun nasıl inşa edildiğini dil ve niyetlilik (intentionality) üzerinden açıklayarak sosyolojiye devasa bir teorik araç kazandırmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Sistem Cevabı (System Reply)",
+      "text": "Eleştirmenler, \"Çince Odası\"ndaki kişinin anlamadığını kabul etse de, odanın toplamda bir anlama kapasitesine sahip olduğunu savunurlar. Searle bu \"sistem\" cevabını hiçbir zaman tam olarak kabullenmemiştir."
+    },
+    {
+      "title": "Biyolojik Katılık",
+      "text": "Bilincin sadece \"karbon tabanlı\" beyinlerde olabileceğini savunması, gelecekteki olası \"bilinçli silikon yapılar\" için kapıyı tamamen kapatması bakımından fazla kısıtlayıcı bulunabilir."
+    },
+    {
+      "title": "Kişisel Tartışmalar",
+      "text": "Akademik kariyerinin son dönemindeki bazı etik tartışmalar ve davalar, kişisel imajı üzerinde gölge oluştursa da, teorik mirasının gücü hala sarsılmazdır."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "subtitle": "Gelecek Korkusu, Hayaletler ve Siyasi Depresyon (1968–2017)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kapitalist Gerçekçilik (Capitalist Realism)",
+      "body": "Fisher'ın dünyaya bıraktığı en sarsıcı miras bu kavramdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Alternatifsizlik",
+          "text": "Fredric Jameson ve Žižek'in meşhur sözünü merkeze alır: \"Dünyanın sonunu hayal etmek, kapitalizmin sonunu hayal etmekten daha kolaydır.\""
+        },
+        {
+          "label": "Kuşatma",
+          "text": "Kapitalist gerçekçilik, kapitalizmin sadece tek geçerli siyasi sistem olması değil, aynı zamanda düşünceyi, arzuyu ve kültürü de içine hapseden, dışarısı olmayan \"görünmez bir bariyer\" olmasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Hantoloji (Hauntology): Kayıp Geleceklerin Hayaletleri",
+      "body": "Derrida'dan ödünç aldığı bu kavramı kültürel bir analize dönüştürür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Geçmişin Musallat Olması",
+          "text": "Fisher'a göre modern kültür artık yeni bir şey üretemez hale gelmiştir. Bizler, 21. yüzyılda hala 20. yüzyılın estetiğini, müziğini ve siyasi hayallerini tüketiyoruz."
+        },
+        {
+          "label": "Geleceğin İptali",
+          "text": "\"Gelecek\" artık bir \"vaat\" olmaktan çıkmıştır. Fisher, popüler kültürün (nostalji endüstrisi, remakeler vb.) bizi hiçbir zaman gerçekleşmemiş \"kayıp geleceklerin\" hayaletleriyle oyaladığını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Ruh Sağlığının Özelleştirilmesi",
+      "body": "Fisher, depresyonu sadece \"kimyasal bir dengesizlik\" olarak görmeyi reddeder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Politik Depresyon",
+          "text": "Depresyonun kitleselleşmesini, modern kapitalizmin yarattığı güvencesizlik, izolasyon ve \"başarı\" baskısıyla ilişkilendirir."
+        },
+        {
+          "label": "Sorumluluğu İade Etmek",
+          "text": "Sorunu bireyin beynine hapsedip onu ilaçlarla \"sisteme uyumlu\" hale getirmek yerine, mutsuzluğumuzun kaynağının toplumsal ve siyasi yapı olduğunu haykırır. \"Stresin özelleştirilmesi\" dediği bu durum, sistemin kendini aklama yöntemidir."
+        }
+      ]
+    },
+    {
+      "title": "Tuhaf ve Tekinsiz (The Weird and the Eerie)",
+      "body": "Estetik üzerine yaptığı bu ayrım, dünyadaki yerimizi anlamak için hayati önemdedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tuhaf (The Weird)",
+          "text": "Ait olmaması gereken bir şeyin (örneğin bir canavarın) orada olmasıdır. Mevcut kategorilerimizi sarsar."
+        },
+        {
+          "label": "Tekinsiz (The Eerie)",
+          "text": "Orada olması gereken bir şeyin (örneğin bir insan sesinin) eksikliği veya bir hiçliğin içindeki o tuhaf varlık hissidir. Fisher bu kavramları, ekolojik krizden kozmik dehşete kadar dünyayı anlamak için kullanır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Popüler Kültürün Derinliği",
+      "text": "Post-punk, hip-hop veya bilim kurgu filmlerini sadece eğlence olarak değil, dönemin siyasi ve ruhsal birer \"röntgeni\" olarak okumayı öğretmiştir."
+    },
+    {
+      "title": "Depresyonu Siyasallaştırmak",
+      "text": "Akıl sağlığı tartışmalarını \"klinik\" bir alandan çıkarıp, toplumsal bir \"hak arayışı\" ve \"eleştiri\" alanına taşımıştır."
+    },
+    {
+      "title": "K-Punk Mirası",
+      "text": "Blog yazarlığını entelektüel bir devrime dönüştürerek, akademi dışındaki \"kolektif zekâ\"nın gücünü göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Nostalji Tuzağı",
+      "text": "\"Geleceğin iptali\"nden bahsederken, bazen 60'ların ve 70'lerin sosyal demokrat veya fütüristik atmosferini fazla romantize ettiği eleştirisi yapılır."
+    },
+    {
+      "title": "Çıkışsızlık",
+      "text": "Kapitalist gerçekçiliği o kadar güçlü bir \"duvar\" olarak tarif etmiştir ki, bu duvarın nasıl yıkılacağına dair sunduğu öneriler (Acid Communism vb.) ölümünden dolayı yarım kalmış ve teorisi bazen bir \"umutsuzluk estetiği\"ne dönüşmüştür."
+    },
+    {
+      "title": "Melankoliye Teslimiyet",
+      "text": "Yazılarındaki yoğun keder, bazen eyleme geçmek isteyenler için \"paralize edici\" bir etki yaratabilir."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subtitle": "Göçebe Özneler ve İnsan Sonrası Etik (1954–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Göçebe Özne (Nomadic Subject)",
+      "body": "Braidotti için kimlik, bir varış noktası değil, bitmeyen bir yolculuktur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sabitliğe İsyan",
+          "text": "Kimliğin ulus, cinsiyet veya ırk gibi kaskatı kafeslere hapsedilmesine karşı çıkar. Özne, sürekli bir \"oluş\" (becoming) halindedir."
+        },
+        {
+          "label": "Bağlantısallık",
+          "text": "Göçebelik sadece fiziksel bir hareket değil, zihinsel bir tutumdur; farklı kültürlerle, dillerle ve varlıklarla sürekli yeni bağlar kurma yeteneğidir."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Sonrası (The Posthuman)",
+      "body": "Braidotti, Aydınlanma'dan miras kalan \"Evrensel İnsan\" (beyaz, erkek, Batılı, sağlıklı) figürünün artık miadının dolduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Antroposentrizm Eleştirisi",
+          "text": "İnsanı doğanın merkezine koyan o kibirli anlayışı yıkar. Bizler sadece \"insan\" değil; hayvanlar, bitkiler ve teknolojik cihazlarla iç içe geçmiş, birbirine bağımlı varlıklarız."
+        },
+        {
+          "label": "Siber-Organik Birleşme",
+          "text": "Teknoloji bizim dışımızda bir şey değil, bedenimizin ve zihnimizin bir uzantısıdır."
+        }
+      ]
+    },
+    {
+      "title": "Zoe-Merkezli Yaşam (Zoe-Centered Life)",
+      "body": "Antik Yunan'daki \"Bios\" (siyasi/sosyal yaşam) ve \"Zoe\" (ham, hayvansal yaşam) ayrımını tersyüz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zoe'nin Gücü",
+          "text": "Zoe, sadece insanlara değil, tüm canlılara (ve hatta cansızlara) ait olan o gayrişahsi, durdurulamaz yaşam enerjisidir. Braidotti, etiği \"insan hakları\"ndan çıkarıp bu \"yaşam enerjisi\"ne duyulan saygı üzerine kurar."
+        }
+      ]
+    },
+    {
+      "title": "Onaylama Etiği (Ethics of Affirmation)",
+      "body": "Kötümserliğe ve melankoliye yer bırakmayan bir eylem planıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Acıdan Yaratıma",
+          "text": "Etik, sadece \"zarar vermemek\" değil, yaşamın dönüştürücü gücünü \"onaylamak\" ve artırmaktır. Negatif duyguları, kolektif eylemi besleyen pozitif bir enerjiye dönüştürmeyi amaçlar."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ekolojik ve Teknolojik Uyanış",
+      "text": "Çevre krizini ve teknolojik gelişmeleri felsefenin merkezine taşıyarak, 21. yüzyılın gerçek sorunlarına en güncel cevapları vermiştir."
+    },
+    {
+      "title": "Feminizmin Evrimi",
+      "text": "Feminizmi sadece bir \"kadın hakları\" meselesi olmaktan çıkarıp, tüm ezilen türleri ve varlıkları kapsayan evrensel bir \"yaşam savunusu\"na dönüştürmüştür."
+    },
+    {
+      "title": "Pozitif Enerji",
+      "text": "Felsefeyi bir \"şikayet\" aracı olmaktan çıkarıp, bir \"yaratım\" ve \"sevinç\" (Spinozacı anlamda) pratiği haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "İnsanın Kayboluşu",
+      "text": "\"İnsan\" kategorisini bu kadar radikal bir şekilde dağıtması, bazı eleştirmenlere göre insan hakları ve hukuki sorumluluk gibi kazanımların zeminini sarsabilir."
+    },
+    {
+      "title": "Akademik Dil",
+      "text": "Kavramları (posthümanizm, neomateryalizm vb.) o kadar yoğun ve katmanlıdır ki, bu fikirlerin akademik çevrelerin dışındaki geniş kitlelere ulaşması bazen zorlaşmaktadır."
+    },
+    {
+      "title": "Pratik Uygulama Zorluğu",
+      "text": "\"Zoe-merkezli\" bir etiğin gündelik siyasette ve küresel ekonomide nasıl somut karşılıklar bulacağı konusu, teorik derinliğine kıyasla bazen biraz havada kalmaktadır."
+    }
+  ]
+}

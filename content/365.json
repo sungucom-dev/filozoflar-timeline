@@ -1,0 +1,85 @@
+{
+  "subtitle": "Kozmoteknik, Özyineleme ve Tekno-çeşitlilik (1985–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kozmoteknik (Cosmotechnics)",
+      "body": "Hui'nin felsefesinin kalbi budur. Ona göre teknoloji, evrensel ve tarafsız bir araç değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tanım",
+          "text": "\"Kozmik düzen ile ahlaki düzenin teknik faaliyetler aracılığıyla birleşmesidir.\""
+        },
+        {
+          "label": "Yerellik",
+          "text": "Antik Çin'de teknoloji \"Tao\" (yol) ve \"Qi\" (araç) arasındaki dengeyle açıklanırken; Batı'da teknoloji doğayı kontrol etme ve verimlilik (Heidegger'in Gestell'i) üzerine kurulmuştur. Hui'nin mesajı: Teknolojiyi kendi kültürel ve ahlaki değerlerimizle yeniden uyumlu hale getirmeliyiz."
+        }
+      ]
+    },
+    {
+      "title": "Tekno-çeşitlilik (Technodiversity)",
+      "body": "Hui, biyolojik çeşitlilik (biodiversity) gibi, dünyanın \"tekno-çeşitlilik\"e de ihtiyacı olduğunu savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dijital Sömürgeciliğe Karşı",
+          "text": "Bugün tüm dünya Silikon Vadisi'nin yarattığı tek tip algoritmik mantığı (Google, Amazon, OpenAI vb.) kullanıyor. Hui, bunun entelektüel ve ruhsal bir fakirleşme olduğunu söyler."
+        },
+        {
+          "label": "Çok Sesli Gelecek",
+          "text": "Latin Amerika'dan Orta Doğu'ya kadar her medeniyet, kendi dünya görüşüne dayalı \"başka tür\" yapay zekâlar ve dijital yapılar geliştirmelidir."
+        }
+      ]
+    },
+    {
+      "title": "Özyineleme (Recursivity) ve Arasallık (Contingency)",
+      "body": "Bilgisayar bilimlerini Hegelci felsefeyle birleştirdiği en teknik alanıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sistemlerin Akılı",
+          "text": "Dijital sistemlerin sadece lineer (doğrusal) çalışmadığını; geri besleme döngüleriyle (recursivity) kendi kendilerini nasıl organize ettiklerini ve beklenmedik olaylarla nasıl başa çıktıklarını analiz eder."
+        },
+        {
+          "label": "Sibernetik",
+          "text": "Modern yapay zekânın, aslında hayatın kendi karmaşıklığını taklit etmeye çalışan devasa bir \"özyineleme\" makinesi olduğunu savunur."
+        }
+      ]
+    },
+    {
+      "title": "Dijital Nesnelerin Varlığı",
+      "body": "Dijital nesnelerin (bir kod parçası, bir klasör, bir avatar) sadece sanal görüntüler olmadığını, onların da kendine has bir \"ontolojisi\" (varlık biçimi) olduğunu kanıtlar. Bu nesneler, bizim gerçekliğimizi ve ilişkilerimizi yeniden inşa eden \"gerçek\" varlıklardır.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Batı Merkezciliğin Yıkımı",
+      "text": "Teknoloji felsefesini Heidegger ve Simondon gibi isimlerin tekelinden çıkarıp; onu küresel, çok kültürlü ve daha adil bir zemine taşımıştır."
+    },
+    {
+      "title": "Gelecek İnşası",
+      "text": "Teknolojiden kaçmayı (Luddizm) değil, teknolojiyi \"kendi rengimize boyayarak\" onunla barışmayı öneren yapıcı bir vizyon sunmuştur."
+    },
+    {
+      "title": "Disiplinlerarası Köprü",
+      "text": "Bilgisayar mühendisliği bilgisiyle en ağır metafizik konuları birleştirerek, \"ne dediğini bilen\" bir teknoloji eleştirmeni profili çizmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Soyutluk",
+      "text": "\"Kozmoteknik\" veya \"Özyineleme\" gibi kavramlar, pratikte bir yazılımcının veya bir politikacının nasıl uygulayacağına dair bazen fazla akademik ve ulaşılmaz kalabilir."
+    },
+    {
+      "title": "Uygulama Zorluğu",
+      "text": "Küresel kapitalizmin \"tek tipleştirici\" gücü bu kadar baskınken; yerel ve farklı teknolojiler üretmenin önündeki ekonomik engeller, Hui'nin vizyonu için büyük bir meydan okumadır."
+    },
+    {
+      "title": "Romantizm Riski",
+      "text": "Yerel kozmolojilere dönüş çağrısı, bazen teknolojik ilerlemeyi yavaşlatabilecek veya \"gelenekçilik\" tuzağına düşebilecek bir risk barındırır."
+    }
+  ]
+}

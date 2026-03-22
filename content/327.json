@@ -1,0 +1,94 @@
+{
+  "subtitle": "Habitus, Sermaye Türleri ve Sembolik Şiddet (1930–2002)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Habitus: İçselleştirilmiş Yapı",
+      "body": "Bourdieu'nün en ünlü kavramıdır. Habitus, içine doğduğumuz toplumsal koşulların ruhumuza ve bedenimize kazınmış halidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Toplumsal Pusula",
+          "text": "Nasıl yürüyeceğinizden neyi lezzetli bulacağınıza, hangi müziği \"kaliteli\" sayacağınızdan nasıl espri yapacağınıza kadar her şeyi belirleyen o görünmez \"dispozisyon\"dur."
+        },
+        {
+          "label": "Yapılandıran Yapı",
+          "text": "Habitus hem toplum tarafından oluşturulur hem de bizim toplumu algılama biçimimizi oluşturur. Bir anlamda, toplumsal sınıfımızın üzerimize diktiği ama bizim \"kendi derimiz\" sandığımız bir kıyafettir."
+        }
+      ]
+    },
+    {
+      "title": "Sermaye Türleri: Para Her Şey Değildir",
+      "body": "Bourdieu, Marx'ın ekonomik sermaye tanımını genişletir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kültürel Sermaye",
+          "text": "Bilginiz, diplomalarınız, sanat zevkiniz ve konuşma tarzınızdır."
+        },
+        {
+          "label": "Sosyal Sermaye",
+          "text": "Kimleri tanıdığınız, ağınız ve bağlantılarınızdır."
+        },
+        {
+          "label": "Sembolik Sermaye",
+          "text": "Saygınlık, prestij ve tanınmışlıktır. Bu sermayeler birbirine dönüşebilir; iyi bir eğitim (kültürel), iyi bir işe (ekonomik) yol açabilir."
+        }
+      ]
+    },
+    {
+      "title": "Alan (Champ): Toplumsal Mücadele Sahası",
+      "body": "Toplum tek bir parça değildir; sanat, hukuk, ekonomi gibi farklı \"alanlardan\" oluşur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Oyunun Kuralları",
+          "text": "Her alanın kendine has kuralları ve ödülleri vardır. Bir alanda başarılı olmak için o alanın \"illisio\"suna (oyunun değerine) inanmanız ve oradaki sermayeleri biriktirmeniz gerekir."
+        },
+        {
+          "label": "Güç Savaşı",
+          "text": "Her alan, o alanın kurallarını kimin belirleyeceği üzerine bitmek bilmeyen bir mücadele sahasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Sembolik Şiddet",
+      "body": "En tehlikeli şiddet türüdür çünkü maruz kalan kişi bunu şiddet olarak görmez.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Rıza ve Meşruiyet",
+          "text": "Egemen sınıfların kendi kültürlerini ve zevklerini \"evrensel doğru\" gibi dayatmasıdır. Alt sınıflar bu zevklere sahip olmadıkları için kendilerini \"yetersiz\" hissederler ve bu eşitsizliği doğal kabul ederler. Eğitim sistemi, bu şiddetin en büyük uygulama alanıdır."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kültürün Siyasallaşması",
+      "text": "Kültürün ve sanatın sadece \"zevk\" meselesi olmadığını, aslında birer dışlama ve iktidar aracı olduğunu kanıtlamıştır."
+    },
+    {
+      "title": "Eğitim Eleştirisi",
+      "text": "Okulların fırsat eşitliği sağlamaktan ziyade, mevcut sınıfsal yapıları meşrulaştırıp yeniden ürettiğini (reproduction) sarsıcı bir şekilde göstermiştir."
+    },
+    {
+      "title": "Refleksif Sosyoloji",
+      "text": "Sosyoloğun sadece toplumu değil, kendi bakış açısını ve toplumsal konumunu da sorgulaması gerektiğini savunarak bilime ahlaki bir derinlik katmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Yapısal Determinizm",
+      "text": "\"Habitus\" kavramı o kadar güçlüdür ki; bireyin bu yapıdan nasıl kurtulabileceği, özgür iradenin ve değişimin nasıl mümkün olacağı konusu bazen karanlıkta kalır."
+    },
+    {
+      "title": "Aşırı Stratejik Bakış",
+      "text": "Tüm insan ilişkilerini (hediyeleşme, dostluk, sanat) birer \"sermaye biriktirme\" mücadelesine indirgemesi, insanın karşılıksız ve samimi eylemlerini bazen göz ardı eder."
+    },
+    {
+      "title": "Akademik Dil",
+      "text": "Halkın anlayabileceği bir sosyoloji yapmayı hedeflese de, üslubu o kadar karmaşık ve yoğundur ki, bazen eleştirdiği o \"seçkinci akademik sermaye\"nin bir parçası haline gelir."
+    }
+  ]
+}

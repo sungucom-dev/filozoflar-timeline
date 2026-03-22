@@ -1,0 +1,90 @@
+{
+  "subtitle": "Post-hümanizm, Antroposentrizm ve Yeni Etik (1982–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Post-hümanizm vs. Transhümanizm",
+      "body": "Ferrando'nun en büyük katkısı, bu iki kavram arasındaki o kritik farkı netleştirmesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Transhümanizm (Bostrom/Harari)",
+          "text": "İnsanı teknolojiyle \"daha iyi, daha hızlı, daha ölümsüz\" yapmaya odaklanır. Ferrando'ya göre bu, \"insan kibrinin\" (humanism) teknolojik bir güncellemesidir."
+        },
+        {
+          "label": "Post-hümanizm (Ferrando)",
+          "text": "İnsanın \"ne olduğunu\" kökten sorgular. Teknolojiyi sadece kendimizi geliştirmek için değil, diğer türlerle (hayvanlar, bitkiler, makineler) nasıl \"yatay\" ve \"eşit\" bir bağ kuracağımızı anlamak için bir araç olarak görür."
+        }
+      ]
+    },
+    {
+      "title": "Antroposentrizmin (İnsan-merkezcilik) Sonu",
+      "body": "Ferrando, felsefenin merkezindeki \"insan\" putunu oradan indirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hiyerarşinin Yıkılması",
+          "text": "\"Önce beyaz adam, sonra kadın, sonra hayvan, sonra doğa\" diyen o eski hiyerarşiyi reddeder."
+        },
+        {
+          "label": "Türler-Arası Dayanışma",
+          "text": "İnsanın dünyadaki diğer her şeyi \"kaynak\" olarak görme huyundan vazgeçmesi gerektiğini; bizim de bir \"madde\" olduğumuzu ve evrenin geri kalanıyla aynı atomik dansın içinde olduğumuzu savunur."
+        }
+      ]
+    },
+    {
+      "title": "Post-Dualizm: Zıtlıkların Ötesi",
+      "body": "Ferrando, Batı felsefesinin o meşhur \"ya o, ya bu\" ayrımına karşı çıkar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğa vs. Kültür",
+          "text": "Bu ayrımın yapay olduğunu, insanın yaptığı bir robotun da \"doğanın bir uzantısı\" olabileceğini söyler."
+        },
+        {
+          "label": "Biyolojik vs. Dijital",
+          "text": "Yaşamın sadece karbon tabanlı olmadığını, silikon tabanlı (AI) yaşamın da bir \"varoluş biçimi\" olduğunu ve onlara karşı da etik sorumluluğumuz olduğunu savunur."
+        }
+      ]
+    },
+    {
+      "title": "Küresel, Türsel ve Kozmik Farkındalık",
+      "body": "Onun felsefesi üç ana katmanda işler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üç Katman",
+          "text": "Küresel (tüm insanların birliği), Türsel (tüm canlı türlerinin birbirine bağımlılığı) ve Kozmik (insanın evrenin sonsuzluğu içindeki küçücük ama değerli yeri)."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kapsayıcı Vizyon",
+      "text": "Sadece insan haklarını değil; hayvan haklarını, çevre etiğini ve yapay zekâ ahlakını tek bir felsefi çatıda birleştirmeyi başarmıştır."
+    },
+    {
+      "title": "Kibirden Arınma",
+      "text": "İnsanın \"evrenin efendisi\" olduğu yanılgısını sarsarak, ekolojik kriz karşısında bize daha mütevazı ve yaşanabilir bir yol sunmuştur."
+    },
+    {
+      "title": "Felsefi Tazelik",
+      "text": "Post-modernizmin o nihilist ve yıkıcı havasından çıkıp, yerine \"yapıcı, umutlu ve sevgi odaklı\" bir dünya görüşü koymuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Uygulama Zorluğu",
+      "text": "Eleştirmenler, \"her şeyle eşit bağ kurma\" fikrinin pratikte (siyaset ve ekonomide) nasıl karşılık bulacağını sorgularlar."
+    },
+    {
+      "title": "İnsan Haklarının Silinmesi Riski",
+      "text": "Bazı hümanist düşünürler, \"insan\" kavramını bu kadar seyreltmenin, tarihte zor kazanılmış \"insan hakları\"nı tehlikeye atabileceğini savunurlar."
+    },
+    {
+      "title": "Yeni Bir Mistisizm",
+      "text": "Felsefesinin bazen \"New Age\" bir ruhsallığa yaklaştığı, bilimsel rasyonaliteden ziyade sezgisel bir \"bir olma\" haline yaslandığı eleştirisi yapılır."
+    }
+  ]
+}

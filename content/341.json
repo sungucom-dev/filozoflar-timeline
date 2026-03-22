@@ -1,0 +1,83 @@
+{
+  "subtitle": "Kinik Akıl, Küreler ve Antropoteknik (1947–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kinik Akıl Eleştirisi (Kritik der zynischen Vernunft)",
+      "body": "Sloterdijk'in 1983'te felsefe dünyasını sarsan ilk büyük çıkışıdır. Modern insanın durumunu iki kavramla ayırır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kinizm (Cynicism - Modern)",
+          "text": "\"Aydınlanmış yanlış bilinçtir.\" Yani modern insan her şeyin farkındadır, politikacıların yalan söylediğini, sistemin sömürdüğünü bilir; ama bilmesine rağmen hiçbir şey yapmaz ve sisteme hizmet etmeye devam eder. Bu, bir tür \"melankolik teslimiyettir.\""
+        },
+        {
+          "label": "Kiniklik (Kynicism - Antik)",
+          "text": "Diogenes'in o ünlü \"fıçıdaki\" tavrıdır. Bedeniyle, şakasıyla ve arsızlığıyla iktidara hakikati söylemektir. Sloterdijk, modern kinizme karşı bu antik, kışkırtıcı ve \"aşağıdan yukarıya\" olan direniş dilini savunur."
+        }
+      ]
+    },
+    {
+      "title": "Küreler Üçlemesi (Sphären): Mekânsal Ontoloji",
+      "body": "Sloterdijk'e göre insan, \"açıkta\" yaşayamaz; her zaman kendini koruyacak \"iç mekânlar\" (küreler) yaratır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kabarcıklar (Bubbles)",
+          "text": "İki kişi arasındaki o en mahrem, mikroskobik bağ (anne-çocuk, sevgililer)."
+        },
+        {
+          "label": "Küresel (Globes)",
+          "text": "İmparatorluklar, dinler ve uluslar gibi makro yapılar. Bu yapılar insanı devasa bir \"kubbe\" gibi sarar."
+        },
+        {
+          "label": "Köpükler (Foams)",
+          "text": "Moderniteyi \"köpükler\" olarak tanımlar. Her birey kendi küçük, şeffaf kabarcığında (evinde, ekranında) yaşar ama bu kabarcıklar birleşerek devasa bir \"toplumsal köpük\" oluşturur."
+        }
+      ]
+    },
+    {
+      "title": "Antropoteknik: \"Hayatını Değiştirmelisin!\"",
+      "body": "İnsan, doğuştan gelen bir varlık değil, kendi kendini \"eğiten\" ve \"inşa eden\" bir hayvandır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İnsan Parkı",
+          "text": "İnsanlığın tarihini bir tür \"evcilleştirme\" projesi olarak görür. Dinler, spor, meditasyon ve hatta biyoteknoloji birer \"antropoteknik\"tir; yani insanı belirli bir forma sokma araçlarıdır."
+        },
+        {
+          "label": "Gerginlik ve Egzersiz",
+          "text": "İnsanı bir \"egzersiz yapan hayvan\" olarak tanımlar. Sürekli daha yukarıya, daha mükemmele doğru tırmanma arzusu (atletizm, dindarlık, bilim) insanın temel itkisidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefeyi Canlandırmak",
+      "text": "Felsefeyi sıkıcı akademik metinlerden çıkarıp; edebiyat, biyoloji, sanat ve siyasetle harmanlayarak tekrar \"tehlikeli ve kışkırtıcı\" bir disiplin haline getirmiştir."
+    },
+    {
+      "title": "Mekân Analizi",
+      "text": "Dünyayı sadece \"zaman\" üzerinden değil, \"mekân\" (küreler) üzerinden okuyarak modern insanın izolasyonunu ve küreselleşmeyi bambaşka bir boyuta taşımıştır."
+    },
+    {
+      "title": "Biyoteknoloji Cesareti",
+      "text": "İnsan doğasının teknolojiyle değiştirilmesini (öjeni tartışmaları dahil) tabu olmaktan çıkarıp, soğukkanlı bir şekilde tartışmaya açmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Elitizm İddiası",
+      "text": "Habermas gibi isimler tarafından \"faşizan\" veya \"anti-demokratik\" eğilimler taşımakla suçlanmıştır. Özellikle \"vergi reformu\" ve \"insan ıslahı\" üzerine fikirleri büyük tepki toplamıştır."
+    },
+    {
+      "title": "Retorik Karmaşıklık",
+      "text": "Üslubu o kadar şiirsel, dolaylı ve metafor yüklüdür ki; bazen asıl argümanı bu kelime oyunlarının arasından çekip çıkarmak çok zordur."
+    },
+    {
+      "title": "Aşırı Provokasyon",
+      "text": "Bazen sırf sarsmak için yaptığı çıkışlar, felsefesinin ciddiyetini gölgeleyebilir ve onu bir \"medya figürü\"ne dönüştürebilir."
+    }
+  ]
+}

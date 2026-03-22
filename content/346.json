@@ -1,0 +1,79 @@
+{
+  "subtitle": "Kehanetsel Pragmatizm, Nihilizm ve Caz Özgürlüğü (1953–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kehanetsel Pragmatizm (Prophetic Pragmatism)",
+      "body": "West, Amerikan pragmatizmini (Dewey, James) alır ve onu siyah kilise geleneğinin sosyal adalet vurgusuyla birleştirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Trajik Umut",
+          "text": "İyimserlik (optimism) sığdır, oysa \"umut\" (hope) trajedinin içinden doğar. West, dünyanın kötüye gittiğini görse de, adaleti kovalamaktan vazgeçmeyen bir \"kehanetsel\" duruş önerir."
+        },
+        {
+          "label": "Eleştirel Müdahale",
+          "text": "Felsefe sadece dünyayı anlamak için değil, ezilenlerin acısını dindirmek ve statükoyu sarsmak için bir araçtır."
+        }
+      ]
+    },
+    {
+      "title": "Nihilizmle Savaş ve \"Race Matters\"",
+      "body": "En ünlü eseri Race Matters'da (Irk Meseleleri), siyah toplumun karşı karşıya olduğu en büyük tehlikenin ekonomik yoksulluktan ziyade \"nihilizm\" (anlamsızlık ve umutsuzluk) olduğunu söyler.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ruhsal Çöküş",
+          "text": "Nihilizm, bir halkın geleceğe dair inancını kaybetmesidir. West, buna karşı \"sevgi etiğini\" ve toplumsal dayanışmayı savunur."
+        },
+        {
+          "label": "Yapısal ve Psişik",
+          "text": "Irkçılığı sadece yasal bir sorun değil, aynı zamanda insanların ruhunu yaralayan derin bir psikolojik ve yapısal kriz olarak analiz eder."
+        }
+      ]
+    },
+    {
+      "title": "Caz Özgürlüğü (Jazz Freedom) ve \"The Funk\"",
+      "body": "West için felsefe yapmak, bir caz performansı gibidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğaçlama ve Disiplin",
+          "text": "Caz, bireysel yaratıcılık ile kolektif uyumun muazzam dengesidir. West, demokrasinin de bir \"caz toplumu\" gibi olması gerektiğini; farklı seslerin birbirini ezmeden, bir harmoni içinde yükselmesini savunur."
+        },
+        {
+          "label": "The Funk",
+          "text": "İnsan olmanın o kirli, karmaşık, acı dolu ama bir o kadar da muhteşem gerçekliğine \"funk\" der. Felsefeyi bu gerçeklikten koparmayı reddeder."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Felsefeyi Kamusallaştırma",
+      "text": "Felsefeyi sadece profesörlerin anladığı bir dil olmaktan çıkarıp; hapishanelerde, kiliselerde ve televizyonlarda konuşulan yaşayan bir güce dönüştürmüştür."
+    },
+    {
+      "title": "Kültürel Sentez",
+      "text": "Batı kanonunu (Sokrates, Shakespeare, Chekhov) Afro-Amerikan kültürüyle (Blues, Jazz, Funk) harmanlayarak evrensel bir insanlık tanımı yapmıştır."
+    },
+    {
+      "title": "Ahlaki Tutarlılık",
+      "text": "Kendi siyasi kampını bile (Obama dönemi dahil) adalet adına eleştirmekten çekinmemesi, onu nadir bulunan bir \"bağımsız entelektüel\" yapar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Akademik Eleştiri",
+      "text": "Bazı meslektaşları, West'in çok fazla \"aktivist\" ve \"popüler bir figür\" haline geldiğini, bu yüzden teorik derinliğini ve akademik üretimini ihmal ettiğini savunurlar."
+    },
+    {
+      "title": "Retorik Ağırlık",
+      "text": "Konuşmalarındaki o muazzam hitabet gücünün ve şiirsel dilin, bazen somut çözüm önerilerinin veya karmaşık argümanların önüne geçtiği eleştirilir."
+    },
+    {
+      "title": "Siyasi Yalnızlık",
+      "text": "Tavizsiz duruşu, onu ana akım siyasetten izole etmiş; bu da fikirlerinin geniş kitleler tarafından takdir edilse de somut politikalara dönüşmesini zorlaştırmıştır."
+    }
+  ]
+}

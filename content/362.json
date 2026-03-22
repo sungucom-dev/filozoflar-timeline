@@ -1,0 +1,90 @@
+{
+  "subtitle": "Ksenofeminizm, Anti-Natüralizm ve Bakım Emeği (1983–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Ksenofeminizm (XF): Yabancı Olanın Gücü",
+      "body": "\"Xeno\" (yabancı/öteki) kavramını merkeze alır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yabancılaşma Bir Fırsattır",
+          "text": "Hester'a göre mevcut toplumsal düzene (patriyarkaya, kapitalizme) yabancılaşmak kötü bir şey değildir; bu yabancılaşma, sistemi dışarıdan görüp onu \"yeniden programlamak\" için bir fırsattır."
+        },
+        {
+          "label": "Tekno-Siyaset",
+          "text": "Teknolojiyi erkek egemen bir araç olarak görüp reddetmek yerine; onu feminist amaçlar için \"ele geçirmeyi\" ve \"başka amaçlarla kullanmayı\" (repurposing) savunur."
+        }
+      ]
+    },
+    {
+      "title": "Anti-Natüralizm: \"Doğa\" Bir Kurgudur",
+      "body": "Hester'ın en kışkırtıcı tezi budur: Biyoloji kader değildir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Doğalcılık Eleştirisi",
+          "text": "\"Kadın narindir\", \"Erkek saldırgandır\" gibi \"doğal\" kabul edilen tüm varsayımları reddeder. Ona göre doğa, siyasi olarak inşa edilmiş bir hapishanedir."
+        },
+        {
+          "label": "Bedeni Hacklemek",
+          "text": "Hormon terapilerinden üreme teknolojilerine kadar her türlü teknolojik müdahale, bedenin o \"doğal\" denilen kısıtlamalarından kurtulması için bir özgürleşme aracıdır."
+        }
+      ]
+    },
+    {
+      "title": "Cinsiyet Abolisyonizmi (Tasfiyeciliği)",
+      "body": "Hester, cinsiyetin yok edilmesini değil, \"çoğaltılmasını\" ve \"iktidar aracı olmaktan çıkarılmasını\" ister.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Binlerce Cinsiyet",
+          "text": "Hedef cinsiyetsiz bir dünya değil; cinsiyetin biyolojik bir zorunluluk olmaktan çıkıp, herkesin kendi kimliğini teknolojik ve kültürel olarak inşa edebildiği, akışkan bir dünyadır."
+        }
+      ]
+    },
+    {
+      "title": "Yeniden Üretim ve Bakım Emeği",
+      "body": "Hester, Srnicek ile birlikte \"çalışma sonrası\" toplumunu tartışırken, feminizmin en büyük sorunu olan \"ev içi emeğe\" odaklanır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bakımın Otomasyonu",
+          "text": "Sadece fabrikaların değil, ev işlerinin ve bakım emeğinin (temizlik, yemek, çocuk bakımı) de teknolojiyle hafifletilmesi gerektiğini savunur."
+        },
+        {
+          "label": "Kolektif Bakım",
+          "text": "Çocuk bakımının sadece \"biyolojik anneye\" ait bir yük olmaktan çıkarılıp; teknoloji ve yeni sosyal yapılarla tüm topluma yayılan bir \"müşterek\" haline getirilmesini önerir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Feminizmi Güncellemek",
+      "text": "Feminizmi \"doğa ana\" ve \"spiritüalizm\" kıskacından çıkarıp; rasyonel, bilimsel ve teknolojik bir zemine (Tekno-feminizm) taşımıştır."
+    },
+    {
+      "title": "Stratejik Bakış",
+      "text": "Teknolojiyi sadece eleştirmekle kalmayıp, onun \"nasıl\" feminist amaçlarla hacklenebileceğine dair somut bir vizyon sunmuştur."
+    },
+    {
+      "title": "Kapsayıcılık",
+      "text": "Trans bireylerin ve kuir kimliklerin haklarını, biyolojik değil \"teknolojik ve iradi\" bir zeminde savunarak teorik bir devrim yapmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Tekno-İyimserlik Riski",
+      "text": "Teknolojinin her zaman özgürleştirici olacağı varsayımı eleştirilir. Şirketlerin kontrolündeki teknolojinin, cinsiyet kalıplarını kırmak yerine daha da pekiştirme tehlikesi (algoritmik önyargılar) bir engeldir."
+    },
+    {
+      "title": "Erişim Sorunu",
+      "text": "Hester'ın önerdiği \"bedeni hackleme\" ve \"teknolojik özgürleşme\" araçlarının, sadece zengin ülkelerdeki elitler için mi yoksa tüm dünya kadınları için mi ulaşılabilir olacağı büyük bir tartışma konusudur."
+    },
+    {
+      "title": "Duygusallık Kaybı",
+      "text": "Eleştirmenler, Hester'ın rasyonel ve \"soğuk\" teknolojik yaklaşımının; bakım emeğinin içindeki o insani, duygusal ve yerel \"sıcaklığı\" göz ardı edebileceğini savunurlar."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subtitle": "Radikal Nihilizm ve Yok Oluşun Ontolojisi (1965–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Nihilizm Bir Kriz Değil, Bir Hakikattir",
+      "body": "Brassier, nihilizmi aşılması gereken bir \"hastalık\" olarak gören Nietzscheci veya varoluşçu geleneği reddeder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Spekülatif Bir Sonuç",
+          "text": "Ona göre nihilizm, modern bilimin (özellikle fizik ve biyoloji) bize sunduğu kaçınılmaz bir felsefi sonuçtur. Dünya bizim için yaratılmamıştır ve bize hiçbir anlam borçlu değildir."
+        },
+        {
+          "label": "Büyüsüzleşmenin Onuru",
+          "text": "Bilimin dünyayı \"büyüsüzleştirmesi\" (doğaüstü anlamlardan arındırması) bir kayıp değil, aklın bir zaferidir. Gerçeklik, bizim kurguladığımız anlamlardan çok daha büyüktür."
+        }
+      ]
+    },
+    {
+      "title": "Yok Oluşun Önceliği (Extinction)",
+      "body": "Brassier'in en sarsıcı iddiası \"yok oluş\" üzerinedir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Güneşin Ölümü",
+          "text": "Milyarlarca yıl sonra güneş sönecek ve dünya yok olacak. Brassier için bu \"gelecekteki\" bir olay değil, düşüncenin şu anki sınırını belirleyen \"ontolojik bir gerçek\"tir."
+        },
+        {
+          "label": "Düşünen Bir Kadavra",
+          "text": "Eğer her şey yok olacaksa, düşünce aslında \"zaten ölü olanın\" bir provasıdır. Bu, insanı evrenin merkezinden silen en radikal darbedir."
+        }
+      ]
+    },
+    {
+      "title": "Korelasyonizm Eleştirisi",
+      "body": "Meillassoux ile birlikte, Kant'tan beri süregelen \"Dünyayı ancak insan zihniyle bilebiliriz\" (Korelasyonizm) fikrine savaş açar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Büyük Dışarı (The Great Outdoors)",
+          "text": "İnsan zihninden, algısından ve dilinden tamamen bağımsız bir \"kendinde şey\" vardır ve bu gerçeklik, bizim için \"anlamsız\" olsa bile rasyonel olarak bilinebilir."
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel İmge vs. Tezahür Eden İmge",
+      "body": "Wilfrid Sellars'tan esinlenerek, insanın dünyayı \"hissettiği\" haliyle (tezahür eden imge) bilimin anlattığı hali (bilimsel imge) arasındaki uçurumu vurgular.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Halk Psikolojisinin Sonu",
+          "text": "\"Ben\", \"ruh\", \"irade\" gibi kavramlar, nörobilimin ve fiziğin yanında sadece birer \"halk masalı\"dır. Brassier, bilimin bu masalları yıkma hakkını savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dürüst Nihilizm",
+      "text": "Felsefeyi sahte tesellilerden, \"spiritüel\" kılıflardan ve insancıl masallardan arındırarak, aklın en sert sınırlarını zorlamıştır."
+    },
+    {
+      "title": "Bilimle Barışma",
+      "text": "Sosyal bilimlerin ve felsefenin genellikle mesafeli durduğu \"sert bilimleri\" (fizik, nörobilim) felsefenin merkezine, birer \"hakikat kaynağı\" olarak yerleştirmiştir."
+    },
+    {
+      "title": "Antroposentrizm Yıkımı",
+      "text": "İnsanı evrenin merkezinden sadece etik olarak değil, ontolojik olarak da çıkararak gerçek bir \"nesnel realizm\" kurmaya çalışmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı Teorik Soyutluk",
+      "text": "\"Yok oluş zaten burada\" gibi tezleri, gündelik yaşamın ve insani deneyimin o muazzam zenginliğini ve etik gerekliliğini tamamen yok sayma riski taşır."
+    },
+    {
+      "title": "Anti-Hümanizm",
+      "text": "İnsanı ve anlamı bu kadar radikal bir şekilde dışlaması, felsefenin \"nasıl yaşamalı?\" sorusuna vereceği tüm cevapları imkansız hale getirebilir."
+    },
+    {
+      "title": "Bilimcilik (Scientism) Riski",
+      "text": "Bilimi bazen o kadar mutlak bir hakikat kaynağı olarak görür ki; bilimin kendi tarihsel hatalarını, ideolojik kısıtlılıklarını ve yöntemsel sınırlarını gözden kaçırdığı eleştirilir."
+    }
+  ]
+}

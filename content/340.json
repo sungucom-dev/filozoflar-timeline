@@ -1,0 +1,94 @@
+{
+  "subtitle": "Adaletin Üç Boyutu ve Kapitalizmin Sınırları (1947–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Üç Boyutlu Adalet Terazisi",
+      "body": "Fraser, adaleti tek bir merkeze indirgeyen teorilere meydan okur. Ona göre bir toplumda adaletten söz etmek için üç şartın da sağlanması gerekir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bölüşüm (Redistribution)",
+          "text": "Ekonomik adaletsizliğe karşı (sınıf temelli). Kaynakların ve zenginliğin adil paylaşımı."
+        },
+        {
+          "label": "Tanınma (Recognition)",
+          "text": "Kültürel adaletsizliğe karşı (statü temelli). Farklı kimliklerin, cinsiyetlerin ve etnik kökenlerin toplumda saygınlık görmesi."
+        },
+        {
+          "label": "Temsil (Representation)",
+          "text": "Siyasi adaletsizliğe karşı (söz hakkı temelli). Kimlerin sesinin duyulacağı ve karar süreçlerine kimlerin dahil edileceği meselesi."
+        }
+      ]
+    },
+    {
+      "title": "Madun Karşı-Kamular (Subaltern Counterpublics)",
+      "body": "Jürgen Habermas'ın \"kamusal alan\" fikrini eleştirerek geliştirmiştir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Seslerin Çeşitliliği",
+          "text": "Habermas tek bir rasyonel kamusal alan hayal ederken, Fraser bunun aslında elit ve beyaz erkeklerin alanı olduğunu söyler."
+        },
+        {
+          "label": "Direniş Alanları",
+          "text": "Kadınlar, işçiler ve ezilen azınlıklar; kendi \"karşı-kamularını\" kurarak, egemen söyleme karşı kendi dillerini ve taleplerini geliştirirler. Bu alanlar, gerçek demokrasinin kuluçka merkezleridir."
+        }
+      ]
+    },
+    {
+      "title": "Sosyal Yeniden Üretim ve Bakım Krizi",
+      "body": "Kapitalizmin sadece fabrikalardan ibaret olmadığını hatırlatır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Görünmez Emek",
+          "text": "Kapitalizm; çocuk bakımı, yemek, temizlik ve duygusal destek gibi \"ücret ödenmeyen\" ev içi emeğe (sosyal yeniden üretim) muhtaçtır."
+        },
+        {
+          "label": "Yamyamlık",
+          "text": "Fraser'a göre modern kapitalizm, hayatta kalması için gereken bu \"bakım\" alanını o kadar çok sömürmektedir ki, kendi dayanağını (toplumu ve aileyi) yiyip bitirmektedir."
+        }
+      ]
+    },
+    {
+      "title": "İlerlemeci Neoliberalizm Eleştirisi",
+      "body": "Fraser, günümüz siyasetindeki o çok sinsi ittifakı ifşa eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Tehlikeli Ortaklık",
+          "text": "Finansal kapitalizmin (Wall Street/Silikon Vadisi), \"ilerlemeci\" kimlik siyasetiyle birleşerek sömürüyü maskelediğini savunur. Bu durum, \"üst düzey bir kadın yöneticiye sahip olma\"yı bir başarı olarak sunarken, o şirkette çalışan binlerce yoksul kadının sömürülmesini görmezden gelir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bütüncül Adalet",
+      "text": "Kültürel tanınma ile ekonomik bölüşüm arasındaki o yapay ayrımı yıkarak, sol düşünceye daha güçlü ve tutarlı bir zemin kazandırmıştır."
+    },
+    {
+      "title": "Somut Analiz",
+      "text": "Teoriyi havada bırakmamış; \"feminizm %99 içindir\" diyerek, kuramlarını doğrudan sokaktaki insanın dertleriyle birleştirmiştir."
+    },
+    {
+      "title": "Hegemonya Analizi",
+      "text": "Siyasi ittifakların nasıl kurulduğunu ve yıkıldığını (İlerlemeci Neoliberalizm örneğiyle) çok berrak bir şekilde açıklamıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Kurumsal Uygulama",
+      "text": "Üç boyutlu adalet modeli teoride harika olsa da; devletlerin ve kurumların bu üçünü aynı anda nasıl dengeleyeceği konusunda bazen fazla iyimser veya belirsiz kalabilir."
+    },
+    {
+      "title": "Akademik Dil",
+      "text": "Fikirleri devrimci olsa da, bunları ifade ediş biçimi zaman zaman çok yoğun bir akademik terminoloji barındırır, bu da geniş halk kitlelerine ulaşmasını zorlaştırabilir."
+    },
+    {
+      "title": "Kimlik Siyasetiyle Gerilim",
+      "text": "Kimlik siyasetine getirdiği sert eleştiriler, bazen bu hareketlerin içindeki daha radikal kanatlar tarafından \"ekonomik indirgemecilik\" olarak yorumlanıp tepki çekebilir."
+    }
+  ]
+}

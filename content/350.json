@@ -1,0 +1,85 @@
+{
+  "subtitle": "İletişim, Parti ve Yoldaşlık (1962–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "İletişimsel Kapitalizm (Communicative Capitalism)",
+      "body": "Dean'in en büyük kuramsal katkısı, internet ve sosyal medyanın neden özgürleştirici olmadığını açıklamasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mesaj Değil, Katkı",
+          "text": "Sosyal medyada yazdığınız her şey, sistem için bir \"içerik\" veya \"hakikat\" değil, sadece bir \"katkı\"dır (contribution). Önemli olan ne dediğiniz değil, o verinin sistemde yarattığı akıştır."
+        },
+        {
+          "label": "Demokrasi Yanılsaması",
+          "text": "Herkesin sesini duyurabiliyor olması, gerçek bir demokratik katılım değil; aksine, enerjinin eyleme dönüşmeden \"iletişim labirentinde\" emilip yok edilmesidir."
+        }
+      ]
+    },
+    {
+      "title": "Parti Formu (The Party Form)",
+      "body": "Dean, Occupy Wall Street gibi \"yatay\" ve \"merkezsiz\" hareketlerin neden başarısız olduğunu analiz eder ve \"Parti\"ye geri dönüşü savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Süreklilik",
+          "text": "Sokak protestoları bir enerji patlamasıdır ama o enerji bir \"kap\" (parti) içinde toplanmazsa buharlaşıp gider."
+        },
+        {
+          "label": "Disiplin ve Hiyerarşi",
+          "text": "Dean'e göre gerçek bir değişim için hiyerarşi ve disiplin \"kötü kelimeler\" değildir; aksine, egemen güce karşı durabilecek tek kolektif irade bu yapılarla kurulur."
+        }
+      ]
+    },
+    {
+      "title": "Yoldaş (Comrade)",
+      "body": "Ona göre \"yoldaşlık\", modern dünyanın bireyciliğine karşı en radikal panzehirdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Müttefik vs. Yoldaş",
+          "text": "Müttefiklik (allyship) geçicidir ve bireysel kimliklere dayanır. Yoldaşlık ise ortak bir siyasi amaç uğruna birbirine duyulan, kimliklerin ötesinde bir sadakat ve sorumluluk bağıdır."
+        },
+        {
+          "label": "Eşitlikçi Bağ",
+          "text": "Yoldaşlar birbirine \"kim oldukları\" için değil, \"ne için dövüştükleri\" üzerinden bağlıdırlar."
+        }
+      ]
+    },
+    {
+      "title": "Kalabalıklar ve Parti (Crowds and Party)",
+      "body": "Arzu ve Yön: Kalabalıklar (meydanlardaki o büyük kitleler) devrimci bir arzu taşırlar; ancak bu arzuyu bir siyasi projeye, bir yasaya veya yeni bir düzene dönüştürecek olan tek şey \"Parti\"dir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Dijital Eleştiride Netlik",
+      "text": "İnternetin bizi özgürleştirmek yerine nasıl birer \"iletişim işçisi\"ne dönüştürdüğünü en iyi anlatan isimlerden biridir."
+    },
+    {
+      "title": "Örgütlü Siyasetin Rehabilitasyonu",
+      "text": "\"Örgüt\" ve \"Parti\" kavramlarını, 20. yüzyılın o hantal imajından kurtarıp, 21. yüzyılın karmaşasında bir zorunluluk olarak yeniden inşa etmiştir."
+    },
+    {
+      "title": "Bireycilik Eleştirisi",
+      "text": "\"Kendi kimliğim\", \"benim fikrim\" gibi atomize olmuş yaklaşımların yerine \"Biz\" demenin rasyonel ve disiplinli yolunu göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Neo-Leninizm Riski",
+      "text": "Disiplin ve merkeziyetçilik vurgusu, bazı özgürlükçü sol çevreler tarafından \"eski, otoriter ve dogmatik\" yapılara geri dönüş riski olarak görülür."
+    },
+    {
+      "title": "Yaratıcılık Kaybı",
+      "text": "Eleştirmenler, Dean'in yapısal vurgusunun; beklenmedik, kaotik ve yaratıcı \"kendiliğinden\" eylemlerin gücünü küçümsediğini savunurlar."
+    },
+    {
+      "title": "Pratik Uygulama",
+      "text": "2026'nın bu kadar parçalanmış dünyasında, o eski \"çelik çekirdekli\" partilerin nasıl kurulacağı ve bugünün \"akışkan\" insanını nasıl içine alacağı sorusu hala muğlaktır."
+    }
+  ]
+}

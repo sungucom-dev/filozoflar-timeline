@@ -1,0 +1,90 @@
+{
+  "subtitle": "Ekonomik Güç, Beden ve Sessiz Zorlama (1989–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Sessiz Zorlama (Mute Compulsion)",
+      "body": "Mau, Marx'ın Kapital'inde geçen bu küçük ama devasa kavramı felsefesinin merkezine koyar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Üçlü Güç Yapısı",
+          "text": "Kapitalizm bizi üç koldan kontrol eder: Şiddet (polis, ordu - doğrudan baskı), İdeoloji (okul, medya, din - zihinsel kontrol) ve Sessiz Zorlama (piyasanın ta kendisi - maddi kontrol)."
+        },
+        {
+          "label": "Görünmez Elin Yumruğu",
+          "text": "Kimse sizi çalışmanız için silahla tehdit etmez; ancak yaşamak, yemek yemek ve barınmak için \"piyasaya girmek\" zorundasınızdır. Mau'ya göre bu, şiddetten daha etkili bir \"sessiz zorlama\"dır."
+        }
+      ]
+    },
+    {
+      "title": "İnsan Bedeni ve \"Aletler\"",
+      "body": "Mau, insanı \"alet kullanan bir canlı\" olarak değil, aletleri bedeniyle bütünleşmiş birer \"organ\" olarak gören bir antropoloji sunar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bağımlılık",
+          "text": "İnsan, hayatta kalmak için dış dünyaya ve aletlere (teknolojiye, toprağa) muhtaçtır."
+        },
+        {
+          "label": "Sermayenin Müdahalesi",
+          "text": "Kapitalizm, insan ile bu \"aletler\" (yaşam araçları) arasına girer. Artık kendi yaşam araçlarımıza ulaşmak için sermayeye boyun eğmek zorundayızdır. Sermaye, yaşamın o \"göbek bağını\" ele geçirmiştir."
+        }
+      ]
+    },
+    {
+      "title": "Sermayenin Ontolojik Gücü",
+      "body": "Sermaye sadece bir mülkiyet biçimi değildir; dünyayı ve bizi \"yeniden inşa eden\" bir güçtür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Zaman ve Mekan",
+          "text": "Kapitalizm, dünyayı kendi hızına ve verimlilik kurallarına göre yeniden şekillendirir. Şehirler, yollar ve hatta biyolojik saatimiz sermayenin o sessiz mantığına göre \"formatlanır.\""
+        },
+        {
+          "label": "Kaçışın Zorluğu",
+          "text": "Bu güç o kadar derindedir ki, sistemi eleştirdiğimizde bile hala onun sağladığı araçları (sosyal medya, teknoloji, para) kullanmak zorunda kalırız."
+        }
+      ]
+    },
+    {
+      "title": "Subsumption (Boyun Eğdirme)",
+      "body": "Mau, hayatın her alanının (sanat, aşk, boş zaman) sermayenin mantığına nasıl dahil edildiğini (subsumed) analiz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sermaye-Dışı Yoktur",
+          "text": "Artık hiçbir şey \"sermaye-dışı\" değildir; her anımız bir değer üretme veya tüketme sürecine dönüşmüştür."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Güç Analizinde Devrim",
+      "text": "Kapitalizmin neden sadece \"kötü insanlar\" tarafından değil, sistemin bizzat kendisi tarafından (kimse suçlu olmasa bile) nasıl devam ettirildiğini çok net açıklar."
+    },
+    {
+      "title": "Modern Marksizm'in Zirvesi",
+      "text": "Marx'ın o eski ve bazen zor anlaşılan kavramlarını, bugünün \"prekarya\" dünyasına ve ekonomik gerçeklerine kusursuz bir şekilde tercüme etmiştir."
+    },
+    {
+      "title": "Sessizliğin Sesi",
+      "text": "Direnişin neden bu kadar zor olduğunu, zincirlerimizin neden sadece zihnimizde değil \"midemizde ve kira kontratımızda\" olduğunu göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Eylem Planı Eksikliği",
+      "text": "Sistemi bir \"canavar\" gibi kusursuz betimlerken; bu devasa ve her şeyi yutan \"sessiz zorlama\"dan nasıl çıkılacağına dair somut bir siyasi yol haritası sunmakta bazen yetersiz kalabilir."
+    },
+    {
+      "title": "Karamsarlık Dozu",
+      "text": "Sermayenin gücünü o kadar \"ontolojik\" ve kaçınılmaz anlatır ki, bu durum okuyucuda bir \"çaresizlik\" hissi yaratabilir."
+    },
+    {
+      "title": "Akademik Soyutluk",
+      "text": "Analizleri o kadar derin ve teoriktir ki, sokaktaki insanın bu \"sessiz zorlamayı\" fark etmesini sağlayacak popüler bir dilden biraz uzak kalabilir."
+    }
+  ]
+}

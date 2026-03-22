@@ -1,0 +1,90 @@
+{
+  "subtitle": "Performans, Beden ve Radikal Siyaset (1956–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Cinsiyet Belası (Gender Trouble) ve Performatiflik",
+      "body": "1990'da yayımlanan bu eser, cinsiyetin doğuştan gelen bir \"öz\" olduğu fikrini yerle bir etti.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Cinsiyet Bir Fiildir",
+          "text": "Butler'a göre cinsiyet, sahip olduğumuz bir şey değil, \"yaptığımız\" bir şeydir. Biz toplumsal cinsiyetimizi, belirli hareketleri, giyim tarzlarını ve konuşma biçimlerini sürekli tekrar ederek inşa ederiz."
+        },
+        {
+          "label": "Sahneleme",
+          "text": "Toplumsal cinsiyet bir \"performans\"tır. Ancak bu, sabah kalkıp \"Bugün hangi cinsiyeti giysem?\" diye seçtiğimiz iradi bir kostüm değildir; bizi kuşatan kültürel normların içinde icra edilen, zorunlu bir sahnelemedir."
+        }
+      ]
+    },
+    {
+      "title": "Beladan Bedene: Bela Bedenler (Bodies That Matter)",
+      "body": "Butler, cinsiyetin bir \"kurgu\" olduğunu söylediğinde gelen \"Peki ya biyolojik gerçeklik?\" eleştirilerine bu eserle cevap verdi.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Maddileşme",
+          "text": "Bedenin biyolojik yapısı (seks) bile, dil ve iktidar aracılığıyla anlam kazanır. Beden, ancak toplumsal normlar onu \"isimlendirdiğinde\" ve \"sınıflandırdığında\" maddileşir."
+        },
+        {
+          "label": "Dışlananlar",
+          "text": "Sistemin \"normal\" kabul etmediği bedenler (queer, trans, intersekse), \"yaşanamaz hayatlar\" olarak dışlanır. Butler felsefesi, bu dışlananlara alan açma çabasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Kırılganlık ve Karşılıklı Bağımlılık",
+      "body": "11 Eylül sonrası çalışmalarında Butler, odağını ahlak ve siyaset felsefesine kaydırdı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Prekaryet (Kırılganlık)",
+          "text": "Tüm insanlar bedensel olarak kırılgandır ve hayatta kalmak için başkalarına muhtaçtır."
+        },
+        {
+          "label": "Kimin Yası Tutulabilir?",
+          "text": "Butler, modern medyanın ve siyasetin hangi hayatların ölümünü \"trajedi\", hangilerininkini ise sadece \"istatistik\" olarak gördüğünü sorgular. Savaşlarda ölen \"öteki\"lerin yasının tutulmamasını, onların hiçbir zaman \"tam insan\" olarak görülmemesine bağlar."
+        }
+      ]
+    },
+    {
+      "title": "Şiddetsizlik ve Kamusal Toplanma",
+      "body": "Geç döneminde, insanların sokaklarda bir araya gelme (protesto) gücü üzerine yoğunlaşmıştır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Birlikte Görünme",
+          "text": "İnsanların sadece bedenleriyle bir alanda toplanması bile başlı başına bir siyasi eylemdir. Bu, \"Biz buradayız ve bizim de bir hayatımız var\" demenin en yalın halidir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kimlik Devrimi",
+      "text": "İnsanları dar kalıplara hapseden \"normallik\" duvarlarını yıkarak milyonlarca insana kendilerini tanımlama özgürlüğü sunmuştur."
+    },
+    {
+      "title": "Etik Derinlik",
+      "text": "Siyaseti sadece haklar üzerinden değil, \"incinebilirlik\" ve \"yas\" üzerinden okuyarak evrensel bir vicdan çağrısı yapmıştır."
+    },
+    {
+      "title": "Yapıbozumun Gücü",
+      "text": "Dilin ve iktidarın en mahrem alanlarımıza (bedenimize) nasıl sızdığını dâhiyane bir şekilde deşifre etmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İnşacılık",
+      "text": "Bazı eleştirmenler (ve bazı feministler), Butler'ın biyolojik gerçekliği fazla hafife aldığını ve \"kadın\" kategorisini tamamen eriterek kadın hakları mücadelesinin zeminini zayıflattığını savunurlar."
+    },
+    {
+      "title": "Dilin Kapalılığı",
+      "text": "Derrida gibi Butler da \"ne dediği tam anlaşılamayan\" bir üslupla yazmakla suçlanır. Bazı bölümlerinin kasten karmaşık olduğu eleştirisi sıkça yapılır."
+    },
+    {
+      "title": "Pratikten Kopukluk",
+      "text": "Teorilerinin sokaktaki insanın gerçek dertlerinden (ekonomik sınıf mücadelesi gibi) ziyade, üniversitelerdeki \"kültür savaşlarına\" hizmet ettiği söylenir."
+    }
+  ]
+}

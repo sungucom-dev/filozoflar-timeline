@@ -1,0 +1,79 @@
+{
+  "subtitle": "Elitler, Tazminat ve İklim Adaleti (1990–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Elit Ele Geçirmesi (Elite Capture)",
+      "body": "Táíwò'nun en sarsıcı tespiti, sosyal hareketlerin nasıl \"yukarıdan aşağıya\" manipüle edildiğidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hareketlerin Evcilleştirilmesi",
+          "text": "Bir sosyal hareket (örneğin BLM veya iklim protestoları) başladığında, bu hareketin en ayrıcalıklı ve en eğitimli üyeleri (elitler), hareketin dilini ve hedefini kendi çıkarlarına göre belirlerler."
+        },
+        {
+          "label": "Temsiliyet Tuzağı",
+          "text": "Şirketlerin yönetim kurullarına birkaç azınlık mensubu koyarak veya logolarını gökkuşağına boyayarak \"adalet sağladık\" demeleri, Táíwò'ya göre elit ele geçirmesinin en net örneğidir. Bu durum, sistemin özündeki sömürüyü değiştirmez, sadece \"maskesini\" parlatır."
+        }
+      ]
+    },
+    {
+      "title": "Yeniden İnşacı Adalet (Reconstructive Justice)",
+      "body": "Táíwò, tazminat (reparations) kavramını sadece geçmişteki bir hatanın parasını ödemek olarak görmez.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dünyayı Yeniden Kurmak",
+          "text": "Geçmişteki sömürgecilik ve kölelik, bugünkü küresel altyapıyı inşa etmiştir. Bu yüzden adalet, sadece para vermek değil; küresel ekonomik, siyasi ve fiziksel altyapıyı (enerji ağlarından ticaret yollarına kadar) mağdurlar lehine yeniden inşa etmektir."
+        },
+        {
+          "label": "Gelecek Odaklılık",
+          "text": "Adalet, geçmişteki bir acıya takılıp kalmak değil, o acının bir daha yaşanmayacağı bir dünya tasarlamaktır."
+        }
+      ]
+    },
+    {
+      "title": "İklim Sömürgeciliği ve Adalet",
+      "body": "İklim krizini, sömürgeciliğin bir devamı (ikinci perdesi) olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Ekolojik Borç",
+          "text": "Zengin ülkelerin refahı, fakir ülkelerin kaynaklarını yakarak inşa edildi. Bu yüzden iklim kriziyle mücadele, zenginlerin fakirlere olan \"ekolojik borcunu\" ödeme sürecidir."
+        },
+        {
+          "label": "Yeşil Dönüşüm",
+          "text": "Riofrancos gibi, yeşil dönüşümün Küresel Güney'i yeniden sömürgeleştirerek değil, oradaki halkların enerji ve kaynak egemenliğini sağlayarak yapılması gerektiğini savunur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Kimlik Politikalarını Kurtarmak",
+      "text": "Kimlik politikalarını sağın saldırılarından veya solun reddinden kurtarıp; onları maddi, ekonomik ve sınıfsal bir zemine oturtmuştur."
+    },
+    {
+      "title": "Gerçekçi Siyaset",
+      "text": "\"Kim konuşuyor?\" sorusunu sorarak, ezilenlerin sesinin nasıl elitler tarafından \"yutulduğunu\" gösteren muazzam bir analiz sunmuştur."
+    },
+    {
+      "title": "Küresel Bakış",
+      "text": "Siyaseti sadece bir ülke sınırları içinde değil, tüm dünyayı kapsayan devasa bir \"inşa projesi\" olarak görmesi ufuk açıcıdır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Elit Tanımı",
+      "text": "Eleştirmenler, Táíwò'nun \"elit\" tanımının bazen fazla geniş olduğunu ve orta sınıf akademisyenler ile gerçek iktidar sahipleri arasındaki farkın bulanıklaşabileceğini savunurlar."
+    },
+    {
+      "title": "Pratik Güç",
+      "text": "Önerdiği \"yeniden inşa\" süreci o kadar büyüktür ki, bu değişimi gerçekleştirecek siyasi gücün (devletler ve ordular karşısında) nereden ve nasıl devşirileceği sorusu hala cevaba muhtaçtır."
+    },
+    {
+      "title": "Akademik Dil",
+      "text": "\"Elit ele geçirmesi\"ni eleştirirken, felsefesinin hala ağırlıklı olarak akademik çevrelerde tartışılıyor olması ironik bir durumdur."
+    }
+  ]
+}

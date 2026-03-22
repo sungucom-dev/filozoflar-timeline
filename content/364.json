@@ -1,0 +1,85 @@
+{
+  "subtitle": "Otomasyon, Bolluk ve Lüksün Demokratikleşmesi (1984–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Tam Otomatik Lüks Komünizm (FALC)",
+      "body": "Bastani'nin 2019'da yayımlanan başyapıtı, Marksist idealleri 21. yüzyılın teknolojik patlamasıyla birleştirir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kıtlığın Sonu",
+          "text": "Kapitalizm, kâr etmek için \"kıtlık\" (scarcity) yaratmak zorundadır. Bastani ise teknolojinin her şeyi \"bol\" (abundant) hale getirdiğini savunur."
+        },
+        {
+          "label": "Lüks Herkes İçindir",
+          "text": "Lüksün sadece %1'lik bir kesime ait olmasına karşı çıkar. Teknolojik verimlilik sayesinde en yüksek yaşam standartlarının (sağlık, ulaşım, gıda) herkes için \"temel hak\" ve \"bedava\" olması gerektiğini söyler."
+        }
+      ]
+    },
+    {
+      "title": "Beş Teknolojik Sütun",
+      "body": "Bastani'nin vizyonu beş ana teknolojik devrim üzerine kuruludur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Otomasyon ve AI",
+          "text": "İnsan emeğinin yerini makinelerin alması (böylece çalışmak bir zorunluluk olmaktan çıkar)."
+        },
+        {
+          "label": "Güneş Enerjisi ve Uzay Madenciliği",
+          "text": "Enerjinin marjinal maliyetinin sıfıra yaklaşması ve asteroitlerden elde edilecek sınırsız hammadde sayesinde dünya'daki kaynak kıtlığının bitmesi."
+        },
+        {
+          "label": "Sentetik Biyoloji ve Veri",
+          "text": "Laboratuvarda üretilen et ve kişiselleştirilmiş genetik tıp; bilginin bedava ve erişilebilir olması."
+        }
+      ]
+    },
+    {
+      "title": "Evrensel Temel Hizmetler (UBS)",
+      "body": "Birçok düşünürün aksine Bastani, sadece \"para\" (UBI - Evrensel Temel Gelir) vermenin yetmeyeceğini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Meta-Dışı Yaşam",
+          "text": "Ulaşımın, internetin, konutun ve enerjinin devlet tarafından \"ücretsiz kamu hizmeti\" olarak sunulması gerektiğini söyler. Hayatın temel taşları piyasanın elinden alınmalıdır."
+        }
+      ]
+    },
+    {
+      "title": "Üçüncü Büyük Kırılma",
+      "body": "Tarihi üç büyük aşamaya ayırır: Tarım Devrimi, Sanayi Devrimi ve şu an içinde olduğumuz \"Bilgi/Otomasyon Devrimi.\" Bu son aşama, mülkiyet kavramını tamamen anlamsız kılacak bir potansiyele sahiptir.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Solu Heyecanlandırmak",
+      "text": "Sol düşünceyi \"kememer sıkma\" ve \"savunma\" pozisyonundan çıkarıp; neşeli, arzulu ve teknolojiyle barışık bir \"gelecek projesi\" haline getirmiştir."
+    },
+    {
+      "title": "Bolluk Analizi",
+      "text": "Kapitalizmin yapay olarak yarattığı kıtlıkları deşifre ederek, ekonominin yeni kurallarını tartışmaya açmıştır."
+    },
+    {
+      "title": "Ekolojik ve Teknolojik Sentez",
+      "text": "Uzay madenciliği ve sentetik et gibi konuları \"uçuk kaçık\" olmaktan çıkarıp, gezegeni kurtaracak ciddi siyasi öneriler haline getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Aşırı İyimserlik",
+      "text": "Eleştirmenler, Bastani'nin teknolojinin \"kaçınılmaz olarak\" iyiye gideceği varsayımını (teknolojik iyimserlik) riskli bulurlar. Teknolojinin mülkiyeti hala dev şirketlerin elindeyken bu \"bolluğun\" nasıl paylaşılacağı sorusu belirsiz kalabilir."
+    },
+    {
+      "title": "Jeopolitik ve Enerji",
+      "text": "Uzay madenciliği veya güneş enerjisi devriminin gerektirdiği devasa altyapı ve hammadde savaşları, Bastani'nin sunduğu o pürüzsüz geçişi zorlaştırabilir."
+    },
+    {
+      "title": "İnsan Doğası",
+      "text": "\"Çalışmanın olmadığı\" bir dünyada insanın anlam arayışının ne olacağı ve \"lüks\" kavramının herkes ulaştığında anlamını yitirip yitirmeyeceği sosyolojik bir boşluk yaratır."
+    }
+  ]
+}

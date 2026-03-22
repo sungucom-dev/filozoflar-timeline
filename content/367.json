@@ -1,0 +1,85 @@
+{
+  "subtitle": "Lityum Sınırı, Ekstraktivizm ve Yeşil Yeni Düzen (1980'lerin sonu–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Kaynak Radikalleri (Resource Radicals)",
+      "body": "Ekvador'daki yerli hareketlerini incelediği bu çalışmasında, kaynak zengini ülkelerdeki o büyük paradoksu ortaya koyar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Sol-Ekstraktivizm",
+          "text": "Sol hükümetlerin (Latin Amerika'daki \"Pembe Dalga\") sosyal yardımları finanse etmek için madenciliğe ve petrole dayanmasını analiz eder."
+        },
+        {
+          "label": "Radikal Direniş",
+          "text": "Yerel halkların sadece \"pay\" istemediğini, bizzat toprağın ve suyun korunması için madenciliğe \"hayır\" diyerek kalkınma kavramını nasıl yeniden tanımladıklarını gösterir."
+        }
+      ]
+    },
+    {
+      "title": "Lityum Sınırı ve Yeşil Paradoks",
+      "body": "Riofrancos, 2026'nın o en büyük sorusuna odaklanır: \"Temiz\" bir dünya için ne kadar \"kirli\" madencilik gerekiyor?",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Maden Yoğunluğu",
+          "text": "Güneş panelleri, rüzgar türbinleri ve elektrikli araç bataryaları; fosil yakıtlardan çok daha fazla bakır, lityum ve kobalt gerektirir."
+        },
+        {
+          "label": "Sömürgecilik 2.0",
+          "text": "Riofrancos, bu madenlerin Küresel Güney'den (örn: Şili, Bolivya, Kongo) çıkarılırken oradaki ekosistemlerin ve toplulukların feda edilmesine \"Yeşil Kapitalizm\" der ve buna karşı çıkar."
+        }
+      ]
+    },
+    {
+      "title": "Demokratik Yeşil Yeni Düzen (Green New Deal)",
+      "body": "Ona göre çözüm sadece teknolojik bir değişim değil, radikal bir toplumsal dönüşümdür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Daha Az Araba, Daha Çok Toplu Taşıma",
+          "text": "Herkesin fosil yakıtlı arabasını elektrikli bir arabayla değiştirmesi (ki bu devasa bir madencilik yükü demektir) yerine; ücretsiz ve yaygın toplu taşıma, bisiklet yolları ve şehirlerin yeniden tasarımıyla \"maden talebinin\" düşürülmesini savunur."
+        },
+        {
+          "label": "Müşterek Enerji",
+          "text": "Enerji üretiminin dev şirketlerin tekelinden alınıp halk kooperatiflerine ve yerel topluluklara devredilmesini önerir."
+        }
+      ]
+    },
+    {
+      "title": "Döngüsel Madencilik ve Geri Dönüşüm",
+      "body": "Riofrancos, \"sürekli kazmak\" yerine, mevcut malzemelerin (bataryaların vb.) %100 geri dönüştürüldüğü ve yeni maden ihtiyacının minimize edildiği bir \"döngüsel ekonomi\" için siyasi baskı yapılmasını ister.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Somut ve Maddi Analiz",
+      "text": "Ekoloji tartışmalarını soyut bir \"doğa sevgisi\"nden çıkarıp; maden ocakları, tedarik zincirleri ve devlet politikaları gibi son derece somut ve \"maddi\" bir zemine oturtmuştur."
+    },
+    {
+      "title": "Siyasi Köprü",
+      "text": "İklim aktivizmi ile işçi haklarını ve sömürgecilik karşıtı mücadeleyi birbirine bağlayan sağlam bir entelektüel köprü kurmuştur."
+    },
+    {
+      "title": "Politika Önerileri",
+      "text": "Sadece eleştirmekle kalmaz; maden talebinin nasıl azaltılacağına dair uygulanabilir politika senaryoları (modellemeler) sunar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Hız Sorunu",
+      "text": "Eleştirmenler, iklim krizinin çok hızlı bir enerji dönüşümü gerektirdiğini ve Riofrancos'un önerdiği \"katılımcı ve demokratik\" süreçlerin bu hıza yetişemeyebileceği riskini dile getirirler."
+    },
+    {
+      "title": "Jeopolitik Rekabet",
+      "text": "2026 dünyasında Çin ve Batı arasındaki \"maden savaşı\" bu kadar sertken; tek bir bölgenin \"demokratik kısıtlamalarla\" madenciliği durdurmasının, onu küresel rekabette zayıflatacağı endişesi taşınır."
+    },
+    {
+      "title": "Tüketim Alışkanlıkları",
+      "text": "İnsanların \"özel araç\" konforundan vazgeçip toplu taşımaya yönelmesi fikrinin, özellikle Batı toplumlarında yaratacağı siyasi direnç bazen hafife alınmış olabilir."
+    }
+  ]
+}

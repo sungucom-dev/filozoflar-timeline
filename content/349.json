@@ -1,0 +1,90 @@
+{
+  "subtitle": "Başarı, Şeffaflık ve Ötekinin Kovulması (1959–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Yorgunluk Toplumu (Müdigkeitsgesellschaft)",
+      "body": "Han'ın felsefeye vurduğu en büyük damga, Foucault'nun \"disiplin toplumu\" teşhisini güncellemesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Meli-Malı'dan Edebilir-Ebilir'e",
+          "text": "Foucault'nun toplumu \"yasaklarla\" (yapmamalısın) yönetiliyordu. Han ise modern toplumun \"özgürlük\" maskesi altında \"yapabilirsin\" (başarı) üzerinden yönetildiğini söyler."
+        },
+        {
+          "label": "Kendi Kendini Sömürme",
+          "text": "Artık başımızda bizi kamçılayan bir efendi yok; biz bizzat kendi kendimizin efendisi ve kölesiyiz. Daha iyi bir beden, daha iyi bir kariyer ve daha mutlu bir hayat için kendimizi gönüllü olarak sömürüyoruz. Sonuç: Kitlesel depresyon ve tükenmişlik sendromu."
+        }
+      ]
+    },
+    {
+      "title": "Şeffaflık Toplumu ve Dijital Panoptikon",
+      "body": "Bentham ve Foucault'nun \"gözetleme kulesi\" artık cebimizde.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gönüllü Teşhir",
+          "text": "Eski panoptikonda mahkûmlar izlendiklerini bilir ve korkarlardı. Dijital panoptikonda (sosyal medya) ise bizler, her anımızı gönüllü olarak paylaşarak kendimizi sergiliyoruz."
+        },
+        {
+          "label": "Şeffaflık Terörü",
+          "text": "Her şeyin \"şeffaf\" ve \"erişilebilir\" olması gerektiğini savunan bu sistem, gizemi, mesafeyi ve dolayısıyla gerçek düşünceyi yok eder. Şeffaflık, aslında bir kontrol mekanizmasıdır."
+        }
+      ]
+    },
+    {
+      "title": "Ötekinin Kovulması ve Aynının Cehennemi",
+      "body": "Han, modern dünyada \"farklı olanın\" ve \"başka olanın\" yok edildiğini savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aynının Cehennemi",
+          "text": "Algoritmalar bize sadece sevdiğimiz şeyleri gösterir, sosyal medya bizi bizim gibi düşünenlerle kuşatır. \"Öteki\"nin (o sarsıcı, yabancı, rahatsız edici olanın) yerini, pürüzsüz ve \"beğenilebilir\" olan alır."
+        },
+        {
+          "label": "Narsisizm",
+          "text": "İnsan artık başkasıyla gerçekten karşılaşmaz; sadece kendi yansımasını arar. Bu da gerçek aşkın (Eros) can çekişmesine neden olur. Çünkü aşk, ancak \"başka\" olanın karşısında, kontrolümüzü kaybettiğimizde mümkündür."
+        }
+      ]
+    },
+    {
+      "title": "Psikopolitika: Dijital Kontrol",
+      "body": "Biyo-siyasetten Psikopolitikaya: İktidar artık sadece bedenimizi (hijyen, doğum oranı) yönetmekle kalmıyor; doğrudan zihnimize, arzularımıza ve bilinçdışımıza sızıyor.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Dijital Tanrı",
+          "text": "Big Data (Büyük Veri), bizi bizden daha iyi tanıyarak \"özgür irademizi\" sessizce manipüle eden yeni bir tanrıya dönüşüyor."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Zamanın Ruhu",
+      "text": "Modern insanın o açıklanamayan yorgunluğunu, stresini ve dijital bağımlılığını en iyi tarif eden (ve bunu felsefi bir zemine oturtan) yazardır."
+    },
+    {
+      "title": "Foucault Sonrası Analiz",
+      "text": "Disiplin toplumundan başarı toplumuna geçiş analizi, modern sosyoloji ve psikoloji için muazzam bir anahtar sunar."
+    },
+    {
+      "title": "Kısa ve Keskin Üslup",
+      "text": "Akademik jargonun boğuculuğundan uzak, her cümlesi bir aforizma gibi parlayan üslubuyla felsefeyi yeniden geniş kitlelerle buluşturmuştur."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Çözüm Eksikliği",
+      "text": "Sistemi dâhice eleştirir ama çözüm olarak sunduğu \"düşünsel yaşam\" (vita contemplativa) veya \"aylaklık\" önerileri, modern ekonominin gerçekleri karşısında biraz fazla \"romantik\" ve \"elitist\" kalabilir."
+    },
+    {
+      "title": "Tekrar Riski",
+      "text": "Pek çok kitabı (Yorgunluk Toplumu, Şeffaflık Toplumu, Eros'un Istırabı) aslında aynı temel fikrin farklı pencerelerden anlatımıdır."
+    },
+    {
+      "title": "Karamsarlık",
+      "text": "Dünyayı ve teknolojiyi o kadar çok \"yıkım\" olarak görür ki, dijitalleşmenin getirdiği olumlu imkanları ve yeni direnç alanlarını bazen ıskalar."
+    }
+  ]
+}

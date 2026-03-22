@@ -1,0 +1,90 @@
+{
+  "subtitle": "Korelasyonizm, Atasalık ve Hiper-Kaos (1967–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Korelasyonizm (Bağıntıcılık) Eleştirisi",
+      "body": "Meillassoux'nun felsefeye vurduğu en büyük darbe, Kant'tan bugüne tüm modern felsefeyi \"Korelasyonizm\" olarak damgalamasıdır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kafes",
+          "text": "Korelasyonizme göre, düşünce ile varlık birbirinden ayrılamaz. Dünyayı ancak zihnimizin kategorileriyle bilebiliriz. \"Zihinden bağımsız bir dünya\" hakkında konuşmak anlamsızdır."
+        },
+        {
+          "label": "İtiraz",
+          "text": "Meillassoux, bunun felsefeyi bir \"narsisizm\" döngüsüne soktuğunu savunur. Biz sadece kendi düşüncemizin yansımalarını görüyoruz, gerçek \"dışarısını\" değil."
+        }
+      ]
+    },
+    {
+      "title": "Atasalık (Ancestrality) ve Arke-Fosil",
+      "body": "Korelasyonizmin en büyük zayıflığını bilim üzerinden gösterir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "İnsan-Öncesi Zaman",
+          "text": "Bilim bize Dünya'nın oluşumu (4.5 milyar yıl önce) veya evrenin başlangıcı (Big Bang) hakkında veriler sunar. Bunlara Meillassoux \"Atasal\" (ancestral) olaylar der."
+        },
+        {
+          "label": "Paradoks ve Arke-Fosil",
+          "text": "Eğer gerçeklik sadece bir \"gözlemci\" varsa mümkünse, hiçbir insanın (veya bilincin) olmadığı o milyarlarca yıllık geçmiş nasıl \"gerçek\" olabilir? Arke-Fosil, zihnimizden tamamen bağımsız bir gerçekliğin sarsılmaz kanıtıdır."
+        }
+      ]
+    },
+    {
+      "title": "Zorunlu Olumsallık (Necessity of Contingency)",
+      "body": "Meillassoux bizi en çok sarsan noktaya burada gelir: Her şeyin olumsal olduğu gerçeği, zorunlu olan tek şeydir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Fizik Yasaları Neden Değişmiyor?",
+          "text": "Hume'un nedensellik sorusuna radikal bir cevap verir. Yasaların bugün böyle olması, yarın da böyle olacağı anlamına gelmez. Bir \"zorunlu varlık\" (Tanrı veya Mutlak Doğa Yasası) yoktur."
+        },
+        {
+          "label": "Hiper-Kaos",
+          "text": "Evrenin temelinde bir \"neden\" değil, her an her şeyin (hiçbir neden olmaksızın) değişebileceği bir Hiper-Kaos yatar. Yasalar sadece \"şu an için\" böyledir, ancak bu onların \"zorunlu\" olduğu anlamına gelmez."
+        }
+      ]
+    },
+    {
+      "title": "Matematik: Büyük Dışarı'ya Açılan Kapı",
+      "body": "Eğer her şey olumsalsa, dünyayı nasıl bilebiliriz? Meillassoux için cevap Matematiktir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Mutlak Dil",
+          "text": "Matematik, insanın öznelliğinden (duygularından, algılarından) bağımsız olarak dünyayı betimleyebilen tek dildir. Bir yıldızın kütlesi veya uzaklığı, biz ona baksak da bakmasak da matematiksel bir gerçektir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Realizmin Dönüşü",
+      "text": "Felsefeyi o bitmek bilmeyen \"dil ve yorum\" oyunlarından kurtarıp, yeniden nesnel dünyaya ve bilimin verilerine odaklamıştır."
+    },
+    {
+      "title": "Dogma Yıkıcılığı",
+      "text": "Sadece dini dogmaları değil, bilimin \"doğa yasaları değişmezdir\" şeklindeki gizli dogmasını da rasyonel bir şekilde sarsmıştır."
+    },
+    {
+      "title": "Büyük Dışarı",
+      "text": "İnsanı merkeze koymayan, insanın olmadığı bir evrenin de anlamlı ve bilinebilir olduğunu savunarak felsefeye yeni bir soluk getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Mantıksal Uçurum",
+      "text": "Fizik yasalarının hiçbir neden yokken neden bu kadar \"istikrarlı\" göründüğünü açıklamada, sadece \"olumsallık\" demek bazıları için tatmin edici değildir."
+    },
+    {
+      "title": "Yaşamsal Boşluk",
+      "text": "Her şeyin bir \"hiper-kaos\" olduğu bir dünyada; ahlakın, adaletin ve insan anlamının nasıl inşa edileceği sorusu felsefesinde biraz \"soğuk\" ve yanıtsız kalabilir."
+    },
+    {
+      "title": "Matematiksel İdealizm",
+      "text": "Matematiğe yüklediği o \"mutlak erişim\" gücü, bazı eleştirmenler tarafından yeni bir tür rasyonalist dogmatizm olarak görülür."
+    }
+  ]
+}

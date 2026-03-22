@@ -1,0 +1,90 @@
+{
+  "subtitle": "Oryantalizm, Temsil ve Sürgün (1935–2003)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Oryantalizm: Bir Güç Biçimi Olarak Bilgi",
+      "body": "1978 tarihli başyapıtı Oryantalizm, sosyal bilimlerde bir deprem etkisi yarattı.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Kurgulanan Doğu",
+          "text": "Said'e göre \"Doğu\" (Şark), Batı tarafından icat edilmiş bir kavramdır. Batı, kendini \"rasyonel, gelişmiş ve eril\" olarak tanımlayabilmek için Doğu'yu \"irrasyonel, egzotik, geri kalmış ve dişil\" bir \"Öteki\" olarak kurgulamıştır."
+        },
+        {
+          "label": "Akademiden Siyasete",
+          "text": "Şarkiyatçılık sadece bir akademik disiplin değil, Doğu üzerinde hakimiyet kurmak, onu yönetmek ve yeniden üretmek için kullanılan bir \"kurumsal mekanizma\"dır."
+        }
+      ]
+    },
+    {
+      "title": "Entelektüelin Rolü: İktidara Karşı Gerçek",
+      "body": "Said için entelektüellik bir meslek değil, bir \"durma biçimi\"dir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Taraf Olmak",
+          "text": "Entelektüel, her zaman adaletsizliğe karşı \"taraf\" olmalıdır. Onun görevi, iktidarın (ister devlet, ister şirket, ister dini kurumlar olsun) konforunu bozmak ve \"gerçeği iktidarın yüzüne söylemektir.\""
+        },
+        {
+          "label": "Amatörlük",
+          "text": "Uzmanlık alanına sıkışmış, \"teknisyen\" bir aydın yerine; her konuyu ahlaki bir zeminde sorgulayan \"amatör\" bir ruhu savunur."
+        }
+      ]
+    },
+    {
+      "title": "Sürgün ve Dünya İçindelik",
+      "body": "Said, kendi hayatını \"Yersiz Yurtsuz\" (Out of Place) olarak tanımlar.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Hibridite (Melezlik)",
+          "text": "Kudüs'te doğmuş, Kahire'de büyümüş ve Amerika'da eğitim görmüştür. Bu \"arada kalmışlık\", ona hem Batı'nın içinden hem de dışından bakabilme yetisi kazandırmıştır."
+        },
+        {
+          "label": "Dünyasal Eleştiri",
+          "text": "Metinlerin sadece kağıt üzerinde olmadığını, her kitabın bir tarihi, siyaseti ve \"dünyasal\" bir karşılığı olduğunu savunur."
+        }
+      ]
+    },
+    {
+      "title": "Müzik ve Karşıtlık (Contrapuntal)",
+      "body": "Said, Bach'ın müziğindeki \"kontrapuan\" kavramını edebiyata ve siyasete uygular.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "West-Eastern Divan",
+          "text": "Daniel Barenboim ile birlikte kurduğu orkestrada, İsrailli ve Arap gençleri bir araya getirerek müziği bir \"diyalog\" alanı haline getirmiştir. Siyasetin ayıramadığı tınıları, müzikle birleştirmiştir."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bakış Açısı Devrimi",
+      "text": "Sosyal bilimlere \"post-kolonyal\" perspektifi kazandırarak; tarih, edebiyat ve sanatın tarafsız olmadığını, her zaman bir iktidar ilişkisi barındırdığını kanıtlamıştır."
+    },
+    {
+      "title": "Mağdurun Sesi",
+      "text": "Filistin meselesini sadece bir toprak kavgası değil, bir \"insan hakları ve temsil\" meselesi olarak dünya gündemine taşımıştır."
+    },
+    {
+      "title": "Kültürel Eleştiri",
+      "text": "Klasik eserleri (Jane Austen'den Verdi'ye kadar) sömürgecilik bağlamında yeniden okuyarak edebiyat eleştirisine yeni bir soluk getirmiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Doğu'nun Özcülüğü",
+      "text": "Bazı eleştirmenler (Bernard Lewis gibi), Said'in Batı'yı fazla \"tek tipleştirdiğini\" ve Şarkiyatçıların tüm çalışmalarını siyasi bir kötü niyetle ilişkilendirdiğini savunurlar."
+    },
+    {
+      "title": "Metin vs. Gerçeklik",
+      "text": "Eleştirmenler, Said'in her şeyi \"temsil ve söylem\" üzerinden okumasının, bazen ekonomik ve maddi gerçeklikleri (sınıf mücadelesi gibi) gölgede bıraktığını söylerler."
+    },
+    {
+      "title": "Kendi Konumu",
+      "text": "Batı'nın en elit üniversitelerinde (Columbia) profesörlük yaparken Batı'yı eleştirmesi, zaman zaman \"kendisi de eleştirdiği sistemin bir parçası mı?\" sorularını doğurmuştur."
+    }
+  ]
+}

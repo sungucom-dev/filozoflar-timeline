@@ -1,0 +1,98 @@
+{
+  "subtitle": "Simülakrlar, Hipergerçeklik ve Nesneler (1929–2007)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Simülakrlar ve Görüntünün Dört Aşaması",
+      "body": "Baudrillard'a göre görüntünün (imajın) gerçeklikle olan bağı tarihsel olarak dört aşamada kopmuştur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "1. Aşama (Yansıma)",
+          "text": "Görüntü, temel bir gerçekliğin yansımasıdır (İyi bir kopya)."
+        },
+        {
+          "label": "2. Aşama (Maskeleme)",
+          "text": "Görüntü, temel bir gerçekliği maskeler ve bozar (Kötü bir kopya)."
+        },
+        {
+          "label": "3. Aşama (Yokluk)",
+          "text": "Görüntü, bir gerçekliğin yokluğunu maskeler (Büyücülük gibi)."
+        },
+        {
+          "label": "4. Aşama (Simülakr)",
+          "text": "Görüntünün artık hiçbir gerçeklikle bağı yoktur. O, kendi kendinin saf simülakrıdır (Gerçek artık yoktur)."
+        }
+      ]
+    },
+    {
+      "title": "Hipergerçeklik (Hyperreality)",
+      "body": "\"Gerçekten daha gerçek\" olan o yeni evrenimizdir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Aslını Geçen Kopya",
+          "text": "Hipergerçeklikte modeller, haritalar ve simülasyonlar gerçeğin önüne geçer."
+        },
+        {
+          "label": "Disneyland Örneği",
+          "text": "Baudrillard'a göre Disneyland, dışarıdaki dünyanın (Amerika'nın) \"gerçek\" olduğuna bizi inandırmak için kurulmuş \"çocuksu\" bir simülasyondur. Oysa Disneyland ne kadar hayaliyse, dışarıdaki hayat da o kadar kurgusaldır."
+        }
+      ]
+    },
+    {
+      "title": "Tüketim Toplumu ve Gösterge Değeri",
+      "body": "Marx'ın \"kullanım değeri\" ve \"değişim değeri\" kavramlarını bir adım öteye taşır.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Nesnelerin Sistemi",
+          "text": "Biz bir nesneyi ihtiyacımız olduğu için (kullanım değeri) veya parası olduğu için (değişim değeri) almayız. Biz onu, toplumsal bir hiyerarşide bir yere ait olduğumuzu gösteren bir \"Gösterge Değeri\" olduğu için alırız."
+        },
+        {
+          "label": "Tüketim Bir Dildir",
+          "text": "Tüketmek bir ihtiyaç giderme eylemi değil, bir iletişim ve statü dilidir."
+        }
+      ]
+    },
+    {
+      "title": "\"Körfez Savaşı Hiç Olmadı\"",
+      "body": "Baudrillard'ın en çok tepki çeken ama en dâhiyane iddialarından biridir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Medya Olayı",
+          "text": "Kastettiği, insanların ölmediği değil, savaşın bir \"ekran olayı\" haline gelmesidir. Savaş, stüdyolarda, haritalarda ve gece görüş kameralarında bir video oyunu gibi kurgulanmış; gerçekliği medyanın simülasyonu içinde kaybolmuştur."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Medya Çağının Teşhisi",
+      "text": "Televizyonun ve bugün sosyal medyanın (Instagram'daki filtreli hayatların gerçeğin yerine geçmesi) bizi nasıl bir simülasyona hapsettiğini on yıllar öncesinden dâhice görmüştür."
+    },
+    {
+      "title": "Tüketim Analizi",
+      "text": "İnsanların neden nesnelere bu kadar tutkuyla bağlı olduğunu \"gösterge\" üzerinden açıklayarak modern psikolojiyi ve sosyolojiyi derinden etkilemiştir."
+    },
+    {
+      "title": "Kışkırtıcılık",
+      "text": "Düşünceyi konfor alanından çıkarıp, her şeyi (siyaseti, sanatı, cinselliği) sorgulatan bir \"şok etkisi\" yaratmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Nihilizm (Hiçlik)",
+      "text": "Her şeyi \"simülasyon\" olarak nitelemesi, gerçek acıları, adaletsizlikleri ve somut direniş imkânlarını anlamsızlaştırdığı gerekçesiyle eleştirilir."
+    },
+    {
+      "title": "Elitizm ve Kapalılık",
+      "text": "Üslubu bazen o kadar çok metafor ve ironiyle doludur ki, felsefesi gerçek dünyadaki sorunlara pratik bir çözüm sunmaktan uzak kalabilir."
+    },
+    {
+      "title": "Aşırı Karamsarlık",
+      "text": "İnsanın bu \"hipergerçeklik\" ağından çıkış yolunu tamamen kapatmış gibi görünmesi, eylemi imkânsız kılan bir umutsuzluk yaratabilir."
+    }
+  ]
+}

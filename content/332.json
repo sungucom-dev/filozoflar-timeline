@@ -1,0 +1,94 @@
+{
+  "subtitle": "Öz-Sahiplik, Minimal Devlet ve Adalet (1938–2002)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Öz-Sahiplik (Self-Ownership)",
+      "body": "Nozick'in tüm ahlaki ve siyasi kulesi bu temel taş üzerine kuruludur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Bireyin Mutlaklığı",
+          "text": "Her birey kendi vücudunun, emeğinin ve yeteneklerinin tek sahibidir. Hiç kimse (devlet dahil), bir bireyi \"toplumun iyiliği için\" bir araç olarak kullanamaz."
+        },
+        {
+          "label": "Vergi ve Kölelik",
+          "text": "Nozick için kazancın vergilendirilmesi, \"zorla çalıştırma\" ile eşdeğerdir. Çünkü emeğinizin bir kısmına el koymak, o zaman diliminde sizi devlet için çalışan bir köle haline getirmektir."
+        }
+      ]
+    },
+    {
+      "title": "Yetkilendirme Teorisi (Entitlement Theory)",
+      "body": "Adaleti \"dağıtıcı\" bir model değil, \"tarihsel\" bir model olarak görür.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Edinimde Adalet",
+          "text": "Sahipsiz bir şeyi (meşru yolla) ilk ele geçiren ona sahip olur."
+        },
+        {
+          "label": "Transferde Adalet",
+          "text": "Bir mülk, rıza ile birinden diğerine geçerse (ticaret, hediye) bu adildir."
+        },
+        {
+          "label": "Düzeltmede Adalet",
+          "text": "Eğer geçmişte hırsızlık veya zorbalık yapılmışsa, bu durum tazmin edilmelidir. Nozick'e göre, bu kurallara uyulduğu sürece ortaya çıkan her türlü gelir dağılımı (ne kadar eşitsiz olursa olsun) adildir."
+        }
+      ]
+    },
+    {
+      "title": "Wilt Chamberlain Argümanı",
+      "body": "Eşitlikçi dağılım modellerinin neden özgürlükle çeliştiğini gösteren o meşhur örnektir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Özgürlük Kalıpları Bozar",
+          "text": "Herkesin eşit parası varken, 1 milyon kişi ünlü basketbolcu Wilt Chamberlain'e gönüllü olarak 25 cent verirse; Wilt çok zengin olur ve eşitlik bozulur. Eşitliği korumak istiyorsanız, insanların paralarını nasıl harcayacaklarına sürekli müdahale etmelisiniz."
+        }
+      ]
+    },
+    {
+      "title": "Deneyim Makinesi (The Experience Machine)",
+      "body": "Hedonizme (hazcılığa) karşı en büyük darbesidir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Gerçeklik vs. Simülasyon",
+          "text": "Size bir makineye bağlanma şansı veriliyor; hayatınız boyunca isteyebileceğiniz her türlü mutluluğu \"hissettirecek\" ama aslında sadece bir tankın içinde yatıyor olacaksınız. Bağlanır mısınız?"
+        },
+        {
+          "label": "Gerçeğin Değeri",
+          "text": "Nozick, çoğu insanın \"Hayır\" diyeceğini savunur. Çünkü biz sadece bir şeyi \"hissetmek\" değil, o şeyi \"gerçekten yapmak\" ve \"belirli bir kişi olmak\" isteriz. Bu, insan varoluşunun sadece hazdan ibaret olmadığını kanıtlar."
+        }
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Bireysel Hakların Savunusu",
+      "text": "Bireyi kolektif yapıların (devlet, toplum) ezici gücüne karşı koruyan en sağlam felsefi zırhı inşa etmiştir."
+    },
+    {
+      "title": "Entelektüel Dürüstlük",
+      "text": "Yazdığı dev eserin sonunda kendi liberteryen fikirlerine bile şüpheyle bakabilecek kadar açık fikirli bir filozoftur."
+    },
+    {
+      "title": "Düşünce Deneyleri",
+      "text": "Felsefeyi sıkıcı teorilerden çıkarıp \"Deneyim Makinesi\" gibi herkesin anlayabileceği sarsıcı hikayelerle anlatmayı başarmıştır."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Başlangıçtaki Adaletsizlik",
+      "text": "\"Edinimde adalet\" kuralı dünyada neredeyse hiçbir zaman uygulanmamıştır (sömürgecilik, savaşlar, gasplar). Bu durumda Nozick'in sistemi, mevcut tüm mülkiyetin gayrimeşru olduğunu söyleyen bir devrime dönüşebilir."
+    },
+    {
+      "title": "Nagel'in \"Şansı\"na Cevapsızlık",
+      "text": "Birinin dâhi doğması veya zengin bir aileye doğması (ahlaki şans) Nozick için \"hak edilmiş\" bir üstünlüktür. Ancak bu, adaletin neden bazıları için bu kadar acımasız olduğunu açıklamakta zorlanır."
+    },
+    {
+      "title": "Minimal Devletin Kırılganlığı",
+      "text": "Sadece güvenliği sağlayan (gece bekçisi) bir devletin, zenginlerin fakirleri sömürmesini engelleyecek hiçbir sosyal mekanizması yoktur. Bu da toplumsal patlamalara yol açabilir."
+    }
+  ]
+}

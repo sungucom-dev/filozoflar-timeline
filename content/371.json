@@ -1,0 +1,85 @@
+{
+  "subtitle": "Akbabalar, Finansallaşma ve Devletin Yeni Rolü (1993–...)",
+  "intro": "",
+  "sections": [
+    {
+      "title": "Akbaba Kapitalizmi (Vulture Capitalism)",
+      "body": "Blakeley'nin 2024'te yayımlanan ve 2026'da ekonomi tartışmalarının merkezine oturan başyapıtı, kapitalizmin artık \"serbest piyasa\" ile hiçbir ilgisi olmadığını savunur.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Leşçil Ekonomi",
+          "text": "Şirketlerin artık bir şeyler \"üretmek\" yerine, borçlanarak kendi hisselerini geri aldıkları, rakiplerini yuttukları ve devletten aldıkları teşviklerle ayakta kaldıkları bir sistemdir."
+        },
+        {
+          "label": "Devlet-Sermaye Ortaklığı",
+          "text": "Blakeley'ye göre devlet, piyasayı düzenleyen bir hakem değil; büyük sermayeyi her krizde kurtaran (bailout), riskleri halka yıkan, kârı ise şirketlere bırakan bir \"güvenlik görevlisi\"dir."
+        }
+      ]
+    },
+    {
+      "title": "Finansallaşma: Paranın Efendiliği",
+      "body": "Ekonominin \"gerçek\" üretimden (fabrikalar, hizmetler, ürünler) kopup tamamen \"finansal oyunlara\" (türev araçlar, hisse spekülasyonları, borç alıp verme) kaymasını analiz eder.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Borç Prangası",
+          "text": "Toplumun her kesiminin (devletler, belediyeler, aileler) bankalara borçlandığı bir sistemde, asıl iktidar sandıkta değil, faiz oranlarını belirleyen ve borçları yöneten finansal elitlerin elindedir."
+        },
+        {
+          "label": "Hissedar Önceliği",
+          "text": "Bir şirketin başarısının artık \"iyi bir ürün yapmasıyla\" değil, \"hissedarlarının cebine ne kadar para koyduğuyla\" ölçülmesini sistemin en büyük çürümesi olarak görür."
+        }
+      ]
+    },
+    {
+      "title": "Demokratik Planlama: Piyasanın Diktatörlüğüne Son",
+      "body": "Blakeley, \"piyasa her şeyi çözer\" dogmasına karşı, ekonominin yeniden halkın eline geçmesini önerir.",
+      "ordered": false,
+      "items": [
+        {
+          "label": "Yatırımların Kamulaştırılması",
+          "text": "Nereye yatırım yapılacağına, hangi fabrikaların kurulacağına veya hangi enerjinin üretileceğine üç-beş CEO değil; işçiler, yerel topluluklar ve demokratik kurumlar karar vermelidir."
+        },
+        {
+          "label": "Stratejik Sektörler",
+          "text": "Enerji, ulaşım, bankacılık ve sağlık gibi temel sektörlerin \"kâr hırsı\"ndan arındırılıp kamu hizmeti olarak planlanmasını savunur."
+        }
+      ]
+    },
+    {
+      "title": "Borç ve Merkez Bankaları",
+      "body": "Merkez bankalarının \"tarafsız\" olmadığını, aksine uyguladıkları politikalarla serveti alttan üste doğru transfer eden siyasi aygıtlar olduğunu kanıtlar.",
+      "ordered": false,
+      "items": []
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Karmaşıklığı Basitleştirmek",
+      "text": "Finans dünyasının o kasten \"anlaşılmaz\" kılınan terimlerini (türev araçlar, QE vb.) sokaktaki insanın anlayacağı bir dille deşifre ederek muazzam bir kamusal bilinç yaratmıştır."
+    },
+    {
+      "title": "Devletin Maskesini Düşürmek",
+      "text": "\"Küçük devlet\" diyen sağcı politikacıların bile iş büyük şirketleri kurtarmaya gelince nasıl \"devletçi\" olduklarını göstererek sistemin ikiyüzlülüğünü kanıtlamıştır."
+    },
+    {
+      "title": "Cesur Alternatif",
+      "text": "Sadece şikayet etmeyip, \"demokratik planlama\" gibi somut ve radikal bir ekonomik alternatif sunma cesareti göstermiştir."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Planlama Karmaşıklığı",
+      "text": "Eleştirmenler, modern ekonominin çok karmaşık olduğunu ve \"demokratik planlama\"nın hantal, bürokratik ve verimsiz bir hantallığa yol açabileceğini savunurlar (Hayekçi \"bilgi sorunu\")."
+    },
+    {
+      "title": "Siyasi İrade",
+      "text": "Sunduğu çözümlerin küresel finans sistemiyle (Wall Street, Londra City vb.) doğrudan bir çatışma gerektirmesi, bu dönüşümün \"nasıl başlayacağı\" konusunda ciddi bir siyasi güç boşluğu yaratır."
+    },
+    {
+      "title": "Populizm Riski",
+      "text": "Bazen ekonomik sorunları çok fazla \"kötü niyetli elitler\" üzerinden anlatması, sistemin yapısal ve kaçınılmaz işleyişindeki karmaşıklığı bazen gölgeleyebilir."
+    }
+  ]
+}

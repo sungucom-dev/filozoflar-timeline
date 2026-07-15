@@ -1851,7 +1851,6 @@ function renderContent(d) {
   if (d.intro) h += `<p>${d.intro}</p>`;
   (d.sections || []).forEach(sec => {
     h += `<h3>${sec.title}</h3>`;
-    h += `<h4><i>${sec.subtitle}</i></h4>`;
     if (sec.body) h += `<p>${sec.body}</p>`;
     if (sec.items && sec.items.length) {
       const tag = sec.ordered ? 'ol' : 'ul';
